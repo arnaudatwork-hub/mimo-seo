@@ -179,6 +179,4 @@ Agent 1 → output/agent1_report.md
 
 ## Évolutions futures envisagées
 
-- **Migration vers Python + CrewAI + GitHub Actions** si besoin de plus de contrôle sur le pipeline (logs, rejeu partiel, personnalisation avancée)
 - **Intégration Joomla API** pour publication automatique après validation
-- **Multi-langue** (portugais, anglais) en ajoutant une variable de langue en entrée du pipeline
