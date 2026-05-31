@@ -82,7 +82,14 @@ L'orchestration repose sur les **Claude Code Remote Routines** (CCR), des sessio
 
 **Fichier :** `.claude/agents/prompt-agent-1.md`
 
-Scanne les sources publiques via Tavily pour identifier les 5 principales tendances hebdomadaires liées à la gestion intérimaire. La recherche suit un ordre géographique strict : **France → Royaume-Uni → Allemagne → Espagne**. Les tendances européennes servent de signal anticipé pour le marché espagnol. Produit un rapport structuré incluant le pays d'origine de chaque tendance, le contenu observé chez les concurrents, les FAQ pertinentes, et une recommandation de sujet pour l'article de la semaine.
+Scanne les sources publiques via Tavily pour identifier les 5 principales tendances hebdomadaires liées à la gestion intérimaire. La recherche suit un ordre géographique strict : **France → Royaume-Uni → Allemagne → Espagne**. Les tendances européennes servent de signal anticipé pour le marché espagnol.
+
+| Marché | Langue | Mots-clés |
+|--------|--------|-----------|
+| France | Français | "management de transition", "manager de transition" |
+| Royaume-Uni | Anglais | "interim management", "interim executive" |
+| Allemagne | Allemand/Anglais | "Interim Management", "Interimsmanager" |
+| Espagne | Espagnol + Anglais | "gestión interina", "directivo interino", "interim management", "interim manager" | Produit un rapport structuré incluant le pays d'origine de chaque tendance, le contenu observé chez les concurrents, les FAQ pertinentes, et une recommandation de sujet pour l'article de la semaine.
 
 - **Input :** recherche web temps réel (Tavily)
 - **Output :** `output/agent1_report.md`
