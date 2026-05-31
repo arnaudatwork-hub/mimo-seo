@@ -1,0 +1,5 @@
+node_modules/
+output/generate_docx.js
+*.log
+.DS_Store
+Thumbs.db
