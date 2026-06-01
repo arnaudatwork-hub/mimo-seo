@@ -1,191 +1,217 @@
-# SEO Strategy Brief — 2026-05-31
+# SEO Strategy Brief — 2026-06-01
+
+---
 
 ## Tema Seleccionado
 
-El directivo interino de reestructuración en España: cuándo y cómo activar un CRO antes de que la crisis sea irreversible
+**La sucesión en la empresa familiar española: el papel del directivo interino como solución estratégica de transición directiva**
+
+El artículo abordará por qué la gestión interina es la herramienta más eficaz —y menos conocida— para acompañar el relevo generacional en la empresa familiar española: qué hace exactamente un directivo interino en un proceso de sucesión, cuándo interviene, cómo se estructura el mandato y qué retorno genera para la empresa y para la familia propietaria.
 
 ---
 
 ## Justificación Estratégica
 
-Este tema concentra la convergencia más sólida de señales identificadas en el informe de inteligencia de mercado de esta semana:
+España afronta la mayor ola de sucesión empresarial de su historia reciente. El Instituto de la Empresa Familiar (2025) estima que un tercio de los propietarios de pymes españolas alcanzará la edad de jubilación en esta década. El 89 % del tejido empresarial español tiene estructura familiar y genera el 67 % del empleo privado. La magnitud del fenómeno es estructural, no coyuntural.
 
-**Brecha SEO verificada y cuantificable.** No existe ningún artículo de calidad en español que trate en profundidad el papel del directivo interino especializado en reestructuración y turnaround. Los términos "CRO interino España", "director de reestructuración temporal" o "gestión de crisis directiva" presentan intención comercial clara con competencia orgánica prácticamente nula. Es una ventana de posicionamiento que se cerrará en los próximos 12 a 18 meses a medida que el mercado madure.
+Sin embargo, el mercado de gestión interina en España no ha articulado todavía este segmento como línea de servicio específica. Los competidores siguen comunicando en clave de "sustitución urgente" o "cobertura de vacante", dejando libre el espacio de posicionamiento para quien quiera ocuparlo con autoridad y datos.
 
-**Demanda de mercado creciente y documentada.** El estudio DDIM 2026 (mercado alemán de interim management, que históricamente anticipa tendencias en España con 18-36 meses de retraso) identifica al CRO interino y al turnaround specialist como el segmento de mayor crecimiento en interim management en Europa. La fuente francesa cabinet-management-transition.com confirma el crecimiento de misiones en gestión de procedimientos colectivos y empresas en dificultad en el mercado ibérico. BRG (thinkbrg.com, 2026) lo confirma también para el mercado anglosajón. El mercado está en movimiento antes de que el contenido en español lo refleje.
+En Francia y Alemania, los grandes proveedores de management de transition llevan años explotando la sucesión familiar y la profesionalización del Mittelstand como vectores de crecimiento explícitos. España replica ese patrón con un retraso de 18 a 24 meses, según estimaciones del sector recogidas en el informe de Servitalent (2025). La ventana de oportunidad es ahora, antes de que el mercado se llene de contenido competidor.
 
-**Contexto económico activador.** El entorno actual en España — incertidumbre geopolítica, compresión de márgenes, endurecimiento del crédito bancario, auge del private credit y presión sobre la deuda empresarial — está generando situaciones de tensión financiera y operacional en empresas medianas. Un artículo publicado ahora estará perfectamente posicionado cuando esa demanda latente se concrete en búsquedas activas.
-
-**Diferenciación competitiva real para Manager in Motion.** Ningún competidor directo en España ha publicado contenido de autoridad sobre este segmento específico. Posicionarse en él refuerza el perfil de firma premium de alto impacto frente a proveedores genéricos de directivos interinos. El competidor Servitalent ha publicado su radiografía de mercado, pero sin profundizar en reestructuración ni en el perfil CRO.
-
-**Audiencia de máximo valor comercial.** El lector de este artículo es exactamente el decisor que Manager in Motion quiere captar: consejero de administración, director general o director financiero de una empresa mediana en dificultad, o bien el asesor profesional (abogado concursalista, auditor, banco, fondo de deuda privada) que le recomienda soluciones ejecutivas. La intención de compra es alta y el ciclo de decisión es corto cuando la urgencia es real.
+Desde el punto de vista SEO, los términos "directivo interino empresa familiar", "gestión interina relevo generacional" y "manager de transición sucesión empresarial" presentan intención de búsqueda alta y cobertura de contenido de calidad prácticamente nula en español. El primero en publicar con rigor capturará tráfico orgánico de una audiencia con capacidad de decisión y urgencia real.
 
 ---
 
 ## Audiencia Objetivo
 
 **Perfil primario:**
-- Consejeros delegados y directores generales de empresas de 20M€ a 500M€ de facturación que afrontan o anticipan una situación de tensión operativa, financiera o estratégica.
-- Directores financieros (CFOs) que gestionan una refinanciación, una renegociación bancaria o una situación de cash flow comprometida.
-- Propietarios y accionistas de empresa familiar española con un negocio en dificultad que necesitan refuerzo ejecutivo externo con carácter de urgencia.
-- Consejeros de administración que deben tomar decisiones sobre la continuidad del equipo directivo en situaciones de crisis.
+- Propietarios-directores de pymes y empresas familiares (20 a 300 empleados) que están planificando o afrontando un relevo generacional
+- Sucesores familiares (hijos, sobrinos, yernos) que asumen la dirección sin tener toda la preparación operacional requerida
+- Patriarcas o matriarcas fundadores que quieren asegurar la continuidad del negocio antes de retirarse
 
-**Perfil secundario (prescriptores con alto valor de referenciación):**
-- Socios de despachos de reestructuración y abogados concursalistas que trabajan con empresas en dificultad.
-- Partners operacionales y gestores de cartera de fondos de private equity y private credit con participadas bajo presión.
-- Directores de banca corporativa y gestores de riesgos que asesoran a clientes con deuda comprometida.
-- Auditores y asesores financieros independientes que detectan señales de alarma en sus clientes.
+**Perfil secundario:**
+- Miembros de Consejos de Administración familiares que buscan profesionalizar la gobernanza
+- Asesores de M&A, abogados mercantiles y consultores de patrimonio familiar que acompañan procesos de sucesión y pueden prescribir soluciones de gestión interina
+- Directores de RRHH de grupos empresariales con filiales en España que buscan gestionar el hueco directivo de una unidad de negocio familiar adquirida
 
-**Sectores prioritarios:**
-- Industria manufacturera, construcción, distribución mayorista, retail no alimentario y servicios B2B medianos con exposición a ciclos económicos y presión de márgenes.
+**Geografía objetivo:** España (mercado principal), Portugal y Latinoamérica hispanohablante (mercados secundarios)
+
+**Nivel de sofisticación del lector:** Decisores que conocen su problema (el relevo generacional está encima de la mesa) pero que NO necesariamente conocen la solución (la gestión interina como herramienta de transición). El artículo debe educar a la vez que posiciona.
 
 ---
 
 ## Intención de Búsqueda
 
-**Tipo de intención:** Mixta — mayoritariamente informacional con alta carga transaccional latente.
+**Tipo de intención:** Informacional con fuerte componente transaccional latente. El usuario busca entender opciones de solución para un problema concreto que ya está viviendo o anticipando. No está buscando una empresa específica todavía, pero está en modo de evaluación activa.
 
-El usuario que busca estos términos no está en modo de compra inmediata, pero se encuentra en una situación de urgencia real o inminente. Quiere entender qué es un CRO interino, si aplica a su situación específica y cómo activar el proceso. La distancia entre la consulta informacional y la solicitud de contacto es muy corta: si el artículo responde con precisión y autoridad, la conversión natural es directa.
+**Problema que busca resolver:** "Tengo que gestionar el relevo en mi empresa familiar y no sé si mi sucesor está listo, no tengo tiempo de hacer una selección permanente, y no puedo permitirme que la empresa quede descapitalizada de dirección durante la transición. ¿Existe alguien que pueda acompañarnos de manera temporal pero con autoridad real?"
 
-**Qué quiere resolver el usuario:**
-- Entender si un directivo interino especializado en reestructuración es la respuesta a su problema concreto, y en qué se diferencia de contratar una consultora o un abogado concursalista.
-- Saber cuándo es el momento adecuado para activarlo (y si ya ha pasado ese momento).
-- Comprender qué hace exactamente este perfil en los primeros días de una misión y qué resultado puede esperar.
-- Evaluar cómo encontrar y seleccionar el perfil correcto, y qué distingue a un proveedor de calidad de uno genérico.
+**Etapa del funnel:** Middle of Funnel (MOFU). El contenido debe resolver dudas conceptuales, generar confianza y preparar la conversión hacia un primer contacto con Manager in Motion.
 
 ---
 
 ## Keywords
 
-### Keyword principal:
-directivo interino reestructuración empresarial
+**Keyword principal:**
+`directivo interino empresa familiar`
 
-### Keywords secundarias:
-- CRO interino España
-- director de turnaround temporal
-- gestión de crisis directiva
-- interim manager empresa en dificultad
-- director de reestructuración interino
-- interim management turnaround España
+**Keywords secundarias:**
+- `gestión interina relevo generacional`
+- `manager de transición sucesión empresarial`
+- `directivo interino pyme española`
+- `interim management empresa familiar España`
+- `profesionalización dirección empresa familiar`
 
-### Keywords de cola larga:
-- cuándo contratar un CRO interino en España
-- qué hace un director de reestructuración en los primeros 100 días
-- interim manager para empresa en crisis financiera España
-- cómo activar un turnaround directivo en una empresa mediana
-- diferencia entre director general interino y CRO de transición
-- señales de alerta para contratar un directivo de reestructuración
-- interim management para reestructuración de deuda empresa familiar España
-- perfil CRO interino private equity España
-- directivo interino empresa en concurso de acreedores
+**Keywords de cola larga:**
+- `cuándo contratar un directivo interino en una empresa familiar`
+- `cómo gestionar el relevo generacional en una pyme española`
+- `qué hace un manager de transición en una sucesión empresarial`
+- `directivo interino durante la transición de empresa familiar`
+- `diferencia entre directivo interino y contratación permanente en empresa familiar`
+- `cómo profesionalizar la dirección de una empresa familiar sin perder el control`
 
 ---
 
 ## Metadatos SEO
 
-### Título SEO:
-CRO Interino en España: Cuándo y Cómo Activarlo
+**Título SEO:**
+`Directivo interino en la empresa familiar: guía para el relevo`
 
-### Meta descripción:
-Guía ejecutiva para activar un directivo interino de reestructuración en España. Señales de alerta, metodología de los primeros 100 días y cómo elegir el perfil adecuado.
+*(58 caracteres — incluye keyword principal y promesa de valor concreta)*
 
-### Slug URL:
-directivo-interino-reestructuracion-cro-espana
+**Meta descripción:**
+`Descubre cómo un directivo interino puede liderar el relevo generacional en tu empresa familiar. Datos, claves prácticas y cómo activarlo. Consulta sin compromiso.`
 
-### H1:
-El directivo interino de reestructuración: cuándo activar un CRO en España y qué esperar de los primeros 100 días
+*(163 caracteres — incluye keyword, beneficio tangible y CTA implícito)*
+
+**Slug URL:**
+`directivo-interino-empresa-familiar-relevo-generacional`
+
+**H1:**
+`Directivo interino en la empresa familiar: la solución que transforma el relevo generacional en una ventaja competitiva`
 
 ---
 
 ## Estructura del Artículo
 
-### Esquema H2 / H3:
+### H2 1: La gran ola de sucesión que España no puede ignorar
+**Descripción:** Contextualización del problema con datos concretos. Incluir las cifras del Instituto de la Empresa Familiar (2025): 89 % del tejido empresarial con estructura familiar, 67 % del empleo privado, un tercio de propietarios llegando a la jubilación en esta década. Conectar con la dimensión emocional y estratégica del relevo: no es solo un problema de management, es el legado de toda una vida de trabajo. Establecer la urgencia sin generar alarmismo.
 
-**Introducción (sin H2)**
-Párrafo de apertura con gancho basado en el contexto económico actual: tensión financiera en empresas medianas españolas, presión de márgenes, endurecimiento del crédito. El problema central no es la crisis en sí, sino la ausencia del directivo adecuado para gestionarla. Presentar el CRO interino como la respuesta que los mercados europeos más maduros ya utilizan de forma sistemática.
+#### H3 1.1: Por qué el relevo generacional es más que un cambio de nombre en la puerta del despacho
+**Descripción:** Explicar que la sucesión implica simultáneamente un cambio de liderazgo, de cultura de toma de decisiones, de relaciones con empleados clave y de posicionamiento estratégico. Los errores en esta fase pueden destruir en meses lo que tardó décadas en construirse.
+
+#### H3 1.2: Lo que el mercado europeo ya sabe (y España aún no aplica)
+**Descripción:** Referencia al modelo francés y alemán: en Francia, los principales proveedores de management de transition tienen la sucesión familiar como línea de servicio explícita desde hace años. En Alemania, la escasez de sucesores en el Mittelstand ha convertido a los Interimsmanager en actores habituales de los procesos de relevo. España va con retraso de 18 a 24 meses, pero el patrón es idéntico.
 
 ---
 
-**H2: ¿Qué es un CRO interino y en qué se diferencia de otras figuras de gestión de crisis?**
-- H3: El Chief Restructuring Officer: definición y alcance real del mandato
-- H3: CRO interino frente a director general de transición genérico: diferencias clave de perfil y responsabilidad
-- H3: Por qué un consultor de reestructuración no es lo mismo que un directivo interino de turnaround
+### H2 2: Qué es exactamente un directivo interino y qué no es
+**Descripción:** Clarificación conceptual esencial para una audiencia que puede confundir el management interino con una ETT de alta dirección, un consultor o un directivo en periodo de prueba. Definición nítida: un profesional senior con historial ejecutivo contrastado que asume responsabilidad de dirección de manera temporal, con autoridad real, orientado a resultados y con una misión definida al inicio del mandato.
 
-**H2: Las señales que indican que una empresa necesita un directivo de turnaround**
-- H3: Señales financieras: cuando los números dejan de cuadrar
-- H3: Señales operativas y organizativas que preceden a la crisis visible
-- H3: Señales externas: presión de acreedores, cambio de accionariado y entorno de mercado
+#### H3 2.1: El directivo interino no es un consultor
+**Descripción:** El consultor recomienda; el directivo interino ejecuta. Esta distinción es central para los propietarios de empresas familiares, que suelen haber tenido experiencias con consultores que produjeron informes pero no implementaron cambios.
 
-**H2: Los primeros 72 horas: metodología de intervención en una situación crítica**
-- H3: Diagnóstico de liquidez y mapa de urgencias operativas
-- H3: Estabilización del equipo directivo y gestión de la comunicación interna
-- H3: Interlocución con acreedores, banca y asesores externos desde el día uno
+#### H3 2.2: El directivo interino no es un empleado temporal de alta dirección
+**Descripción:** No es una ETT ejecutiva. Es un profesional independiente, senior, con un contrato de servicios específico y una misión con objetivos, plazos y métricas definidas desde el primer día. La diferencia en términos de compromiso, autonomía y perfil es radical.
 
-**H2: Los primeros 100 días: objetivos, entregables y métricas clave**
-- H3: Plan de acción con hitos semanales y criterios de éxito verificables
-- H3: KPIs prioritarios en una misión de reestructuración
-- H3: Gestión de stakeholders: accionistas, empleados clave y clientes estratégicos
+---
 
-**H2: El coste de actuar tarde: por qué el ROI del CRO interino se mide en semanas**
-- H3: Coste real de la inacción frente al coste del directivo interino
-- H3: Patrón de referencia en el mercado europeo: empresas que activaron el turnaround a tiempo
+### H2 3: Los cinco momentos en que un directivo interino es la solución correcta para una empresa familiar
+**Descripción:** Lista estructurada de situaciones concretas. Cada punto debe resonar con una situación real que el propietario puede estar viviendo. Incluir ejemplos tipificados (sin nombres de empresas reales) para hacer tangibles las situaciones.
 
-**H2: Cómo seleccionar al CRO interino adecuado para tu empresa**
-- H3: Perfil y experiencia: qué buscar más allá del historial de cargos
-- H3: Qué diferencia a un proveedor especializado en reestructuración de uno generalista
+**Los cinco momentos:**
+1. El sucesor designado no está listo todavía: necesita uno o dos años de acompañamiento antes de asumir el mando con plena autoridad
+2. El fundador se retira de manera abrupta (por enfermedad, decisión repentina) y no hay un protocolo de sucesión activado
+3. La empresa familiar ha crecido más allá de la capacidad de gestión familiar: necesita profesionalizar la dirección antes de elegir quién la lidera de manera permanente
+4. El sucesor ha tomado el mando pero necesita un director de operaciones sénior que le dé estabilidad mientras aprende
+5. La empresa está en proceso de venta o fusión y necesita una dirección neutral y profesional para maximizar el valor en la due diligence
 
-**H2: Preguntas frecuentes sobre el CRO interino y el directivo de reestructuración en España**
+---
+
+### H2 4: Cómo se estructura un mandato de gestión interina en una empresa familiar
+**Descripción:** Sección práctica y desmitificadora. Muchos propietarios no saben cómo funciona el proceso de contratación de un directivo interino. Explicar las tres fases: (1) Diagnóstico y definición de misión — qué se busca exactamente, cuál es el resultado esperado, quién reporta a quién; (2) Selección e incorporación — cómo se elige al candidato, cuánto tarda, qué garantías ofrece el proveedor; (3) Ejecución y transferencia — cómo trabaja el directivo interino durante el mandato y cómo se gestiona la salida para que no se pierda lo construido.
+
+#### H3 4.1: Duración típica de un mandato: ni demasiado corto ni demasiado largo
+**Descripción:** Datos de referencia europeos: duración media de 7,5 meses para mandatos de relevo y 8,3 meses para mandatos de transformación (France Transition Baromètre S2 2025). En contextos de sucesión familiar, los plazos tienden a extenderse hacia los 9-12 meses porque el componente de transferencia de conocimiento y cultura es más complejo.
+
+#### H3 4.2: El argumento del ROI frente al coste de no actuar
+**Descripción:** Abordar el coste de manera transparente y en clave de valor. La tarifa diaria de referencia en España se sitúa por debajo de los mercados francés (TJM > 1.300 €) y alemán (1.317 €), pero el ROI es comparable porque el impacto de una mala sucesión puede suponer la pérdida de directivos clave, clientes estratégicos o incluso la venta en condiciones desfavorables. El coste de NO actuar es sistemáticamente mayor que el coste de contratar al profesional adecuado.
+
+---
+
+### H2 5: Lo que las empresas familiares más avanzadas ya están haciendo — y por qué funciona
+**Descripción:** Casos tipificados (sin nombres reales, con sectores y tamaños aproximados) que ilustren mandatos de gestión interina exitosos en contextos de sucesión familiar. Incluir al menos tres perfiles de mandato:
+- (A) Empresa industrial de segunda generación que usa un CEO interino para profesionalizar la dirección antes de que el hijo mayor asuma el mando
+- (B) Empresa de distribución donde el fundador enferma y el directivo interino garantiza la continuidad mientras la familia decide
+- (C) Empresa de servicios profesionales que necesita un director financiero interino para preparar la due diligence de una venta parcial a un fondo de private equity
+
+---
+
+### H2 6: Cómo elegir al proveedor de gestión interina adecuado para tu empresa familiar
+**Descripción:** Criterios de selección que educan al lector y simultáneamente posicionan a Manager in Motion. No hacer publicidad explícita: dar criterios objetivos que el proveedor adecuado debería cumplir. Experiencia en contextos familiares, comprensión de la dinámica familia-empresa, capacidad de mediar entre lógica familiar y lógica empresarial, portfolio de mandatos similares, metodología de diagnóstico inicial, garantías de confidencialidad.
+
+---
+
+### H2 7: Conclusión — El relevo generacional como momento de transformación, no de crisis
+**Descripción:** Cierre en clave positiva y ejecutiva. La sucesión bien gestionada no es solo una amenaza evitada: es una oportunidad para modernizar la empresa, profesionalizar su dirección y posicionarla para la siguiente década. El directivo interino es el catalizador que convierte ese momento de riesgo en un salto de valor. CTA final hacia contacto con Manager in Motion.
 
 ---
 
 ## Oportunidades FAQ
 
-Las siguientes preguntas deben responderse de forma directa y concisa en una sección FAQ al final del artículo. Implementar con schema markup de tipo FAQPage para maximizar la probabilidad de aparecer en rich snippets de Google.
+Las siguientes preguntas deben incluirse en una sección FAQ al final del artículo (formato schema FAQPage markup para SEO):
 
-1. ¿Qué es exactamente un CRO interino y en qué se diferencia de un director general de transición?
-2. ¿Cuánto cuesta un director de reestructuración interino en España en 2026?
-3. ¿Puede un CRO interino trabajar en paralelo con un director general ya en funciones?
-4. ¿En cuánto tiempo puede estar operativo un directivo interino de reestructuración tras el primer contacto?
-5. ¿Qué diferencia hay entre contratar un CRO interino y contratar una consultora de reestructuración?
-6. ¿Es el interim management en reestructuración una herramienta válida también para empresas familiares de tamaño mediano?
+1. **¿Puede un directivo interino asumir el cargo de CEO en una empresa familiar durante la transición?**
+Sí. Un directivo interino puede asumir cualquier posición de la alta dirección — CEO, COO, CFO, Director General — de manera temporal y con plena autoridad ejecutiva. El mandato se define al inicio con objetivos claros y una fecha de salida planificada.
+
+2. **¿Cuánto tiempo tarda en incorporarse un directivo interino desde que se toma la decisión?**
+En condiciones normales, el proceso de selección e incorporación dura entre dos y cuatro semanas. Los proveedores especializados tienen redes de profesionales disponibles que permiten activar una misión con rapidez cuando la situación lo requiere.
+
+3. **¿El directivo interino puede generar conflicto con los miembros de la familia que siguen en la empresa?**
+Es uno de los riesgos más citados por las empresas familiares, pero también uno de los más gestionables. Un directivo interino experimentado en contextos familiares sabe cómo trabajar con la dualidad familia-empresa, establecer límites claros y ganarse la confianza de las distintas partes. La clave está en la definición precisa del mandato y en el respaldo explícito del propietario o del Consejo de Administración.
+
+4. **¿Es la gestión interina adecuada para empresas pequeñas con menos de 50 empleados?**
+Depende de la complejidad del relevo y del contexto específico. En empresas de entre 20 y 50 empleados, puede ser más apropiado un directivo interino a tiempo parcial que un mandato a jornada completa. La clave es dimensionar la solución al problema real.
+
+5. **¿Qué ocurre cuando el directivo interino termina su mandato? ¿Se pierde lo que ha construido?**
+Una buena gestión del final del mandato incluye un plan de transferencia explícito: documentación de procesos, traspaso de relaciones, formación del sucesor y un periodo de solapamiento supervisado. Los mandatos bien diseñados producen resultados que perduran más allá de la presencia del interino.
+
+6. **¿Puede el directivo interino convertirse en el director permanente si la empresa queda satisfecha?**
+Técnicamente sí, pero no es el objetivo ni la expectativa del modelo. El management interino funciona porque el profesional es temporal por naturaleza: su independencia y su foco en el resultado se apoyan en saber que la misión tiene fin. Convertir el mandato en permanente puede ser contraproducente para ambas partes.
 
 ---
 
 ## Recomendaciones de Enlazado Interno
 
-Enlazar desde este artículo hacia las siguientes páginas del sitio de Manager in Motion:
+Para el artículo definitivo, incluir enlaces internos a las siguientes páginas de Manager in Motion (adaptar URLs reales del sitio una vez confirmadas):
 
-1. Página de servicios generales de gestión interina — ancla: "directivo interino" en la introducción.
-2. Página de perfiles disponibles o áreas funcionales (Finanzas / Dirección General / Operaciones) — ancla: "perfil adecuado" en la sección de selección.
-3. Artículo o página sobre cómo funciona una misión de interim management (metodología, plazos) — ancla: "cómo funciona el proceso" en la sección de activación.
-4. Artículo sobre interim management para pymes o empresa familiar (si existe) — ancla: "empresa familiar en proceso de reestructuración".
-5. Página de contacto o formulario de evaluación inicial — ancla directa desde el CTA principal y desde la sección de selección del proveedor.
+1. **Página de servicios / "Nuestros mandatos"** — Para que el lector pueda ver los tipos de misiones que Manager in Motion gestiona, incluyendo mandatos de transición en contextos de sucesión familiar. Texto de ancla sugerido: "cómo estructuramos un mandato de gestión interina".
 
-Recibir enlazado interno desde:
-- La página de inicio de Manager in Motion (sección de casos de uso o áreas de especialización).
-- Cualquier artículo publicado sobre ROI del interim management o costes de directivos interinos.
+2. **Página "Cómo funciona" o "El proceso"** — Para los lectores que quieren entender los pasos concretos antes de comprometerse a un primer contacto. Texto de ancla sugerido: "el proceso de selección e incorporación".
+
+3. **Artículo o página sobre "¿Qué es el management interino?"** — Enlace educativo que refuerza el conocimiento conceptual para los lectores que llegan al artículo sin conocer el sector. Texto de ancla sugerido: "qué es exactamente un directivo interino".
+
+*(Nota para el redactor: si estas páginas no existen en el sitio, señalarlo al equipo web para que se creen o utilizar la página de contacto como alternativa para los CTAs internos.)*
 
 ---
 
 ## Recomendaciones de Enlazado Externo
 
-Citar y enlazar las siguientes fuentes externas de autoridad para reforzar la credibilidad del artículo y la señal E-E-A-T ante Google:
+Incluir al menos tres referencias externas de autoridad para reforzar la credibilidad del artículo y la señal E-E-A-T:
 
-1. **DDIM — Dachgesellschaft Deutsches Interim Management** (via enexsearch.news, mayo 2026): datos sobre el crecimiento del segmento CRO en Europa y el volumen del mercado alemán. Ancla: "según el estudio DDIM 2026".
-2. **Turnaround Management Association — TMA** (turnaround.org): organismo de referencia internacional en gestión de reestructuración empresarial, reconocido por asesores y acreedores. Ancla: "Turnaround Management Association".
-3. **BRG — Berkeley Research Group** (thinkbrg.com): predicciones 2026 sobre interim management y demanda de CROs. Ancla: "según BRG".
-4. **Banco de España o Instituto Nacional de Estadística**: para contextualizar con datos sobre condiciones de crédito o evolución de la morosidad empresarial en España. Ancla: "datos del Banco de España".
-5. **REFOR — Registro de Economistas Forenses** o estadísticas del Registro Mercantil sobre concursos de acreedores en España: si se dispone de cifras recientes, refuerzan la urgencia del contexto español.
+1. **Instituto de la Empresa Familiar — iefamiliar.com** — Citar los datos estructurales del tejido empresarial español (89 % de empresas familiares, 67 % del empleo privado, tercio de propietarios llegando a la jubilación). Fuente de máxima autoridad para este tema en España. Texto de ancla sugerido: "según el Instituto de la Empresa Familiar".
 
-Nota: no enlazar a competidores directos de Manager in Motion. Las fuentes deben ser institucionales, académicas o de medios de referencia sectoriales.
+2. **AIME — Asociación Interim Management España — interimspain.org** — Referencia institucional del sector. Mencionar el VI Congreso AIME (10 de junio 2026, Madrid) como señal de la madurez creciente del mercado español de gestión interina. Texto de ancla sugerido: "la Asociación Interim Management España".
+
+3. **France Transition Baromètre S2 2025** (vía louis-dupont.com o francetransition.fr) — Para el dato comparativo europeo sobre duración media de mandatos (7,5 meses en relevo, 8,3 meses en transformación). Sitúa a Manager in Motion en el contexto del mercado europeo de referencia. Texto de ancla sugerido: "según el barómetro France Transition S2 2025".
 
 ---
 
 ## Recomendación de Schema Markup
 
-Implementar los siguientes tipos de schema markup en la página:
+Implementar los siguientes tipos de schema markup en la página publicada:
 
-- **FAQPage**: para la sección de preguntas frecuentes. Cada pregunta y respuesta en formato Question/Answer. Aumenta la probabilidad de aparecer en featured snippets y en el bloque "People Also Ask" (PAA) de Google.
+- **FAQPage**: para la sección de preguntas frecuentes. Cada pregunta y respuesta en formato Question/Answer. Aumenta la probabilidad de aparecer en featured snippets y en el bloque "People Also Ask" de Google.
 - **Article**: con campos author, datePublished, dateModified y publisher (Manager in Motion). Refuerza la señal E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness).
 - **BreadcrumbList**: para la ruta de navegación (Inicio > Blog > Gestión Interina > [título del artículo]).
 
@@ -193,83 +219,76 @@ Implementar los siguientes tipos de schema markup en la página:
 
 ## Recomendación de CTA
 
-**CTA principal (al final del artículo, después de la sección FAQ):**
+**CTA principal (al final del artículo, tras la sección FAQ):**
 
-Titular: "¿Su empresa o una empresa que asesora necesita un directivo interino de reestructuración?"
+Titular: "¿Estás planificando el relevo de tu empresa familiar o afrontando una transición directiva urgente?"
 
-Texto de apoyo: Manager in Motion despliega CROs y directivos de turnaround con experiencia verificada en el mercado ibérico. Primera conversación confidencial en menos de 48 horas.
+Texto de apoyo: Manager in Motion acompaña procesos de sucesión en empresas familiares con directivos interinos de perfil senior y experiencia verificada en el mercado ibérico. Primera conversación confidencial y sin compromiso.
 
-Botón: "Solicitar una evaluación inicial confidencial" — enlace directo al formulario de contacto.
+Botón: "Solicitar diagnóstico inicial gratuito" — enlace directo al formulario de contacto.
 
-**CTA secundario (en caja destacada tras la sección de señales de alerta):**
+**CTA secundario (en caja destacada tras la sección de los cinco momentos clave):**
 
-"¿Reconoce alguna de estas señales en su empresa? Manager in Motion puede evaluar su situación en una primera conversación confidencial y sin compromiso. [Contactar ahora]"
+"¿Te has reconocido en alguna de estas situaciones? Podemos evaluar tu caso en una primera conversación confidencial y sin coste. [Hablar con un especialista]"
 
-Nota de tono: el CTA debe transmitir velocidad de respuesta y confidencialidad, que son las dos variables que más importan al decisor en una situación de crisis. Evitar lenguaje comercial agresivo. El objetivo es invitar a una conversación, no cerrar una venta desde el artículo.
+**Nota sobre el customer journey:** El lector de este artículo está en fase de evaluación. No está listo para contratar directamente, pero sí está dispuesto a conversar. El CTA no debe pedir una propuesta económica ni un contrato: debe invitar a una conversación exploratoria, confidencial y sin coste. Eso reduce la fricción y es coherente con la naturaleza de un servicio de alto valor y alta confianza.
 
 ---
 
-## Instrucciones para el Redactor
+## Instrucciones para el Redactor de Contenido
 
 ### Objetivo del artículo
-Producir el artículo más completo y útil en español sobre el CRO interino y el directivo de reestructuración. El lector debe terminar la lectura con tres certezas: (1) entiende qué es este perfil y en qué se diferencia de alternativas como la consultoría o el abogado concursalista, (2) sabe si su situación justifica activarlo y cuándo es el momento correcto, y (3) sabe exactamente cómo dar el siguiente paso con Manager in Motion.
+Producir un artículo de 1.500 a 2.000 palabras que posicione a Manager in Motion como el referente en gestión interina para empresas familiares españolas en proceso de sucesión. El artículo debe educar, generar confianza y preparar la conversación comercial sin vender directamente. El lector debe terminar la lectura con tres certezas: (1) entiende qué es un directivo interino y en qué se diferencia de otras alternativas, (2) sabe si su situación justifica activarlo y en qué momento, y (3) conoce el siguiente paso concreto para avanzar con Manager in Motion.
 
-### Extensión
-Entre 1.500 y 2.000 palabras en el cuerpo del artículo, sin contar la sección FAQ. No inflar con relleno. Cada párrafo debe aportar valor concreto y diferenciado.
+### Tono y voz
+- **Profesional y ejecutivo**, sin ser académico ni distante. El lector es un propietario de empresa con décadas de experiencia: se le habla de igual a igual, no desde arriba ni desde abajo.
+- **Práctico y concreto**: cada afirmación debe poder ilustrarse con un dato, un ejemplo o una situación reconocible. Evitar la vaguedad ("puede ayudarle a mejorar su empresa") y preferir la precisión ("puede asumir la dirección general durante nueve meses mientras el sucesor completa su formación y la familia valida el protocolo de sucesión").
+- **Sin jerga innecesaria**: "directivo interino" y "gestión interina" son los términos de uso en español. "Interim management" o "interim manager" en inglés solo se usan en menciones editoriales o de sector, nunca como término de cabecera dirigido al lector.
+- **Empático pero no sentimental**: el relevo generacional tiene una dimensión emocional real. El artículo puede reconocerla, pero su propuesta de valor es racional y ejecutiva.
+- **90 % valor, 10 % posicionamiento comercial sutil**: el artículo no es un catálogo de servicios. Manager in Motion aparece de manera orgánica en tres momentos (sección de criterios de selección, CTA secundario y CTA principal), y en ningún otro.
 
-### Tono y estilo
-- Escribir para un CEO, CFO o consejero de administración de una empresa mediana española con entre 10 y 20 años de experiencia. Es un lector que no tolera el relleno, detecta las generalidades al instante y abandona el artículo si no encuentra valor real en los primeros dos párrafos.
-- Tono: directo, denso en información, sin condescendencia. No explicar lo obvio. No usar frases de relleno como "en el entorno empresarial actual" o "como todos sabemos".
-- Párrafos cortos, de tres a cinco líneas máximo. Uso moderado de listas cuando ayuden a la claridad. No abusar del formato de bullet points: este es un artículo de autoridad, no un listicle.
-- Voz activa siempre que sea posible. Eliminar construcciones pasivas innecesarias.
-- Usar la segunda persona del plural o el modo impersonal cuando se dirija al lector: "cuando una empresa se enfrenta a...", "el consejo de administración debe evaluar...". Evitar el tuteo y el lenguaje coloquial.
+### Ángulo diferenciador obligatorio
+El artículo no debe ser "otro artículo sobre empresa familiar". El ángulo diferenciador es este: **el directivo interino no es una solución de emergencia para cuando algo falla — es una herramienta de ingeniería del relevo para cuando se quiere que las cosas salgan bien desde el principio**. Ese reencuadre (de reactivo a proactivo, de parche a estrategia) es el núcleo del posicionamiento de Manager in Motion y debe impregnar el tono de todo el artículo.
 
-### Apertura (primeros 150 palabras: críticos para el engagement)
-Abrir con el problema real, no con una definición. El arranque debe crear tensión inmediata y reconocimiento en el lector. Ejemplo orientativo: "En el primer semestre de 2026, varias empresas medianas en España se encuentran ante el mismo escenario: los márgenes se han comprimido más de lo previsto, la deuda bancaria empieza a convertirse en una conversación difícil, y el equipo directivo actual no tiene el perfil ni la experiencia para gestionar lo que viene. El instinto natural es buscar un consultor o esperar a que el ciclo mejore. Ambas respuestas suelen llegar tarde." Ajustar o reescribir según el estilo de la marca, pero mantener la especificidad y la tensión.
-
-### Qué incluir obligatoriamente
-- Definición clara y precisa de CRO interino frente a director general de transición genérico y frente a consultor de reestructuración. Esta distinción es el núcleo del artículo y no existe en ningún contenido en español.
-- Lista de señales de alerta concretas y reconocibles (financieras, operativas, externas). Que el lector pueda hacer un autodiagnóstico honesto.
-- Descripción específica de la metodología de las primeras 72 horas: qué hace el directivo, en qué orden, con quién habla, qué prioriza, qué decisiones toma o suspende.
-- Descripción de los primeros 100 días con hitos verificables y KPIs concretos. Esta sección diferencia el artículo de cualquier otro contenido genérico sobre interim management en español.
-- Argumento de ROI: el coste de actuar tarde es sistemáticamente mayor que el coste del directivo interino. Cuantificar con datos del mercado europeo (DDIM 2026, BRG, TMA) siempre que sea posible.
-- Un caso tipo anonimizado de formato narrativo (empresa mediana, sector industrial español, situación de tensión de liquidez, activación de CRO interino, resultado a los 6 meses). Extensión de 150 a 200 palabras. No inventar datos: usar un patrón narrativo plausible basado en los datos del mercado europeo.
-- Criterios de selección del proveedor de CRO interino: qué preguntar, qué buscar, qué evitar. Esta sección tiene alta intención transaccional.
-- Sección FAQ con las 6 preguntas indicadas, respondidas de forma directa en 60 a 100 palabras cada una.
-
-### Datos y referencias a incorporar
-Incluir los siguientes datos del informe de inteligencia de mercado, citando la fuente entre paréntesis:
-- El mercado alemán de interim management alcanza los 2.700 millones de euros en 2026, con el CRO interino como el segmento de mayor crecimiento (fuente: DDIM 2026, via enexsearch.news).
-- En Francia, el 24% de las misiones de interim management corresponden a transformación y reestructuración, con crecimiento sostenido (fuente: France Transition Baromètre 2026).
-- BRG prevé para 2026 un aumento de la demanda de Chief Restructuring Officers interinos en toda Europa, impulsado por el entorno geopolítico y el endurecimiento financiero (fuente: thinkbrg.com, 2026).
+### Datos obligatorios a incluir
+- 89 % de las empresas españolas son familiares (Instituto de la Empresa Familiar, 2025)
+- 67 % del empleo privado en España lo generan las empresas familiares (Instituto de la Empresa Familiar, 2025)
+- Un tercio de los propietarios alcanzará la edad de jubilación en esta década (Instituto de la Empresa Familiar, 2025)
+- Duración media de mandatos: 7,5 meses para mandatos de relevo y 8,3 meses para mandatos de transformación (France Transition Baromètre S2 2025)
+- La sucesión familiar en el mercado francés lleva años siendo una línea de negocio explícita para los grandes proveedores de management de transition
+- España replica el patrón europeo con un retraso estimado de 18 a 24 meses (Servitalent, 2025)
 
 No inventar datos ni atribuir cifras a fuentes que no las respalden.
 
-### Lo que no debe aparecer en el artículo
-- Frases genéricas sobre "el capital humano como ventaja competitiva" o similares.
-- Listas de "10 razones para contratar un directivo interino" sin profundidad.
-- Promesas sin respaldo cuantificable de Manager in Motion.
-- Lenguaje de folleto comercial mezclado con el contenido editorial.
-- Definiciones básicas de qué es el interim management que el lector objetivo ya conoce.
-- Keyword stuffing: las keywords deben aparecer de forma natural, integradas en el flujo del texto.
+### Apertura (primeros 150 palabras: críticos para el engagement)
+Abrir con el problema real, no con una definición. El arranque debe crear reconocimiento inmediato en el lector. Ejemplo orientativo: "En España, más de 150.000 empresas familiares deberán afrontar un relevo generacional en los próximos diez años. La mayoría no tienen un plan. Algunas tienen un sucesor sobre el papel, pero no en la práctica. Otras esperan a que la situación se resuelva sola — que raramente lo hace. El instinto natural es buscar un buen abogado, un asesor de familia o hacer una selección permanente a contrarreloj. Hay una cuarta opción que el mercado europeo usa de manera sistemática desde hace años y que España apenas empieza a descubrir: el directivo interino especializado en transiciones directivas." Ajustar o reescribir según el estilo de la marca, pero mantener la especificidad y la tensión narrativa desde el primer párrafo.
 
-### Posicionamiento de Manager in Motion
-La marca debe aparecer de forma natural, nunca disruptiva. El artículo es 90% contenido de valor y 10% posicionamiento. La marca aparece en tres momentos:
-1. Una mención contextual en la sección de selección del proveedor (como referencia natural al tipo de firma adecuada para este mandato).
-2. El CTA secundario en caja destacada tras la sección de señales de alerta.
-3. El CTA principal al final del artículo.
+### Estructura de los casos tipificados (H2 5)
+Incluir tres casos de mandato con formato narrativo breve (100-150 palabras cada uno), sin nombres reales de empresas. Formato sugerido: sector + tamaño aproximado + situación de partida + rol del directivo interino + resultado a los 9-12 meses. Los casos no deben inventar datos cuantitativos específicos que no puedan respaldarse; sí pueden describir el patrón de intervención y el tipo de resultado obtenido (estabilización del equipo, preparación de la due diligence, transferencia del mando al sucesor, etc.).
 
-En ningún otro punto del artículo debe mencionarse Manager in Motion por su nombre.
+### Qué evitar
+- Listas genéricas de "beneficios del management interino" sin conexión con el contexto específico de la empresa familiar
+- Comparaciones directas y nominales con competidores (ni nombrarlos ni atacarlos)
+- Promesas de resultados garantizados o lenguaje jurídicamente problemático
+- Anglicismos innecesarios como lenguaje de cabecera ("interim manager", "management de transition")
+- Keyword stuffing: la keyword principal ("directivo interino empresa familiar") debe aparecer de forma natural en el H1, en los dos primeros párrafos, en al menos dos H2 o H3 y en el párrafo de cierre — no repetirla mecánicamente en cada párrafo
+- Frases de relleno como "en el entorno empresarial actual", "como todos sabemos" o "el capital humano como activo estratégico"
+- Tono de venta agresivo o urgencia artificial
+
+### Extensión recomendada
+Entre 1.500 y 2.000 palabras de cuerpo de texto (sin contar la sección FAQ). La FAQ puede añadir entre 300 y 400 palabras adicionales. Priorizar densidad de valor sobre extensión: mejor 1.600 palabras precisas que 2.000 palabras con relleno.
 
 ### Formato de entrega
-El redactor debe entregar el artículo en formato Word (.docx) con los siguientes estilos aplicados:
-- H1 del artículo: estilo "Heading 1"
+El artículo debe entregarse en formato Word (.docx) con los siguientes estilos aplicados:
+- H1: estilo "Heading 1"
 - H2: estilo "Heading 2"
 - H3: estilo "Heading 3"
-- Cuerpo del texto: estilo "Normal", fuente Calibri 11pt, interlineado 1,15
-- Cajas de CTA: formato diferenciado (borde izquierdo de color o fondo gris claro)
-- Sección de metadatos SEO (título SEO, meta descripción, slug URL, H1) incluida al inicio del documento en una sección separada claramente delimitada antes del cuerpo del artículo
+- Cuerpo de texto: estilo "Normal", fuente Calibri 11pt, interlineado 1,15
+- Sección de metadatos SEO (título SEO, meta descripción, slug URL, H1) incluida al inicio del documento en sección claramente delimitada, antes del cuerpo del artículo
+- Cajas de CTA: formato diferenciado (borde izquierdo de color o fondo gris claro si el formato Word lo permite)
+- FAQ: cada pregunta en negrita, respuesta en párrafo normal inmediatamente debajo
 
 ---
 
-*SEO Strategy Brief elaborado por el Agente 2 — Estratega SEO — Manager in Motion — 2026-05-31*
+*SEO Strategy Brief elaborado por el Agente 2 — Estratega SEO — Manager in Motion — 2026-06-01*
+*Basado en el Informe de Inteligencia de Mercado del Agente 1 — 2026-06-01*
