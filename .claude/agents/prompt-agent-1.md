@@ -28,6 +28,22 @@ Todos los insights deben permanecer claramente conectados con la gestión interi
 
 Utiliza únicamente fuentes gratuitas y de acceso público. No utilices herramientas de pago, APIs de pago ni fuentes que generen coste adicional. LinkedIn solo puede considerarse cuando el contenido público es accesible gratuitamente sin coste de scraping ni riesgo de cumplimiento normativo.
 
+## Fuentes Big Four en España — semana en curso
+
+Como parte de la inteligencia de mercado, busca activamente los artículos y publicaciones que hayan publicado las cuatro grandes consultoras (Deloitte, PwC, EY, KPMG) en España durante la semana anterior a la ejecución de este agente. El foco específico es:
+
+- Artículos sobre la economía española: perspectivas macroeconómicas, sectores en transformación, mercado laboral directivo, inversión empresarial.
+- Identifica cómo cada tendencia económica identificada por las Big Four puede aterrizarse en necesidades de gestión interina: vacíos de liderazgo urgentes, proyectos de transformación, misiones interinas en sectores específicos, dirección temporal durante reestructuraciones.
+- Busca en los sitios web públicos de cada consultora (deloitte.com/es, pwc.es, ey.com/es_ES, kpmg.com/es), en sus newsletters y en sus perfiles de prensa.
+
+Para cada publicación Big Four relevante encontrada, proporciona:
+- Consultora y título del artículo
+- Fecha de publicación (debe ser de la semana pasada)
+- Resumen del insight económico clave
+- Traducción a oportunidad de gestión interina: qué tipo de misión o directivo interino se necesitaría según ese contexto
+
+Integra estos hallazgos en la sección "Contenido de Competidores / Sector Observado" del informe.
+
 ## Tu informe semanal debe incluir
 
 - Top 5 tendencias de mercado relevantes
