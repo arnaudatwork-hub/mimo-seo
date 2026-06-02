@@ -58,12 +58,11 @@ L'orchestration repose sur les **Claude Code Remote Routines** (CCR), des sessio
 
 > **Note heure hivernale :** En CET (UTC+1, novembre–mars), le pipeline tourne à 7h00 Madrid au lieu de 8h00. Ajuster le cron à `0 7 * * 1` sur https://claude.ai/code/routines si nécessaire.
 
-### Recherche web : Tavily MCP
+### Recherche web : WebSearch natif
 
 | Paramètre | Valeur |
 |-----------|--------|
-| Connecteur | Tavily (`connector_uuid: 373b2714-657a-45e8-bfdf-0dff100326a9`) |
-| URL | `https://mcp.tavily.com/mcp` |
+| Outil | `WebSearch` (natif Claude Code) |
 | Usage | Agent 1 uniquement — scan hebdomadaire des tendances |
 
 ### Stockage et versioning : GitHub
@@ -82,7 +81,7 @@ L'orchestration repose sur les **Claude Code Remote Routines** (CCR), des sessio
 
 **Fichier :** `.claude/agents/prompt-agent-1.md`
 
-Scanne les sources publiques via Tavily pour identifier les 5 principales tendances hebdomadaires liées à la gestion intérimaire. La recherche suit un ordre géographique strict : **France → Royaume-Uni → Allemagne → Espagne**. Les tendances européennes servent de signal anticipé pour le marché espagnol.
+Scanne les sources publiques via WebSearch pour identifier les 5 principales tendances hebdomadaires liées à la gestion intérimaire. La recherche suit un ordre géographique strict : **France → Royaume-Uni → Allemagne → Espagne**. Les tendances européennes servent de signal anticipé pour le marché espagnol.
 
 | Marché | Langue | Mots-clés |
 |--------|--------|-----------|
@@ -91,7 +90,7 @@ Scanne les sources publiques via Tavily pour identifier les 5 principales tendan
 | Allemagne | Allemand/Anglais | "Interim Management", "Interimsmanager" |
 | Espagne | Espagnol + Anglais | "gestión interina", "directivo interino", "interim management", "interim manager" | Produit un rapport structuré incluant le pays d'origine de chaque tendance, le contenu observé chez les concurrents, les FAQ pertinentes, et une recommandation de sujet pour l'article de la semaine.
 
-- **Input :** recherche web temps réel (Tavily)
+- **Input :** recherche web temps réel (WebSearch natif)
 - **Output :** `output/agent1_report.md`
 - **Langue :** espagnol
 
@@ -143,7 +142,7 @@ mimo-seo/
 ## Flux de données
 
 ```
-Tavily (web)
+WebSearch (natif)
      │
      ▼
 Agent 1 → output/agent1_report.md
