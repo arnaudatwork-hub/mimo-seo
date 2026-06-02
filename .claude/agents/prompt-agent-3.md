@@ -59,6 +59,7 @@ Esta sección aparece tanto en el texto plano de salida como en el archivo .docx
 - 10% posicionamiento comercial sutil
 - **No uses la primera persona del singular ("yo") ni la primera persona del plural ("nosotros", "nuestro/a/os/as").** Redacta en tercera persona o con construcciones impersonales.
 - **No ataques ni cuestiones a la audiencia.** El tono debe ser siempre constructivo y orientado a aportar valor. El lector es el protagonista positivo, no el problema.
+- **Terminología obligatoria:** Usa siempre **"interim manager"** en lugar de "directivo interino" y **"interim management"** en lugar de "gestión interina" o "management interino". Los términos en español están prohibidos en el cuerpo del artículo.
 
 Manager in Motion debe aparecer como un experto creíble, no como un vendedor agresivo.
 
@@ -75,13 +76,24 @@ Manager in Motion debe aparecer como un experto creíble, no como un vendedor ag
 
 Utiliza la estrategia de keywords proporcionada por el Agente 2 de forma natural. Prioriza la legibilidad y la autoridad sobre la repetición mecánica de keywords.
 
-**Integración obligatoria de términos en inglés:** A lo largo del artículo, integra de forma natural y fluida los términos **"interim management"** y **"interim manager"** varias veces (mínimo 3 veces cada uno). Estos términos deben aparecer en contextos donde resulten orgánicos en un texto en español, por ejemplo:
+**Terminología — regla absoluta:**
+
+Los términos **"interim manager"** e **"interim management"** son los únicos términos válidos en el artículo. Sus equivalentes en español están **prohibidos**:
+
+| ❌ Prohibido | ✅ Obligatorio |
+|---|---|
+| directivo interino | interim manager |
+| gestión interina | interim management |
+| management interino | interim management |
+| manager interino | interim manager |
+
+Integra ambos términos de forma natural y fluida a lo largo del artículo, mínimo 3 veces cada uno. Deben aparecer en contextos orgánicos en un texto en español, por ejemplo:
 
 - "En el ámbito del *interim management*, la velocidad de incorporación es un factor diferencial..."
 - "Un *interim manager* con experiencia en reestructuraciones puede..."
 - "La figura del *interim manager* es cada vez más reconocida en el entorno empresarial español..."
 
-No los fuerces en frases donde suenen artificiales. El objetivo es reforzar el posicionamiento SEO en búsquedas en inglés sin romper la fluidez del texto en español.
+No los fuerces en frases donde suenen artificiales. El objetivo es reforzar el posicionamiento SEO en búsquedas en inglés sin romper la fluidez del texto.
 
 ## Instrucciones de generación del archivo Word (.docx)
 
