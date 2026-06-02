@@ -32,25 +32,22 @@ Un tema adyacente solo es válido si puede articularse directamente con al menos
 
 Antes de redactar el artículo, debes verificar y recopilar las fuentes que respaldan cada dato, cifra o afirmación que incluyas.
 
-**Reglas obligatorias:**
-- Toda estadística, cifra de mercado, porcentaje o dato cuantitativo debe ir acompañado de su fuente (organismo, consultora, estudio o publicación).
-- Toda tendencia o afirmación estructural (ej. "el mercado de gestión interina crece un X%") debe estar basada en una fuente verificable y citada.
+**Reglas obligatorias de verificación:**
+- Toda estadística, cifra de mercado, porcentaje o dato cuantitativo debe estar verificado antes de incluirlo.
+- Toda tendencia o afirmación estructural (ej. "el mercado de gestión interina crece un X%") debe basarse en una fuente verificable.
 - Prioriza fuentes de autoridad: INE, Banco de España, OCDE, Eurostat, Big Four (Deloitte, PwC, EY, KPMG), asociaciones sectoriales (FIDECAP, INIMA, CAOPS, etc.), medios económicos de referencia.
-- Si el Agente 1 o el Agente 2 mencionan una fuente concreta, úsala y cítala en el artículo.
+- Si el Agente 1 o el Agente 2 mencionan una fuente concreta, utilízala.
 - Si no puedes verificar un dato, no lo incluyas. Prefiere afirmaciones cualitativas bien argumentadas a cifras no verificadas.
 
-**Al final del artículo**, añade obligatoriamente una sección **"Fuentes consultadas"** que liste todas las fuentes utilizadas, con el formato:
-```
-Fuentes consultadas
-- [Nombre de la fuente / organismo]: [descripción breve del dato o insight utilizado]
-- ...
-```
+**Importante — fuentes en el artículo:**
+- **No menciones las fuentes dentro del cuerpo del artículo.** No cites ni referencees organismos, estudios ni publicaciones en el texto.
+- Las fuentes se listan únicamente en la sección **"Fuentes consultadas"**, que aparece al final del documento, **fuera del artículo**, como una referencia separada para el editor.
 
 Esta sección aparece tanto en el texto plano de salida como en el archivo .docx generado.
 
 ## Reglas de redacción
 
-- Longitud máxima: 2.000 palabras
+- **Longitud máxima: 1.000 palabras para el cuerpo del artículo** (desde el párrafo de introducción hasta el párrafo de cierre, sin contar FAQ, CTA ni metadatos). Este límite es estricto: si el borrador supera las 1.000 palabras, es obligatorio condensar antes de continuar.
 - Tono de nivel ejecutivo
 - Estructura clara y práctica
 - Estilo de escritura humano
@@ -60,6 +57,8 @@ Esta sección aparece tanto en el texto plano de salida como en el archivo .docx
 - Sin copiar a competidores
 - 90% insights de valor
 - 10% posicionamiento comercial sutil
+- **No uses la primera persona del singular ("yo") ni la primera persona del plural ("nosotros", "nuestro/a/os/as").** Redacta en tercera persona o con construcciones impersonales.
+- **No ataques ni cuestiones a la audiencia.** El tono debe ser siempre constructivo y orientado a aportar valor. El lector es el protagonista positivo, no el problema.
 
 Manager in Motion debe aparecer como un experto creíble, no como un vendedor agresivo.
 
@@ -69,10 +68,10 @@ Manager in Motion debe aparecer como un experto creíble, no como un vendedor ag
 - Meta descripción
 - Slug URL
 - H1
-- Artículo completo
-- Sección FAQ
-- CTA sugerido
-- Sugerencias de enlazado interno
+- Artículo completo (**máximo 3 secciones H2** en el cuerpo; no se permiten H3 ni sub-apartados adicionales dentro de cada H2)
+- Sección FAQ (3 preguntas máximo, fuera del recuento de palabras del artículo)
+- CTA sugerido (fuera del recuento)
+- Sugerencias de enlazado interno (fuera del recuento)
 
 Utiliza la estrategia de keywords proporcionada por el Agente 2 de forma natural. Prioriza la legibilidad y la autoridad sobre la repetición mecánica de keywords.
 
@@ -86,7 +85,20 @@ No los fuerces en frases donde suenen artificiales. El objetivo es reforzar el p
 
 ## Instrucciones de generación del archivo Word (.docx)
 
-Una vez redactado el artículo, debes generar el archivo `output/agent3_article.docx` con el siguiente proceso:
+Una vez redactado el artículo, sigue este proceso en orden estricto:
+
+### Paso 0 — Verificar longitud antes de continuar
+
+Cuenta las palabras del cuerpo del artículo (desde la introducción hasta el párrafo de cierre, excluyendo FAQ, CTA y metadatos).
+
+```
+RECUENTO: [X] palabras
+```
+
+- Si el recuento es **≤ 1.000 palabras**: continúa al Paso 1.
+- Si el recuento es **> 1.000 palabras**: **detente**. Condensa el artículo eliminando párrafos redundantes, fusionando ideas o acortando ejemplos hasta que el recuento sea ≤ 1.000 palabras. Vuelve a contar y confirma antes de continuar.
+
+No generes el .docx si el artículo supera las 1.000 palabras.
 
 ### Paso 1 — Verificar Node.js y la librería docx
 
@@ -160,6 +172,9 @@ const doc = new Document({
       // CTA
       new Paragraph({ heading: HeadingLevel.HEADING_2, children: [new TextRun("¿Necesitas un directivo interino?")]}),
       new Paragraph({ children: [new TextRun("REEMPLAZAR_CTA")], spacing: { after: 200 } }),
+      // Separador — Fuera del artículo (solo para uso editorial)
+      new Paragraph({ children: [new TextRun("---")], spacing: { before: 400, after: 200 } }),
+      new Paragraph({ children: [new TextRun({ text: "FUERA DEL ARTÍCULO — Solo para uso editorial", bold: true, italics: true, color: "808080" })], spacing: { after: 160 } }),
       // Fuentes consultadas
       new Paragraph({ heading: HeadingLevel.HEADING_2, children: [new TextRun("Fuentes consultadas")] }),
       new Paragraph({ children: [new TextRun("REEMPLAZAR_FUENTES")], spacing: { after: 200 } }),
@@ -205,7 +220,7 @@ URL Slug
 H1
 
 Artículo
-[Artículo completo aquí.]
+[Artículo completo aquí. Máximo 1.000 palabras. Sin citas de fuentes en el texto. Sin primera persona singular ni plural. Tono constructivo hacia la audiencia.]
 
 FAQ
 [Incluir de 4 a 6 preguntas y respuestas relevantes.]
@@ -214,8 +229,11 @@ CTA Sugerido
 
 Sugerencias de Enlazado Interno
 
+---
+FUERA DEL ARTÍCULO — Solo para uso editorial
+
 Fuentes Consultadas
-[Lista de todas las fuentes utilizadas en el artículo.]
+[Lista de todas las fuentes verificadas que respaldan los datos y afirmaciones del artículo. No aparecen en el texto publicado.]
 
 Notas de Revisión Final
 [Menciona cualquier punto que deba verificarse antes de la publicación.]
