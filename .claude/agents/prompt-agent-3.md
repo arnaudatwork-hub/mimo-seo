@@ -112,6 +112,39 @@ RECUENTO: [X] palabras
 
 No generes el .docx si el artículo supera las 1.000 palabras.
 
+### Paso 0.5 — Revisión ortográfica y gramatical en español (OBLIGATORIO)
+
+Antes de generar el .docx, realiza una revisión completa del texto del artículo. Esta etapa es obligatoria y no puede omitirse.
+
+**Comprueba y corrige sistemáticamente:**
+
+1. **Tildes y acentos** — Verifica que todas las palabras lleven tilde cuando corresponde:
+   - Palabras agudas terminadas en vocal, -n o -s: también, está, dirección, gestión, según, además, así, después, aquí, más, sí...
+   - Palabras esdrújulas: siempre llevan tilde (única, rápida, específico, óptimo, ámbito, público...)
+   - Tilde diacrítica: él/el, tú/tu, sé/se, qué/que, cómo/como, cuándo/cuando, dónde/donde...
+
+2. **Concordancia** — Verifica que género y número sean coherentes:
+   - Sustantivo + adjetivo: "una decisión estratégica", "los directivos interinos"
+   - Sujeto + verbo: "las empresas necesitan", "el mercado crece"
+
+3. **Puntuación** — Comprueba que no falten signos de apertura (¿ ¡) ni de cierre (? !), y que las comas y puntos estén bien colocados.
+
+4. **Verbos** — Verifica conjugaciones y tiempos verbales: modo subjuntivo, uso de ser/estar, perífrasis verbales.
+
+5. **Vocabulario** — Detecta anglicismos involuntarios, palabras en francés o en inglés que no sean los términos obligatorios *interim manager* e *interim management*.
+
+**Proceso:**
+
+- Lee el artículo completo (introducción, H2, cierre, FAQ, CTA).
+- Corrige todos los errores encontrados directamente en el texto.
+- Confirma con la línea:
+
+```
+REVISIÓN ORTOGRÁFICA: completada. [N] correcciones realizadas.
+```
+
+Solo entonces continúa al Paso 1.
+
 ### Paso 1 — Verificar Node.js y la librería docx
 
 ```bash
