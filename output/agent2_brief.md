@@ -1,294 +1,217 @@
-# SEO Strategy Brief — 2026-06-01
-
 ---
+SEO Strategy Brief — 2026-06-08
 
 ## Tema Seleccionado
 
-**La sucesión en la empresa familiar española: el papel del directivo interino como solución estratégica de transición directiva**
-
-El artículo abordará por qué la gestión interina es la herramienta más eficaz —y menos conocida— para acompañar el relevo generacional en la empresa familiar española: qué hace exactamente un directivo interino en un proceso de sucesión, cuándo interviene, cómo se estructura el mandato y qué retorno genera para la empresa y para la familia propietaria.
+**Directivo interino para transformación IA: la respuesta al 67% de empresas españolas atascadas en su hoja de ruta digital**
 
 ---
 
 ## Justificación Estratégica
 
-España afronta la mayor ola de sucesión empresarial de su historia reciente. El Instituto de la Empresa Familiar (2025) estima que un tercio de los propietarios de pymes españolas alcanzará la edad de jubilación en esta década. El 89 % del tejido empresarial español tiene estructura familiar y genera el 67 % del empleo privado. La magnitud del fenómeno es estructural, no coyuntural.
-
-Sin embargo, el mercado de gestión interina en España no ha articulado todavía este segmento como línea de servicio específica. Los competidores siguen comunicando en clave de "sustitución urgente" o "cobertura de vacante", dejando libre el espacio de posicionamiento para quien quiera ocuparlo con autoridad y datos.
-
-En Francia y Alemania, los grandes proveedores de management de transition llevan años explotando la sucesión familiar y la profesionalización del Mittelstand como vectores de crecimiento explícitos. España replica ese patrón con un retraso de 18 a 24 meses, según estimaciones del sector recogidas en el informe de Servitalent (2025). La ventana de oportunidad es ahora, antes de que el mercado se llene de contenido competidor.
-
-Desde el punto de vista SEO, los términos "directivo interino empresa familiar", "gestión interina relevo generacional" y "manager de transición sucesión empresarial" presentan intención de búsqueda alta y cobertura de contenido de calidad prácticamente nula en español. El primero en publicar con rigor capturará tráfico orgánico de una audiencia con capacidad de decisión y urgencia real.
+El informe del Agente 1 identifica cinco oportunidades válidas, pero la convergencia de tres factores hace que el tema de transformación IA sea claramente prioritario esta semana. Primero, el dato de KPMG España (Global Tech Report 2026, abril 2026) proporciona una fuente de máxima autoridad: el 67% de las organizaciones españolas carecen del talento necesario para ejecutar su transformación digital, y solo el 23% obtiene ROI en múltiples casos de uso de IA. Este dato convierte el artículo en una respuesta directa a una necesidad real ya cuantificada por un tercero de credibilidad incuestionable, lo que fortalece la posición editorial de Manager in Motion frente a competidores que publican contenido sin respaldo empírico. Segundo, la demanda de mandatos interinos vinculados a IA y transformación digital crece a ritmo récord en los tres mercados europeos más maduros (Reino Unido: +58% en nombramientos digitales interinos desde 2023; Francia: directivos interinos como "agentes de cambio cultural IA"; Alemania: ciberseguridad y automatización como vectores principales según DDIM), lo que convierte esta tendencia en la señal anticipada más fiable de la demanda española en los próximos 12-18 meses. Tercero, ningún competidor local en España ha producido todavía contenido que conecte explícitamente la brecha de talento tecnológico con el modelo del directivo interino especializado, lo que abre una ventana de posicionamiento SEO antes de que el tema se masifique. Publicar esta semana es capturar la posición de autoridad antes de la curva.
 
 ---
 
 ## Audiencia Objetivo
 
-**Perfil primario:**
-- Propietarios-directores de pymes y empresas familiares (20 a 300 empleados) que están planificando o afrontando un relevo generacional
-- Sucesores familiares (hijos, sobrinos, yernos) que asumen la dirección sin tener toda la preparación operacional requerida
-- Patriarcas o matriarcas fundadores que quieren asegurar la continuidad del negocio antes de retirarse
+El artículo se dirige a tres perfiles de decisor con máxima prioridad:
 
-**Perfil secundario:**
-- Miembros de Consejos de Administración familiares que buscan profesionalizar la gobernanza
-- Asesores de M&A, abogados mercantiles y consultores de patrimonio familiar que acompañan procesos de sucesión y pueden prescribir soluciones de gestión interina
-- Directores de RRHH de grupos empresariales con filiales en España que buscan gestionar el hueco directivo de una unidad de negocio familiar adquirida
+**Perfil primario:** CEO y Director General de empresas medianas españolas con facturación entre 30 y 500 millones de euros que tienen aprobado un presupuesto o una hoja de ruta de transformación digital/IA pero no cuentan con el talento directivo interno para ejecutarla. Son directivos que han leído el informe KPMG o viven en primera persona la brecha que describe: tienen el qué pero no el quién.
 
-**Geografía objetivo:** España (mercado principal), Portugal y Latinoamérica hispanohablante (mercados secundarios)
+**Perfil secundario:** CTO, CDO o Director de Tecnología en funciones que busca refuerzo ejecutivo para pilotar una iniciativa IA estratégica sin capacidad real de liderarla en solitario, o que necesita justificar ante su CODIR la contratación de un directivo externo temporal para acelerar la transformación.
 
-**Nivel de sofisticación del lector:** Decisores que conocen su problema (el relevo generacional está encima de la mesa) pero que NO necesariamente conocen la solución (la gestión interina como herramienta de transición). El artículo debe educar a la vez que posiciona.
+**Perfil terciario:** CHRO o Director de Recursos Humanos de empresas con transformación digital en curso que busca soluciones de talento ejecutivo no permanente para cubrir el vacío de liderazgo tecnológico sin comprometer un presupuesto de contratación permanente difícil de justificar en entorno de incertidumbre macroeconómica.
+
+Geográficamente, la audiencia principal es España, con extensión natural a Portugal y al segmento de filiales de grupos internacionales con operaciones en la Península Ibérica.
 
 ---
 
 ## Intención de Búsqueda
 
-**Tipo de intención:** Informacional con fuerte componente transaccional latente. El usuario busca entender opciones de solución para un problema concreto que ya está viviendo o anticipando. No está buscando una empresa específica todavía, pero está en modo de evaluación activa.
+**Tipo de intención:** Informacional con conversión implícita de alta cualificación (MOFU-BOFU).
 
-**Problema que busca resolver:** "Tengo que gestionar el relevo en mi empresa familiar y no sé si mi sucesor está listo, no tengo tiempo de hacer una selección permanente, y no puedo permitirme que la empresa quede descapitalizada de dirección durante la transición. ¿Existe alguien que pueda acompañarnos de manera temporal pero con autoridad real?"
-
-**Etapa del funnel:** Middle of Funnel (MOFU). El contenido debe resolver dudas conceptuales, generar confianza y preparar la conversión hacia un primer contacto con Manager in Motion.
+**Descripción del momento de búsqueda:** El decisor que realiza estas búsquedas no está en fase de awareness genérico sobre interim management. Ya sabe que tiene un problema concreto —su empresa no está avanzando lo suficiente en IA— y busca entender qué soluciones existen más allá de la contratación permanente tradicional. Es un momento de evaluación activa: compara opciones, busca legitimación para una decisión que ya intuye correcta y necesita argumentos para llevarla al CODIR. El artículo debe actuar como contenido de validación experta que acelera esa decisión. No es un artículo de "qué es el interim management": es un artículo de "por qué el directivo interino de transformación digital es la respuesta correcta a mi situación específica hoy".
 
 ---
 
 ## Keywords
 
-**Keyword principal:**
-`directivo interino empresa familiar`
+**Keyword principal:** directivo interino transformación digital
 
 **Keywords secundarias:**
-- `gestión interina relevo generacional`
-- `manager de transición sucesión empresarial`
-- `directivo interino pyme española`
-- `interim management empresa familiar España`
-- `profesionalización dirección empresa familiar`
+- CTO interino España
+- CDO interino IA
+- director de transformación digital interino
+- interim management tecnología España
+- director tecnología interino pyme
+- gestión interina transformación IA
 
 **Keywords de cola larga:**
-- `cuándo contratar un directivo interino en una empresa familiar`
-- `cómo gestionar el relevo generacional en una pyme española`
-- `qué hace un manager de transición en una sucesión empresarial`
-- `directivo interino durante la transición de empresa familiar`
-- `diferencia entre directivo interino y contratación permanente en empresa familiar`
-- `cómo profesionalizar la dirección de una empresa familiar sin perder el control`
+- cómo implantar inteligencia artificial en empresa sin CTO permanente
+- contratar director transformación digital temporal España
+- interim management para proyectos de IA en empresas medianas
+- qué hace un CDO interino en una transformación digital
+- directivo interino tecnología sin proceso de selección largo
+- cuando contratar CTO interino en lugar de CTO permanente
 
 ---
 
 ## Metadatos SEO
 
-**Título SEO:**
-`Directivo interino en la empresa familiar: guía para el relevo`
+**Título SEO:** Directivo interino para transformación digital: la solución al déficit de talento IA en España
 
-*(58 caracteres — incluye keyword principal y promesa de valor concreta)*
+**Meta descripción:** El 67% de empresas españolas no tiene el talento para ejecutar su hoja de ruta IA. Descubre cómo un directivo interino especializado cierra esa brecha en semanas, no en meses.
 
-**Meta descripción:**
-`Descubre cómo un directivo interino puede liderar el relevo generacional en tu empresa familiar. Datos, claves prácticas y cómo activarlo. Consulta sin compromiso.`
+**Slug URL:** directivo-interino-transformacion-digital-ia-espana
 
-*(163 caracteres — incluye keyword, beneficio tangible y CTA implícito)*
-
-**Slug URL:**
-`directivo-interino-empresa-familiar-relevo-generacional`
-
-**H1:**
-`Directivo interino en la empresa familiar: la solución que transforma el relevo generacional en una ventaja competitiva`
+**H1:** Por qué el directivo interino es la respuesta al déficit de liderazgo en transformación IA que frena al 67% de las empresas españolas
 
 ---
 
 ## Estructura del Artículo
 
-### H2 1: La gran ola de sucesión que España no puede ignorar
-**Descripción:** Contextualización del problema con datos concretos. Incluir las cifras del Instituto de la Empresa Familiar (2025): 89 % del tejido empresarial con estructura familiar, 67 % del empleo privado, un tercio de propietarios llegando a la jubilación en esta década. Conectar con la dimensión emocional y estratégica del relevo: no es solo un problema de management, es el legado de toda una vida de trabajo. Establecer la urgencia sin generar alarmismo.
+### H2 1: El dato que define el reto: el 67% de las empresas españolas no puede ejecutar su transformación IA
+- H3: Lo que dice el KPMG Global Tech Report 2026 sobre el talento tecnológico en España
+- H3: La brecha entre ambición digital y capacidad de ejecución: por qué el problema no es la inversión, sino el liderazgo
 
-#### H3 1.1: Por qué el relevo generacional es más que un cambio de nombre en la puerta del despacho
-**Descripción:** Explicar que la sucesión implica simultáneamente un cambio de liderazgo, de cultura de toma de decisiones, de relaciones con empleados clave y de posicionamiento estratégico. Los errores en esta fase pueden destruir en meses lo que tardó décadas en construirse.
+### H2 2: Por qué la contratación permanente no resuelve este problema (al menos no a tiempo)
+- H3: El coste real de un proceso de selección de CTO o CDO: tiempo, recursos y riesgo de error
+- H3: La incertidumbre macroeconómica en España como freno a compromisos directivos permanentes
+- H3: El modelo interim-to-permanent: probar antes de contratar de forma definitiva
 
-#### H3 1.2: Lo que el mercado europeo ya sabe (y España aún no aplica)
-**Descripción:** Referencia al modelo francés y alemán: en Francia, los principales proveedores de management de transition tienen la sucesión familiar como línea de servicio explícita desde hace años. En Alemania, la escasez de sucesores en el Mittelstand ha convertido a los Interimsmanager en actores habituales de los procesos de relevo. España va con retraso de 18 a 24 meses, pero el patrón es idéntico.
+### H2 3: Qué hace exactamente un directivo interino de transformación digital o IA
+- H3: El CTO interino: estabilización tecnológica, arquitectura de datos y liderazgo de equipos técnicos
+- H3: El CDO interino: estrategia de datos, gobernanza IA y gestión del cambio cultural
+- H3: El Director de Transformación interino: integración de iniciativas, priorización de roadmap y entrega de resultados
 
----
+### H2 4: La evidencia europea: los mercados maduros ya lo han adoptado como estándar
+- H3: Reino Unido: +58% en nombramientos de liderazgo interino digital desde 2023
+- H3: Francia: el directivo interino como agente de cambio cultural en la adopción de IA
+- H3: Alemania: ciberseguridad y automatización industrial como vectores de demanda interina
+- H3: España en el horizonte de 12-18 meses: qué podemos anticipar del patrón europeo
 
-### H2 2: Qué es exactamente un directivo interino y qué no es
-**Descripción:** Clarificación conceptual esencial para una audiencia que puede confundir el management interino con una ETT de alta dirección, un consultor o un directivo en periodo de prueba. Definición nítida: un profesional senior con historial ejecutivo contrastado que asume responsabilidad de dirección de manera temporal, con autoridad real, orientado a resultados y con una misión definida al inicio del mandato.
+### H2 5: Cuándo contratar un directivo interino de transformación digital — cinco situaciones concretas
+- H3: Cuando tienes aprobado un proyecto IA pero no el equipo directivo para ejecutarlo
+- H3: Cuando necesitas acelerar una hoja de ruta digital antes de una operación corporativa o ronda de inversión
+- H3: Cuando tu CTO actual no tiene el perfil para liderar la transición IA y necesitas un puente ejecutivo
+- H3: Cuando el proceso de selección permanente se extiende más allá de lo que el negocio puede esperar
+- H3: Cuando buscas reducir el riesgo de una decisión directiva de alto coste e impacto irreversible
 
-#### H3 2.1: El directivo interino no es un consultor
-**Descripción:** El consultor recomienda; el directivo interino ejecuta. Esta distinción es central para los propietarios de empresas familiares, que suelen haber tenido experiencias con consultores que produjeron informes pero no implementaron cambios.
+### H2 6: El proceso en la práctica — cómo funciona una misión de transformación digital con directivo interino
+- H3: De la identificación del perfil a la incorporación: plazos reales en el mercado español
+- H3: Los primeros 30 días: diagnóstico, alineación y primeras acciones con impacto visible
+- H3: Medición de resultados y criterios de éxito en una misión de transformación IA
 
-#### H3 2.2: El directivo interino no es un empleado temporal de alta dirección
-**Descripción:** No es una ETT ejecutiva. Es un profesional independiente, senior, con un contrato de servicios específico y una misión con objetivos, plazos y métricas definidas desde el primer día. La diferencia en términos de compromiso, autonomía y perfil es radical.
-
----
-
-### H2 3: Los cinco momentos en que un directivo interino es la solución correcta para una empresa familiar
-**Descripción:** Lista estructurada de situaciones concretas. Cada punto debe resonar con una situación real que el propietario puede estar viviendo. Incluir ejemplos tipificados (sin nombres de empresas reales) para hacer tangibles las situaciones.
-
-**Los cinco momentos:**
-1. El sucesor designado no está listo todavía: necesita uno o dos años de acompañamiento antes de asumir el mando con plena autoridad
-2. El fundador se retira de manera abrupta (por enfermedad, decisión repentina) y no hay un protocolo de sucesión activado
-3. La empresa familiar ha crecido más allá de la capacidad de gestión familiar: necesita profesionalizar la dirección antes de elegir quién la lidera de manera permanente
-4. El sucesor ha tomado el mando pero necesita un director de operaciones sénior que le dé estabilidad mientras aprende
-5. La empresa está en proceso de venta o fusión y necesita una dirección neutral y profesional para maximizar el valor en la due diligence
-
----
-
-### H2 4: Cómo se estructura un mandato de gestión interina en una empresa familiar
-**Descripción:** Sección práctica y desmitificadora. Muchos propietarios no saben cómo funciona el proceso de contratación de un directivo interino. Explicar las tres fases: (1) Diagnóstico y definición de misión — qué se busca exactamente, cuál es el resultado esperado, quién reporta a quién; (2) Selección e incorporación — cómo se elige al candidato, cuánto tarda, qué garantías ofrece el proveedor; (3) Ejecución y transferencia — cómo trabaja el directivo interino durante el mandato y cómo se gestiona la salida para que no se pierda lo construido.
-
-#### H3 4.1: Duración típica de un mandato: ni demasiado corto ni demasiado largo
-**Descripción:** Datos de referencia europeos: duración media de 7,5 meses para mandatos de relevo y 8,3 meses para mandatos de transformación (France Transition Baromètre S2 2025). En contextos de sucesión familiar, los plazos tienden a extenderse hacia los 9-12 meses porque el componente de transferencia de conocimiento y cultura es más complejo.
-
-#### H3 4.2: El argumento del ROI frente al coste de no actuar
-**Descripción:** Abordar el coste de manera transparente y en clave de valor. La tarifa diaria de referencia en España se sitúa por debajo de los mercados francés (TJM > 1.300 €) y alemán (1.317 €), pero el ROI es comparable porque el impacto de una mala sucesión puede suponer la pérdida de directivos clave, clientes estratégicos o incluso la venta en condiciones desfavorables. El coste de NO actuar es sistemáticamente mayor que el coste de contratar al profesional adecuado.
-
----
-
-### H2 5: Lo que las empresas familiares más avanzadas ya están haciendo — y por qué funciona
-**Descripción:** Casos tipificados (sin nombres reales, con sectores y tamaños aproximados) que ilustren mandatos de gestión interina exitosos en contextos de sucesión familiar. Incluir al menos tres perfiles de mandato:
-- (A) Empresa industrial de segunda generación que usa un CEO interino para profesionalizar la dirección antes de que el hijo mayor asuma el mando
-- (B) Empresa de distribución donde el fundador enferma y el directivo interino garantiza la continuidad mientras la familia decide
-- (C) Empresa de servicios profesionales que necesita un director financiero interino para preparar la due diligence de una venta parcial a un fondo de private equity
-
----
-
-### H2 6: Cómo elegir al proveedor de gestión interina adecuado para tu empresa familiar
-**Descripción:** Criterios de selección que educan al lector y simultáneamente posicionan a Manager in Motion. No hacer publicidad explícita: dar criterios objetivos que el proveedor adecuado debería cumplir. Experiencia en contextos familiares, comprensión de la dinámica familia-empresa, capacidad de mediar entre lógica familiar y lógica empresarial, portfolio de mandatos similares, metodología de diagnóstico inicial, garantías de confidencialidad.
-
----
-
-### H2 7: Conclusión — El relevo generacional como momento de transformación, no de crisis
-**Descripción:** Cierre en clave positiva y ejecutiva. La sucesión bien gestionada no es solo una amenaza evitada: es una oportunidad para modernizar la empresa, profesionalizar su dirección y posicionarla para la siguiente década. El directivo interino es el catalizador que convierte ese momento de riesgo en un salto de valor. CTA final hacia contacto con Manager in Motion.
+### H2 7: Preguntas frecuentes sobre el directivo interino de transformación digital
 
 ---
 
 ## Oportunidades FAQ
 
-Las siguientes preguntas deben incluirse en una sección FAQ al final del artículo (formato schema FAQPage markup para SEO):
+Las siguientes preguntas deben incluirse en un bloque FAQ con marcado Schema FAQ para maximizar las posibilidades de aparecer en fragmentos destacados de Google:
 
-1. **¿Puede un directivo interino asumir el cargo de CEO en una empresa familiar durante la transición?**
-Sí. Un directivo interino puede asumir cualquier posición de la alta dirección — CEO, COO, CFO, Director General — de manera temporal y con plena autoridad ejecutiva. El mandato se define al inicio con objetivos claros y una fecha de salida planificada.
+1. **¿Qué diferencia hay entre un CTO interino y un consultor de transformación digital?** El CTO interino asume responsabilidad ejecutiva real —reporta al CEO, dirige equipos y toma decisiones— mientras que el consultor recomienda sin ejecutar. En una transformación IA, la diferencia es determinante: el interino lleva la iniciativa, el consultor entrega un informe.
 
-2. **¿Cuánto tiempo tarda en incorporarse un directivo interino desde que se toma la decisión?**
-En condiciones normales, el proceso de selección e incorporación dura entre dos y cuatro semanas. Los proveedores especializados tienen redes de profesionales disponibles que permiten activar una misión con rapidez cuando la situación lo requiere.
+2. **¿En cuánto tiempo puede incorporarse un directivo interino de transformación digital a mi empresa?** En el mercado español, los plazos de incorporación rondan las dos a cuatro semanas desde que se define el perfil. Frente a los cuatro a seis meses de un proceso de selección permanente, la ventaja temporal es decisiva cuando la hoja de ruta IA tiene plazos comprometidos.
 
-3. **¿El directivo interino puede generar conflicto con los miembros de la familia que siguen en la empresa?**
-Es uno de los riesgos más citados por las empresas familiares, pero también uno de los más gestionables. Un directivo interino experimentado en contextos familiares sabe cómo trabajar con la dualidad familia-empresa, establecer límites claros y ganarse la confianza de las distintas partes. La clave está en la definición precisa del mandato y en el respaldo explícito del propietario o del Consejo de Administración.
+3. **¿Tiene sentido contratar un CDO o CTO interino para una empresa mediana de menos de 100 millones de facturación?** Sí, y es precisamente el segmento donde mayor impacto relativo genera. Las empresas medianas son las que más sufren la brecha de talento tecnológico: no tienen el perfil internamente y el coste de una contratación permanente de este nivel es difícil de justificar sin certeza sobre el ROI. El directivo interino resuelve exactamente esa ecuación.
 
-4. **¿Es la gestión interina adecuada para empresas pequeñas con menos de 50 empleados?**
-Depende de la complejidad del relevo y del contexto específico. En empresas de entre 20 y 50 empleados, puede ser más apropiado un directivo interino a tiempo parcial que un mandato a jornada completa. La clave es dimensionar la solución al problema real.
+4. **¿Cómo se mide el éxito de una misión de transformación digital con un directivo interino?** Los criterios se definen antes del inicio del mandato: hitos de proyecto, KPIs de adopción tecnológica, grado de avance del roadmap, capacitación del equipo interno y, cuando procede, entrega de la función a un sucesor permanente. La transparencia en la medición es parte del modelo.
 
-5. **¿Qué ocurre cuando el directivo interino termina su mandato? ¿Se pierde lo que ha construido?**
-Una buena gestión del final del mandato incluye un plan de transferencia explícito: documentación de procesos, traspaso de relaciones, formación del sucesor y un periodo de solapamiento supervisado. Los mandatos bien diseñados producen resultados que perduran más allá de la presencia del interino.
+5. **¿Puede un directivo interino de transformación digital liderar la implementación de IA generativa en mi empresa?** Sí, es uno de los mandatos de mayor crecimiento en Europa. Los directivos interinos especializados en IA generativa trabajan tanto en la dimensión tecnológica (selección de herramientas, arquitectura, seguridad) como en la dimensión organizativa (gestión del cambio, formación de equipos, gobernanza de datos).
 
-6. **¿Puede el directivo interino convertirse en el director permanente si la empresa queda satisfecha?**
-Técnicamente sí, pero no es el objetivo ni la expectativa del modelo. El management interino funciona porque el profesional es temporal por naturaleza: su independencia y su foco en el resultado se apoyan en saber que la misión tiene fin. Convertir el mandato en permanente puede ser contraproducente para ambas partes.
+6. **¿Cuál es el coste de un directivo interino de transformación digital comparado con una contratación permanente?** La tarifa diaria de un directivo interino de alto perfil tecnológico en España oscila entre 900 y 1.500 euros, dependiendo del nivel y la complejidad del mandato. Para una misión de seis meses a cuatro días semanales, el coste total es considerablemente inferior al salario total anual —más bonus, más costes de selección— de un CTO o CDO permanente.
+
+7. **¿El directivo interino puede convertirse en contratación permanente si la misión va bien?** Sí. El modelo interim-to-permanent, que ya representa cerca del 10% de las misiones en mercados maduros como Francia, permite evaluar al directivo en contexto real antes de formalizar una contratación permanente, eliminando el riesgo de una incorporación equivocada en un rol crítico.
 
 ---
 
 ## Recomendaciones de Enlazado Interno
 
-Para el artículo definitivo, incluir enlaces internos a las siguientes páginas de Manager in Motion (adaptar URLs reales del sitio una vez confirmadas):
+Las siguientes páginas y contenidos del sitio de Manager in Motion deben enlazarse de forma contextual dentro del artículo:
 
-1. **Página de servicios / "Nuestros mandatos"** — Para que el lector pueda ver los tipos de misiones que Manager in Motion gestiona, incluyendo mandatos de transición en contextos de sucesión familiar. Texto de ancla sugerido: "cómo estructuramos un mandato de gestión interina".
+1. **Página de servicio: Directivo Interino de Tecnología / CTO Interino** — enlazar desde la sección H2 3 cuando se describan los perfiles disponibles. Texto ancla sugerido: "CTO interino" o "director de tecnología interino".
 
-2. **Página "Cómo funciona" o "El proceso"** — Para los lectores que quieren entender los pasos concretos antes de comprometerse a un primer contacto. Texto de ancla sugerido: "el proceso de selección e incorporación".
+2. **Página de servicio: CFO Interino o Dirección General Interina** — enlazar desde la introducción o la sección de contexto macroeconómico para ampliar el espectro de perfiles disponibles. Texto ancla: "directivo interino de alto perfil" o "gestión interina ejecutiva".
 
-3. **Artículo o página sobre "¿Qué es el management interino?"** — Enlace educativo que refuerza el conocimiento conceptual para los lectores que llegan al artículo sin conocer el sector. Texto de ancla sugerido: "qué es exactamente un directivo interino".
+3. **Artículo o página sobre el proceso de trabajo de Manager in Motion** — enlazar desde H2 6 (el proceso en la práctica), explicando cómo funciona una misión desde el primer contacto hasta la incorporación. Texto ancla: "cómo funciona una misión de interim management".
 
-*(Nota para el redactor: si estas páginas no existen en el sitio, señalarlo al equipo web para que se creen o utilizar la página de contacto como alternativa para los CTAs internos.)*
+4. **Página de casos de uso o sectores** — enlazar desde H2 5 (situaciones concretas) si existe contenido sobre sectores específicos como tecnología, industria o servicios financieros. Texto ancla: "sectores con mayor demanda de directivos interinos".
+
+5. **Página de contacto o formulario de consulta gratuita** — enlazar desde el CTA final y, si procede, desde la sección de FAQ (pregunta sobre costes o plazos). Texto ancla: "consulta sin compromiso" o "habla con un especialista en interim management".
 
 ---
 
 ## Recomendaciones de Enlazado Externo
 
-Incluir al menos tres referencias externas de autoridad para reforzar la credibilidad del artículo y la señal E-E-A-T:
+Las siguientes fuentes externas deben citarse como referencias de autoridad dentro del artículo, tanto para fortalecer la credibilidad editorial como para mejorar la señal de calidad ante los motores de búsqueda:
 
-1. **Instituto de la Empresa Familiar — iefamiliar.com** — Citar los datos estructurales del tejido empresarial español (89 % de empresas familiares, 67 % del empleo privado, tercio de propietarios llegando a la jubilación). Fuente de máxima autoridad para este tema en España. Texto de ancla sugerido: "según el Instituto de la Empresa Familiar".
+1. **KPMG España — Global Tech Report 2026** (abril 2026): citar el dato del 67% de organizaciones sin talento suficiente y el 23% con ROI real en IA. Es la fuente central del artículo y debe aparecer con enlace directo al informe o a la página de publicaciones de KPMG España.
 
-2. **AIME — Asociación Interim Management España — interimspain.org** — Referencia institucional del sector. Mencionar el VI Congreso AIME (10 de junio 2026, Madrid) como señal de la madurez creciente del mercado español de gestión interina. Texto de ancla sugerido: "la Asociación Interim Management España".
+2. **Heidrick & Struggles — "How interim talent is delivering transformation for UK businesses in 2026"**: citar el dato del +58% en nombramientos de liderazgo interino digital en Reino Unido para contextualizar la tendencia europea. Refuerza la credibilidad del argumento con datos de un mercado de referencia.
 
-3. **France Transition Baromètre S2 2025** (vía louis-dupont.com o francetransition.fr) — Para el dato comparativo europeo sobre duración media de mandatos (7,5 meses en relevo, 8,3 meses en transformación). Sitúa a Manager in Motion en el contexto del mercado europeo de referencia. Texto de ancla sugerido: "según el barómetro France Transition S2 2025".
+3. **DDIM (Dachgesellschaft Deutsches Interim Management) — Marktstudie 2026**: citar los datos del mercado alemán (2.700 millones de euros, crecimiento en misiones de ciberseguridad y automatización) para mostrar el patrón europeo y la madurez del modelo. Fuente de referencia internacional sobre interim management.
 
----
+4. **PwC España — Claves Económicas, junio 2026**: citar el contexto macroeconómico (incertidumbre, posible subida de tipos BCE) como argumento para la preferencia por el modelo interino frente a contrataciones permanentes en un entorno volátil.
 
-## Recomendación de Schema Markup
-
-Implementar los siguientes tipos de schema markup en la página publicada:
-
-- **FAQPage**: para la sección de preguntas frecuentes. Cada pregunta y respuesta en formato Question/Answer. Aumenta la probabilidad de aparecer en featured snippets y en el bloque "People Also Ask" de Google.
-- **Article**: con campos author, datePublished, dateModified y publisher (Manager in Motion). Refuerza la señal E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness).
-- **BreadcrumbList**: para la ruta de navegación (Inicio > Blog > Gestión Interina > [título del artículo]).
+5. **Comisión Europea — Informe sobre madurez IA en organizaciones europeas**: citar la estadística de que solo el 23% de las organizaciones europeas ha alcanzado madurez real en IA frente al 60% que lo aspira, para ampliar el contexto más allá de España y mostrar que el problema es estructural a escala continental.
 
 ---
 
 ## Recomendación de CTA
 
-**CTA principal (al final del artículo, tras la sección FAQ):**
+**CTA principal del artículo:**
 
-Titular: "¿Estás planificando el relevo de tu empresa familiar o afrontando una transición directiva urgente?"
+"¿Tu empresa tiene una hoja de ruta IA pero no el directivo que la ejecute? Habla con nosotros. En Manager in Motion identificamos el perfil exacto que necesitas en menos de dos semanas."
 
-Texto de apoyo: Manager in Motion acompaña procesos de sucesión en empresas familiares con directivos interinos de perfil senior y experiencia verificada en el mercado ibérico. Primera conversación confidencial y sin compromiso.
+**Formato recomendado:** Bloque CTA destacado al final del artículo y repetido de forma más breve tras la sección H2 5 (situaciones concretas). El CTA debe incluir un enlace directo al formulario de contacto o a una landing page específica de directivo interino de transformación digital.
 
-Botón: "Solicitar diagnóstico inicial gratuito" — enlace directo al formulario de contacto.
+**CTA secundario (dentro del cuerpo del artículo, no intrusivo):** Tras la sección de FAQ, incluir una línea de texto enlazado del tipo: "Si quieres valorar si un directivo interino de transformación digital es la solución adecuada para tu empresa, [contacta con nuestro equipo]."
 
-**CTA secundario (en caja destacada tras la sección de los cinco momentos clave):**
-
-"¿Te has reconocido en alguna de estas situaciones? Podemos evaluar tu caso en una primera conversación confidencial y sin coste. [Hablar con un especialista]"
-
-**Nota sobre el customer journey:** El lector de este artículo está en fase de evaluación. No está listo para contratar directamente, pero sí está dispuesto a conversar. El CTA no debe pedir una propuesta económica ni un contrato: debe invitar a una conversación exploratoria, confidencial y sin coste. Eso reduce la fricción y es coherente con la naturaleza de un servicio de alto valor y alta confianza.
+**Tono del CTA:** Directo, orientado a la acción, sin presión de venta. El CTA debe sentirse como una extensión del consejo experto del artículo, no como un anuncio.
 
 ---
 
-## Instrucciones para el Redactor de Contenido
+## Instrucciones para el Redactor
 
-### Objetivo del artículo
-Producir un artículo de 1.500 a 2.000 palabras que posicione a Manager in Motion como el referente en gestión interina para empresas familiares españolas en proceso de sucesión. El artículo debe educar, generar confianza y preparar la conversación comercial sin vender directamente. El lector debe terminar la lectura con tres certezas: (1) entiende qué es un directivo interino y en qué se diferencia de otras alternativas, (2) sabe si su situación justifica activarlo y en qué momento, y (3) conoce el siguiente paso concreto para avanzar con Manager in Motion.
+**Tono y estilo general:**
+Escribe para un CEO, CTO o CHRO que lee el artículo en 8-10 minutos entre reuniones. El tono es el de un directivo con experiencia que habla con otro directivo: directo, sin condescendencia, sin jerga innecesaria, sin frases vacías de tipo "en el dinámico entorno actual" o "las empresas que quieran sobrevivir". Cada párrafo debe aportar información o perspectiva que el lector no tenía antes de leerlo. Si una frase no añade valor, elimínala.
 
-### Tono y voz
-- **Profesional y ejecutivo**, sin ser académico ni distante. El lector es un propietario de empresa con décadas de experiencia: se le habla de igual a igual, no desde arriba ni desde abajo.
-- **Práctico y concreto**: cada afirmación debe poder ilustrarse con un dato, un ejemplo o una situación reconocible. Evitar la vaguedad ("puede ayudarle a mejorar su empresa") y preferir la precisión ("puede asumir la dirección general durante nueve meses mientras el sucesor completa su formación y la familia valida el protocolo de sucesión").
-- **Sin jerga innecesaria**: "directivo interino" y "gestión interina" son los términos de uso en español. "Interim management" o "interim manager" en inglés solo se usan en menciones editoriales o de sector, nunca como término de cabecera dirigido al lector.
-- **Empático pero no sentimental**: el relevo generacional tiene una dimensión emocional real. El artículo puede reconocerla, pero su propuesta de valor es racional y ejecutiva.
-- **90 % valor, 10 % posicionamiento comercial sutil**: el artículo no es un catálogo de servicios. Manager in Motion aparece de manera orgánica en tres momentos (sección de criterios de selección, CTA secundario y CTA principal), y en ningún otro.
+**Extensión objetivo:** Entre 1.800 y 2.400 palabras. No extender artificialmente con relleno. La calidad prima sobre la extensión.
 
-### Ángulo diferenciador obligatorio
-El artículo no debe ser "otro artículo sobre empresa familiar". El ángulo diferenciador es este: **el directivo interino no es una solución de emergencia para cuando algo falla — es una herramienta de ingeniería del relevo para cuando se quiere que las cosas salgan bien desde el principio**. Ese reencuadre (de reactivo a proactivo, de parche a estrategia) es el núcleo del posicionamiento de Manager in Motion y debe impregnar el tono de todo el artículo.
+**Datos obligatorios a incluir:**
+- El dato del 67% de organizaciones españolas sin talento para ejecutar su transformación IA (KPMG Global Tech Report 2026, abril 2026) — debe aparecer en la introducción o en el H2 1, con cita explícita de la fuente.
+- El dato del 23% de organizaciones con ROI real en múltiples casos de uso de IA (misma fuente) — complementa el argumento.
+- El dato del +58% en nombramientos interinos digitales en Reino Unido desde 2023 (Heidrick & Struggles) — usar en H2 4 como evidencia europea.
+- La tarifa diaria orientativa del mercado español (900-1.500 euros/día para perfiles tecnológicos de alto nivel) — incluir en FAQ o en H2 6.
+- El plazo de incorporación (2-4 semanas) frente al proceso de selección permanente (4-6 meses) — usar como argumento de urgencia en H2 2 y H2 5.
 
-### Datos obligatorios a incluir
-- 89 % de las empresas españolas son familiares (Instituto de la Empresa Familiar, 2025)
-- 67 % del empleo privado en España lo generan las empresas familiares (Instituto de la Empresa Familiar, 2025)
-- Un tercio de los propietarios alcanzará la edad de jubilación en esta década (Instituto de la Empresa Familiar, 2025)
-- Duración media de mandatos: 7,5 meses para mandatos de relevo y 8,3 meses para mandatos de transformación (France Transition Baromètre S2 2025)
-- La sucesión familiar en el mercado francés lleva años siendo una línea de negocio explícita para los grandes proveedores de management de transition
-- España replica el patrón europeo con un retraso estimado de 18 a 24 meses (Servitalent, 2025)
+**Estructura narrativa recomendada:**
+El artículo debe seguir una estructura problema-causa-solución-acción. Empieza con el problema validado por datos (la brecha de talento IA en España). Explica por qué las soluciones habituales (contratación permanente, consultoras) no son suficientes o son demasiado lentas. Presenta el directivo interino especializado como la respuesta más eficiente. Concreta con situaciones reales y el proceso práctico. Cierra con la llamada a la acción.
 
-No inventar datos ni atribuir cifras a fuentes que no las respalden.
+**Expresiones que evitar absolutamente:**
+- "En el dinámico entorno empresarial actual"
+- "Las empresas que quieran mantenerse competitivas"
+- "La inteligencia artificial está transformando el mundo de los negocios"
+- "Es fundamental que las organizaciones"
+- "A día de hoy" (usar "hoy" o la fecha concreta)
+- Cualquier uso de la palabra "ecosistema" como metáfora empresarial
+- Cualquier lista de bullet points sin introducción contextual
+- Párrafos de más de cinco líneas sin subtítulo o respiración visual
 
-### Apertura (primeros 150 palabras: críticos para el engagement)
-Abrir con el problema real, no con una definición. El arranque debe crear reconocimiento inmediato en el lector. Ejemplo orientativo: "En España, más de 150.000 empresas familiares deberán afrontar un relevo generacional en los próximos diez años. La mayoría no tienen un plan. Algunas tienen un sucesor sobre el papel, pero no en la práctica. Otras esperan a que la situación se resuelva sola — que raramente lo hace. El instinto natural es buscar un buen abogado, un asesor de familia o hacer una selección permanente a contrarreloj. Hay una cuarta opción que el mercado europeo usa de manera sistemática desde hace años y que España apenas empieza a descubrir: el directivo interino especializado en transiciones directivas." Ajustar o reescribir según el estilo de la marca, pero mantener la especificidad y la tensión narrativa desde el primer párrafo.
+**Diferenciación frente a contenido genérico:**
+El artículo no debe leerse como un artículo de divulgación sobre "qué es la inteligencia artificial" ni como un catálogo de servicios de interim management. Debe leerse como un análisis ejecutivo que ayuda al lector a tomar una decisión concreta. La voz del artículo es la de Manager in Motion: una empresa que conoce en profundidad tanto el mercado europeo de interim management como la realidad directiva de las empresas medianas en España.
 
-### Estructura de los casos tipificados (H2 5)
-Incluir tres casos de mandato con formato narrativo breve (100-150 palabras cada uno), sin nombres reales de empresas. Formato sugerido: sector + tamaño aproximado + situación de partida + rol del directivo interino + resultado a los 9-12 meses. Los casos no deben inventar datos cuantitativos específicos que no puedan respaldarse; sí pueden describir el patrón de intervención y el tipo de resultado obtenido (estabilización del equipo, preparación de la due diligence, transferencia del mando al sucesor, etc.).
+**Sobre el posicionamiento de Manager in Motion:**
+Manager in Motion no debe mencionarse en más de dos o tres ocasiones en todo el artículo, y siempre de forma contextual, nunca como reclamo publicitario. El 90% del artículo es valor puro para el lector; el 10% restante puede incluir referencias sutiles a la capacidad de Manager in Motion para resolver el problema descrito.
 
-### Qué evitar
-- Listas genéricas de "beneficios del management interino" sin conexión con el contexto específico de la empresa familiar
-- Comparaciones directas y nominales con competidores (ni nombrarlos ni atacarlos)
-- Promesas de resultados garantizados o lenguaje jurídicamente problemático
-- Anglicismos innecesarios como lenguaje de cabecera ("interim manager", "management de transition")
-- Keyword stuffing: la keyword principal ("directivo interino empresa familiar") debe aparecer de forma natural en el H1, en los dos primeros párrafos, en al menos dos H2 o H3 y en el párrafo de cierre — no repetirla mecánicamente en cada párrafo
-- Frases de relleno como "en el entorno empresarial actual", "como todos sabemos" o "el capital humano como activo estratégico"
-- Tono de venta agresivo o urgencia artificial
+**Schema markup recomendado:**
+- **Article schema** con datePublished, author y publisher.
+- **FAQPage schema** para el bloque de preguntas frecuentes (H2 7), con cada pregunta y respuesta marcadas correctamente. Este schema aumenta significativamente las probabilidades de aparecer en fragmentos destacados de Google para búsquedas de tipo "cómo" y "qué es".
+- No usar BreadcrumbList a menos que el CMS lo genere automáticamente.
 
-### Extensión recomendada
-Entre 1.500 y 2.000 palabras de cuerpo de texto (sin contar la sección FAQ). La FAQ puede añadir entre 300 y 400 palabras adicionales. Priorizar densidad de valor sobre extensión: mejor 1.600 palabras precisas que 2.000 palabras con relleno.
-
-### Formato de entrega
-El artículo debe entregarse en formato Word (.docx) con los siguientes estilos aplicados:
-- H1: estilo "Heading 1"
-- H2: estilo "Heading 2"
-- H3: estilo "Heading 3"
-- Cuerpo de texto: estilo "Normal", fuente Calibri 11pt, interlineado 1,15
-- Sección de metadatos SEO (título SEO, meta descripción, slug URL, H1) incluida al inicio del documento en sección claramente delimitada, antes del cuerpo del artículo
-- Cajas de CTA: formato diferenciado (borde izquierdo de color o fondo gris claro si el formato Word lo permite)
-- FAQ: cada pregunta en negrita, respuesta en párrafo normal inmediatamente debajo
+**Imágenes y elementos visuales sugeridos:**
+Si el artículo incluye imágenes, recomendar al equipo de diseño una infografía con el dato del 67% (KPMG) y la comparativa de plazos (2-4 semanas de incorporación de interino vs. 4-6 meses de selección permanente). El texto alternativo de las imágenes debe incluir la keyword principal.
 
 ---
-
-*SEO Strategy Brief elaborado por el Agente 2 — Estratega SEO — Manager in Motion — 2026-06-01*
-*Basado en el Informe de Inteligencia de Mercado del Agente 1 — 2026-06-01*
