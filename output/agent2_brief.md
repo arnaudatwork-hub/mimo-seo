@@ -1,99 +1,120 @@
-# SEO Strategy Brief — 2026-06-29
+# SEO Strategy Brief — 29 de junio de 2026
+## Manager in Motion
 
 **Elaborado por:** Agente 2 — Estratega SEO
 **Para:** Agente 3 — Redactor de Contenido SEO
-**Fecha:** 2026-06-29
+**Fecha:** 29 de junio de 2026
+
+---
+
+## Nota sobre la Decisión Estratégica
+
+El Agente 1 recomienda el tema "CFO interino / director financiero temporal en España". Tras evaluar las cinco tendencias del informe, **confirmo este tema como la opción más sólida** frente a los alternativos:
+
+- **CEO interino (Tendencia 3):** Alta relevancia, pero el volumen de búsqueda en España es inferior al de "director financiero" y el decisor (presidente del consejo, accionistas) es más difícil de alcanzar vía SEO orgánico.
+- **Private equity e interim management (Tendencia 2):** Audiencia muy específica (GPs, operating partners). Excelente para un segundo artículo, pero el volumen de búsqueda en España es bajo y el ciclo de venta es más largo.
+- **IA y transformación digital (Tendencia 4):** Alta competencia editorial generalista. Difícil diferenciarse sin datos propios de España.
+- **Internacionalización (Tendencia 5):** Tema relevante y bien anclado en datos KPMG 2026, pero la intención de búsqueda es más difusa y el volumen inferior al de la función financiera.
+
+**El CFO interino gana porque:** concentra datos cuantitativos en tres mercados europeos (+103% demanda interanual en Europa, 51% de solicitudes en UK, primera función en FR y DE), tiene intención de búsqueda mixta informacional-comercial óptima para la generación de leads B2B, y la competencia editorial en España sobre este eje es aún baja frente al alto valor comercial del término. Adicionalmente, la función financiera es transversal a todos los segmentos de audiencia de Manager in Motion (pymes, ETIs, empresas familiares, cartera de PE), lo que amplía el alcance sin diluir el mensaje.
 
 ---
 
 ## Tema Seleccionado
 
-**El director financiero interino: la respuesta más rentable a la escasez estructural de talento financiero en España en 2026**
+**CFO interino en España: cuándo y por qué contratar un director financiero temporal**
 
-Eje temático primario: Finanzas (CFO interino, dirección financiera ejecutiva, restructuración)
+Eje temático primario: Finanzas (CFO interino, dirección financiera ejecutiva, restructuración financiera)
 Eje temático secundario: Gestión interina / interim management — Dirección General
+
+El artículo aborda la figura del CFO interino como respuesta ejecutiva a la escasez estructural de directivos financieros cualificados en España. Conecta datos europeos de tendencia (Francia, Reino Unido, Alemania) con el contexto empresarial español (pymes, ETIs, empresas familiares, cartera de fondos de private equity) para posicionar al director financiero temporal como la decisión más rentable ante una vacante, una crisis financiera o una transformación.
 
 ---
 
 ## Justificación Estratégica
 
-Este tema es la elección más sólida de entre las cinco tendencias identificadas en el informe semanal por tres razones que se refuerzan mutuamente:
+**1. Señal europea de alta intensidad, ahora.** La demanda de CFOs interinos ha crecido un 103% interanual en los mercados europeos de referencia según Heidrick & Struggles Talent Lens 2026. La función financiera representa el 51% de todas las solicitudes de liderazgo interino en el Reino Unido. En Francia y Alemania, la dirección financiera es la primera función demandada dos años consecutivos. España sigue esta curva con un desfase de 12-18 meses: publicar ahora es posicionarse antes de que la demanda editorial española explote.
 
-**1. Señal de mercado cuantificada y transferible a España.** La demanda de CFOs interinos ha crecido un 103% interanual en Europa según el Talent Lens Survey 2026 de Heidrick & Struggles. La función financiera representa el 51% de todas las solicitudes de liderazgo interino en el Reino Unido, el 23% en Alemania y es sistemáticamente la más demandada en Francia según el barómetro Adequancy 2026. España sigue esta misma curva con un retraso estimado de 12 a 18 meses. Publicar ahora es ocupar el terreno editorial antes de que la competencia reaccione.
+**2. Contexto español receptivo y confirmado.** El 98% de los directivos españoles encuestados por PwC identifica la escasez de talento directivo como el primer freno a la productividad empresarial. EY España 2026 confirma que las pymes son especialmente vulnerables a los incrementos de costes laborales, lo que refuerza el atractivo del modelo interino frente a la contratación permanente de un CFO de alto nivel.
 
-**2. Contexto local de receptividad máxima.** El informe PwC España 2026 confirma que el 98% de los expertos y directivos identifica la escasez de talento directivo como el primer freno a la productividad empresarial. EY España subraya que las pymes son especialmente vulnerables ante el incremento de costes laborales unitarios, lo que refuerza el atractivo del modelo interino frente a la contratación permanente. Estos datos crean el contexto de urgencia que el artículo necesita para convertir lectores en contactos comerciales.
+**3. Ventana editorial real.** Los artículos existentes en español sobre "CFO interino" o "director financiero temporal" son escasos, genéricos o provienen de firmas no especializadas en interim management ejecutivo. Manager in Motion puede ocupar esta posición con autoridad, especificidad y datos de mercado europeo que ningún competidor local ha utilizado aún.
 
-**3. Competencia SEO baja frente a relevancia comercial alta.** Las búsquedas sobre "director financiero interino", "CFO interino España" o "DAF de transición" tienen una presencia editorial escasa en español comparada con su peso real en el mercado. Manager in Motion puede posicionarse como referencia de autoridad en este espacio con un único artículo bien construido.
+**4. Potencial de conversión directo.** El decisor que busca "contratar CFO interino España" está en una fase avanzada del buyer journey. La intención de búsqueda es comercial o transaccional, lo que convierte este artículo en un activo de generación de leads cualificados, no solo de tráfico.
 
-**Alineación con ejes temáticos prioritarios de Manager in Motion:** Este artículo se inscribe directamente en dos ejes: Finanzas (CFO interino, dirección financiera ejecutiva, restructuración, fundraising) y Gestión interina / interim management (núcleo de toda la estrategia de contenido). Conecta transversalmente con Dirección General (el interlocutor natural del CFO interino es el CEO o el consejo de administración) y con Profesionalización de empresas familiares (las ETIs y empresas familiares españolas son el target natural de este perfil directivo).
+**5. Transversalidad estratégica.** La función financiera es relevante para todos los segmentos de audiencia de Manager in Motion: pymes y ETIs en crecimiento, empresas familiares en transición generacional, compañías en reestructuración y empresas en cartera de PE. Un solo artículo puede hablar a múltiples perfiles sin diluir el mensaje.
 
 ---
 
 ## Audiencia Objetivo
 
-**Primaria:**
-- CEOs y propietarios de pymes y ETIs españolas (50-500 empleados) que gestionan una crisis financiera, un período de crecimiento acelerado, una operación de M&A o una vacante directiva en la función financiera.
-- Miembros del consejo de administración de empresas familiares con necesidad de profesionalizar la dirección financiera.
+**Decisor primario — CEO o propietario de pyme / ETI española:**
+Hombre o mujer de entre 45 y 65 años. Dirige una empresa de 20 a 500 empleados con facturación entre 5M€ y 150M€. No tiene CFO (o lo acaba de perder) y necesita cobertura inmediata. O bien afronta una situación financiera de urgencia (reestructuración de deuda, fundraising, auditoría) que supera la capacidad del equipo financiero actual. Pain point central: no puede esperar seis meses a un proceso de selección permanente y no quiere pagar el coste estructural de un CFO C-suite a tiempo completo. Momento en el funnel: reconocimiento activo del problema y evaluación de soluciones.
 
-**Secundaria:**
-- Operating Partners y portfolio managers de fondos de private equity con cartera en España y Portugal que necesitan reforzar la función financiera en empresas participadas.
-- CHROs de medianas empresas que evalúan alternativas a la contratación permanente de un director financiero senior.
-- Country managers de filiales españolas de grupos multinacionales con necesidad de liderazgo financiero local urgente.
+**Decisor secundario — Presidente o miembro del consejo de administración:**
+En empresas familiares o con consejo activo. Prioridad: proteger el valor de la empresa durante la vacante o la transición. Busca una solución de bajo riesgo y alta credibilidad ejecutiva.
 
-**Geografía:** España (mercado primario), Portugal (secundario), Europa hispanohablante (difusión orgánica).
+**Decisor terciario — Operating partner o responsable de cartera de fondo de PE:**
+Necesita un CFO de transición para los 100 días críticos post-adquisición o para preparar la salida (exit readiness). Prioridad: velocidad de incorporación y experiencia en entornos de PE.
+
+**Prescriptores clave (influyentes, no decisores directos):**
+Despachos de abogados mercantiles, asesores financieros independientes, gestores de banca privada, directores de RRHH que han de resolver una vacante ejecutiva urgente.
+
+**Geografía principal:** España, con especial peso en Madrid, Cataluña, País Vasco, Comunitat Valenciana y Andalucía. Audiencia secundaria en Portugal.
 
 ---
 
 ## Intención de Búsqueda
 
-**Tipo de intención:** Informacional con alta carga comercial. El lector busca entender qué es un director financiero interino, cuándo lo necesita y cuánto cuesta — pero detrás de esa búsqueda hay una necesidad real o inminente. La intención es de tipo TOFU-MOFU (concienciación y consideración), con potencial de conversión directa si el artículo incluye una llamada a la acción clara.
+**Tipo dominante:** Mixta informacional-comercial (Commercial Investigation con pico transaccional)
 
-**Momento del ciclo de compra:** El decisor aún no ha iniciado el proceso de selección formal pero reconoce el problema: vacante en la función financiera, proyecto sin liderazgo CFO, crecimiento que desborda la estructura actual. Está validando si la solución "directivo financiero interino" es adecuada para su empresa antes de comprometerse con un proceso de selección permanente.
+El decisor que busca "CFO interino España" o "director financiero temporal" puede estar en cualquiera de estas tres fases:
+
+1. **Fase informacional:** "qué es un CFO interino", "cómo funciona el director financiero temporal" — el usuario reconoce el concepto pero evalúa si aplica a su situación.
+2. **Fase comercial:** "cuándo contratar CFO interino", "CFO interino vs CFO permanente", "coste director financiero interino" — el usuario tiene una necesidad identificada y compara alternativas.
+3. **Fase transaccional:** "cubrir vacante director financiero España", "CFO interino empresa pyme", "contratar CFO interino urgente" — el usuario tiene una necesidad activa y busca un proveedor.
+
+El artículo captura las fases 1 y 2 con su contenido educativo y la fase 3 mediante el CTA.
 
 ---
 
 ## Keywords
 
 **Keyword principal:**
-`director financiero interino`
+`CFO interino España`
 
 **Keywords secundarias:**
-- `CFO interino España`
-- `directivo financiero de transición`
+- `director financiero interino`
 - `director financiero temporal`
-- `interim CFO empresa española`
 - `DAF interino`
-- `interim management financiero`
+- `contratar CFO temporal empresa`
+- `interim CFO España`
 
 **Keywords de cola larga:**
-- `cuándo contratar un director financiero interino`
-- `director financiero interino pyme España`
-- `CFO interino empresa familiar`
-- `cuánto cuesta un CFO interino en España`
+- `cuándo contratar un CFO interino en una pyme española`
 - `diferencia entre CFO interino y consultor financiero`
-- `director financiero temporal empresa en crecimiento`
-- `CFO interino reestructuración financiera`
-- `interim CFO para operaciones M&A España`
-- `cuándo necesita una pyme un director financiero externo`
-- `CFO interino private equity España`
+- `cuánto cuesta un director financiero interino en España`
+- `CFO interino para reestructuración empresarial`
+- `director financiero temporal empresa familiar`
+- `CFO interino 100 días post-adquisición private equity`
+- `cómo cubrir una vacante de director financiero rápidamente`
 
 ---
 
 ## Metadatos SEO
 
 **Título SEO:**
-`Director Financiero Interino: cuándo contratarlo y por qué en 2026 | Manager in Motion`
+`CFO interino en España: cuándo y cómo contratarlo`
+*(58 caracteres — dentro del límite de 60)*
 
 **Meta descripción:**
-`La demanda de CFO interino ha crecido un 103% en Europa. Descubre cuándo tu empresa necesita un director financiero de transición, qué perfil buscar y cómo estructurar la misión. Guía práctica para CEOs y consejos de administración.`
-
-(Longitud: 232 caracteres totales. Versión reducida para CMS con límite de 160 caracteres: `La demanda de CFO interino ha crecido un 103% en Europa. Guía práctica para CEOs: cuándo contratar un director financiero interino y cómo estructurar la misión.`)
+`Vacante urgente, reestructuración o crecimiento acelerado: descubre cuándo el CFO interino es la decisión más rentable para tu empresa en España.`
+*(147 caracteres)*
 
 **Slug URL:**
-`/director-financiero-interino`
+`/blog/cfo-interino-espana`
 
 **H1:**
-`Director financiero interino: cuándo lo necesita tu empresa y cómo aprovecharlo`
+`CFO interino en España: cuándo la dirección financiera temporal es la decisión más inteligente`
 
 ---
 
@@ -101,70 +122,69 @@ Este tema es la elección más sólida de entre las cinco tendencias identificad
 
 ### Esquema H2 / H3
 
-**H2 — La escasez de CFOs cualificados no es una crisis puntual: es una tendencia estructural**
-- H3 — Los datos europeos: +103% de demanda interina en la función financiera
-- H3 — La señal española: el 98% de los directivos identifica la escasez de talento directivo como freno principal
+**Introducción (150-200 palabras)**
+Arrancar con el dato de impacto: la demanda de CFOs interinos ha crecido un 103% interanual en Europa. Contextualizar en España con el dato PwC (98% de directivos señalan la escasez de talento directivo como freno a la productividad). Plantear la pregunta que recorre todo el artículo: ¿cuándo deja de ser el CFO interino una solución de emergencia y se convierte en la decisión estratégica más inteligente?
 
-**H2 — Qué es exactamente un director financiero interino (y qué no es)**
-- H3 — Diferencias clave con el consultor financiero externo
-- H3 — Diferencias con un proceso de selección permanente de CFO
-- H3 — El modelo "try-before-you-buy": cuándo tiene sentido
+**H2: Qué es un CFO interino y en qué se diferencia de un consultor financiero**
+- H3: El perfil del director financiero interino: experiencia ejecutiva, no consultoría
+- H3: Autoridad de línea vs. recomendación externa: la diferencia que cambia los resultados
+- H3: El modelo de misión: plazos, entregables y transferencia de liderazgo
 
-**H2 — Las seis situaciones en las que una empresa necesita un CFO interino**
-- H3 — 1. Vacante urgente por salida inesperada del director financiero
-- H3 — 2. Empresa en fase de crecimiento acelerado sin estructura financiera adecuada
-- H3 — 3. Operación M&A: pre-adquisición, integración o preparación para el exit
-- H3 — 4. Reestructuración financiera o proceso de turnaround
-- H3 — 5. Transformación digital de la función financiera
-- H3 — 6. Profesionalización de la empresa familiar: del gestor de siempre al CFO ejecutivo
+**H2: Las cinco situaciones en las que un CFO interino es la respuesta correcta**
+- H3: 1. Vacante urgente: cobertura inmediata sin proceso de selección de seis meses
+- H3: 2. Reestructuración financiera o turnaround: cuando se necesita experiencia de crisis
+- H3: 3. Fundraising o ronda de financiación: el CFO que habla el idioma del inversor
+- H3: 4. Integración post-adquisición: los 100 días críticos en cartera de private equity
+- H3: 5. Crecimiento acelerado o internacionalización: cuando la función financiera no escala sola
 
-**H2 — Qué perfil buscar en un director financiero interino**
-- H3 — Competencias técnicas irrenunciables
-- H3 — Competencias de liderazgo y gestión del cambio
-- H3 — Sectores y contextos de referencia
+**H2: El mercado europeo como señal adelantada: qué está pasando en Francia, Alemania y Reino Unido**
+- H3: Reino Unido: el 51% de todas las solicitudes de liderazgo interino son para la función financiera
+- H3: Francia: el DAF de transición, el perfil más demandado dos años consecutivos
+- H3: Alemania: récord histórico de 2.700 millones de euros y la función financiera en el centro
+- H3: España: el ciclo de madurez que ya está en marcha
 
-**H2 — Cuánto cuesta un CFO interino y cómo se compara con el coste de no actuar**
-- H3 — Estructura habitual de honorarios en España y Europa
-- H3 — El coste real de una vacante financiera no cubierta
-- H3 — ROI típico de una misión de interim management financiero
+**H2: Cuánto cuesta un CFO interino en España y cómo se compara con el coste de no actuar**
+- H3: Estructura de honorarios del director financiero interino: tarifas y modalidades
+- H3: El coste real de la vacante: riesgo financiero, pérdida de oportunidades y erosión del equipo
+- H3: CFO interino vs. CFO permanente: la ecuación económica completa
+- H3: ROI de la misión: cómo medir el retorno de un director financiero temporal
 
-**H2 — Cómo funciona una misión de director financiero interino: del primer contacto al traspaso**
-- H3 — Fase 0: diagnóstico y definición del mandato
-- H3 — Fase 1: arranque e integración (primeras 2 a 4 semanas)
-- H3 — Fase 2: ejecución y generación de resultados
-- H3 — Fase 3: transferencia y salida ordenada
+**H2: Cómo seleccionar al CFO interino adecuado para tu empresa**
+- H3: Los criterios que importan: sector, tamaño de empresa, tipo de misión
+- H3: La diferencia entre una firma especializada en interim management y un headhunter
+- H3: Las primeras 72 horas: cómo debe arrancar una misión de CFO interino
 
-**H2 — Manager in Motion: dirección financiera ejecutiva cuando más se necesita**
-*(Sección de posicionamiento — no superar el 10% del total del artículo)*
+**H2: Preguntas frecuentes sobre el CFO interino en España**
+*(Sección FAQ — ver detalle en Oportunidades FAQ)*
+
+**Conclusión + CTA (100-150 palabras)**
+Síntesis del argumento central: en un entorno de escasez estructural de talento financiero, el CFO interino ha dejado de ser una solución de emergencia para convertirse en una herramienta estratégica. Llamada a la acción directa hacia Manager in Motion.
 
 ---
 
 ## Oportunidades FAQ
 
-Incluir una sección FAQ estructurada al final del artículo, antes del CTA. Implementar schema markup FAQPage para maximizar la aparición como fragmento destacado en Google. Cada respuesta debe tener entre 60 y 120 palabras, orientada a resolver la duda real del decisor.
+Incluir una sección FAQ al final del artículo, antes del CTA. Estructurar con schema markup FAQPage para maximizar la aparición como fragmento destacado y en "La gente también pregunta" de Google. Cada respuesta debe tener entre 2 y 4 frases, directas y sin ambigüedad.
 
 **Preguntas recomendadas:**
 
-1. **¿Qué es un director financiero interino?**
-Definir con énfasis en la autoridad ejecutiva real: el CFO interino no es un consultor que recomienda, sino un directivo que ejecuta, toma decisiones de línea y responde ante el consejo de administración o el CEO. Diferenciar de la figura del asesor o auditor externo.
+1. **¿Qué es exactamente un CFO interino y en qué se diferencia de un consultor financiero?**
+El CFO interino es un directivo financiero senior que se incorpora a la empresa con autoridad ejecutiva real: ocupa el cargo de director financiero, forma parte del comité de dirección y responde ante el CEO o el consejo de administración. A diferencia de un consultor, no recomienda ni entrega informes: ejecuta, decide y es responsable de los resultados financieros durante el tiempo que dura la misión.
 
-2. **¿Cuándo necesita una empresa un CFO interino?**
-Respuesta con lista de situaciones concretas: vacante por salida inesperada, crecimiento que desborda la estructura financiera, operación M&A, reestructuración, transformación digital de las finanzas, profesionalización de empresa familiar.
+2. **¿Cuánto tiempo dura una misión de CFO interino en España?**
+La duración habitual oscila entre 3 y 18 meses, según el tipo de misión. Las coberturas de vacante urgente suelen resolverse en 3 a 6 meses. Las misiones de reestructuración, transformación financiera o preparación para una ronda de inversión pueden extenderse entre 9 y 18 meses.
 
-3. **¿Cuánto cuesta un director financiero interino en España?**
-Respuesta honesta con rangos orientativos (tarifas diarias de referencia en España: entre 800 y 1.500 euros) y comparación con el coste de un CFO permanente (salario bruto anual + cargas + beneficios + coste de selección + coste de despido eventual).
+3. **¿Cuánto cuesta contratar un director financiero interino?**
+El coste varía según el perfil del directivo, el tamaño de la empresa y la duración de la misión. En el mercado europeo, las tarifas de referencia para un CFO interino de nivel ejecutivo se sitúan entre 1.000 y 1.500 euros por día. A diferencia de una contratación permanente, no conlleva coste de despido, ni cargas sociales estructurales, ni proceso de selección de seis meses.
 
-4. **¿Cuánto dura una misión de CFO interino?**
-Respuesta con horquilla habitual (entre 3 y 12 meses, con pico de demanda en misiones de 6 a 9 meses) y factores que determinan la duración: tipo de situación, complejidad de la empresa, disponibilidad de un sucesor interno.
+4. **¿Puede un CFO interino gestionar una reestructuración de deuda o un turnaround?**
+Sí. Es uno de los casos de uso más exigentes y más frecuentes del interim management financiero. El CFO interino de turnaround tiene experiencia específica en negociación con entidades financieras, gestión de liquidez bajo presión y comunicación con accionistas e inversores en situaciones de crisis. No es un perfil genérico: debe seleccionarse con criterios muy precisos según el tipo de situación.
 
-5. **¿En qué se diferencia un CFO interino de un consultor financiero?**
-Respuesta centrada en la clave diferencial: autoridad de línea vs. autoridad de asesoramiento. El consultor entrega un informe; el directivo interino implementa, gestiona equipos, firma con el banco, presenta ante el consejo.
+5. **¿Cuándo tiene más sentido un CFO interino que una contratación permanente?**
+El CFO interino es la opción más racional cuando la empresa necesita capacidad financiera ejecutiva de alto nivel de forma inmediata y no puede comprometerse con una contratación permanente a largo plazo. Las cinco situaciones más frecuentes: vacante urgente, reestructuración, fundraising, integración post-M&A y crecimiento acelerado sin equipo financiero que escale.
 
-6. **¿Puede una pyme o empresa familiar contratar un CFO interino?**
-Respuesta afirmativa con casos de uso específicos: vacante en empresa de 50-300 empleados, profesionalización financiera previa a la sucesión del fundador, necesidad de estructura financiera para acceder a financiación bancaria o inversión.
-
-7. **¿Cómo se selecciona y contrata un director financiero interino?**
-Descripción del proceso con Manager in Motion: briefing inicial, propuesta de perfil en 24-48 horas, presentación de candidatos, incorporación en menos de 72 horas desde la decisión. Comparar con los 4 a 9 meses de un proceso de selección permanente.
+6. **¿Cómo de rápido puede incorporarse un CFO interino en una empresa española?**
+Un CFO interino puede incorporarse en un plazo de 2 a 4 semanas desde el primer contacto con la firma especializada, en condiciones normales. En situaciones de urgencia máxima, algunas firmas pueden presentar el perfil adecuado en menos de 72 horas. Esta velocidad es estructuralmente imposible en un proceso de selección permanente, que en España tiene una duración media de 4 a 9 meses para perfiles directivos senior.
 
 ---
 
@@ -172,84 +192,67 @@ Descripción del proceso con Manager in Motion: briefing inicial, propuesta de p
 
 Incluir entre 3 y 5 enlaces internos a páginas de managerinmotion.eu. El redactor debe colocarlos donde el contexto narrativo lo justifique con naturalidad:
 
-1. **Página de servicio: Interim Management** (descripción general del servicio) — enlazar desde la primera mención explicativa del concepto. Texto de ancla: "interim management" o "qué es el interim management".
+1. **Página de servicio: Dirección Financiera Interina / CFO Interino** — enlazar desde la sección "Las cinco situaciones" y desde el CTA. Texto de ancla: "directivos financieros interinos especializados" o "servicio de CFO interino de Manager in Motion".
 
-2. **Página de servicio: CFO Interino / Dirección Financiera** (si existe; si no, enlazar a la página de servicios general) — enlazar desde la sección de perfil y desde el CTA. Texto de ancla: "director financiero interino" o "CFO interino".
+2. **Página de servicio: Interim Management para Private Equity** — enlazar desde el H3 sobre integración post-adquisición. Texto de ancla: "interim management para fondos de private equity".
 
-3. **Artículo futuro o existente: Interim management y private equity en España** — enlazar desde la situación 3 (M&A) si el contenido existe. Texto de ancla: "directivo interino en operaciones de private equity".
+3. **Página "¿Qué es el interim management?"** — enlazar desde la introducción o desde el H2 de definición. Texto de ancla: "gestión interina" o "interim management".
 
-4. **Artículo futuro: CEO interino** — enlazar desde la sección de posicionamiento de Manager in Motion o desde el CTA. Texto de ancla: "director general interino".
+4. **Página de servicio: Dirección General Interina (CEO Interino)** — enlazar cuando se mencione la relación entre el CFO interino y el CEO. Texto de ancla: "director general interino" o "interim CEO".
 
-5. **Página de contacto / formulario de solicitud de misión** — enlazar desde el CTA principal y desde el CTA inline. Texto de ancla: "solicitar un CFO interino" o "hablar con un especialista".
+5. **Página de contacto / formulario de consulta** — enlazar desde la conclusión y desde el CTA. Texto de ancla: "habla con un especialista en dirección financiera interina".
 
 ---
 
 ## Recomendaciones de Enlazado Externo
 
-Incluir entre 3 y 5 enlaces salientes a fuentes de autoridad con atributo rel="noopener" y apertura en nueva pestaña:
+Incluir entre 3 y 5 enlaces salientes a fuentes de autoridad con rel="noopener":
 
-1. **Heidrick & Struggles — Talent Lens Survey 2026** (heidrick.com) — para el dato +103% de demanda de CFO interino y el 51% de solicitudes en función financiera. Fuente de credibilidad internacional reconocida por el decisor ejecutivo.
+1. **Heidrick & Struggles — 2026 Talent Lens Survey (heidrick.com)** — para los datos de +103% en demanda de CFOs interinos y el 51% de solicitudes en UK. Texto de ancla: "según el informe Talent Lens 2026 de Heidrick & Struggles".
 
-2. **PwC España — Informe 2026 sobre escasez de talento directivo** (pwc.es) — para el dato del 98% de expertos que identifica la escasez directiva como freno a la productividad. Fuente local de máxima autoridad.
+2. **DDIM — Marktstudie 2026 (ddim.de)** — para el dato del mercado alemán (2.700 millones de euros, tarifa media de 1.317 euros/día). Texto de ancla: "el estudio de mercado DDIM 2026".
 
-3. **EY España — Perspectivas del mercado de trabajo 2026** (ey.com/es_ES) — para el dato sobre vulnerabilidad de las pymes ante costes laborales y la escasez de talento cualificado como freno principal a la productividad.
+3. **KPMG España — Perspectivas 2026 (kpmg.com/es)** — para el contexto español (44% de empresas redefiniendo planes de crecimiento). Texto de ancla: "el informe Perspectivas 2026 de KPMG España".
 
-4. **KPMG España — Perspectivas 2026 / CEOE** (kpmg.com/es) — para el dato del 44% de empresas que redefinen sus planes de crecimiento. Contexto macroeconómico de autoridad.
-
-5. **DDIM Marktstudie 2026** (ddim.de) — para el dato del mercado alemán de interim management (2.700 millones de euros, tarifa media de 1.317 euros/día). Referencia de benchmarking europeo.
-
-Evitar enlazar a competidores directos (otras firmas de interim management españolas o europeas). Priorizar fuentes de consultoría estratégica, patronales y medios económicos de referencia.
+4. **EY España — Perspectivas del mercado de trabajo 2026 (ey.com/es_ES)** — para el dato de vulnerabilidad de las pymes ante los incrementos de costes laborales. Texto de ancla: "según EY España 2026".
 
 ---
 
 ## Recomendación de Schema Markup
 
-Implementar dos tipos de schema en la página del artículo:
+**FAQ Schema (obligatorio):**
+Implementar FAQPage schema con las 6 preguntas de la sección FAQ. Esto permite optar a rich snippets de preguntas frecuentes en Google, ampliando el espacio visual en SERP.
 
-**1. FAQPage schema (prioritario para visibilidad en SERP):**
-Marcar todas las preguntas y respuestas de la sección FAQ con @type: FAQPage, @type: Question y @type: Answer. Esto maximiza la posibilidad de aparecer como fragmento destacado y en la sección "La gente también pregunta" de Google. El CMS debe soportar la implementación o el desarrollador debe añadirlo en el head de la página.
+**Article Schema (recomendado):**
 
-**2. Article schema (obligatorio):**
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Director financiero interino: cuándo lo necesita tu empresa y cómo aprovecharlo",
-  "author": {
-    "@type": "Organization",
-    "name": "Manager in Motion"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Manager in Motion",
-    "url": "https://managerinmotion.eu"
-  },
-  "datePublished": "2026-06-29",
-  "inLanguage": "es"
-}
-```
+Implementar con los campos: headline, author (Manager in Motion), publisher (Manager in Motion, https://managerinmotion.eu), datePublished (2026-06-29), inLanguage (es).
 
-Opcionalmente, valorar HowTo schema para la sección "Cómo funciona una misión de director financiero interino" si el CMS lo soporta sin coste de implementación elevado.
+**Organization Schema:**
+Incluir solo si no está ya implementado a nivel de site en el header global.
 
 ---
 
 ## Recomendación de CTA
 
-**CTA principal (al final del artículo, tras la sección FAQ, en bloque visual diferenciado):**
+**CTA principal (al final del artículo, tras la sección FAQ):**
 
-Titular: `¿Tu empresa necesita un director financiero interino?`
+Titular: ¿Tu empresa necesita un director financiero interino?
 
-Cuerpo: `En Manager in Motion desplegamos el perfil adecuado en menos de 72 horas. Cuéntanos tu situación y te presentamos una propuesta sin compromiso.`
+Cuerpo: En Manager in Motion evaluamos tu situación y te presentamos el perfil de CFO interino más adecuado para tu contexto. La primera conversación no tiene coste ni compromiso.
 
-Botón: `Solicitar un CFO interino` — enlaza al formulario de contacto con campo de mensaje prerellenado o con seguimiento UTM: `?utm_source=blog&utm_medium=organic&utm_campaign=cfo-interino-2026`.
+Botón: Solicitar consulta sin compromiso — enlace al formulario de contacto o a la página de servicio de CFO interino.
 
-**CTA secundario (inline, tras la sección de las seis situaciones):**
+**CTA secundario (inline, tras la sección de los cinco casos de uso):**
 
-`Si reconoces alguna de estas situaciones en tu empresa, una primera conversación con Manager in Motion no compromete a nada.`
+¿Reconoces tu empresa en alguno de estos escenarios? Manager in Motion puede presentarte un CFO interino cualificado en menos de 72 horas.
 
-Texto de ancla: "hablar con un especialista" — enlaza a la página de contacto.
+Texto de ancla del enlace: "CFO interino cualificado" — página de servicio de dirección financiera interina.
 
-**Tono de los CTA:** Consultivo, no comercial. El decisor en fase de reconocimiento del problema no quiere sentir que le venden — quiere sentir que le ayudan a entender su situación y que tienen la capacidad de resolverla.
+**Posicionamiento:**
+- Primera aparición (suave, inline): al final del H2 "Las cinco situaciones".
+- Segunda aparición (principal): al final del artículo, tras la sección FAQ, como bloque visual diferenciado.
+
+**Tono:** Consultivo, no comercial.
 
 ---
 
@@ -257,71 +260,76 @@ Texto de ancla: "hablar con un especialista" — enlaza a la página de contacto
 
 ### Objetivo del artículo
 
-Redactar un artículo de autoridad en español, de entre 2.000 y 2.500 palabras (sin contar la sección FAQ), que posicione a Manager in Motion como referencia en dirección financiera interina en España. El artículo debe educar al CEO o propietario de empresa sobre qué es un director financiero interino, cuándo lo necesita y cómo funciona la misión — y debe hacerlo con datos europeos sólidos y un tono ejecutivo que genere confianza inmediata.
+Redactar un artículo de entre 2.000 y 2.500 palabras que posicione a Manager in Motion como la referencia en interim management financiero ejecutivo en España. El artículo debe educar al decisor, validar su problema con datos europeos y españoles de fuente reconocida, y presentar el CFO interino como la decisión más racional ante una necesidad financiera ejecutiva urgente o estratégica.
 
-### Tono y estilo
+### Tono y voz
 
-- Profesional, ejecutivo y directo. Sin florituras ni introducción genérica.
-- El primer párrafo debe entrar en materia inmediatamente: un dato cuantificado, una situación concreta que el lector reconoce, o una pregunta que articula el problema real.
-- No usar el lenguaje de los consultores genéricos. Escribir como un directivo que conoce el terreno desde dentro.
-- 90% del contenido debe ser de valor informativo genuino. El posicionamiento de Manager in Motion no debe superar el 10% del total del artículo.
-- No comenzar con "En el mundo empresarial actual..." ni variantes similares.
-- No listar keywords de forma artificial. El posicionamiento de términos debe ser orgánico y fluido.
+- Tono: directo, ejecutivo, sin condescendencia. El lector es un CEO o propietario de empresa.
+- Evitar jerga académica, eufemismos, lenguaje corporativo vacío y superlativos sin respaldo.
+- No comenzar con "En el mundo empresarial actual..." ni con definiciones de diccionario. Empezar con el dato de impacto (+103%) o con una pregunta retórica concreta que el lector se haga en su propia situación.
+- Primera persona del plural ("en Manager in Motion...") exclusivamente en los CTA.
+- Sin emojis, sin listas de puntos excesivas, sin titulares clickbait.
 
-### Datos obligatorios a integrar en el artículo (con atribución explícita a la fuente)
+### Extensión
 
-- Crecimiento del 103% interanual en la demanda de CFOs interinos en Europa — Heidrick & Struggles Talent Lens Survey 2026
-- El 51% de todas las solicitudes de liderazgo interino en el Reino Unido corresponde a la función financiera — Heidrick & Struggles 2026
-- El 98% de los expertos y directivos en España identifica la escasez de talento directivo como el primer freno a la productividad — PwC España 2026
-- La función financiera es la más demandada en interim management en Francia, Alemania y Reino Unido (datos cruzados del informe)
-- El mercado alemán de interim management alcanzó un volumen récord de 2.700 millones de euros en 2026 con una tarifa media de 1.317 euros/día — DDIM Marktstudie 2026
-- El 44% de las empresas españolas ha redefinido sus planes de crecimiento en 2026 — KPMG España / CEOE 2026
+Entre 2.000 y 2.500 palabras. Densidad informativa alta: cada párrafo debe aportar un dato, un argumento o una distinción útil.
 
-### Integración de keywords (obligatorio, sin keyword stuffing)
+### Integración de keywords (obligatorio)
 
-- `director financiero interino`: keyword principal. Debe aparecer en el H1, en el primer párrafo del artículo, en al menos un H2 y un mínimo de 5 veces en el cuerpo del texto.
-- `CFO interino` y `directivo financiero de transición`: variantes semánticas. Alternar con la keyword principal para evitar repetición mecánica. Cada uno debe aparecer al menos 3 veces.
-- `interim management` e `interim manager`: términos de marca esenciales para el posicionamiento de Manager in Motion. Integrar un mínimo de 3 veces cada uno a lo largo del artículo, de forma contextualmente natural.
-- No repetir ninguna keyword más de una vez en el mismo párrafo.
-- Densidad máxima permitida para cualquier término: 2%.
+- `CFO interino`: mínimo 6-8 apariciones. Debe aparecer en el H1, en el primer párrafo y en al menos tres H2.
+- `director financiero interino` / `director financiero temporal`: 3-4 menciones combinadas.
+- `interim management`: mínimo 3 menciones integradas con naturalidad.
+- `interim manager`: mínimo 3 menciones.
+- No superar densidad del 2% para ningún término individual. Prohibido el keyword stuffing.
 
-### Estructura obligatoria del artículo
+### Datos obligatorios a integrar (con atribución exacta)
 
-Seguir estrictamente el orden de H2/H3 definido en el esquema de estructura de este brief. No alterar el orden salvo justificación narrativa sólida.
+- +103% de crecimiento en demanda de CFOs interinos en Europa — Heidrick & Struggles, Talent Lens 2026
+- 51% de todas las solicitudes de liderazgo interino en UK corresponden a la función financiera — Heidrick & Struggles, Talent Lens 2026
+- 98% de directivos españoles señalan la escasez de talento directivo como freno a la productividad — PwC España
+- Mercado alemán de interim management: 2.700 millones de euros, tarifa media 1.317 euros/día — DDIM Marktstudie 2026
+- 44% de empresas españolas ha redefinido sus planes de crecimiento — KPMG España, Perspectivas 2026
+- Modelo "try-before-you-buy" crece entre un 30% y un 35% en 2026 en UK — Heidrick & Struggles, Talent Lens 2026
+- No incluir datos sin fuente aunque sean verosímiles.
 
-Estructura narrativa: problema (escasez estructural de CFOs) — definición y distinción (qué es y qué no es un CFO interino) — casos de uso (las seis situaciones) — perfil (qué buscar) — coste y ROI — metodología (cómo funciona la misión en fases) — posicionamiento de Manager in Motion — FAQ — CTA.
+### Estructura narrativa
+
+Seguir el orden definido en el esquema H2/H3: definición y distinción — cinco casos de uso — validación europea — ecuación económica — cómo seleccionar — FAQ — conclusión y CTA.
+
+No alterar el orden de los H2 definidos salvo justificación narrativa clara.
 
 ### Sección FAQ
 
-Redactar las 7 preguntas y respuestas definidas en el apartado "Oportunidades FAQ" de este brief. Cada respuesta debe tener entre 60 y 120 palabras. Tono directo, sin ambigüedad, orientado a resolver la duda real del decisor. No usar las respuestas para vender, sino para informar con precisión.
+Redactar las 6 preguntas y respuestas definidas en el apartado Oportunidades FAQ de este brief. Cada respuesta: entre 2 y 4 frases. Tono directo. No ampliar más allá de lo necesario para un fragmento destacado de Google.
 
-### Formato de entrega — archivo Word (.docx)
+### Lo que este artículo NO debe hacer
 
-Generar el artículo completo en `/home/user/mimo-seo/output/agent3_article.docx` con los siguientes estilos de Microsoft Word aplicados:
+- No explicar el interim management desde cero como si el lector no hubiera oído hablar de él
+- No listar servicios de Manager in Motion de forma comercial explícita fuera de los CTA
+- No usar titulares del tipo "En este artículo te contamos..." o "Descubre todo sobre..."
+- No repetir la misma idea en dos H2 consecutivos
+- No cerrar párrafos con frases de relleno: "Como hemos visto...", "En definitiva...", "En resumen..."
+- No usar expresiones vacías: "en el entorno actual", "las empresas que quieran sobrevivir", "es fundamental que las organizaciones"
+- No mencionar competidores por nombre
 
-- Título del artículo (H1): estilo "Titulo 1" o "Heading 1"
-- Cada H2: estilo "Titulo 2" o "Heading 2"
-- Cada H3: estilo "Titulo 3" o "Heading 3"
-- Cuerpo del texto: estilo "Normal"
-- Preguntas de la sección FAQ: estilo "Heading 3" en negrita
-- Respuestas de la FAQ: estilo "Normal"
-- CTA final: párrafo en bloque diferenciado, estilo "Cita intensa" o "Intense Quote" si está disponible en la librería de estilos de python-docx; si no, párrafo en cursiva con borde izquierdo
-- Pie del artículo con nota de fuentes: estilo "Normal" en cursiva
-- No incluir imágenes ni placeholders de imagen en el documento
-- El documento debe estar listo para revisión editorial y publicación directa en WordPress u otro CMS
+### Diferenciación respecto a la competencia editorial existente
 
-### Lo que el artículo NO debe hacer
+Los artículos existentes en español sobre "CFO interino" son generalistas, breves y no utilizan datos de mercado europeo. El artículo de Manager in Motion debe ser el más específico, el más respaldado por datos y el más orientado a la toma de decisión que existe en español sobre este tema. La ventaja competitiva es la combinación de visión europea (datos UK/FR/DE) con conocimiento del mercado español.
 
-- No comenzar el primer párrafo con una definición de diccionario de "director financiero interino".
-- No listar servicios de Manager in Motion de forma comercial explícita en el cuerpo del artículo.
-- No mencionar a Manager in Motion más de 3 veces fuera de la sección de posicionamiento y los CTAs.
-- No incluir afirmaciones sin respaldo de datos o fuente atribuida.
-- No superar las 2.500 palabras en el cuerpo del artículo (la sección FAQ no cuenta en este límite).
-- No usar expresiones vacías como "en el entorno empresarial actual", "las empresas que quieran sobrevivir" o "es fundamental que las organizaciones adapten".
-- No cerrar párrafos con frases de relleno del tipo "como hemos visto" o "en definitiva".
-- No mencionar competidores por nombre.
+### Formato de entrega
+
+Generar el archivo `/home/user/mimo-seo/output/agent3_article.docx` con los siguientes estilos de Word aplicados:
+- H1: estilo "Titulo 1" (Heading 1)
+- H2: estilo "Titulo 2" (Heading 2)
+- H3: estilo "Titulo 3" (Heading 3)
+- Párrafos: estilo "Normal"
+- Preguntas FAQ: Heading 3; respuestas en estilo "Normal"
+- CTA principal: bloque final diferenciado, negritas en la llamada a la acción
+- Metadatos SEO (título, meta descripción, slug) al inicio del documento en tabla o sección claramente delimitada antes del H1
+- Sin imágenes ni placeholders de imagen en el documento
+- Listo para revisión editorial y publicación directa en WordPress u otro CMS
 
 ---
 
-*Brief generado el 29 de junio de 2026 por el Agente Estratega SEO — Manager in Motion.*
+*Brief generado el 29 de junio de 2026 por el Agente 2 — Estratega SEO de Manager in Motion.*
 *Basado en el Informe de Inteligencia de Mercado del Agente 1 (29 de junio de 2026).*
