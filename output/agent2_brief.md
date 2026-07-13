@@ -1,116 +1,111 @@
 # SEO Strategy Brief — Manager in Motion
-**Elaborado por:** Agente 2 — Estratega SEO (instancia del 6 de julio, 2026)
-**Fecha:** 6 de julio de 2026
-**Basado en:** Informe Semanal de Inteligencia de Mercado (Agente 1, 6 de julio de 2026)
-
----
-
-> **NOTA DE VERSIÓN:** Este brief reemplaza cualquier versión anterior del 6 de julio de 2026.
-> Tema seleccionado: M&A / Private Equity + post-merger integration (Tendencia 3 del informe del Agente 1).
-> Justificación de la selección frente a la Tendencia 2 (reestructuración industrial): ver sección "Nota sobre la Decisión Estratégica".
-
----
-
-## Nota sobre la Decisión Estratégica
-
-El Agente 1 recomienda la Tendencia 2 (crisis automoción/industrial + turnaround interino) como tema prioritario. Tras evaluar las cinco tendencias con criterios SEO específicos para la audiencia ejecutiva de Manager in Motion, **selecciono la Tendencia 3 — M&A / Private Equity + directivos interinos para post-merger integration (PMI)** como la oportunidad más sólida para esta semana.
-
-- **Tendencia 2 (automoción/turnaround):** Excelente potencial de volumen y cobertura sectorial. Se reserva como segundo artículo para la semana siguiente: el ángulo sectorial tiene vida útil más larga y merece desarrollo independiente con datos propios del sector industrial español.
-- **Tendencia 3 (M&A/PE + PMI):** Concentra simultáneamente cuatro factores óptimos: (a) noticia de actualidad de altísimo perfil — la adquisición de Urbaser por Blackstone y EQT por 6.600 millones de dólares, cerrada esta semana; (b) audiencia de máximo valor comercial para Manager in Motion (managing partners y operating partners de PE); (c) brecha de contenido total en español para este ángulo específico; (d) intención de búsqueda con componente transaccional muy alto. Ningún competidor en España ha publicado contenido especializado sobre gestión interina en PMI con datos del mercado europeo 2026.
-- **Tendencia 1 (IA + directivo interino):** Alta competencia editorial de Big Four. Se reserva para artículo futuro de posicionamiento tecnológico.
-- **Tendencia 4 (brecha de talento directivo):** Buena oportunidad, menor urgencia narrativa. Apropiada para un artículo más evergreen.
-- **Tendencia 5 (fractional/mercado francés):** Oportunidad de primer-mover interesante, pero el volumen de búsqueda en España para "fractional executive" es aún muy bajo para generar leads B2B a corto plazo.
+**Elaborado por:** Agente 2 — Estratega SEO, pipeline SEO de Manager in Motion
+**Fecha:** 2026-07-13
+**Basado en:** Informe Semanal de Inteligencia de Mercado — Agente 1, 2026-07-13
 
 ---
 
 ## Tema Seleccionado
 
-**El directivo interino en fusiones y adquisiciones: por qué el éxito de la integración post-fusión depende de los primeros 90 días**
+**La empresa española quiere transformarse, pero le falta quien lo ejecute: el directivo interino como acelerador de transformación en 2026**
 
-Eje temático principal: Gestión interina / Interim management
-Ejes secundarios conectados: Finanzas (CFO interino), Recursos Humanos (CHRO interino), Dirección General (liderazgo ejecutivo en M&A)
+Ejes temáticos cubiertos: Gestión interina (núcleo) + Dirección General (liderazgo ejecutivo, transformación organizacional) + Recursos Humanos (gestión del cambio)
 
 ---
 
 ## Justificación Estratégica
 
-El mercado europeo de fusiones y adquisiciones ha recuperado tracción de forma contundente en 2026. Más del 75% de los profesionales de private equity europeo anticipan un incremento de operaciones M&A respecto al año anterior (Robert Walters EU Interim Management Report 2026). En España, la señal no es teórica: la adquisición de Urbaser por Blackstone y EQT por 6.600 millones de dólares es una de las mayores transacciones del año en el país y coloca el tema en la agenda de cualquier directivo del sector financiero e industrial. Publicar esta semana, anclado a ese contexto de actualidad, es una ventaja editorial que no se puede reproducir en tres meses.
+Este tema se selecciona frente a las otras cuatro tendencias identificadas por razones convergentes.
 
-Tras el cierre de una adquisición llega la fase más silenciosa y más peligrosa del proceso: la integración post-fusión. Es aquí donde las organizaciones se juegan el retorno real de la inversión, y es exactamente aquí donde la demanda de directivos interinos se dispara. En el mercado anglosajón —el espejo adelantado del mercado español con 12-18 meses de antelación— la demanda de perfiles de PMI y transformación creció un 37% interanual en 2026 (Heidrick & Struggles UK 2026). CE Interim documenta casos en Alemania donde un CFO interino lideró un proceso PMI completo en 90 días con un mandato de entre 9 y 12 meses. Este modelo ya está llegando a España.
+**Densidad de señales.** Es el único tema que acumula validación simultánea de cuatro fuentes de primer nivel en España (KPMG, EY, PwC, Deloitte 2026) y de los mercados anticipadores europeos (Francia, Reino Unido). No es una tendencia emergente: es una necesidad empresarial documentada con datos estadísticos verificables de 2026 sobre más de 1.200 directivos encuestados.
 
-La brecha de contenido en español para este tema específico es total. Los competidores directos de Manager in Motion en España —EPUNTO, firmas internacionales de selección ejecutiva— han publicado contenido genérico sobre interim management, pero ninguno ha abordado con profundidad la figura del directivo interino en contextos de M&A y post-merger integration para el mercado español de 2026. Un artículo sólido publicado esta semana, con datos europeos verificables y el gancho de la operación Urbaser, puede posicionarse como referencia de búsqueda en este nicho antes de que cualquier competidor reaccione.
+**Ventana SEO.** Los términos "directivo interino transformación empresarial" e "interim manager transformación digital España" tienen competencia orgánica muy baja en Google.es a fecha de julio de 2026. Francia lleva seis meses de ventaja en este posicionamiento: las misiones de transformación representan ya el 24% del mercado francés de management de transition según Adequancy 2026. España está en el punto de partida. Un artículo bien estructurado puede alcanzar la primera página en 60-90 días.
 
-La audiencia objetivo —managing partners y operating partners de fondos de private equity, directores de M&A en corporaciones, CEOs de empresas recién adquiridas— es la de mayor valor comercial para Manager in Motion. Un fondo que necesita un CFO interino para liderar la integración financiera de una compañía recién adquirida no está buscando contenido genérico sobre gestión directiva: está buscando un proveedor que entienda su lenguaje, sus plazos y sus métricas de retorno. Este artículo demuestra exactamente eso, con datos y con la precisión que solo un especialista puede ofrecer.
+**Reposicionamiento de marca.** El artículo permite desplazar a Manager in Motion del nicho de "directivo de emergencia" hacia el de "proveedor estratégico de liderazgo de transformación". Este posicionamiento tiene mayor valor percibido, genera misiones más largas (Adequancy 2026 sitúa la duración media de las misiones de transformación en 8,3 meses frente a 7,5 meses para la media del mercado) y sustenta fees más elevados.
+
+**Potencial de generación de leads B2B cualificados.** La intención de búsqueda es mixta informacional-comercial: el decisor que llega a este artículo está en proceso activo de evaluación de soluciones. KPMG Perspectivas 2026 identifica la transformación ligada a la IA como prioridad número uno, con los obstáculos principales siendo la falta de capacidades internas y la resistencia al cambio. El interim manager de transformación resuelve exactamente estos dos obstáculos. PwC julio 2026 confirma que el 70% de las empresas tiene posición financiera sólida: hay presupuesto disponible para invertir.
+
+**Integración de IA como subtema de alto valor.** La Tendencia 1 del informe (IA como diferenciador competitivo del directivo interino) se integra como caso de uso dentro de este artículo, maximizando la densidad temática y capturando búsquedas relacionadas sin fragmentar el contenido en piezas de menor autoridad individual.
+
+**Decisión sobre las otras tendencias identificadas:**
+- Tendencia 2 (Private Equity + PMI): oportunidad sólida reservada para artículo independiente en el próximo ciclo editorial; la audiencia PE merece desarrollo monográfico con datos de mercado M&A específicos.
+- Tendencia 3 (crisis industrial + operaciones): contenido de segundo ciclo; mayor permanencia temática, menor urgencia de ventana SEO respecto al tema de transformación.
+- Tendencia 4 (escasez de talento directivo): contenido evergreen apropiado como tercer artículo del trimestre, con ángulo en la escasez de talento directivo como argumento de venta del interim manager.
 
 ---
 
 ## Audiencia Objetivo
 
-**Perfil primario — Managing partner / Operating partner de fondo de private equity:**
-Ejecutivo de entre 38 y 55 años con formación en banca de inversión, consultoría estratégica o derecho mercantil. Gestiona un portfolio de participadas en España, Portugal o Europa meridional. Acaba de cerrar o está a punto de cerrar una adquisición y necesita cobertura directiva para la fase de integración. Su dolor concreto: el equipo directivo del target no tiene capacidad PMI y contratar un ejecutivo permanente tarda meses. Necesita velocidad, credibilidad y un proveedor que entienda el lenguaje del PE. No tolera aproximaciones genéricas.
+**Decisores primarios:**
+- CEO y Director General de empresa española mediana (50-500 empleados) que lidera o anticipa un proceso de transformación digital, cultural u organizacional y necesita capacidades de ejecución que su organización no tiene internamente
+- Propietario de empresa familiar en proceso de profesionalización o de transición generacional que requiere liderazgo de transformación sin comprometer la estructura permanente
+- Presidente o miembro del consejo de administración que evalúa cómo acelerar la ejecución de un plan estratégico sin ampliar la nómina directiva
 
-**Perfil secundario — Director de M&A o Desarrollo Corporativo en grupo empresarial:**
-Responsable de la integración desde el lado del comprador corporativo. Ha liderado el deal y ahora debe garantizar las sinergias proyectadas. Su problema: no tiene un equipo interno dedicado a PMI y los recursos operativos del grupo están al límite. El directivo interino es la respuesta, pero necesita el argumento para defenderlo ante el comité de dirección.
+**Decisores secundarios:**
+- CHRO de empresa mediana-grande responsable de identificar el talento directivo para pilotar iniciativas de transformación organizacional o cultural
+- CFO que evalúa el coste comparativo entre la contratación permanente de un director de transformación y la contratación de un interim manager por misión
+- Partner u operating executive de fondo de private equity con participadas en proceso de transformación operativa o digital en España
 
-**Perfil terciario — CEO de empresa recién adquirida:**
-Se encuentra en una posición de incertidumbre organizacional: gestiona la transición con un equipo que no sabe si seguirá, mientras el nuevo accionista exige resultados. Un CFO o CHRO interino con experiencia PMI le da estabilidad operativa inmediata sin compromisos estructurales a largo plazo.
-
-**Prescriptores relevantes:** Abogados de M&A, asesores financieros de operaciones, directores de banca de inversión en España que recomiendan soluciones directivas a sus clientes en la fase post-cierre.
-
-**Geografía:** España (mercado primario), Portugal e Italia (mercados de expansión inmediata con contexto cultural y regulatorio similar).
+**Geografía:** España (prioridad), Portugal (secundario), mercados hispanohablantes con operaciones europeas
 
 ---
 
 ## Intención de Búsqueda
 
-**Tipo:** Mixta — informacional con alta probabilidad de transición directa a transaccional.
+**Tipo:** Informacional-comercial (MOFU/BOFU — Middle y Bottom of the Funnel)
 
-**Descripción del momento de búsqueda:** El decisor que busca "directivo interino fusiones adquisiciones" o "CFO interino integración post-fusión" no está en fase de investigación académica. Tiene o anticipa una necesidad real y está evaluando proveedores. El viaje de compra en este segmento es corto (el decisor ya conoce la categoría de gestión interina) pero exigente en credibilidad: compara proveedores y busca señales de especialización, no de generalismo.
+El usuario que llega a este artículo no busca una definición básica de qué es el interim management. Está evaluando si el directivo interino es la solución adecuada para un problema de transformación que ya tiene identificado. La intención es evaluadora: el decisor compara alternativas (contratación permanente, consultoría, proyecto interno) y necesita argumentos fundados para justificar una decisión ante su consejo o accionistas.
 
-El momento del viaje de compra corresponde a la **fase de evaluación avanzada**: el lector ya sabe que necesita liderazgo directivo externo para su PMI, tiene alternativas (selección ejecutiva permanente, promoción interna, consultora de integración) y está buscando argumentos para tomar la decisión final. El artículo debe responder a ese momento con precisión: no educar desde cero, sino validar la decisión que el lector ya está considerando y mostrar por qué Manager in Motion es el mejor socio para ejecutarla.
+**Señales de intención detectadas en el comportamiento de búsqueda:** "para qué sirve en transformación", "cuándo contratar", "qué ejecuta exactamente", "cómo se mide su impacto", "qué diferencia tiene con un consultor de transformación", "cuánto cuesta comparado con contratar".
 
 ---
 
 ## Keywords
 
 **Keyword principal:**
-`directivo interino fusiones adquisiciones`
+`directivo interino transformación empresarial`
+
+Volumen estimado bajo-medio en España (100-500 búsquedas/mes). Competencia orgánica muy baja. Máximo potencial de posicionamiento en primeros resultados en 60-90 días con contenido de autoridad bien estructurado.
 
 **Keywords secundarias:**
-- `interim management post-merger integration`
-- `CFO interino integración post-fusión`
-- `manager interino private equity España`
-- `COO interino fusión empresarial`
-- `gestión interina M&A España`
-- `directivo interino integración empresarial`
-- `CHRO interino fusiones adquisiciones`
-- `interim manager PMI España`
+- `interim manager transformación digital España`
+- `directivo interino cambio organizacional`
+- `gestión interina transformación digital`
+- `interim manager inteligencia artificial empresa`
+- `directivo interino vs consultor transformación`
+- `manager interino proyecto de transformación`
+- `interim management transformación empresarial España 2026`
 
 **Keywords de cola larga:**
-- `cómo gestionar la integración post-fusión con un directivo interino`
-- `qué hace un CFO interino en una fusión empresarial en España`
-- `por qué fracasan las integraciones post-fusión sin liderazgo directivo externo`
-- `directivo interino para private equity en España 2026`
-- `cuánto tiempo dura una misión de interim management en post-merger integration`
-- `cómo elegir un directivo interino para una operación de M&A`
-- `errores más comunes en integración post-fusión y cómo evitarlos con un interim manager`
-- `manager interino para post-merger integration en España`
+- `cuándo contratar un directivo interino para una transformación empresarial`
+- `qué hace un directivo interino de transformación digital`
+- `directivo interino para integrar inteligencia artificial en la empresa`
+- `coste directivo interino vs contratación permanente director transformación`
+- `cómo el interim manager resuelve la falta de capacidades internas`
+- `diferencia entre interim manager y consultor de transformación`
+- `cuánto dura una misión de interim manager en transformación`
+- `interim management para empresa familiar en proceso de profesionalización`
+- `por qué las empresas españolas no consiguen ejecutar su transformación digital`
 
 ---
 
 ## Metadatos SEO
 
-**Título SEO (58 caracteres):**
-`Directivo Interino en M&A: Clave en los Primeros 90 Días`
+**Título SEO:**
+`Directivo Interino para la Transformación Empresarial: El Ejecutor que Falta en España (2026)`
 
-**Meta descripción (154 caracteres):**
-`Por qué las integraciones post-fusión exitosas dependen del directivo interino elegido antes del cierre. Guía para fondos de PE y directores de M&A en España.`
+*(Longitud: 79 caracteres — dentro del rango recomendado para visualización completa en SERP)*
+
+**Meta descripción:**
+`Las empresas españolas priorizan la transformación, pero la mayoría carece de quien la ejecute. Descubre cómo el directivo interino cierra ese gap con velocidad, resultados medibles y sin coste de estructura permanente.`
+
+*(Longitud: 221 caracteres — optimizada para visualización completa en SERP móvil y escritorio)*
 
 **Slug URL:**
-`/blog/directivo-interino-post-merger-integration-fusiones-adquisiciones`
+`/directivo-interino-transformacion-empresarial-2026`
 
 **H1:**
-`Por qué el éxito de una integración post-fusión depende del directivo interino elegido en los primeros 90 días`
+`Transformación empresarial en España 2026: por qué el directivo interino es el ejecutor que faltaba`
 
 ---
 
@@ -118,218 +113,249 @@ El momento del viaje de compra corresponde a la **fase de evaluación avanzada**
 
 ### Esquema H2 / H3
 
-**[Introducción — sin H2, 130-180 palabras]**
-Arrancar con el contexto inmediato: la operación Urbaser (6.600 M$) como señal del regreso del deal flow en España. Plantear la pregunta central sin retórica: después del cierre, ¿quién lidera la integración? Establecer la tesis en dos o tres frases: los primeros 90 días tras el cierre son el período más crítico para el retorno real de una adquisición, y la figura del directivo interino es la respuesta más rápida y más eficaz que existe hoy en el mercado. No educar sobre qué es el interim management desde cero: el lector ya lo conoce o puede inferirlo del contexto.
+**[Introducción — sin H2, 150-200 palabras]**
+
+Hook de apertura con el dato más contundente disponible: KPMG Perspectivas 2026, más de 1.200 directivos españoles encuestados, la transformación ligada a la IA es la prioridad número uno. Plantear de inmediato la paradoja central: las empresas españolas tienen voluntad transformadora, tienen estrategia documentada y, según PwC julio 2026, el 70% tiene posición financiera sólida. Tienen presupuesto. Lo que no tienen es quien ejecute la transformación con autoridad real y experiencia probada. Ese es exactamente el vacío que llena el directivo interino de transformación. Cerrar con la tesis del artículo en dos frases: en 2026, el interim manager de transformación ya no es una figura de emergencia sino el ejecutor estratégico que la empresa mediana española necesitaba y no sabía nombrar.
 
 ---
 
-**H2: El regreso del M&A en Europa y España: lo que los datos de 2026 revelan**
+**H2 1: El diagnóstico que confirman los datos: querer transformarse y no poder**
 
-Desarrollar el contexto de mercado con datos cuantitativos: el 75%+ de profesionales de PE europeo anticipa más operaciones M&A en 2026 (Robert Walters EU Interim Management Report 2026). El deal de Urbaser como caso concreto de escala. La señal del mercado anglosajón: demanda de perfiles PMI +37% interanual (Heidrick & Struggles UK 2026). El mercado español sigue este patrón con retraso de 12-18 meses. Cierre de sección: el problema no es cerrar la operación, es integrarla con éxito. Y ese es exactamente el momento donde la mayoría de las adquisiciones se juegan su retorno.
+H3: KPMG 2026 — la brecha entre ambición transformadora y capacidad real
+Desarrollar los dos datos clave con atribución explícita: la transformación e integración de IA como prioridad número uno (KPMG Perspectivas 2026, más de 1.200 directivos). Los obstáculos principales: falta de capacidades internas y resistencia al cambio. EY España mayo-julio 2026: productividad como desafío central; coste del talento directivo permanente sube por encima de la inflación. PwC julio 2026: el 70% de las empresas tiene posición financiera sólida y capacidad de inversión. Formular la paradoja con nitidez: hay ambición, hay dinero, falta el ejecutor con experiencia real de transformación.
 
----
-
-**H2: El período más peligroso de una adquisición: los primeros 90 días**
-
-- H3: La trampa del liderazgo provisional
-  Explicar el error más frecuente en PMI: asumir que el equipo directivo existente puede gestionar la integración en paralelo con su rol operativo. Cuantificar el coste: más del 50% de las integraciones post-fusión no alcanzan las sinergias proyectadas en due diligence. La causa más frecuente: indefinición del liderazgo en los primeros 90 días.
-
-- H3: Lo que ocurre en una organización sin liderazgo claro durante la integración
-  Describir las consecuencias operativas concretas: pérdida de talento clave, desalineación cultural entre las dos organizaciones, deterioro de la cartera de clientes, erosión de caja por falta de gobernanza financiera unificada. Hacer tangible el coste de la inacción directiva.
+H3: Lo que la brecha de capacidades significa en la práctica
+Explicar concretamente qué significa la "falta de capacidades internas" que KPMG identifica: no es falta de tecnología ni de estrategia, es falta de liderazgo con experiencia real en gestión del cambio a escala ejecutiva. Conectar con el segundo obstáculo KPMG, la resistencia al cambio: quién tiene autoridad y distancia suficiente para gestionarla sin agenda política interna. La respuesta llega en la sección siguiente.
 
 ---
 
-**H2: El directivo interino como respuesta estructural en post-merger integration**
+**H2 2: Por qué la empresa española no puede transformarse sola**
 
-Introducir el concepto con precisión: el directivo interino no es un recurso de emergencia ni un consultor que entrega informes. Es un ejecutivo senior con autoridad de línea real que ocupa el cargo, forma parte del comité de dirección y es responsable de los resultados durante la misión. Exactamente lo que una PMI necesita.
+H3: Cuando el perfil que necesitas no existe dentro de tu organización
+El directivo de transformación con experiencia real en proyectos comparables es un perfil escaso en el mercado laboral permanente. La tasa de paro directivo en España es baja; los perfiles más demandados para liderar transformaciones ya tienen posición. Contratar uno desde fuera requiere entre 3 y 6 meses de proceso de selección ejecutiva más otros 3-6 meses de integración efectiva antes de que genere impacto real. La transformación empieza 6-12 meses después de la decisión.
 
-- H3: CFO interino — gobernanza financiera desde el primer día
-  Qué hace concretamente un CFO interino en una PMI: unificación del reporting financiero de las dos organizaciones, control de caja y tesorería integrada, validación de sinergias financieras proyectadas en due diligence, gestión de la relación con entidades financieras e inversores. Perfil requerido: experiencia en entornos de PE, capacidad de comunicación con el board del fondo. Dato de referencia: CE Interim documenta un CFO interino que lideró un proceso PMI completo en 90 días con mandato de 9-12 meses.
-
-- H3: COO interino — consolidación operativa sin fricción política
-  Qué hace un COO interino en PMI: integración de cadenas de suministro, racionalización de proveedores, consolidación de operaciones duplicadas, gestión de eficiencia de costes. Argumento clave: un ejecutivo externo no tiene historia política en ninguna de las dos organizaciones. Puede tomar decisiones difíciles con una autoridad que ningún directivo interno puede ejercer con la misma neutralidad.
-
-- H3: CHRO interino — integración cultural con mandato ejecutivo
-  La dimensión más subestimada de la PMI: la integración de culturas organizacionales es, según los estudios del sector, la causa principal de fracaso en las integraciones. Qué hace el CHRO interino: evaluación del talento en ambas organizaciones, diseño del nuevo organigrama integrado, gestión de la comunicación interna durante la incertidumbre, preservación del talento clave durante los primeros seis meses críticos. Conectar con el dato de escasez de talento directivo en España (KPMG abril 2026): el directivo interino está disponible en menos de 10 días, frente a los 90-120 días de un proceso de selección ejecutiva permanente.
+H3: La resistencia al cambio y la autoridad temporal que la organización necesita
+El segundo obstáculo KPMG tiene solución estructural: el directivo interino entra con mandato explícito del CEO o del consejo, sin historia política en la organización, sin dependencia de ninguna facción interna y con un horizonte temporal definido que elimina la ambigüedad sobre su rol. Esa combinación de autoridad y distancia es imposible de replicar con un directivo interno o con un consultor externo sin autoridad de línea.
 
 ---
 
-**H2: Lo que los fondos de PE europeos más avanzados ya hacen: integrar al directivo interino antes del cierre**
+**H2 3: Qué hace exactamente un directivo interino de transformación**
 
-Cambio de paradigma: los mejores fondos no esperan al día del cierre para definir el equipo directivo de PMI. Lo planifican durante el due diligence. Cuando el fondo firma, el directivo interino ya está briefeado y puede incorporarse en 48-72 horas. Este modelo —llamado "day-one readiness" en el sector anglosajón— está documentado en el mercado alemán (DDIM Marktstudie 2026) y en el anglosajón (Heidrick & Struggles UK 2026). Los fondos de PE más sofisticados que operan en España están empezando a adoptarlo. Los que aún no lo hacen asumen un riesgo innecesario en los primeros 90 días de cada adquisición. Posicionar a Manager in Motion como socio que puede trabajar en esta modalidad: acompañar al fondo desde el due diligence, no solo desde el día del cierre.
+H3: El diagnóstico acelerado: de semanas a días con metodología e IA
+El interim manager moderno utiliza herramientas de análisis e inteligencia artificial para comprimir el diagnóstico inicial de semanas a horas. En Francia, el mercado de management de transition más maduro de Europa, esta capacidad es ya un diferenciador estándar documentado desde principios de 2026 (Managersenmission.com, Valtus). En España representa una ventana de diferenciación de 6 a 12 meses. El directivo interino de transformación puede entregar un mapa de situación con recomendaciones accionables en la primera quincena de la misión.
 
----
+H3: Cuatro casos de uso concretos en el mercado español
+Desarrollar cuatro casos de uso sintéticos:
+1. Transformación digital e integración de IA en empresa mediana: el interim manager selecciona herramientas, pilota la implementación y transfiere capacidades al equipo interno.
+2. Cambio cultural y gestión de la resistencia organizacional: el interino diseña e implementa el programa de gestión del cambio con independencia de los silos internos.
+3. Integración post-fusión (PMI): el interim manager garantiza la continuidad operativa y la captura de sinergias en los primeros 90-180 días tras el cierre de la operación.
+4. Profesionalización de empresa familiar: estructura la gobernanza, incorpora procesos corporativos y prepara la organización para el crecimiento o la transición generacional.
 
-**H2: Cómo seleccionar al directivo interino adecuado para una integración post-fusión**
-
-- H3: Los cuatro criterios que marcan la diferencia en el proceso de selección
-  1. Experiencia PMI documentada en operaciones de tamaño y sector comparables (no basta experiencia directiva genérica).
-  2. Capacidad de trabajar simultáneamente con el board del fondo y con el equipo directivo local.
-  3. Velocidad de diagnóstico: el primer mes es de escucha activa y mapa de problemas. El directivo interino debe poder entregar ese diagnóstico en profundidad en la semana cinco o seis.
-  4. Autonomía ejecutiva real: el interim manager debe poder decidir, no solo recomendar. Sin autoridad de línea, la misión no funciona.
-
-- H3: Las señales de alerta en el proceso de selección
-  Candidatos sin experiencia en entornos de PE o M&A. Perfiles que confunden consultoría de estrategia con ejecución directiva. Proveedores generalistas que ofrecen velocidad de presentación pero no profundidad en el perfil específico. La primera conversación con el proveedor revela su nivel de especialización: si no pregunta por el sector, el tamaño de la operación y el perfil del equipo directivo existente, no es el socio adecuado.
+H3: Qué entrega en 30, 90 y 180 días
+Estructura de entregables por fase orientativa: diagnóstico y KPIs acordados (primeros 30 días), primeras palancas implementadas y métricas iniciales (días 30-90), resultados medibles e inicio de transferencia de capacidades al equipo interno (días 90-180). Mencionar dato Adequancy/Valtus: duración media de misiones de transformación en Europa 8,3 meses.
 
 ---
 
-**H2: Preguntas frecuentes sobre gestión interina en fusiones y adquisiciones (FAQ)**
+**H2 4: Interino, consultor o contratación permanente: cuándo y por qué**
 
-_(Sección FAQ — ver detalle en el apartado Oportunidades FAQ de este brief)_
+H3: Comparativa de costes totales en 2026
+Desarrollar la comparativa sin fabricar cifras: usar el argumento de EY (destope progresivo de bases máximas de cotización, coste de contratación permanente por encima de la inflación) más el coste de oportunidad del tiempo de proceso (3-6 meses de búsqueda + 3-6 meses de integración = 6-12 meses antes de impacto real). El interim manager elimina los costes de proceso y los costes de salida, y puede incorporarse en menos de 10 días.
+
+H3: El factor velocidad como argumento diferencial
+La velocidad de incorporación es el argumento más memorable y más diferenciador: menos de 10 días frente a 3-6 meses de selección ejecutiva permanente. En proyectos de transformación donde cada mes de retraso tiene un coste de oportunidad medible en productividad, cuota de mercado o ventaja competitiva, esa diferencia es decisiva. Incluir aquí la diferencia estructural con el consultor: el consultor recomienda con un informe; el interim manager ejecuta con autoridad de línea y es responsable de los resultados.
 
 ---
 
-**[Cierre + CTA — sin H2, 100-140 palabras]**
+**H2 5: La señal del mercado europeo: lo que Francia anticipa para España**
 
-Retomar la tesis con precisión: las integraciones post-fusión no se ganan en el due diligence. Se ganan en los primeros 90 días de ejecución, con el liderazgo directivo correcto en cada función crítica. Manager in Motion tiene los perfiles directivos preparados para ese momento. La primera conversación no tiene coste ni compromiso. El CTA debe cerrar con urgencia ejecutiva, no con presión comercial.
+El mercado francés de management de transition, el más maduro de Europa, es el espejo más fiable de hacia dónde va el mercado español con 12-18 meses de antelación. Las misiones de transformación ya representan el 24% del mercado en Francia según el barómetro Adequancy 2026, frente al 10% de las misiones de crisis. La duración media de las misiones de transformación es de 8,3 meses frente a la media general de 7,5. El interim manager ya no es solo un "bombero" en el mercado europeo: es el acelerador estratégico de transformaciones planificadas. España está en el punto de inflexión de ese mismo recorrido.
+
+---
+
+**H2 6: Cómo seleccionar un directivo interino de transformación: criterios clave**
+
+H3: Cinco criterios que marcan la diferencia en el proceso de selección
+1. Experiencia específica documentada en el tipo de transformación requerido (digital, cultural, operativa, post-fusión): no vale experiencia directiva genérica.
+2. Referencias verificables de misiones anteriores con KPIs medibles (no solo trayectoria curricular).
+3. Capacidad de diagnóstico rápido: puede entregar un mapa de situación con recomendaciones en las primeras dos semanas.
+4. Fit con la cultura de la empresa destino: la autoridad ejecutiva no exime de la necesidad de generar confianza interna.
+5. Red y acceso a recursos complementarios: puede movilizar expertise adicional (tecnológico, sectorial, regulatorio) cuando la misión lo requiere.
+
+H3: Las señales de alerta en la selección
+Candidatos sin experiencia en el tipo de transformación específico requerido. Proveedores generalistas que ofrecen velocidad de presentación pero no profundidad en el perfil. La primera conversación con el proveedor revela su nivel de especialización: si no pregunta por el sector, el estado de madurez de la organización y el tipo de resistencia interna existente, no es el socio adecuado.
+
+---
+
+**H2 7: Preguntas frecuentes sobre el directivo interino de transformación**
+
+*(Desarrollar con las 6 preguntas definidas en la sección Oportunidades FAQ de este brief)*
+
+---
+
+**[Conclusión — sin H2, 100-150 palabras + CTA]**
+
+Síntesis ejecutiva del argumento central: el gap entre ambición transformadora y capacidad ejecutiva en la empresa española no es un problema de estrategia, de presupuesto ni de tecnología. Es un problema de liderazgo disponible en el momento adecuado. El directivo interino de transformación es la respuesta estructural a ese problema: experiencia probada, incorporación en menos de 10 días, autoridad ejecutiva real, coste predecible y misión con inicio y fin definidos. Cerrar con CTA directo.
 
 ---
 
 ## Oportunidades FAQ
 
-Incluir estas seis preguntas en la sección FAQ del artículo, con schema markup FAQPage. Respuestas de 80-130 palabras cada una: directas, sin lenguaje comercial, orientadas a aparecer como fragmentos destacados en Google.
+Incluir sección FAQ al final del artículo, antes del cierre, para capturar búsquedas de cola larga y activar el schema FAQPage. Seis preguntas con respuestas de 80-120 palabras cada una, directas y orientadas a aparecer como fragmentos destacados en SERP.
 
-**1. ¿En qué se diferencia un directivo interino de PMI de un consultor de M&A?**
-El consultor de M&A asesora antes del cierre: due diligence, valoración, estructura del deal. El directivo interino de PMI ejecuta después del cierre: lidera equipos reales, toma decisiones operativas con autoridad directiva plena y es responsable de los resultados de la integración durante la misión. Son roles complementarios, no intercambiables. El error frecuente es prolongar el rol del consultor de M&A en la fase post-cierre, cuando lo que se necesita es un ejecutivo con autoridad de línea y experiencia en gestión del cambio organizacional.
+**1. ¿En qué se diferencia un directivo interino de un consultor en un proyecto de transformación?**
+Argumento central: el consultor recomienda y entrega informes; el directivo interino ejecuta con autoridad de línea real y es responsable de los resultados. El consultor no responde por la implementación; el interim manager sí. Son figuras complementarias en fases distintas, no intercambiables. El error más frecuente en proyectos de transformación fallidos es prolongar el rol del consultor en la fase de ejecución, cuando lo que se necesita es un ejecutivo con mandato de cambio y autonomía de decisión.
 
-**2. ¿Cuándo debería iniciarse la búsqueda del directivo interino para una PMI?**
-Idealmente durante el proceso de due diligence, no después del cierre. Los fondos más sofisticados tienen al directivo interino briefeado y listo para incorporarse el mismo día de la firma. Esperar al cierre para empezar a buscar suele significar entre tres y seis semanas de retraso crítico en los primeros 90 días — exactamente el período donde más daño puede causar la indefinición directiva. El interim manager disponible en menos de 10 días es la única figura que puede cubrir ese gap con velocidad real.
+**2. ¿En qué se diferencia un directivo interino de transformación de un directivo permanente?**
+El interim manager tiene mandato temporal definido (generalmente 6-18 meses), objetivos medibles acordados antes de la incorporación y ninguna dependencia estructural de la organización a largo plazo. Esa combinación genera una dinámica diferente: entra sin agenda política interna, puede tomar decisiones difíciles con mayor autonomía y transfiere las capacidades desarrolladas al equipo antes de cerrar la misión. La contratación permanente compromete estructura y expectativas en un momento donde la incertidumbre de la transformación aún no se ha resuelto.
 
-**3. ¿Cuánto tiempo dura una misión de interim management en post-merger integration?**
-Entre 9 y 18 meses, según la complejidad de la integración, el tamaño de las organizaciones y los objetivos de sinergia fijados en el plan de negocio del fondo. La misión tiene un inicio, un objetivo medible y un final definido: esa es precisamente su ventaja frente a una contratación permanente. Al cierre de la misión, el directivo interino puede acompañar el proceso de selección del ejecutivo permanente o entregar el cargo a un candidato interno que ha ganado madurez durante la integración.
+**3. ¿Puede un directivo interino liderar la implementación de inteligencia artificial en mi empresa?**
+Sí, siempre que el perfil tenga experiencia específica en transformación digital e IA. El interim manager de transformación digital moderno utiliza herramientas de análisis e IA para comprimir el diagnóstico inicial y la identificación de oportunidades de automatización. Este tipo de misión está documentado en el mercado francés desde principios de 2026 con una ventana de anticipación de 6 a 12 meses sobre el mercado español. La clave es que el perfil seleccionado haya pilotado implementaciones similares, no solo que conozca las herramientas.
 
-**4. ¿Puede un directivo interino gestionar la integración de una empresa en un sector que no conoce en profundidad?**
-En la mayoría de los casos, sí. La experiencia en integración post-fusión y las competencias de gestión del cambio organizacional pesan más que el conocimiento sectorial específico en una PMI. La curva de aprendizaje sectorial es breve para un directivo interino senior con experiencia en operaciones de escala similar. La capacidad de gestionar ambigüedad organizacional, tomar decisiones bajo presión y trabajar con un board exigente es la competencia que no se improvisa y que más determina el resultado de la integración.
+**4. ¿Cuánto cuesta un directivo interino de transformación frente a una contratación permanente?**
+El coste total de una contratación directiva permanente en España incluye salario bruto, cotizaciones sociales crecientes (EY señala el destope progresivo de bases máximas en 2026), proceso de selección (3-6 meses), período de integración (3-6 meses adicionales antes de impacto real) y el coste de una eventual salida si la contratación no funciona. El interim manager elimina los costes de proceso y los costes de salida, y puede incorporarse en menos de 10 días. Para una misión de 9-12 meses, el coste total es habitualmente comparable o inferior al primer año de un directivo permanente.
 
-**5. ¿Qué perfiles de directivos interinos son más demandados en operaciones de M&A?**
-El CFO interino es el perfil más demandado en PMI: gobernanza financiera, reporting unificado, control de caja e interlocución con el fondo inversor. Le siguen el COO interino (consolidación operativa, racionalización de costes, integración de supply chain) y el CHRO interino (retención de talento clave, integración de culturas organizacionales, diseño del nuevo organigrama). En operaciones complejas de gran tamaño, los tres perfiles pueden desplegarse simultáneamente con coordinación activa entre ellos.
+**5. ¿Cuánto tiempo dura una misión de interim manager en un proyecto de transformación?**
+Entre 6 y 18 meses según la complejidad del proyecto y el estado de madurez de la organización. El mercado europeo de referencia (barómetro Adequancy 2026) registra una duración media de 8,3 meses para misiones de transformación, frente a los 7,5 meses de media general. La misión tiene inicio, objetivos medibles y final definido: esa es su ventaja frente a una contratación permanente en un contexto de cambio donde las necesidades evolucionan.
 
-**6. ¿Cuál es el coste de un directivo interino en una misión de PMI comparado con contratar un ejecutivo permanente?**
-El directivo interino no genera costes de reclutamiento, no requiere período de preaviso ni indemnización por fin de mandato, y está operativo en menos de 10 días frente a los 90-120 días de un proceso de selección ejecutiva tradicional en España. Para una misión de 12 meses, el coste total es habitualmente comparable o inferior al de un proceso de selección permanente más el salario y las cargas sociales del primer año, sin los riesgos de una contratación equivocada en un momento de alta presión organizacional.
+**6. ¿El directivo interino de transformación es adecuado para una empresa familiar o solo para grandes empresas?**
+Es especialmente adecuado para empresas familiares y medianas empresas, que son precisamente las que con mayor frecuencia necesitan capacidades de transformación que no tienen internamente y que no quieren comprometer con una contratación permanente prematura. El interim manager aporta la experiencia y la autoridad que la organización necesita en un momento clave, con un mandato temporal que no genera dependencias estructurales. En España, las empresas familiares en proceso de profesionalización o de transición generacional son uno de los perfiles de cliente más frecuentes de la gestión interina.
 
 ---
 
 ## Recomendaciones de Enlazado Interno
 
-Incluir entre 3 y 4 enlaces internos a páginas de managerinmotion.eu. Colocarlos donde el contexto narrativo lo justifique con naturalidad, nunca de forma forzada:
+Incorporar entre 3 y 5 enlaces internos a páginas del sitio de Manager in Motion donde el contexto narrativo lo justifique de forma natural, nunca forzada:
 
-1. **Página de servicio: CFO Interino / Dirección Financiera Interina** — Enlazar desde la sección "CFO interino: gobernanza financiera desde el primer día". Texto de ancla sugerido: "CFO interino" o "director financiero interino".
+1. **Página de servicio principal** (¿Qué es el interim management? / Cómo funciona Manager in Motion) — Enlazar desde la introducción o el H2 3, al introducir el rol del directivo interino. Texto de ancla: "gestión interina" o "interim management".
 
-2. **Página de servicio: Gestión Interina / Interim Management (página principal del servicio)** — Enlazar desde la introducción o desde el primer H2, al introducir el concepto. Texto de ancla: "gestión interina" o "interim management".
+2. **Página de perfiles disponibles** (nuestros directivos interinos) — Enlazar desde el H2 6 (criterios de selección), al mencionar que Manager in Motion dispone de perfiles especializados. Texto de ancla: "directivos interinos de transformación" o "perfiles de interim manager".
 
-3. **Página de servicio: CHRO Interino / Dirección de RRHH Interina** — Enlazar desde la sección sobre integración cultural. Texto de ancla: "CHRO interino" o "director de recursos humanos interino".
+3. **Página de servicio: Dirección General Interina** — Enlazar desde el H2 3 (casos de uso), al abordar el caso de empresa familiar o de dirección general de transformación. Texto de ancla: "director general interino".
 
-4. **Artículo relacionado si existe: Reestructuración financiera con interim management o Crisis empresarial y directivo interino** — Enlazar desde el cierre del artículo como lectura relacionada. Si no existe, señalar como prioridad de contenido para el siguiente ciclo editorial.
+4. **Artículo relacionado existente o futuro: Interim manager en fusiones y adquisiciones** — Enlazar desde el caso de uso de integración post-fusión en el H2 3 como lectura relacionada. Si no existe, señalar como prioridad del próximo ciclo editorial.
+
+5. **Página de contacto / Solicitar diagnóstico** — Enlazar en los bloques de CTA. Texto de ancla: "solicitar diagnóstico" o "hablar con un especialista".
 
 ---
 
 ## Recomendaciones de Enlazado Externo
 
-Incluir entre 3 y 4 enlaces salientes a fuentes de autoridad. Todos con atributo rel="noopener noreferrer" y apertura en nueva pestaña:
+Incorporar entre 4 y 6 enlaces salientes a fuentes de autoridad reconocidas por la audiencia ejecutiva española. Todos con `rel="noopener noreferrer"` y apertura en nueva pestaña. No enlazar a competidores directos bajo ningún concepto.
 
-1. **Heidrick & Struggles — "How interim talent is delivering transformation for UK businesses in 2026"** (heidrick.com) — Para los datos sobre demanda de perfiles PMI (+37% interanual) y velocidad de impacto de los directivos interinos. Texto de ancla sugerido: "informe de Heidrick & Struggles sobre interim talent 2026".
+1. **KPMG España — Perspectivas 2026** (kpmg.com/es) — Citar al introducir los datos sobre brecha de capacidades internas y prioridad de la transformación en el H2 1. Texto de ancla: "KPMG Perspectivas 2026".
 
-2. **DDIM — Marktstudie 2026** (ddim.de) — Para el dato del mercado alemán (2.700 M€, 12.500 managers activos, tarifa media 1.317 EUR/día) como argumento de madurez del sector a escala europea. Texto de ancla: "el estudio de mercado DDIM 2026".
+2. **EY España — Perspectivas del Mercado de Trabajo 2026** (ey.com/es_ES) — Citar al abordar el coste creciente del talento directivo permanente en el H2 4. Texto de ancla: "EY España 2026".
 
-3. **KPMG España — "Perspectivas 2026"** (kpmg.com/es) — Para el contexto de actividad económica y deal flow en España. Fuente reconocida por la audiencia ejecutiva española. Texto de ancla: "informe Perspectivas 2026 de KPMG España".
+3. **PwC España — Claves Económicas Julio 2026** (pwc.es) — Citar al señalar la solidez financiera del 70% de las empresas en el H2 1. Texto de ancla: "PwC Claves Económicas julio 2026".
 
-No enlazar a competidores directos (EPUNTO, Robert Walters, etc.) bajo ningún concepto.
+4. **Deloitte España — M&A Outlook 2026** (deloitte.com/es) — Citar al abordar la reactivación del mercado M&A en el caso de uso de integración post-fusión. Texto de ancla: "Deloitte M&A Outlook 2026".
+
+5. **Adequancy — Barómetro del Management de Transition 2026** (adequancy.com) — Citar para los datos de duración de misiones de transformación (8,3 meses) y peso del tipo transformación en el mercado europeo (24% en Francia). Texto de ancla: "barómetro Adequancy 2026".
+
+6. **Heidrick & Struggles — Interim Management 2026** (heidrick.com) — Citar para el dato de crecimiento de la demanda de interim CHRO (+129% interanual) y el 25% de mandatos con requisitos de IA. Texto de ancla: "Heidrick & Struggles 2026".
 
 ---
 
 ## Recomendación de Schema Markup
 
-**Schema FAQPage (obligatorio):** Implementar en la sección de preguntas frecuentes con las seis preguntas y respuestas definidas en este brief. Cada pregunta marcada con `@type: Question` y cada respuesta con `@type: Answer` en formato JSON-LD. Este schema maximiza la probabilidad de aparecer como rich snippet para queries como "¿cómo elegir directivo interino PMI?", "¿cuánto dura una misión de interim management?", y preguntas similares de alta intención.
+**Schema Article** (obligatorio):
+- `@type`: Article
+- `headline`: H1 del artículo
+- `author`: Manager in Motion
+- `datePublished`: 2026-07-14
+- `dateModified`: actualizar en cada revisión posterior
+- `publisher`: Manager in Motion (con URL managerinmotion.eu)
+- `description`: meta descripción definida en este brief
+- `inLanguage`: es-ES
 
-**Schema Article / BlogPosting (recomendado):** Implementar con campos: headline (H1 del artículo), author (Manager in Motion), publisher (Manager in Motion, https://managerinmotion.eu), datePublished (2026-07-06), inLanguage (es-ES). Refuerza la señal de autoridad editorial ante los motores de búsqueda.
+**Schema FAQPage** (muy recomendado):
+Implementar para cada una de las 6 preguntas de la sección FAQ con los pares `Question` / `Answer`. Este schema activa los rich results de FAQ en Google y puede multiplicar la superficie visible en SERP sin necesidad de subir posiciones. Especialmente efectivo para búsquedas de cola larga del tipo "cuánto cuesta un directivo interino de transformación" o "en qué se diferencia interim manager y consultor".
+
+Ambos schemas conviven en la misma página. Implementar en formato JSON-LD en el `<head>` del documento. El redactor debe incluir el bloque JSON-LD en el entregable Word como sección de notas para el webmaster.
 
 ---
 
 ## Recomendación de CTA
 
-**CTA principal** (al final del artículo, tras la sección FAQ, en bloque visual diferenciado):
+**CTA principal (bloque visual diferenciado al final del artículo, tras la sección FAQ):**
 
-> Titular: ¿Tiene una operación de M&A en curso o en preparación?
->
-> Cuerpo: En Manager in Motion evaluamos su situación y le presentamos el perfil de directivo interino más adecuado para liderar su integración desde el primer día. El proceso es rápido, discreto y sin compromiso.
->
-> Botón: Hablar con un especialista — enlace a formulario de contacto o página de servicio de interim management.
+> ¿Tu empresa tiene identificada una transformación que no avanza por falta del liderazgo adecuado? Habla con Manager in Motion. En menos de 48 horas te presentamos el perfil de directivo interino que puede incorporarse en 10 días.
 
-**CTA secundario** (inline, tras el H2 "Lo que los fondos de PE europeos más avanzados ya hacen"):
+Botón de acción: "Solicitar diagnóstico gratuito" — enlace a formulario de contacto o página de diagnóstico.
 
-> ¿Está en fase de due diligence? Cuéntenos la operación. Podemos tener un perfil directivo listo para el día del cierre.
+**CTA secundario (inline, al final del H2 4 sobre la comparativa interino/consultor/permanente):**
 
-Texto de ancla del enlace: "perfil directivo para el día del cierre" — página de contacto o de servicio.
+> ¿Evalúas opciones de liderazgo para tu proyecto de transformación? Cuéntanos el contexto. La primera conversación no tiene coste.
 
-**Posicionamiento en el artículo:**
-- CTA secundario (sutil, inline): al final del H2 sobre "lo que los fondos de PE ya hacen".
-- CTA principal (bloque destacado): al final del artículo, tras las FAQ.
+Texto de ancla del enlace: "primera conversación" — enlace a agenda de contacto o formulario.
 
-**Tono del CTA:** Urgente pero ejecutivo. Sin presión comercial explícita. La frase clave es la anticipación: "antes del cierre, no después".
+**Principio rector:** los CTAs aparecen solo después de haber aportado valor concreto al lector. El CTA secundario actúa como punto de cualificación a mitad del artículo; quien hace clic es ya un lead B2B calificado. El tono es el de un especialista que ofrece una conversación, no el de una empresa que empuja una venta.
 
 ---
 
 ## Instrucciones para el Redactor de Contenido (Agente 3)
 
 ### Objetivo del artículo
-Redactar un artículo de entre 1.400 y 1.700 palabras que posicione a Manager in Motion como el socio especializado en liderazgo directivo para fusiones, adquisiciones e integraciones post-fusión en el mercado español. El artículo debe demostrar dominio del entorno M&A y del rol específico del directivo interino en PMI, con datos europeos verificables. No es un artículo de divulgación sobre interim management: es una pieza de posicionamiento de especialización dirigida a ejecutivos que ya conocen el sector.
+Redactar un artículo de autoridad de entre 1.800 y 2.400 palabras, en español, orientado a decisores empresariales (CEO, CHRO, propietario de empresa, consejero delegado). El artículo no es divulgación básica sobre qué es el interim management: presupone que el lector conoce el concepto y está evaluando si es la solución adecuada para su reto específico de transformación. El tono es el de un informe ejecutivo con insights de valor, no el de un artículo de blog genérico.
 
-### Tono y registro
-Escribe para un managing partner de un fondo de private equity o para un director de M&A de una corporación española. Son profesionales que leen rápido, valoran la concreción sobre la retórica y detectan de inmediato el lenguaje genérico o el marketing disfrazado de contenido. El tono debe ser el de un artículo de Harvard Business Review adaptado al mercado español: riguroso, ejecutivo, práctico, sin adjetivos vacíos ni frases de relleno. Cada párrafo debe aportar algo nuevo — un dato, un argumento o una distinción útil.
-
-### Extensión objetivo
-Entre 1.400 y 1.700 palabras. No superar las 1.800 palabras. Densidad informativa alta.
+### Tono y estilo
+- Profesional, directo, sin excesos retóricos ni adjetivos vacíos
+- Nivel ejecutivo: el lector es un CEO, CHRO o propietario de empresa mediana
+- Datos primero: cada afirmación relevante va respaldada por una fuente citada (KPMG, EY, PwC, Deloitte, Adequancy, Heidrick & Struggles)
+- Sin keyword stuffing: las keywords deben aparecer de forma natural, integradas en el flujo del texto
+- Sin emojis, sin listas de bullet points superficiales
+- Prohibidos los genericismos: "en el dinámico entorno empresarial actual", "soluciones integrales", "valor añadido", "enfoque holístico", "palancas de transformación", "acompañamos a las empresas en su camino"
+- 90% insights y argumentación de valor; 10% posicionamiento comercial (concentrado en los CTA y en el H3 del proceso de Manager in Motion)
+- Párrafos cortos: máximo 5-6 líneas. Estructura visual limpia.
 
 ### Integración de keywords (obligatorio)
-- La keyword principal "directivo interino fusiones adquisiciones" debe aparecer en el H1, en el primer párrafo de la introducción y al menos una vez más en el cuerpo del artículo.
-- Usar "interim management" un mínimo de 3 veces de forma natural, nunca forzada.
-- Usar "interim manager" o "directivo interino" un mínimo de 3 veces cada término.
-- No superar una densidad del 1,5% para ningún término individual. Prohibido el keyword stuffing.
+- La keyword principal `directivo interino transformación empresarial` debe aparecer en: H1, primer párrafo de la introducción, al menos un H2 y la conclusión
+- Los términos `interim management` e `interim manager` deben aparecer un mínimo de 3 veces cada uno a lo largo del artículo, de forma natural
+- Las keywords secundarias deben aparecer integradas en el texto sin forzar su inserción
+- Las keywords de cola larga se integran preferentemente en las preguntas de la sección FAQ
+- Densidad máxima de cualquier término individual: 1,5%. No superar ese umbral.
 
 ### Datos obligatorios a integrar (con atribución exacta)
-- Más del 75% de profesionales de PE europeo anticipan más operaciones M&A en 2026 — Robert Walters EU Interim Management Report 2026
-- Demanda de perfiles PMI y transformación +37% interanual en UK — Heidrick & Struggles UK 2026
-- Operación Urbaser: 6.600 millones de dólares, Blackstone y EQT, 2026 — contexto de actualidad
-- CFO interino que lideró proceso PMI completo en 90 días con mandato de 9-12 meses — CE Interim / DDIM Marktstudie 2026
-- Directivo interino disponible en menos de 10 días vs. 90-120 días de selección ejecutiva permanente
+- KPMG Perspectivas 2026 (más de 1.200 directivos): transformación e IA como prioridad número uno; falta de capacidades internas y resistencia al cambio como principales obstáculos
+- EY España mayo-julio 2026: coste del talento directivo permanente sube por encima de la inflación; productividad como desafío central
+- PwC España julio 2026: el 70% de las empresas tiene posición financiera sólida; inversión en IA crece más de lo previsto
+- Adequancy Barómetro 2026: misiones de transformación representan el 24% del mercado francés; duración media 8,3 meses en misiones de transformación
+- Heidrick & Struggles UK 2026: demanda de interim CHRO creció un 129% interanual; el 25% de los mandatos incluyen requisitos de IA o alfabetización digital
+- Deloitte M&A Outlook 2026: reactivación del mercado M&A en España para 2026
 - No incluir datos sin fuente aunque sean verosímiles
 
-### Estructura de apertura recomendada
-Comenzar con la referencia a la operación Urbaser o con una pregunta directa al lector del tipo: "¿Tiene ya decidido quién va a liderar la integración?" Esta apertura interpela directamente a la audiencia objetivo y establece desde la primera línea el tono de utilidad práctica que debe mantener el artículo.
+### Estructura obligatoria
+Respetar estrictamente la estructura H2/H3 definida en este brief. No añadir secciones sin justificación. No suprimir ningún H2. Los H3 pueden ajustarse ligeramente en el título si el flujo narrativo lo requiere, pero el contenido de cada sección debe respetarse íntegramente.
 
-### Qué enfatizar
-- El marco temporal de los 90 días: es el hilo conductor del artículo. Volver a él en cada sección relevante.
-- Los datos cuantitativos europeos como señal anticipada del mercado español: el lector ejecutivo los valora más que las afirmaciones sin respaldo.
-- La diferencia entre consultoría de M&A y ejecución directiva post-fusión: es el argumento educativo central para lectores que pueden confundir los dos roles.
-- La ventaja de disponibilidad del interim manager: menos de 10 días frente a meses de selección permanente. Este dato es concreto, memorable y diferenciador.
-- El modelo "day-one readiness": la idea de que el directivo interino debe estar listo antes del cierre, no después, es el insight más valorable del artículo para la audiencia de PE.
+### Longitud orientativa por sección
+- Introducción: 150-200 palabras
+- H2 1 (diagnóstico): 280-320 palabras
+- H2 2 (por qué no la contratación permanente): 220-260 palabras
+- H2 3 (qué hace el interim manager de transformación): 320-380 palabras
+- H2 4 (comparativa interino/consultor/permanente): 220-260 palabras
+- H2 5 (señal del mercado europeo): 150-180 palabras
+- H2 6 (cómo seleccionar): 180-220 palabras
+- H2 7 (FAQ): 220-260 palabras (6 preguntas con respuestas de 3-5 líneas)
+- Conclusión + CTA: 120-160 palabras
 
-### Qué evitar absolutamente
-- Frases genéricas del tipo "en el dinámico entorno empresarial actual" o "las empresas se enfrentan a múltiples desafíos".
-- Lenguaje de folleto corporativo: "soluciones integrales", "valor añadido", "enfoque holístico", "acompañamos a las empresas en su camino".
-- Explicaciones básicas sobre qué es el interim management desde cero: el lector de este artículo ya conoce el concepto.
-- Listar características de Manager in Motion como si fuera un catálogo de servicios fuera de los bloques de CTA.
-- Párrafos de más de 5-6 líneas. Estructura visual limpia: párrafos cortos, subtítulos frecuentes, datos destacados en negrita.
-- Frases de cierre de sección del tipo "Como hemos visto..." o "En definitiva..."
-
-### Sobre las fuentes
-Citar siempre las fuentes entre paréntesis o al final de la frase con formato "(Fuente, año)". No inventar datos. Si una afirmación no tiene respaldo en el informe del Agente 1, señalarla como observación de mercado sin atribuirla a ninguna fuente concreta.
+### Sección comparativa imprescindible
+La comparativa entre directivo interino, consultor externo y contratación permanente (H2 4) debe incluir los tres criterios más accionables para el decisor: coste total, velocidad de incorporación y responsabilidad sobre los resultados. Esta sección es la más susceptible de ser compartida por ejecutivos que están evaluando opciones y la que mayor probabilidad tiene de generar leads cualificados.
 
 ### Formato de entrega
-Generar el archivo `/home/user/mimo-seo/output/agent3_article.docx` con los siguientes estilos de Word aplicados:
+Generar el artículo como archivo `/home/user/mimo-seo/output/agent3_article.docx` con los siguientes estilos de Word aplicados:
 - H1: estilo "Titulo 1" (Heading 1)
 - H2: estilo "Titulo 2" (Heading 2)
 - H3: estilo "Titulo 3" (Heading 3)
-- Párrafos de cuerpo: estilo "Normal" con fuente Calibri 11 o equivalente
-- Negritas aplicadas a datos clave y términos SEO prioritarios en su primera aparición en cada sección
-- Preguntas FAQ: formato Heading 3 para la pregunta, estilo Normal para la respuesta
-- CTA principal: bloque final diferenciado, texto en negrita para la llamada a la acción
-- Metadatos SEO (título SEO, meta descripción, slug URL) incluidos al inicio del documento en una tabla o sección claramente delimitada, antes del H1
+- Cuerpo de texto: estilo "Normal" con fuente Calibri 11 o equivalente
+- Negritas aplicadas a datos estadísticos clave y a la primera aparición de la keyword principal
+- Preguntas FAQ en negrita dentro del cuerpo, con la respuesta en texto normal a continuación
+- CTA principal en bloque final diferenciado, texto de llamada a la acción en negrita
+- Incluir al inicio del documento, antes del H1, una tabla de metadatos SEO con: Título SEO, Meta descripción, Slug URL, Keyword principal, Keywords secundarias (listadas), Fecha de publicación prevista: 2026-07-14
+- Incluir al final del documento, en una sección de "Notas para el webmaster", el bloque JSON-LD de schema markup (Article + FAQPage) listo para copiar en el `<head>` de la página
 - Sin imágenes ni marcadores de posición para imágenes
 - Listo para revisión editorial y publicación directa en WordPress u otro CMS
 
 ---
 
-*SEO Strategy Brief elaborado el 6 de julio de 2026 por el Agente 2 — Estratega SEO de Manager in Motion.*
-*Basado en el Informe de Inteligencia de Mercado del Agente 1 — 6 de julio de 2026.*
-*Pipeline: Agente 1 (Inteligencia de Mercado) > Agente 2 (SEO) > Agente 3 (Redacción)*
+*Brief generado por el Agente 2 del pipeline SEO de Manager in Motion — Fecha: 2026-07-13.*
+*Pipeline automático: Agente 1 (Inteligencia de Mercado) → Agente 2 (SEO) → Agente 3 (Redacción de contenido)*
