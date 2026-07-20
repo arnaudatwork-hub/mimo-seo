@@ -1,216 +1,219 @@
-# Informe Semanal de Inteligencia de Mercado — 2026-07-13
+# Informe Semanal de Inteligencia de Mercado — 2026-07-20
 
-**Elaborado por:** Agente 1 — Inteligencia de Mercado, pipeline SEO de Manager in Motion
-**Fecha de ejecución:** 13 de julio de 2026
-**Mercados escaneados:** Francia, Reino Unido, Alemania, España (por orden de prioridad)
+**Manager in Motion | Pipeline SEO Semanal | Agente 1 — Inteligencia de Mercado**
+**Mercados escaneados:** Francia · Reino Unido · Alemania · España
+**Fecha de ejecución:** 20 de julio de 2026
 
 ---
 
-## 1. Top 5 Tendencias
+## 1. TOP 5 TENDENCIAS DE MERCADO
 
-### Tendencia 1: La inteligencia artificial como diferenciador competitivo del directivo interino
+---
 
-**País de origen (FR / UK / DE / ES):** FR (señal anticipada madura); UK (secundario)
+### TENDENCIA 1: El Directivo Financiero Interino como Perfil Más Demandado en Europa
+
+**Tendencia:** CFO / Director Financiero Interino — el perfil más solicitado del mercado interino europeo en 2026.
+
+**País de origen (FR / UK / DE / ES):** UK (señal primaria) — con expansión activa hacia ES.
 
 **Relevancia para la gestión interina:**
-En Francia, el mercado más maduro de Europa en management de transition, la integración de la IA ha dejado de ser un tema periférico para convertirse en un eje central de las misiones en 2026. Empresas como Valtus han integrado IA en su CRM para acelerar el matching de perfiles. Los propios managers de transición utilizan IA para comprimir el diagnóstico inicial (de semanas a horas), modelar escenarios de transformación y acelerar la toma de decisiones. El portal Managersenmission.com y el Interim Management Mag en Francia documentan, desde enero de 2026, cómo el dominio de herramientas de IA es considerado una ventaja competitiva decisiva para el directivo interino. En el Reino Unido, el 25% de todos los mandatos de interim management en cualquier función incluyen ya requisitos de alfabetización digital o IA, según el estudio de Heidrick & Struggles 2026.
+En el Reino Unido, el área de finanzas representa el 51% de todas las peticiones de liderazgo interino según la encuesta anual del IIM (Institute of Interim Management) 2026. En España, el 80% de los responsables financieros declaran no poder contratar perfiles cualificados con la rapidez que necesitan (Robert Half 2026). A nivel global, el 12% de los nuevos nombramientos de CFO correspondieron a directivos interinos en el primer trimestre de 2026, frente al 6% del mismo período de 2025 (Global CFO Turnover Index Q1 2026): un máximo histórico. El CFO interino ha pasado de ser una solución de emergencia a una herramienta estratégica de primer nivel. En España, el mercado sigue el mismo ciclo con un desfase de 2-3 años respecto a los mercados de referencia. Las misiones más frecuentes incluyen: implementación de ERP, integración post-fusión (PMI), gestión de tesorería bajo presión, profesionalización del reporting para fondos de Private Equity y liderazgo de procesos de M&A o fundraising.
 
 **Decisor objetivo:**
-CDO (Chief Digital Officer), COO y CEO de empresas en proceso de transformación digital. Fondos de private equity que buscan aceleración operativa en sus participadas.
+Consejero Delegado / Presidente de empresa en crecimiento; CFO de grupo que necesita refuerzo en filial; Fondo de Private Equity con empresa en cartera que requiere transformación financiera urgente.
 
 **Oportunidad SEO en España:**
-La combinación "directivo interino + inteligencia artificial" o "interim manager transformación digital IA" tiene competencia orgánica casi nula en España. El tema es maduro en Francia desde principios de 2026, lo que representa una ventana de 6 a 12 meses de ventaja para posicionarse en español antes de que los competidores locales lo exploten.
+Términos con baja competencia y alta intención de contratación: "CFO interino España", "director financiero interino", "CFO temporal empresa familiar", "director financiero externo PYME", "cuánto cuesta un CFO interino". La página existente de Manager in Motion (managerinmotion.eu/faqs-interim/cfo-interim-2026-espana) ya ocupa este espacio y puede ampliarse con contenido más profundo y actualizado.
 
-**Ángulo recomendado para Manager in Motion:**
-"Cómo un directivo interino acelera tu transformación digital con IA: de semanas a días en el diagnóstico." Artículo de fondo que explica cómo el interim manager moderno domina herramientas de IA para ofrecer resultados más rápidos y medibles que un consultor externo o una contratación permanente.
+**Ángulo recomendado:**
+"Por qué el CFO interino es la contratación más inteligente de 2026: datos del mercado europeo y cómo aplicarlo en España" — artículo que traduce las cifras del IIM UK y el índice global de rotación de CFOs en contexto español, con casos de uso concretos (PE portfolio, reestructuración, ERP, internacionalización).
 
 ---
 
-### Tendencia 2: Interim Management y Private Equity — la aceleración del value creation
+### TENDENCIA 2: Interim Management e Inteligencia Artificial — El Auge del CAIO y la Transformación Digital Urgente
 
-**País de origen (FR / UK / DE / ES):** UK / FR
+**Tendencia:** El directivo interino digital/tecnológico como respuesta a la urgencia de IA — surge la figura del Chief AI Officer interino (CAIO).
+
+**País de origen (FR / UK / DE / ES):** UK (señal primaria) / DE — incipiente en ES.
 
 **Relevancia para la gestión interina:**
-El mercado europeo de private equity vive en 2026 un punto de inflexión: el fin de la ingeniería financiera como palanca principal de retorno obliga a los fondos a centrarse en la creación de valor operativo. Más del 75% de los profesionales de PE encuestados en Europa prevén un aumento de las operaciones de M&A en 2026 respecto a 2025. El dato más significativo: en 2025 solo el 29% de los fondos invertía en value creation en los primeros 100-365 días de una adquisición; en 2026 esa cifra ha subido al 58%. Cuando el rendimiento de una participada se desvía, la respuesta más ágil es un directivo interino especializado en turnaround o integración post-fusión (PMI). Firms como Delville Management (Francia/UK) y CE Interim documentan explícitamente el rol del interim executive en contextos de PE. El informe Private Equity Outlook 2026 de Within Intelligence confirma que el sector está en el inicio de una recuperación duradera.
+En el Reino Unido, los nombramientos interinos en funciones de tecnología digital, datos e IT han crecido un 58% desde 2023 (Heidrick & Struggles 2026). El 89% de los directivos interinos activos emplean herramientas de IA en sus mandatos, reduciendo drásticamente el tiempo entre incorporación e impacto. En Alemania, el DDIM 2026 identifica el sector de tecnología de la información como el segundo mayor demandante de interinos (8,9% de todas las misiones), y se estima que la demanda de interinos CTO y Digital Transformation Directors en el sector industrial crecerá entre un 45% y un 50%. En toda Europa, el 44% de las empresas citan la escasez de talento como freno al avance en IA, con proyectos que tardan una media de 5,5 meses en cubrirse con perfiles adecuados, generando retrasos críticos. Surge la nueva figura del Chief AI Officer (CAIO) interino, un directivo temporal especializado en la implantación de estrategias de IA con mandatos de entre 6 y 12 meses.
 
 **Decisor objetivo:**
-Partners y operating executives de fondos de private equity. CFOs y CEOs de empresas en proceso de adquisición o integración. Directores de M&A en corporaciones medianas.
+CEO de empresa mediana en proceso de transformación digital; CTO que necesita refuerzo inmediato en IA; Comité de Dirección que afronta la integración de IA sin talento interno disponible; fondos de inversión con cartera tecnológica.
 
 **Oportunidad SEO en España:**
-"Directivo interino private equity", "interim manager PMI fusiones y adquisiciones", "director interino turnaround empresa". Términos con demanda creciente en España a medida que el mercado de PE ibérico gana actividad. Competencia SEO baja-media en español.
+"director de transformación digital interino", "CTO interino España", "Chief AI Officer temporal", "directivo IA interino", "transformación digital urgente directivo externo". El término "CAIO interino" es prácticamente virgen en SEO español, lo que representa una oportunidad de posicionamiento de primer movimiento.
 
-**Ángulo recomendado para Manager in Motion:**
-"Por qué los fondos de private equity recurren al interim manager para acelerar el value creation en los primeros 100 días." Caso de uso que conecta directamente con el lenguaje y las prioridades del decisor PE: velocidad de ejecución, impacto medible, sin coste de estructura permanente.
+**Ángulo recomendado:**
+"El CAIO interino: la figura que las empresas españolas necesitan para no perder la carrera de la IA" — artículo que explica el rol emergente del Chief AI Officer interino, cómo las empresas europeas ya lo están utilizando, y por qué la velocidad de implementación justifica la contratación temporal sobre la búsqueda permanente.
 
 ---
 
-### Tendencia 3: Crisis del liderazgo industrial — Supply Chain, Operaciones y reconfiguración sectorial
+### TENDENCIA 3: La Sucesión en la Empresa Familiar como Motor Urgente del Interim Management en España
 
-**País de origen (FR / UK / DE / ES):** DE / FR (señal anticipada); ES (aplicación directa)
+**Tendencia:** El interim management gana protagonismo en los procesos de relevo generacional de empresas familiares españolas.
+
+**País de origen (FR / UK / DE / ES):** ES (señal activa ahora mismo) — con paralelo maduro en FR donde el "relay management" representa el 33,2% de todas las misiones.
 
 **Relevancia para la gestión interina:**
-En Alemania, el barómetro DDIM 2026 registra un dato histórico: el sector del automóvil (proveedores), dominante durante años, ha caído al cuarto puesto por primera vez, con su cuota descendiendo del 11,6% al 7,9%. El liderazgo pasa a la industria manufacturera (11,3%), seguida de tecnología (8,9%) y salud/farmacia (7,7%). Este reajuste sectorial genera vacíos de liderazgo urgentes en empresas industriales que necesitan pilotar reestructuraciones, reconversiones de planta o cambios en cadenas de suministro. En Francia, el sector industrial sigue siendo el primer cliente del management de transition, con misiones de tipo interim clásico dominando. En el Reino Unido, los especialistas en ERP industrial registraron un aumento de demanda del 200% solo en 2025. En España, los perfiles de interim management más demandados son COO, Director de Planta, Director de Operaciones, Director de Supply Chain y PMO.
+La sucesión en empresas familiares emerge como una de las tendencias más calientes del mercado español en 2026. El Ministerio de Trabajo ha planteado en febrero de 2026 la necesidad imperativa de que las empresas de entre 20 y 2.000 empleados establezcan planes de sucesión obligatorios. El 70% de las empresas familiares no supera la transición de primera a segunda generación. La profesionalización de la dirección en empresas familiares ya representa el 10% de las misiones de interim management en España según datos de 2025, con tendencia al alza. El interim manager actúa como puente durante el proceso de relevo: garantiza la continuidad del negocio, estabiliza la organización y facilita la transferencia ordenada del liderazgo. En Francia, el management de relay (33,2% de las intervenciones en 2026) es históricamente una de las misiones más frecuentes, lo que anticipa una expansión similar en España con 2-3 años de desfase. Múltiples medios españoles han publicado en junio de 2026 sobre este tema (APTIE, Alerta Digital, Estartit, EcoEmprendedorXXI), señalando que la conversación está activa hoy mismo.
 
 **Decisor objetivo:**
-CEOs y propietarios de empresas industriales medianas. Directores de operaciones en compañías con presión de margen. Gestores de fondos con participadas industriales en reestructuración.
+Fundador o propietario de empresa familiar en proceso de sucesión; Consejo de Administración de empresa familiar que necesita profesionalizar la dirección; asesor legal, fiscal o notario que trabaja con empresas familiares en transición; Asociaciones de Empresa Familiar (AEF y equivalentes autonómicos).
 
 **Oportunidad SEO en España:**
-"Director de operaciones interino", "interim manager supply chain", "director de planta interino", "gestión interina industria". Términos con búsqueda real y competencia SEO todavía manejable en España. Oportunidad de captura de demanda transaccional.
+"interim management empresa familiar", "directivo interino sucesión empresa familiar", "CEO interino relevo generacional", "gestión interina profesionalización PYME familiar", "gerente temporal durante sucesión". La combinación de términos "empresa familiar + interim management" presenta baja competencia en SEO y alta intención de contratación.
 
-**Ángulo recomendado para Manager in Motion:**
-"El interim manager industrial: cómo cubrir en menos de 10 días la dirección de operaciones o supply chain cuando más se necesita." Artículo orientado a empresa familiar o mediana empresa industrial española que enfrenta una salida directiva imprevista o una reestructuración de cadena de valor.
+**Ángulo recomendado:**
+"Sucesión en la empresa familiar: cómo el interim management garantiza el relevo sin arriesgar el negocio" — artículo que parte de la realidad estadística (70% de fracaso en la transición generacional), explica el papel concreto del directivo interino durante el proceso y ofrece un marco de actuación en tres fases (estabilización, transición, consolidación).
 
 ---
 
-### Tendencia 4: La escasez de talento directivo como motor estructural de demanda de interim management
+### TENDENCIA 4: El Modelo Fractional como Evolución Natural del Interim — Europa Redefine el Liderazgo Flexible
 
-**País de origen (FR / UK / DE / ES):** UK / DE / ES
+**Tendencia:** El directivo fractional (a tiempo parcial, 1-2 días/semana) crece el doble que el interim tradicional y empieza a aparecer en los radares del mercado español.
+
+**País de origen (FR / UK / DE / ES):** UK (señal primaria) / FR — prácticamente inexistente en ES, oportunidad de primer movimiento.
 
 **Relevancia para la gestión interina:**
-En el Reino Unido, la demanda de interim CEOs y presidentes creció un 80% interanual en 2026. La demanda de perfiles de capital humano (interim CHRO y directores de RRHH) creció un 129% interanual, según Heidrick & Struggles. En Alemania, el DDIM identifica la escasez de talento directivo como uno de los dos principales drivers del mercado en 2026, con aproximadamente 12.500 interim managers activos para cubrir una demanda creciente en un volumen de mercado estimado en 2.700 millones de euros. En España, EY publica en mayo de 2026 que el empleo directivo cualificado es cada vez más costoso: el destope progresivo de las bases máximas de cotización eleva el coste total de contratación permanente por encima de la inflación. Esto hace al directivo interino comparativamente más atractivo desde el punto de vista financiero. La tasa de paro directivo sigue siendo baja, lo que complica además las búsquedas permanentes.
+El liderazgo fractional crece en Europa al 14% anual, el doble que el interim management tradicional (5-7%). En el Reino Unido, el IIM 2026 incluye por primera vez una sección específica sobre interim management fractional, reconociendo que es el subsegmento con mayor conversación en el mercado. En Francia, el barómetro Adequancy 2026 documenta la aparición de un nuevo espacio híbrido entre management de transition, interim y consultoría a tiempo parcial. Los fondos de Private Equity utilizan ya CFOs y COOs fracionales como servicio compartido entre empresas de cartera, sustituyendo el modelo de CFO a tiempo completo por empresa. La IA actúa como multiplicador de impacto: un directivo fractional 1 día por semana produce el output de 3 días gracias a las herramientas de IA, lo que convierte el modelo en aún más atractivo.
 
 **Decisor objetivo:**
-Consejos de administración en proceso de sucesión directiva. CHROs de empresas medianas y grandes. Propietarios de empresa familiar ante una salida inesperada de un directivo clave.
+CEO de empresa mediana que necesita experiencia directiva sénior sin coste de una posición fija a tiempo completo; fondo de Private Equity con múltiples empresas en cartera; emprendedor que escala su empresa y necesita liderazgo C-Level sin estructura corporativa completa.
 
 **Oportunidad SEO en España:**
-"Cubrir vacante directiva urgente", "sustitución director general temporal", "gestión interina sucesión directiva". Búsquedas con intención transaccional alta. La combinación de vacío urgente y solución rápida es el core del posicionamiento de Manager in Motion.
+"directivo fractional España", "CFO fractional", "CTO fractional empresa", "director comercial fracional", "qué es un directivo fractional". El término "fractional" es todavía incipiente en el mercado español, lo que representa una ventana de posicionamiento como referente antes de que la competencia lo descubra.
 
-**Ángulo recomendado para Manager in Motion:**
-"¿Tu empresa necesita un director general de forma urgente? Por qué el directivo interino cubre la vacante en menos de 10 días." Artículo que aborda el pain point más inmediato del decisor: velocidad frente al riesgo de dejar una posición clave sin cobertura directiva.
+**Ángulo recomendado:**
+"Directivo fractional vs. interim manager: cuál elegir según el momento de tu empresa" — artículo comparativo que aclara la diferencia, define los criterios de elección y posiciona a Manager in Motion como capaz de proporcionar ambos modelos de liderazgo flexible.
 
 ---
 
-### Tendencia 5: La misión de transformación desplaza a la gestión de crisis como uso principal del interim manager
+### TENDENCIA 5: La Presión de Private Equity Sobre las Empresas en Cartera Activa la Demanda de Interinos en España
 
-**País de origen (FR / UK / DE / ES):** FR / UK / ES
+**Tendencia:** Los fondos de PE en España, con desinversiones programadas para 2028-2029, intensifican la creación de valor operativo vía directivos interinos.
+
+**País de origen (FR / UK / DE / ES):** ES (señal activa) / UK (modelo de referencia).
 
 **Relevancia para la gestión interina:**
-En Francia, las misiones de transformación ya representan el 24% del mercado de management de transition en el primer semestre de 2025, mientras las misiones de crisis se estabilizan en el 10%. El barómetro Adequancy 2026 y GH Partners confirman que el interim manager ya no es solo un "bombero": es un acelerador estratégico de transformaciones planificadas. En el Reino Unido, la transformación, la estrategia y la estabilización operativa son los casos de uso dominantes según Heidrick & Struggles 2026. En España, KPMG señala en su informe Perspectivas 2026 (más de 1.200 directivos encuestados) que la integración de la IA y la transformación empresarial son la prioridad número uno, pero que los principales obstáculos son la falta de capacidades internas y la resistencia al cambio. Esto es exactamente el briefing del interim manager de transformación: entra desde fuera, tiene autoridad temporal, no tiene agenda política interna y está orientado a resultados medibles en un plazo definido.
+El mercado de Private Equity en España atraviesa en 2026 un momento crítico: los fondos que invirtieron antes de la pandemia (2018-2020) se aproximan a su fin de vida útil con salidas programadas para 2028-2029. Esto genera una presión intensa sobre la creación de valor operativo en las empresas en cartera. España cuenta con 352 fondos de PE activos con una cartera combinada de 5.390 empresas. La inversión alcanzó 3.026 millones de euros en el primer semestre de 2025 (+17% interanual), con el mid-market como principal impulsor. El interim management se convierte en la palanca preferida de los GPs para acelerar la transformación operativa: nombramiento de CEO o CFO interino de perfil internacional para preparar la empresa para la salida; liderazgo de procesos de integración post-adquisición (PMI); y turnaround de filiales con bajo rendimiento. En el Reino Unido, los fondos de PE utilizan directivos interinos fracionales como servicio compartido en portfolios, una práctica que está llegando a los fondos ibéricos.
 
 **Decisor objetivo:**
-CEOs de empresa mediana y grande en proceso de transformación digital o cultural. Consejos de administración que necesitan resultados en 6-18 meses sin comprometer la estructura permanente. Empresas familiares en proceso de profesionalización.
+General Partner (GP) de fondo de PE con empresa en cartera en fase de preparación para desinversión; CFO de empresa respaldada por PE que necesita refuerzo directivo urgente; equipo de inversión que requiere un CRO (Chief Restructuring Officer) o un CEO de transición.
 
 **Oportunidad SEO en España:**
-"Directivo interino transformación empresarial", "interim manager proyecto transformación digital", "manager interino cambio organizacional". Términos con demanda creciente y competencia SEO moderada. La conexión con datos publicados por KPMG y EY otorga autoridad editorial al contenido.
+"interim management private equity España", "CEO interino portfolio PE", "directivo interino empresa private equity", "CFO interino PE backed company España", "CRO interino reestructuración". Nicho de alta intención y bajo volumen de competencia SEO.
 
-**Ángulo recomendado para Manager in Motion:**
-"Cuando la transformación no puede esperar: el directivo interino como ejecutor del cambio en 6-18 meses." Posicionar al interim manager no como solución de emergencia sino como líder estratégico de transformación, contrarrestando el estereotipo de "figura temporal de crisis".
-
----
-
-## 2. Contenido de Competidores / Sector Observado
-
-### Fuente 1: PwC España — Claves Económicas Julio 2026 y Consenso Económico Q2 2026
-
-**Fuente:** pwc.es — "Claves económicas de PwC - Julio de 2026" y "Consenso Económico y Empresarial Segundo Trimestre 2026"
-**Fecha:** Julio 2026
-**Tema:** Previsiones macroeconómicas de España y resistencia empresarial ante el contexto geopolítico
-**Idea clave:** PwC elaboró su consenso con más de 450 empresarios, directivos y analistas. Prevé que España mantendrá un crecimiento del PIB del 2,2% a pesar del contexto bélico internacional. Los sectores más afectados son transporte, agricultura e industria química. Las empresas muestran una posición financiera relativamente sólida: cerca del 70% de los encuestados la califica como "buena". Sin embargo, la demanda interna se modera, especialmente en la vivienda. La inversión en inteligencia artificial crece más de lo previsto. A nivel global, Estados Unidos es la economía que más crece del G8 y se reduce la preocupación por la inflación.
-
-**Oportunidad para Manager in Motion:** Los sectores afectados por la presión geopolítica (transporte, química, agroalimentario) son candidatos naturales a necesitar directivos interinos para pilotar reestructuraciones de cadena de suministro o adaptación de modelo de negocio. La solidez financiera del 70% de las empresas indica capacidad de inversión en soluciones directivas de calidad. Citar este informe en un artículo propio aporta credibilidad editorial y relevancia temática.
+**Ángulo recomendado:**
+"Private equity en España: por qué los mejores fondos utilizan directivos interinos para maximizar el valor de sus empresas en cartera" — artículo que habla directamente al GP y al deal team, con ejemplos de aplicación (PMI, turnaround, preparación para exit) y diferenciación clara entre interim y búsqueda permanente.
 
 ---
 
-### Fuente 2: EY España — Perspectivas del Mercado de Trabajo 2026 y Competitividad Empresarial
-
-**Fuente:** ey.com/es_ES — "Las perspectivas del mercado de trabajo en 2026" y "La empresa española en 2026: ganar competitividad en un mundo incierto"
-**Fecha:** Mayo-Julio 2026
-**Tema:** Mercado laboral directivo, costes de talento cualificado y productividad como palanca de competitividad
-**Idea clave:** EY anticipa crecimiento del PIB del 2,4% y aumento del empleo del 2,3%, pero advierte que el coste de contratación de talento directivo cualificado sube (destope de bases máximas de cotización por encima de la inflación). La productividad emerge como el desafío central. Las empresas necesitan líderes capaces de adoptar tecnologías digitales e IA para ganar competitividad. El informe señala que España debe convertir la incertidumbre global en ventaja estratégica mediante estabilidad regulatoria, apuesta por el talento e inversión en innovación.
-
-**Oportunidad para Manager in Motion:** El encarecimiento de la contratación permanente de directivos es un argumento de venta directa del interim manager: mismo perfil de experiencia, sin los costes fijos crecientes de una contratación indefinida. La baja productividad como diagnóstico empresarial es el briefing perfecto para un COO interino o un Director de Operaciones temporal que implante mejoras con metodología probada en un plazo de 6 a 12 meses.
+## 2. CONTENIDO DE COMPETIDORES / SECTOR OBSERVADO
 
 ---
 
-### Fuente 3: KPMG España — Perspectivas 2026: Previsiones Económicas y Empresariales
-
-**Fuente:** kpmg.com/es — "Perspectivas 2026: previsiones económicas y empresariales" (edición 22, marzo 2026, más de 1.200 directivos encuestados)
-**Fecha:** Marzo 2026 (informe de referencia activo durante todo el año)
-**Tema:** Transformación empresarial, integración de IA y barreras organizativas al cambio
-**Idea clave:** KPMG confirma que para ser rentables en 2026 las empresas deben avanzar en la integración de la IA para mejorar la eficiencia operativa y automatizar procesos. Los principales obstáculos identificados son dos: la falta de capacidades internas y la resistencia al cambio de los profesionales. Estos obstáculos son prácticamente una definición literal del problema que resuelve el directivo interino de transformación.
-
-**Oportunidad para Manager in Motion:** Citar el informe KPMG 2026 en un artículo de autoridad que formule así el argumento: "El 'gap' de capacidades que frena tu transformación: cómo el directivo interino ejecuta lo que tu organización no puede hacer sola." Muy potente para SEO y para uso comercial en presentaciones a clientes.
+**Fuente:** PwC España — "Claves económicas de PwC — Julio de 2026"
+**Tema:** Perspectivas macroeconómicas de España para el verano de 2026 y factores de incertidumbre
+**Idea clave:** La economía española mantiene un crecimiento en torno al 2,3% (por encima de la media eurozona), pese a los aranceles de EE.UU. y la tensión geopolítica. Los sectores estratégicos identificados son: industria, inteligencia artificial, turismo, agricultura y defensa. El 57% de los líderes empresariales prevé un crecimiento superior al 3% en 2026. La ola de inversión en IA crece más de lo previsto. La caída del precio del petróleo (reapertura del estrecho de Ormuz) alivia presiones inflacionistas.
+**Oportunidad para Manager in Motion:** Los sectores de industria e IA son terreno natural para misiones interinas urgentes: directores industriales interinos para reorganizar la cadena de valor ante la disrupción de los aranceles americanos; CTOs o CAIOs interinos para acelerar la implantación de IA. Artículo de enlace posible: "Cómo el entorno económico de julio de 2026 está creando una demanda sin precedentes de directivos interinos en España."
 
 ---
 
-### Fuente 4: Deloitte España — M&A Outlook 2026 y Perspectivas Industria Aeroespacial y de Defensa 2026
-
-**Fuente:** deloitte.com/es — "M&A Outlook 2026" y "Perspectivas Industria Aeroespacial y de Defensa 2026"
-**Fecha:** Primer semestre 2026
-**Tema:** Reactivación del mercado de fusiones y adquisiciones; crecimiento del sector defensa y aeroespacial en España
-**Idea clave:** Deloitte anticipa una reactivación clara del mercado de M&A en España para 2026, en línea con los datos europeos (más del 75% de los profesionales de PE esperan más operaciones). El sector aeroespacial y de defensa es identificado como uno de los más dinámicos, en coherencia con los datos de Francia (defensa, aeronáutica y espacio como sectores más activos en management de transition) y Alemania (reorganización sectorial industrial). El sector TIC crece al 3,7% proyectado.
-
-**Oportunidad para Manager in Motion:** Cada operación de M&A genera potencialmente una misión de interim manager para la integración post-adquisición. El sector defensa y aeroespacial, con alta complejidad operativa, es terreno fértil para directivos interinos especializados en operaciones e industria. Artículo de posicionamiento de nicho: "El boom de defensa y aeroespacial en España: por qué las empresas del sector necesitan directivos interinos especializados."
+**Fuente:** KPMG España — "Perspectivas 2026: previsiones económicas y empresariales"
+**Tema:** Retos de la transformación empresarial española en 2026: digitalización, IA, talento directivo y geopolítica
+**Idea clave:** El 44% de las empresas españolas ha redefinido sus planes de crecimiento en 2026, con especial impacto en la internacionalización y las cadenas de valor. La principal barrera a la transformación es la falta de capacidades internas y la resistencia al cambio. La ciberseguridad emerge como riesgo crítico en banca y seguros. El 43% de los encuestados valora positivamente la situación actual de la economía.
+**Oportunidad para Manager in Motion:** El gap entre la urgencia de transformación y la falta de talento directivo interno es exactamente el caso de uso del directivo interino. Artículo posible: "Cuando tu empresa necesita transformarse pero no tiene al director adecuado: el caso del interim manager." Alineado con los ejes de dirección general y transformación empresarial.
 
 ---
 
-### Fuente 5: Valtus / Adequancy / GH Partners — Mercado europeo de management de transition 2026
-
-**Fuente:** valtus.fr, adequancy.com/barometre-edition-2026/, ghpartners.fr
-**Fecha:** Mayo-junio 2026
-**Tema:** Estado del mercado europeo de management de transition: datos, tasas, sectores, evolución competitiva
-**Idea clave:** Valtus, líder europeo del sector con 123 millones de euros de facturación, más de 15.000 directivos en red y presencia en 25 países (1.000+ misiones al año), publica datos de mercado que muestran: más de 8.000 misiones anuales en Francia, tarifa media por encima de 1.300 euros/día, duración media de misión progresando a 7,5 meses (8,3 meses en misiones de transformación). La industria sigue siendo el primer sector cliente. La convergencia del interim management hacia la transformación estratégica (24% del mercado en Francia) es la tendencia estructural dominante. Otros actores de referencia en el mercado francés: X-PM, Wayden, Robert Walters.
-
-**Oportunidad para Manager in Motion:** Los datos del mercado francés son el espejo más fiable de hacia dónde va el mercado español. Publicar contenido que cite estos benchmarks europeos otorga a Manager in Motion autoridad de referencia sectorial en España. Artículo o infografía: "El mercado europeo del interim management en cifras 2026: qué nos dice Francia sobre el futuro de España."
+**Fuente:** DDIM — "Marktstudie 2026: Interim Management behauptet sich in anspruchsvollem Marktumfeld" (Alemania)
+**Tema:** Estado del mercado alemán de interim management en 2026: cifras récord, nuevos sectores y auge ESG
+**Idea clave:** El mercado alemán alcanza un volumen de honorarios de 2.700 millones de euros en 2026 (récord histórico). 12.500 interinos activos, tasa diaria media de 1.317 €/día. El sector automotriz cae del primer al cuarto lugar por primera vez. La industria general lidera (11,3%), seguida de IT (8,9%) y salud/farmacia (7,7%). El DDIM anticipa crecimiento de la demanda de interinos ESG ante las nuevas obligaciones de reporting de sostenibilidad (CSRD).
+**Oportunidad para Manager in Motion:** El auge del interino ESG en Alemania es señal anticipada de lo que ocurrirá en España cuando el CSRD obligue a las medianas empresas a reportar en sostenibilidad. Artículo posible: "El director de sostenibilidad interino: la nueva figura que el CSRD va a disparar en España."
 
 ---
 
-## 3. Preguntas Frecuentes
+**Fuente:** IIM — "Interim Management Survey 2026 Results" (Reino Unido)
+**Tema:** Primera exploración del modelo fractional en el mercado interino británico; dominio histórico de las finanzas
+**Idea clave:** Finanzas representa el 51% de todas las peticiones de liderazgo interino. Transformación: el 25% de las misiones está directamente vinculado a iniciativas de transformación. Demanda de PMO sube un 37% interanual. Solicitudes de CEO/Presidente interinos crecen un 80% interanual. El IIM incorpora por primera vez el fractional management en su encuesta como subsegmento de mayor crecimiento en el mercado.
+**Oportunidad para Manager in Motion:** El dato del CEO interino (+80% en UK) es un potente titular para el mercado español. Artículo posible: "CEO interino: de la excepción a la norma — lo que España puede aprender del mercado británico."
 
-Preguntas relevantes que los decisores (CEOs, CFOs, propietarios de empresa, CHROs) pueden buscar en Google en relación con la gestión interina en España en 2026:
+---
 
-1. ¿Qué es un directivo interino y en qué se diferencia de un consultor?
+**Fuente:** EPUNTO Interim Management España — "El interim management en 2026"
+**Tema:** Visión del competidor directo sobre el estado del mercado español
+**Idea clave:** EPUNTO identifica como vectores de crecimiento en España: estrategia internacional, dirección financiera estratégica, y transformación digital/cultural. Posicionan el interim management como respuesta a la incertidumbre geopolítica y la escasez de talento. Tienen contenido específico sobre CEO Interim, CFO Interim y Turnaround. Compiten directamente en términos de SEO clave.
+**Oportunidad para Manager in Motion:** Manager in Motion puede diferenciarse con contenido más profundo y actualizado, datos europeos 2026 y mayor granularidad en casos de uso sectoriales. La presencia de EPUNTO en primeros resultados de búsqueda señala que el SEO de estos términos es competitivo pero alcanzable con artículos de mayor calidad y profundidad.
+
+---
+
+**Fuente:** Heidrick & Struggles — "How interim talent is delivering transformation for UK businesses in 2026"
+**Tema:** La transformación multidimensional y el papel estratégico del directivo interino
+**Idea clave:** La transformación en 2026 es simultáneamente tecnológica, de modelo operativo, de capital y cultural, lo que hace cada mandato más complejo y requiere perfiles más versátiles. Los interinos ya no son una solución a corto plazo sino "palanca crítica para la continuidad operativa, la entrega de transformación y la gestión del riesgo en entornos de alta exigencia."
+**Oportunidad para Manager in Motion:** Adaptar este marco de transformación multidimensional al contexto español, con ejemplos sectoriales locales (industria, turismo, servicios financieros). Artículo: "Por qué tu próxima transformación necesita un directivo interino, no un consultor."
+
+---
+
+**Fuente:** Capital-Riesgo.es / DC Advisory — "Presión para desinvertir en España antes de 2028-2029"
+**Tema:** Private equity en España acercándose al final del ciclo de fondos pre-pandemia
+**Idea clave:** Los fondos de PE que invirtieron entre 2018 y 2020 en España afrontan presión para salir antes de 2029. La estrategia de creación de valor operativo vuelve al centro. 352 fondos activos en España con 5.390 empresas en cartera. Inversión de 3.026 millones de euros en el primer semestre de 2025, +17% interanual.
+**Oportunidad para Manager in Motion:** Audiencia muy específica y de alta conversión. Posible landing page o artículo: "Interim management para fondos de Private Equity: preparando la desinversión con el directivo adecuado."
+
+---
+
+## 3. PREGUNTAS FRECUENTES
+
+Las siguientes preguntas reflejan búsquedas activas de potenciales clientes en el mercado español. Se priorizan las de mayor intención de contratación y las que señalan oportunidades SEO con baja competencia relativa.
+
+1. ¿Qué es un directivo interino y en qué se diferencia de un consultor de empresa?
 2. ¿Cuánto cuesta contratar un interim manager en España en 2026?
-3. ¿En cuánto tiempo puede incorporarse un directivo interino a mi empresa?
-4. ¿Qué tipo de misiones puede asumir un directivo interino? (dirección general, operaciones, finanzas, RRHH, supply chain)
-5. ¿Cuándo tiene sentido contratar un interim manager en lugar de un directivo permanente?
-6. ¿Puede un directivo interino pilotar una transformación digital o un proyecto de inteligencia artificial en mi empresa?
-7. ¿Cómo se utiliza el interim management en fusiones, adquisiciones e integración post-fusión (PMI)?
-8. ¿Qué sectores en España demandan más directivos interinos en 2026?
-9. ¿Es el interim management una solución solo para grandes empresas o también para pymes y empresas familiares?
-10. ¿Cómo se compara el coste total de un interim manager con el de una contratación directiva permanente, incluyendo cotizaciones sociales?
+3. ¿En qué situaciones es mejor contratar un CEO interino que iniciar una búsqueda permanente?
+4. ¿Puede una PYME permitirse un directivo interino? ¿Qué perfiles son accesibles?
+5. ¿Cuánto dura normalmente una misión de interim management y cómo se estructura?
+6. ¿Qué hace exactamente un CFO interino en una empresa en proceso de reestructuración?
+7. ¿Cómo puede el interim management ayudar a gestionar la sucesión en una empresa familiar?
+8. ¿Qué diferencia hay entre un directivo interino y un directivo fractional?
+9. ¿Qué sectores en España contratan más directivos interinos actualmente?
+10. ¿Cómo se adapta el interim management a proyectos de transformación digital e inteligencia artificial?
 
 ---
 
-## 4. Tema Recomendado para Esta Semana
+## 4. TEMA RECOMENDADO PARA ESTA SEMANA
 
-### Tema prioritario: La empresa española necesita transformación pero carece de quién la ejecute — el papel del directivo interino en 2026
+### Tema prioritario: La sucesión en la empresa familiar como palanca del interim management en España
 
 **Justificación estratégica:**
 
-Este tema concentra el mayor número de señales convergentes de los cuatro mercados escaneados y de las Big Four en España, y representa la oportunidad SEO con mayor potencial de posicionamiento a corto plazo.
+Este tema concentra el mayor número de señales favorables para un artículo de alto impacto SEO esta semana:
 
-**Señales de demanda validadas:**
+**Urgencia temporal y conversación activa:** En junio y julio de 2026, múltiples medios españoles han publicado sobre el reto de la sucesión en la empresa familiar y el papel creciente del interim management (APTIE, Alerta Digital, Estartit, EcoEmprendedorXXI). La conversación está activa ahora mismo, lo que significa que hay intención de búsqueda real en el mercado en este momento concreto.
 
-- KPMG España (Perspectivas 2026, más de 1.200 directivos): la transformación ligada a la IA es la prioridad número uno de las empresas españolas, pero los principales obstáculos son la falta de capacidades internas y la resistencia al cambio. Definición exacta del problema que resuelve el interim manager de transformación.
+**Respaldo institucional y urgencia regulatoria:** La propuesta del Ministerio de Trabajo (febrero de 2026) sobre planes de sucesión obligatorios para empresas de 20 a 2.000 empleados genera ansiedad y búsqueda activa de soluciones entre propietarios y sus asesores. Es un gancho informativo potente para anclar el artículo en la actualidad.
 
-- EY España (mayo-julio 2026): la productividad es el desafío central de la empresa española. El coste de contratar talento directivo permanente sube por encima de la inflación. Las empresas necesitan líderes que adopten tecnología y generen competitividad.
+**Estadística de impacto emocional:** El dato del 70% de empresas familiares que no supera la primera transición generacional es un titular poderoso que genera clics, retención y engagement en el perfil de propietario o fundador que es el decisor objetivo.
 
-- PwC España (julio 2026): el 70% de las empresas tiene posición financiera sólida, es decir, tiene presupuesto para invertir en soluciones directivas. La inversión en IA crece más de lo previsto.
+**Alineación directa con los ejes temáticos de Manager in Motion:** Este tema encaja en los ejes de "profesionalización de empresas familiares" y "dirección general interina", dos de los pilares estratégicos de contenido de Manager in Motion. No requiere forzar la relevancia: es contenido natural.
 
-**Señal anticipada del mercado francés:**
+**SEO: combinación ganadora de baja competencia y alta intención:** Los términos "interim management empresa familiar", "directivo interino relevo generacional" y "CEO interino sucesión familiar" presentan búsqueda activa y escasa competencia de contenido de calidad en Google España. La ventana de posicionamiento está abierta.
 
-En Francia, las misiones de transformación ya representan el 24% del mercado de management de transition. En España, este tipo de misión está creciendo pero sigue siendo minoritario: el artículo puede posicionarse antes de que la competencia local lo publique.
+**Señal de mercado maduro en Francia como anticipación:** En el barómetro de management de transition francés (Adequancy / France Transition 2026), las misiones de "relay management" representan el 33,2% de todas las intervenciones. España va con 2-3 años de desfase. El artículo publicado esta semana tiene alta probabilidad de capturar la demanda cuando esta tipología de misión alcance su pico en el mercado español.
 
-**Potencial SEO:**
+**Formato y estructura recomendados:**
+Artículo de entre 1.200 y 1.800 palabras. Estructura sugerida:
+1. El problema estadístico de la sucesión familiar en España (datos del Ministerio de Trabajo, estadística del 70%)
+2. Por qué fracasan los procesos de relevo generacional sin un directivo puente
+3. El rol concreto del interim manager en la sucesión: tres fases de actuación (estabilización, transición, consolidación)
+4. Casos de aplicación típicos: fundador que se retira, heredero que todavía no está preparado, venta parcial con permanencia del CEO fundador
+5. Cómo seleccionar al interim manager adecuado para este proceso específico
+6. Call to action hacia Manager in Motion
 
-Los términos "directivo interino transformación", "interim manager transformación digital España", "manager interino proyecto IA" tienen competencia orgánica muy baja en Google.es. Un artículo bien estructurado puede posicionarse en los primeros resultados en 60-90 días.
+**Palabras clave principales:** interim management empresa familiar, directivo interino sucesión, CEO interino empresa familiar, relevo generacional directivo interino
 
-**Diferenciación estratégica para Manager in Motion:**
-
-Este ángulo permite alejar la marca del estereotipo de "directivo de emergencia" y posicionarla como proveedor estratégico de liderazgo de transformación: un posicionamiento de mayor valor percibido, con potencial de misiones más largas y fees más elevados.
-
-**Título sugerido para el artículo:**
-"Transformación empresarial en España 2026: por qué el directivo interino es el ejecutor que faltaba"
-
-**Estructura recomendada para el artículo:**
-1. El diagnóstico: los datos KPMG y EY sobre el gap entre ambición transformadora y capacidad real
-2. Por qué la contratación permanente no es siempre la respuesta: costes, tiempo, riesgo
-3. El rol del interim manager de transformación: qué ejecuta, qué no hace, cómo se mide su impacto
-4. Casos de uso concretos: transformación digital, integración de IA, cambio cultural, integración post-fusión
-5. Cómo seleccionar un directivo interino de transformación: criterios y propuesta de Manager in Motion
+**Palabras clave secundarias:** gestión interina profesionalización familiar, manager de transición sucesión, interim CEO empresa familiar España, plan de sucesión directivo temporal
 
 ---
 
-*Informe generado por el Agente 1 del pipeline SEO de Manager in Motion — Fecha: 2026-07-13.*
-*Pipeline automático: este informe se transfiere al Agente 2 para la elaboración del SEO Strategy Brief.*
+*Informe generado automáticamente por el Agente 1 de Inteligencia de Mercado del pipeline SEO semanal de Manager in Motion.*
+*Fuentes consultadas: IIM Interim Management Survey 2026, DDIM Marktstudie 2026, Baromètre France Transition / Adequancy 2026, Heidrick & Struggles 2026, Robert Half 2026, Global CFO Turnover Index Q1 2026, PwC España julio 2026, KPMG Perspectivas 2026, Capital-Riesgo.es / DC Advisory, APTIE, EPUNTO, Servitalent, Alerta Digital, Estartit, EcoEmprendedorXXI.*
