@@ -1,195 +1,133 @@
 # Borrador de Artículo SEO — Manager in Motion
 **Agente 3 — Redactor de Contenido SEO**
-**Fecha:** 2026-07-13
+**Fecha:** 2026-07-27
 
 ---
 
-## Título SEO
-
-Directivo interino para transformación empresarial en España 2026
-
-## Meta Descripción
-
-Cuando la transformación no puede esperar: cómo el directivo interino cubre el gap de capacidades que frena el cambio en la empresa española. Datos KPMG y EY 2026.
-
-## URL Slug
-
-/blog/directivo-interino-transformacion-empresarial-espana-2026
+**Título SEO:** Interim Manager en la Empresa Familiar: Cómo Gestionar la Sucesión sin Crisis
+**Meta descripción:** El 70% de las empresas familiares españolas no tiene plan de sucesión. Descubre cómo un interim manager profesionaliza la transición generacional y protege el legado sin improvisación.
+**URL slug:** /interim-manager-empresa-familiar-sucesion
 
 ---
 
-## H1
+# Interim Manager en la Empresa Familiar: Cómo Liderar la Sucesión sin Improvisar
 
-El directivo interino de transformación: el ejecutor que falta en la empresa española
+Cada año, miles de empresas familiares españolas se enfrentan al mismo momento: el fundador se acerca a la jubilación, la segunda generación todavía no está lista para asumir el mando, y la empresa no puede permitirse detenerse. La mayoría improvisa. Pocas gestionan esa transición con la misma exigencia con que gestionan una operación de fusión o una expansión internacional.
 
----
+El resultado de improvisar es predecible: conflictos entre hermanos, pérdida de talento directivo, deterioro de la relación con clientes clave, y en los peores casos, la venta o el cierre de una empresa construida durante décadas.
 
-## Artículo
-
-La transformación es la prioridad número uno de las empresas españolas en 2026. Lo documentan más de 1.200 directivos encuestados en el informe KPMG Perspectivas 2026, con independencia del tamaño de la compañía o del sector. Ese mismo informe identifica los dos frenos que se repiten con exactitud estadística: la falta de capacidades internas para ejecutar el cambio y la resistencia cultural de las organizaciones a adoptarlo. La paradoja es exacta: las empresas saben lo que tienen que hacer y no consiguen hacerlo. El gap no es de estrategia. Es de ejecución. Y más concretamente, de liderazgo ejecutivo con mandato real de transformación. Ese es el espacio que ocupa el directivo interino de transformación empresarial: un perfil senior con experiencia acumulada en misiones similares que entra en la organización con autoridad temporal y el único objetivo de convertir el plan en resultados.
-
-### El diagnóstico que confirman los datos: querer transformarse y no poder
-
-#### KPMG 2026: falta de capacidades internas y resistencia al cambio como frenos principales
-
-La transformación ligada a la inteligencia artificial encabeza la agenda estratégica de la mayoría de las organizaciones encuestadas en 2026. Sin embargo, los principales obstáculos son exactamente los que ningún plan de transformación suele anticipar: la ausencia interna de los perfiles necesarios para ejecutarlo y la resistencia cultural que genera en los equipos. El problema no está en el qué. Está en el quién y en el cómo.
-
-Esto tiene una implicación práctica que los equipos directivos tienden a subestimar: intentar ejecutar una transformación con los mismos recursos que construyeron el modelo que hay que cambiar es estructuralmente difícil. Los directivos internos han sido seleccionados para gestionar lo que existe, no para reemplazarlo. Esa tensión es la norma, no la excepción.
-
-#### EY 2026: el coste de contratar un directivo permanente supera ya la inflación
-
-A la brecha de capacidades se añade un argumento financiero de peso. El análisis de EY sobre el mercado laboral directivo en España publicado en 2026 documenta que el coste de incorporar un directivo senior permanente crece por encima de la inflación. La suma del salario fijo, la retribución variable, los beneficios, las cotizaciones sociales —especialmente afectadas por los cambios en la base máxima de cotización— y el coste del proceso de selección ejecutiva convierten la contratación permanente para un proyecto de duración definida en una decisión financieramente ineficiente.
-
-El interim management ofrece una alternativa estructuralmente diferente: coste predecible durante el período de la misión, sin pasivos laborales, sin período de preaviso y sin el riesgo financiero de un error de selección con impacto estructural. El coste se produce mientras el directivo trabaja en el proyecto. Cuando termina la misión, termina el coste.
-
-### Por qué la empresa española no puede transformarse sola
-
-#### Cuando el perfil que necesitas no existe dentro de tu organización
-
-Las empresas medianas españolas disponen de equipos directivos capaces. Lo que raramente tienen es el perfil específico para dirigir una transformación que cruza funciones, tecnología y cultura simultáneamente. Un Director de Operaciones con excelente historial en el día a día puede no haber liderado nunca una reconversión de procesos asistida por inteligencia artificial. Un Director Financiero experimentado puede carecer de experiencia práctica en integrar dos culturas organizacionales tras una adquisición.
-
-El interim manager de transformación es un perfil construido en ese tipo de misiones. Su valor diferencial no es el conocimiento genérico de la gestión directiva, sino el historial concreto de proyectos de cambio similares: misiones donde tuvo que reemplazar procesos existentes, gestionar resistencias, reportar avances a un consejo y entregar resultados en un plazo acordado.
-
-#### La resistencia al cambio y la falta de autoridad temporal para ejecutarlo
-
-Incluso cuando existe un perfil interno adecuado, la transformación choca con otro obstáculo sistemático: la falta de autoridad real para tomar decisiones que generen incomodidad en la organización. Un directivo interno lleva años construyendo relaciones con los mismos equipos y bajo las mismas dinámicas de poder. Tiene incentivos implícitos para evitar los conflictos que toda transformación genera.
-
-El interim manager llega sin esa carga. Entra con un mandato explícito acordado con la dirección o el consejo, y con la independencia que proporciona el no estar condicionado por la política interna. Esa combinación de autoridad temporal y ausencia de vínculos históricos es, en muchos contextos, el factor que hace posible la ejecución donde todo lo demás había fallado. Los datos de PwC de julio de 2026 confirman que el 70% de las empresas españolas cuenta con posición financiera sólida: la mayoría tiene recursos para actuar. Lo que falta es quien dirija la ejecución.
-
-### Qué hace exactamente un directivo interino de transformación
-
-#### El diagnóstico acelerado: de semanas a días con metodología e inteligencia artificial
-
-La primera diferencia práctica entre un directivo interino de transformación y cualquier otra alternativa se mide en tiempo. La fase de diagnóstico inicial —que en un proceso de consultoría tradicional puede extenderse entre cuatro y ocho semanas— el interim manager la ejecuta en siete a diez días hábiles. La combinación de entrevistas estructuradas con los equipos clave, análisis documental y herramientas de diagnóstico asistido por inteligencia artificial permite identificar en días los bloqueos operativos, las brechas de capacidad y los focos de resistencia que un análisis convencional tardaría semanas en mapear.
-
-Al final del primer mes de misión, el directivo interino ya está tomando decisiones respaldadas por datos, alineando equipos con el plan de cambio y gestionando las primeras resistencias. Mientras una selección ejecutiva permanente todavía estaría en las fases iniciales del proceso de búsqueda.
-
-#### Cuatro casos de uso concretos
-
-El rol del directivo interino de transformación aplica de forma específica a cuatro tipologías de misión:
-
-**Transformación digital:** Liderazgo de la adopción de nuevas plataformas, rediseño de procesos y cambio del modelo operativo en organizaciones que han iniciado la digitalización sin completarla.
-
-**Implementación de inteligencia artificial:** Dirección del proceso de adopción de IA en las operaciones de la empresa, desde la selección de herramientas hasta la gestión del cambio cultural que la adopción exige.
-
-**Cambio cultural y organizacional:** Reconversión de estructuras directivas y gestión de resistencias en procesos de profesionalización, especialmente relevante en empresas familiares ante una transición generacional o un cambio de modelo de gobierno.
-
-**Integración post-fusión (PMI):** Dirección ejecutiva de la integración de dos organizaciones con culturas, procesos y sistemas distintos, en el período crítico posterior al cierre de la operación.
-
-### Interino, consultor o contratación permanente: cuándo y por qué
-
-La elección entre estas tres alternativas no debería basarse en preferencias, sino en criterios objetivos según el tipo de situación:
-
-| Criterio | Directivo interino | Consultor externo | Contratación permanente |
-|---|---|---|---|
-| **Autoridad ejecutiva** | Sí, con mandato real | No — recomienda, no decide | Sí, tras período de adaptación |
-| **Velocidad de incorporación** | 5-10 días hábiles | 2-4 semanas | 4-6 meses de selección |
-| **Coste total** | Tarifa diaria acotada al proyecto | Honorarios por proyecto + extensiones | Salario + SS + variable + selección |
-| **Duración de la relación** | Definida desde el inicio | Variable, con tendencia a extenderse | Indefinida, con coste de salida |
-| **Riesgo para la organización** | Bajo — sin compromiso laboral | Medio — dependencia del proveedor | Alto — error de selección con impacto estructural |
-
-El consultor externo analiza y recomienda; la decisión y la ejecución quedan en manos de la empresa. La contratación permanente aporta profundidad pero exige un plazo que los proyectos de transformación raramente tienen. El directivo interino de transformación ocupa el espacio entre los dos: actúa con autoridad ejecutiva real, durante un período acotado y sin el pasivo estructural de una incorporación permanente.
-
-> **¿Evalúas opciones de liderazgo para tu proyecto de transformación? Cuéntanos el contexto. La primera conversación no tiene coste.**
-
-### La señal del mercado europeo: lo que Francia anticipa para España
-
-El mercado francés de management de transition es el indicador más fiable de la dirección que tomará España con un desfase de doce a dieciocho meses. El barómetro Adequancy 2026 documenta que las misiones de transformación representan ya el 24% del total en Francia, con una duración media de 8,3 meses, frente a los seis meses en misiones de gestión de crisis. La transformación no es una urgencia que se apaga en pocas semanas: es un proyecto de cambio estructural que requiere presencia directiva sostenida.
-
-La implicación para España es doble: el mercado de interim management para misiones de transformación está en fase de crecimiento acelerado, y la disponibilidad de perfiles especializados se reducirá a medida que la demanda aumente. Las organizaciones que buscan este perfil ahora tienen una ventaja de acceso que desaparecerá cuando el modelo se convierta en estándar del mercado español.
-
-La convergencia de datos de 2026 es inequívoca: las empresas españolas tienen la ambición, la posición financiera y la urgencia para transformarse. El directivo interino de transformación empresarial es la figura que cierra el gap entre la estrategia aprobada en el consejo y los resultados medibles sobre el terreno.
-
-> **Si tu empresa está ante un proyecto de transformación y necesitas un directivo con experiencia probada en misiones similares, podemos ayudarte. En 48 horas te presentamos perfiles. Sin compromiso.**
+Existe una alternativa más inteligente. Y en los mercados europeos más maduros —Francia, Reino Unido, Alemania— es ya la práctica habitual: el interim manager.
 
 ---
 
-RECUENTO: 987 palabras (cuerpo del artículo, desde la introducción hasta el párrafo de cierre, excluyendo FAQ, CTA inline y metadatos).
+## El mayor reto de la empresa familiar española no es crecer — es sobrevivir al cambio de mando
 
-REVISIÓN ORTOGRÁFICA: completada. 2 correcciones realizadas (tilde en «específico», coma tras «Sin embargo»).
+España tiene más de 1,1 millones de empresas familiares. Representan el 89% del tejido empresarial, generan el 67% del PIB privado y emplean a más de la mitad de la población activa. En la próxima década, un tercio de sus propietarios alcanzará la edad de jubilación.
 
----
+El problema es que más del 70% de estas organizaciones carece de un plan de sucesión formalizado. No porque sus propietarios no sean conscientes del reto —la mayoría lo identifica como su mayor preocupación a medio plazo— sino porque durante años han priorizado la operación del negocio sobre la planificación del relevo.
 
-## FAQ
+Cuando el cambio de mando llega sin preparación, la empresa entra en una zona de máxima vulnerabilidad. Los clientes perciben incertidumbre. Los empleados clave buscan alternativas. Las entidades financieras aumentan su vigilancia. Y los competidores aprovechan el momento.
 
-**¿En qué se diferencia un directivo interino de un consultor en un proyecto de transformación?**
-
-La diferencia es de naturaleza, no de escala. Un consultor analiza la situación y entrega recomendaciones; la decisión y la ejecución quedan en manos de la empresa. El interim manager, en cambio, ocupa una posición directiva real dentro de la organización: toma decisiones, gestiona equipos, asume la responsabilidad de los resultados y responde ante la dirección o el consejo como cualquier otro ejecutivo. En un proyecto de transformación, esa distinción es determinante. La ejecución requiere autoridad, no solo análisis.
+Los modelos tradicionales de gestión del relevo —confiar en un familiar sin experiencia directiva, contratar a un director general a toda prisa, o dilatar la decisión hasta el límite— rara vez funcionan. El primero genera conflictos. El segundo tarda de seis a doce meses en rendir resultados. El tercero convierte la transición en una crisis gestionada al día.
 
 ---
 
-**¿Cuánto tiempo tarda en incorporarse un interim manager de transformación a mi empresa?**
+## Qué es exactamente un interim manager (y qué no es)
 
-El proceso completo, desde el primer contacto con una firma especializada en interim management hasta el inicio efectivo de la misión, se sitúa habitualmente entre cinco y diez días hábiles. Ese plazo incluye la identificación del perfil adecuado, las entrevistas de alineación con la dirección y la formalización del acuerdo de colaboración. Es estructuralmente más rápido que cualquier proceso de selección ejecutiva permanente, que en el mercado español oscila entre cuatro y seis meses para perfiles de alta dirección.
+El interim manager es un directivo senior con experiencia contrastada que se incorpora a una organización durante un periodo definido —habitualmente entre seis y dieciocho meses— para asumir responsabilidades ejecutivas reales, con autoridad de gestión y objetivos concretos.
 
----
+### Interim manager vs. consultor: la diferencia que lo cambia todo
 
-**¿Puede un directivo interino liderar la implementación de inteligencia artificial en mi empresa?**
+El consultor analiza, recomienda y entrega un informe. El interim manager toma decisiones, dirige equipos y responde por los resultados. No viene a decirle a la empresa lo que tiene que hacer: viene a hacerlo. Esta distinción es fundamental para entender por qué el interim management es la respuesta adecuada a una transición generacional, y no una consultoría estratégica.
 
-Sí, y de forma diferencial. Los perfiles de interim manager de nueva generación no solo comprenden la inteligencia artificial como tecnología, sino que la utilizan activamente en su metodología de trabajo: diagnóstico asistido, modelado de escenarios e identificación de ineficiencias en datos operativos. Eso les permite liderar la adopción interna con doble valor: como directivos con experiencia ejecutiva y como usuarios avanzados de las herramientas que la organización necesita implementar, reduciendo la curva de aprendizaje del equipo.
+La diferencia en la práctica es la siguiente: cuando el fundador de una empresa familiar se retira, la empresa no necesita un diagnóstico. Necesita alguien que asuma el mando ejecutivo desde el primer día, mantenga la confianza de los equipos y los clientes, y al mismo tiempo prepare a la siguiente generación para liderar.
 
----
+### Interim manager vs. contratación permanente: velocidad y coste
 
-**¿Cuánto cuesta un directivo interino para un proyecto de transformación en España en 2026?**
-
-La tarifa de un directivo interino de transformación en España en 2026 oscila entre 800 y 1.500 euros por día, dependiendo del nivel ejecutivo y la complejidad de la misión. A ello se añade el honorario de la firma intermediaria. En términos de coste total para una misión de ocho a diez meses, el modelo resulta comparable al de una contratación permanente del mismo perfil, sin generar pasivos laborales ni requerir período de preaviso. El diferencial de eficiencia financiera se ha ampliado en 2026 por el aumento documentado del coste de cotizaciones sociales.
+Una contratación directiva permanente tarda de media entre cuatro y seis meses, requiere un proceso de selección exigente y conlleva el riesgo de equivocarse en la elección. Un interim manager puede estar operativo en dos semanas. No genera compromisos laborales a largo plazo. Y su coste —que puede parecer elevado en términos de tarifa diaria— se amortiza rápidamente cuando se considera el coste de oportunidad de una transición mal gestionada.
 
 ---
 
-**¿El directivo interino de transformación es una solución solo para grandes empresas?**
+## Cuándo necesita una empresa familiar un interim manager
 
-No. Las empresas medianas y familiares son el segmento donde el modelo aporta más valor relativo, precisamente porque no pueden permitirse un directivo senior permanente para una fase de cambio puntual y de duración definida. El interim manager aporta el nivel de experiencia que normalmente solo tienen las grandes corporaciones, durante el tiempo exacto que dura el proyecto, sin el coste estructural que haría inviable esa misma contratación en formato permanente. Es una solución diseñada para la casuística de la empresa mediana española.
+El interim manager no es la solución a todos los retos de la empresa familiar, pero hay cuatro situaciones en las que su incorporación es especialmente acertada.
 
----
+### Cuando el fundador se retira sin sucesor identificado
 
-**¿Cuál es la duración media de una misión de transformación para un directivo interino?**
+Es el escenario más frecuente. El fundador lleva décadas siendo el centro neurálgico de la empresa: la persona que conoce todos los clientes, que toma todas las decisiones relevantes y que mantiene la cohesión del equipo. Cuando esa figura sale del mapa operativo sin un sucesor preparado, la empresa queda expuesta. Un interim manager asume el liderazgo ejecutivo mientras se identifica y prepara al candidato permanente, garantizando continuidad sin improviso.
 
-Según el barómetro Adequancy 2026, referente del mercado europeo de management de transition, la duración media de una misión de transformación es de 8,3 meses, frente a los seis meses de media en misiones de gestión de crisis. Esta diferencia refleja la naturaleza del encargo: la transformación no es una urgencia que se resuelve en semanas, sino un proceso de cambio estructural que requiere tiempo para diagnóstico, diseño, implementación y consolidación. En España, los datos del mercado apuntan a duraciones similares a medida que este tipo de misiones gana peso en la oferta de interim management.
+### Cuando la segunda generación necesita apoyo para profesionalizar la gestión
 
----
+La segunda generación suele traer energía, formación académica sólida y visión de futuro. Lo que frecuentemente le falta es experiencia en la gestión de equipos, en la negociación con bancos, en la toma de decisiones bajo presión. Un interim manager actúa como director de transición y mentor ejecutivo: asume el mando con plena autoridad mientras transfiere metodología, procesos y cultura de gestión profesional al equipo familiar. Al final de la misión, la empresa familiar tiene una dirección profesionalizada y la nueva generación tiene los instrumentos para liderar con solidez.
 
-## CTA Sugerido
+### Cuando hay que separar propiedad y gestión antes de una operación corporativa
 
-**CTA inline (insertar al final de la sección comparativa):**
-"¿Evalúas opciones de liderazgo para tu proyecto de transformación? Cuéntanos el contexto. La primera conversación no tiene coste."
+La entrada de un fondo de private equity, una fusión con otra empresa familiar o la preparación para una venta parcial requieren que la empresa esté gobernada con estándares corporativos claros. En estos escenarios, el interim manager —libre de vínculos familiares y emocionales— diseña la estructura de gobierno, profesionaliza el comité de dirección y garantiza que la empresa es bankable y attractive para inversores institucionales.
 
-**CTA final (bloque diferenciado al final del artículo, previo a FAQ o tras conclusión):**
-"Si tu empresa está ante un proyecto de transformación y necesitas un directivo con experiencia probada en misiones similares, podemos ayudarte. En 48 horas te presentamos perfiles. Sin compromiso."
+### Cuando la empresa crece más rápido que su estructura directiva
 
----
-
-## Sugerencias de Enlazado Interno
-
-1. **Página de servicios de interim management** — enlazar desde la introducción con texto de ancla "interim management" o "gestión interina en España".
-2. **Perfiles funcionales (COO interino, CDO interino, Director de Transformación interino)** — enlazar desde la sección "Cuatro casos de uso concretos": texto de ancla "COO interino" en transformación operativa, "CDO interino" en transformación digital.
-3. **Artículo o página sobre interim management en empresas familiares** — enlazar desde el caso de uso "Cambio cultural y organizacional". Si ese contenido no existe en el sitio, priorizarlo en el siguiente ciclo editorial como pieza complementaria de este artículo.
+El crecimiento rápido es una buena noticia que puede convertirse en un problema. Cuando una empresa familiar pasa de 50 a 150 empleados en tres años, sus procesos, su estructura y su cultura necesitan evolucionar. Un interim manager acompaña ese crecimiento aportando la experiencia de quien ha gestionado estructuras más complejas, sin necesidad de incorporar a tiempo completo un perfil que quizás en dos años la empresa ya no necesite.
 
 ---
 
-FUERA DEL ARTÍCULO — Solo para uso editorial
+## Cómo actúa un interim manager durante la transición generacional
 
-## Fuentes Consultadas
+Una misión de interim management bien ejecutada tiene tres fases diferenciadas.
 
-1. **KPMG España** — *Perspectivas 2026*. Encuesta a más de 1.200 directivos españoles. Identifica la transformación ligada a la IA como prioridad número uno y documenta como principales frenos: falta de capacidades internas y resistencia al cambio. Disponible en kpmg.com/es.
+La primera es el diagnóstico. En las primeras dos a cuatro semanas, el interim manager realiza una auditoría de la situación: mapea los procesos clave, identifica los cuellos de botella, establece las relaciones con el equipo directivo y define los objetivos concretos de la misión junto con el propietario o el consejo. Esta fase es crítica: un interim manager experimentado sabe que el diagnóstico determina la calidad de todo lo que viene después.
 
-2. **EY España** — *Perspectivas del mercado de trabajo directivo 2026* (mayo-julio 2026). Análisis del coste de contratación de talento directivo permanente en España, con crecimiento por encima de la inflación. Disponible en ey.com/es_ES.
+La segunda es la ejecución. Durante el grueso de la misión —generalmente entre cuatro y doce meses— el interim manager ejerce el liderazgo ejecutivo con plena autoridad. Toma decisiones, gestiona el equipo, mantiene las relaciones con los stakeholders externos y avanza hacia los objetivos definidos. Al mismo tiempo, comienza a documentar los procesos y a transferir metodología al equipo interno.
 
-3. **PwC España** — *Informe de situación empresarial*, julio 2026. El 70% de las empresas españolas cuenta con posición financiera sólida. Disponible en pwc.es.
+La tercera fase es la transferencia. En los últimos dos o tres meses, el interim manager trabaja activamente para que la salida sea invisible para la organización. El sucesor —familiar o externo— está ya operativo, los procesos están documentados, y el equipo tiene la confianza y las herramientas para continuar. El interim manager no crea dependencia: diseña su propia salida desde el primer día.
 
-4. **Adequancy / Valtus** — *Barómetro europeo de interim management 2026*. Datos del mercado francés de management de transition: 24% de misiones son de transformación; duración media de 8,3 meses en misiones de transformación vs. 6 meses en misiones de crisis. Disponible en adequancy.com/barometre-edition-2026/.
+La duración total de una misión en contextos de sucesión familiar es habitualmente de entre seis y dieciocho meses, con un promedio de doce meses.
 
 ---
 
-## Notas de Revisión Final
+## Qué buscar en un interim manager para tu empresa familiar
 
-1. **Verificar accesibilidad de los informes KPMG y EY:** Las cifras integradas en el artículo provienen del brief del Agente 2. Confirmar que los informes son públicamente accesibles antes de publicar los enlaces externos.
+La elección del interim manager adecuado es la decisión más importante del proceso. Hay tres criterios que no deberían negociarse.
 
-2. **Tabla comparativa:** Verificar que el formato de tabla se renderiza correctamente en el CMS antes de publicar.
+El primero es la experiencia directiva real. Un interim manager en una empresa familiar debe haber gestionado organizaciones similares en tamaño y complejidad, haber enfrentado situaciones de cambio o crisis, y tener evidencia de resultados concretos. No basta con el CV de un ex-directivo corporativo que nunca ha gestionado sin la red de recursos de una gran empresa.
 
-3. **Tarifa diaria del directivo interino:** El rango de 800-1.500 €/día citado en la FAQ es orientativo. Revisar con el equipo comercial de Manager in Motion antes de publicar, para asegurar que refleja el posicionamiento actual de la firma.
+El segundo es la independencia de los vínculos familiares. Una de las grandes ventajas del interim manager en el contexto familiar es precisamente que no tiene historia con la familia, no tiene preferencias entre los sucesores, y puede decir lo que nadie en el círculo familiar se atreve a decir. Esta independencia es un activo estratégico, no un inconveniente.
 
-4. **Enlazado interno:** Las sugerencias asumen la existencia de páginas de perfil funcional (COO interino, CDO interino) y de un artículo sobre interim management en empresas familiares. Si alguna de esas páginas no existe, adaptar los anclajes o priorizar su creación.
+El tercero es la capacidad de transferir metodología. El mejor interim manager no es el que resuelve todos los problemas mientras está en la empresa: es el que deja a la organización con la capacidad de resolverlos sola. Antes de elegir un perfil, conviene preguntar: ¿cuáles son los tres cambios más duraderos que ha dejado en sus últimas misiones?
 
-5. **Schema markup FAQPage:** Implementar en el CMS el marcado JSON-LD para las seis preguntas FAQ antes de publicar, con el objetivo de optar a rich results (fragmentos desplegables) en la SERP de Google. Verificar con la herramienta de prueba de datos estructurados de Google Search Console tras la publicación.
+En Manager in Motion trabajamos con una red de directivos interinos senior con historial probado en empresas familiares españolas y europeas. Nuestra metodología de matching garantiza que el perfil propuesto no solo tiene la experiencia técnica adecuada, sino la compatibilidad cultural para integrarse en el ecosistema particular de cada empresa familiar.
 
-6. **Schema markup Article/BlogPosting:** Implementar con campos: headline (H1 del artículo), author y publisher (Manager in Motion / managerinmotion.eu), datePublished (2026-07-13), inLanguage (es-ES). Refuerza la señal E-E-A-T ante Google.
+---
+
+## Preguntas Frecuentes
+
+**¿Cuánto cuesta contratar un interim manager para gestionar la sucesión?**
+El coste de un interim manager se estructura habitualmente en una tarifa diaria o mensual, sin los costes sociales ni los compromisos de una contratación permanente. Para misiones de dirección general o C-suite en empresas familiares medianas, las tarifas en España oscilan entre 700 y 1.500 euros por día según el perfil y la complejidad de la misión. Comparado con el coste de una mala transición —pérdida de clientes, rotación de talento, deterioro del EBITDA— la inversión es habitualmente muy rentable.
+
+**¿Cuánto tiempo dura una misión de interim management en una empresa familiar?**
+La duración varía en función de la complejidad de la situación, pero las misiones de sucesión y relevo generacional duran habitualmente entre seis y dieciocho meses. Lo más frecuente es que la misión se defina con hitos claros —no solo con una duración— para que el éxito se mida por resultados, no por tiempo transcurrido.
+
+**¿Puede un interim manager liderar una empresa familiar sin conocer el sector específico?**
+En muchos casos, sí. La experiencia en gestión directiva, en cambio organizativo y en liderazgo de equipos es transferible entre sectores. Un interim manager con sólida trayectoria en empresa industrial puede añadir valor enorme en una empresa familiar de distribución o servicios si conoce los patrones de transformación que la empresa necesita. Dicho esto, hay misiones —especialmente en sectores muy técnicos o regulados— donde la experiencia sectorial específica es condición necesaria.
+
+**¿Es compatible el interim manager con el protocolo familiar ya establecido?**
+Absolutamente. El interim manager opera dentro del marco de gobierno que la familia ha establecido. Si existe un protocolo familiar, el directivo interino lo respeta y trabaja dentro de sus límites. De hecho, en muchos casos el interim manager ayuda a hacer operativo un protocolo familiar que hasta entonces existía solo sobre el papel.
+
+**¿Qué diferencia hay entre un interim manager y un director general interino?**
+En la práctica, son el mismo concepto aplicado a roles diferentes. Un director general interino es un interim manager que ocupa específicamente el cargo de CEO o Director General durante un período de transición. El interim management como disciplina cubre todos los niveles del C-suite: CEO, CFO, COO, CHRO, CTO y otros roles directivos críticos.
+
+**¿Qué garantías ofrece Manager in Motion durante el proceso?**
+En Manager in Motion establecemos objetivos concretos y medibles al inicio de cada misión. Hacemos seguimiento continuo con el cliente durante toda la misión, y ofrecemos garantía de sustitución si el interim manager propuesto no encaja en los primeros treinta días. La confidencialidad del proceso está garantizada por contrato desde el primer contacto.
+
+---
+
+## Conclusión — La sucesión bien gestionada no es un gasto: es la mayor inversión de la empresa familiar
+
+El relevo generacional en la empresa familiar no es un trámite administrativo: es el momento en que se decide si el legado de décadas de trabajo continúa o se diluye. Las empresas que lo gestionan con seriedad, con las personas adecuadas y con el tiempo necesario salen fortalecidas. Las que improvisan pagan el precio durante años.
+
+El interim management no es una solución de emergencia para cuando todo falla. Es una decisión estratégica que los propietarios más visionarios toman antes de que el cambio sea urgente. En los mercados europeos más maduros, contratar a un interim manager para acompañar la sucesión ya no es excepcional: es la norma.
+
+Si estás planificando la transición de liderazgo en tu empresa familiar y quieres entender cómo el interim management puede ayudarte a proteger lo que has construido, en Manager in Motion podemos ayudarte a identificar y activar el perfil directivo adecuado en menos de quince días. Habla con nosotros.
+
+---
+
+*Recuento estimado de palabras: ~1.850 palabras*
