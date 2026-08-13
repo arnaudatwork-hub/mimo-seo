@@ -319,7 +319,7 @@ Artículo
 [Artículo completo aquí. Máximo 1.000 palabras. Sin citas de fuentes en el texto. Sin primera persona singular ni plural. Tono constructivo hacia la audiencia.]
 
 FAQ
-[Incluir de 4 a 6 preguntas y respuestas relevantes.]
+[Máximo 3 preguntas y respuestas. Aplicar obligatoriamente las tres reglas de la sección FAQ: sin comparativo consultor vs interim manager, sin repetir preguntas de output/faq_history.md, y al menos una pregunta partiendo de un escenario de proyecto concreto.]
 
 CTA Sugerido
 
