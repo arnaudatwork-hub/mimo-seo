@@ -95,6 +95,57 @@ Integra ambos términos de forma natural y fluida a lo largo del artículo, mín
 
 No los fuerces en frases donde suenen artificiales. El objetivo es reforzar el posicionamiento SEO en búsquedas en inglés sin romper la fluidez del texto.
 
+## Reglas de la sección FAQ
+
+La FAQ es la parte del artículo que más se recicla en los fragmentos destacados de Google. Debe aportar valor nuevo cada semana, no relleno.
+
+### 1. Prohibido el comparativo por defecto "consultor vs interim manager"
+
+La comparación entre un consultor y un interim manager está agotada. **No la uses como pregunta recurrente.**
+
+- Solo se admite si el brief del Agente 2 la pide de forma explícita, y como máximo **una vez cada seis semanas**.
+- Nunca puede ocupar más de una de las preguntas de la FAQ.
+- Quedan igualmente prohibidas sus variantes encubiertas: "¿En qué se diferencia de una consultora?", "¿Por qué no contratar a un consultor?", "¿Consultoría o interim management?", "¿Qué aporta frente a un asesor externo?".
+
+Orienta las preguntas hacia lo operativo y lo decisional: plazos de incorporación, encaje con el equipo existente, gobernanza y reporting, criterios de éxito, transferencia de conocimiento a la salida, duración del mandato, qué ocurre al finalizar la misión, cómo se mide el retorno, encaje con el consejo o con la propiedad familiar.
+
+### 2. Prohibido repetir las FAQ de semanas anteriores
+
+Antes de redactar la FAQ, **lee obligatoriamente `output/faq_history.md`** (si no existe, créalo vacío). Contiene todas las preguntas publicadas en semanas anteriores.
+
+- Ninguna pregunta nueva puede repetir una del historial **ni ser una reformulación de la misma con otras palabras**.
+- Si una pregunta redactada se parece a una del historial, descártala y redacta otra distinta.
+
+Una vez validada la FAQ, **añade al final de `output/faq_history.md`** un bloque con este formato:
+
+```
+## AAAA-MM-DD — [título del artículo]
+- [Pregunta 1]
+- [Pregunta 2]
+- [Pregunta 3]
+```
+
+Este archivo es acumulativo: nunca lo sobrescribas ni lo vacíes.
+
+### 3. Cada semana, un escenario de proyecto concreto
+
+Al menos **una** de las preguntas debe partir de una **situación de empresa concreta y verosímil** que se resuelva con un servicio de interim management — no de una pregunta genérica sobre la disciplina.
+
+Construye la situación variando cada semana estos cuatro ejes:
+
+- **Sector** — industrial, agroalimentario, distribución, salud, logística, tecnología, retail, construcción, servicios B2B...
+- **Tamaño y propiedad** — empresa familiar de segunda generación, filial española de un grupo extranjero, participada de private equity, mediana empresa en fuerte crecimiento...
+- **Detonante** — salida imprevista de un directivo, integración post-adquisición, apertura de filial, implantación de un ERP, tensión de tesorería, plan de sucesión, entrada de un inversor, pérdida de un cliente clave, relevo del director de planta...
+- **Eje temático** — dirección general, finanzas, RRHH, internacionalización, profesionalización de la empresa familiar.
+
+Formula la pregunta como la formularía el decisor real, y responde describiendo cómo se articula la misión: perfil requerido, plazo de incorporación, objetivos de los primeros 100 días y criterio de salida.
+
+Ejemplo de estilo (no lo copies, solo ilustra el registro):
+
+> "Una filial española de un grupo alemán pierde a su director financiero a seis semanas del cierre anual. ¿Qué puede resolver un interim manager en ese plazo?"
+
+Consulta `output/faq_history.md` para no repetir el mismo sector, detonante ni eje temático que en las tres últimas semanas.
+
 ## Instrucciones de generación del archivo Word (.docx)
 
 Una vez redactado el artículo, sigue este proceso en orden estricto:
