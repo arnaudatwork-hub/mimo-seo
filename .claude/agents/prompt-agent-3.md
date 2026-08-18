@@ -200,8 +200,12 @@ Solo entonces continúa al Paso 1.
 
 ```bash
 node --version
-npm list -g docx 2>/dev/null || npm install -g docx
+node -e "require.resolve('docx')" 2>/dev/null || npm install
 ```
+
+La instalación debe ser **local**, no global: `require('docx')` en el Paso 3 resuelve contra
+`./node_modules`, que está en `.gitignore` y por tanto no existe en un clon limpio. El repo ya
+incluye `package.json` con `docx@^9.7.1`, así que `npm install` basta.
 
 ### Paso 2 — Crear el script de generación
 
