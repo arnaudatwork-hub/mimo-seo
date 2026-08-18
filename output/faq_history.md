@@ -94,6 +94,11 @@ Recuento sobre los 9 primeros artículos (2026-05-31 → 2026-08-03):
 - ¿Cuánto cuesta contratar un director financiero interino en España?
 - ¿Qué perfil profesional tiene un Interim CFO con experiencia en IA?
 
+## 2026-08-17 — Interim Manager para la Internacionalización: el perfil ejecutivo que acelera la apertura de nuevos mercados
+- Una empresa agroalimentaria familiar con sede en Valencia quiere introducir sus productos en el mercado alemán. Nunca ha exportado de forma directa y no tiene ningún directivo con experiencia en el país. ¿Cómo se articularía una misión de interim management en ese contexto?
+- ¿Cómo se asegura una empresa de que el conocimiento del interim manager no se pierde al final de la misión?
+- ¿Cuándo es el momento óptimo para incorporar a un interim manager en un proyecto de internacionalización: antes de definir el mercado de destino o cuando la estrategia ya está aprobada?
+
 ---
 
 ## Escenarios de proyecto ya utilizados
@@ -102,4 +107,4 @@ Registrar aquí cada semana el escenario concreto usado en la FAQ, para no repet
 
 | Fecha | Sector | Tamaño y propiedad | Detonante | Eje temático |
 |---|---|---|---|---|
-| _(pendiente — empezar a rellenar en el próximo run)_ | | | | |
+| 2026-08-17 | Agroalimentario | Empresa familiar de segunda generación | Entrada en mercado extranjero (Alemania) sin perfil exportador | Internacionalización |
