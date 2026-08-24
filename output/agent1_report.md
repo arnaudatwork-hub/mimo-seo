@@ -1,4 +1,4 @@
-# Informe Semanal de Inteligencia de Mercado — 2026-08-18
+# Informe Semanal de Inteligencia de Mercado — 2026-08-24
 
 ---
 
@@ -6,53 +6,48 @@
 
 ---
 
-**Tendencia 1:** El interim management se reposiciona como herramienta estratégica, no de urgencia
-
+**Tendencia 1: El COO / Director de Operaciones Interino como primera respuesta ante la vulnerabilidad ejecutiva**
 - **País de origen:** FR / UK / DE
-- **Relevancia para el interim management:** Los tres mercados más maduros de Europa confirman la misma señal: las empresas ya no recurren al interim manager únicamente en situaciones de crisis o vacante urgente, sino como instrumento deliberado de transformación. En Francia, el uso estratégico y selectivo desplaza el "tapagujeros". En el Reino Unido, el IIM Survey 2026 documenta que los interinos se consideran "un palanca crítica para la continuidad operativa y la gestión del riesgo". En Alemania, la DDIM registra un mercado de 2.700 millones de euros estabilizado en niveles récord.
-- **Decisor objetivo:** CEO, COO, CHRO de empresa mediana o gran empresa en proceso de transformación
-- **Oportunidad SEO en España:** El mercado español aún equipara el interim management a una solución de emergencia. Un artículo que explique el salto de "recurso de emergencia" a "herramienta de dirección estratégica" puede capturar intención de búsqueda informacional de alta calidad.
-- **Ángulo recomendado:** "Cómo y cuándo el interim management es una decisión estratégica, no una respuesta de urgencia"
+- **Relevancia para el interim management:** Las empresas industriales y de distribución afrontan con creciente frecuencia la salida —planificada o imprevista— del director de operaciones. La cadena de valor no puede permitirse semanas de parálisis. El interim management permite incorporar un ejecutivo con plena autoridad en menos de dos semanas, evitando la pérdida de continuidad operacional.
+- **Decisor objetivo:** CEO, propietario, consejo de administración, gestor de fondo PE con participadas operacionales
+- **Oportunidad SEO en España:** Baja competencia en términos como "COO interino", "director de operaciones interim management" y "interim manager operaciones"; búsqueda creciente entre decisores de empresas industriales y de distribución medianas.
+- **Ángulo recomendado:** Artículo centrado en el impacto concreto de los primeros 90 días de un interim manager de operaciones: qué hace, cómo lo hace y qué genera.
 
 ---
 
-**Tendencia 2:** El interim management a tiempo parcial (fractional) emerge como nueva modalidad
-
+**Tendencia 2: PMI (Post-Merger Integration) — crecimiento del 12% CAGR en Europa (2026-2033)**
 - **País de origen:** UK / DE
-- **Relevancia para el interim management:** Por primera vez, el IIM Survey 2026 del Reino Unido incluye una sección específica sobre "fractional interim management", reflejo de la creciente demanda de liderazgo ejecutivo senior a tiempo parcial (2 a 4 días por semana). En Alemania, el trendbarometer de primavera 2026 de DeutscheInterim confirma la misma tendencia: los mandatos de 2 a 4 días semanales crecen frente al modelo tradicional de cinco días. Este formato es especialmente relevante para pymes que no pueden costear un director a tiempo completo pero necesitan competencia ejecutiva senior.
-- **Decisor objetivo:** CEO / propietario de pyme o empresa familiar, CFO de filial española de grupo extranjero
-- **Oportunidad SEO en España:** Término con baja competencia: "interim manager tiempo parcial", "directivo interino media jornada", "fractional executive España". Oportunidad de posicionamiento temprano.
-- **Ángulo recomendado:** "El interim manager a tiempo parcial: acceso a competencia ejecutiva sin el coste de una contratación permanente"
+- **Relevancia para el interim management:** El mercado de consultoría en integración post-adquisición crece a doble dígito en Europa, con demanda creciente de perfiles interim con experiencia multifuncional para liderar la integración desde dentro (no como asesores externos). El 74% de los proveedores alemanes de interim management anticipan crecimiento en misiones de reestructuración y PMI.
+- **Decisor objetivo:** CEO, CFO, inversores PE, consejo post-adquisición
+- **Oportunidad SEO en España:** "interim manager integración empresarial", "COO interino fusión y adquisición", "interim management post-adquisición operaciones"
+- **Ángulo recomendado:** El director de operaciones interino como perfil clave en integraciones post-adquisición: diferenciación del enfoque executivo frente al consultor tradicional.
 
 ---
 
-**Tendencia 3:** Integración post-fusión (PMI) como misión de alta demanda en Europa
-
-- **País de origen:** UK / DE / FR
-- **Relevancia para el interim management:** Las reestructuraciones, crisis y situaciones de turnaround concentran la mayor parte de la demanda de interim managers en Alemania (DDIM 2026). En el Reino Unido, el IIM Survey documenta un incremento del 59% en la demanda de ejecutivos interinos para proyectos de turnaround e integración. En Francia, el 36,9% de las misiones activas son de mejora de rendimiento. La integración post-adquisición (PMI) requiere un perfil directivo específico: neutral, operativo, con experiencia en fusiones, capaz de liderar sin estar ligado al poder político interno.
-- **Decisor objetivo:** CFO, CEO o responsable de M&A en empresa adquirente; gestor de cartera de fondo de PE
-- **Oportunidad SEO en España:** "Interim manager fusiones y adquisiciones", "director interino integración post-fusión", "PMI interim management España". Baja competencia, alta intención comercial.
-- **Ángulo recomendado:** "Por qué la integración post-adquisición es la misión más crítica del interim manager en 2026"
-
----
-
-**Tendencia 4:** El CHRO interino gana protagonismo en España ante la transformación organizativa
-
-- **País de origen:** ES
-- **Relevancia para el interim management:** La aceleración tecnológica, los cambios culturales post-pandemia y la presión regulatoria en materia laboral y ESG están convirtiendo la dirección de recursos humanos en una función estratégica de primer orden. En España, la demanda de interim managers para el rol de CHRO crece impulsada por situaciones de reestructuración, integración de plantillas tras adquisiciones y profesionalización de empresas familiares que carecen de una función de RRHH estructurada a nivel directivo.
-- **Decisor objetivo:** CEO de empresa mediana o empresa familiar en proceso de transformación o crecimiento acelerado
-- **Oportunidad SEO en España:** "Interim CHRO España", "director recursos humanos interino", "interim manager RRHH". El eje temático "recursos humanos" es prioritario para Manager in Motion y aparece poco explotado en el blog actual.
-- **Ángulo recomendado:** "Cuándo y por qué una empresa mediana necesita un CHRO interino"
+**Tendencia 3: Las empresas medianas (ETIs en Francia) lideran el consumo de interim management — 46% del mercado francés**
+- **País de origen:** FR
+- **Relevancia para el interim management:** En Francia, las empresas medianas (equivalente español: pymes y empresas medianas de 50-500 empleados) son ya el primer prescriptor del mercado, superando a las grandes corporaciones. En España, este segmento es el gran gisement de crecimiento: todavía subutiliza el interim management pero su adopción crece año a año.
+- **Decisor objetivo:** Propietarios y CEOs de pymes y empresas medianas españolas
+- **Oportunidad SEO en España:** "interim management empresa mediana España", "interim manager pyme", "COO interino empresa familiar"
+- **Ángulo recomendado:** Educación del mercado español con datos europeos como referencia anticipada, enfocado en el ROI y en la comparación con el coste de mantener el puesto vacante.
 
 ---
 
-**Tendencia 5:** Regreso a la presencia física como factor de éxito en mandatos de transformación
+**Tendencia 4: Demanda de CEO e interim president en Reino Unido +80% interanual**
+- **País de origen:** UK
+- **Relevancia para el interim management:** El interim management se consolida en los niveles más altos del C-suite, no solo en mandos intermedios. La volatilidad económica, las jubilaciones anticipadas y la aceleración de los ciclos de transformación impulsan la demanda de CEO interinos, presidentes ejecutivos y COOs de transición. Señal anticipada relevante para el mercado español.
+- **Decisor objetivo:** Consejo de administración, inversores, propietarios de empresa familiar en proceso de relevo
+- **Oportunidad SEO en España:** "CEO interino España", "presidente ejecutivo interim", "director general de transición"
+- **Ángulo recomendado:** El C-suite interino como respuesta estructural a la volatilidad directiva, no como solución de urgencia.
 
+---
+
+**Tendencia 5: Retorno a la presencia on-site y estabilización del mercado alemán en niveles récord**
 - **País de origen:** DE
-- **Relevancia para el interim management:** El trendbarometer de primavera 2026 de Alemania identifica el retorno a la presencia en planta o sede como una tendencia marcada. Los mandatos de transformación real —cultural, operativa, post-fusión— requieren presencia física para generar confianza, liderar equipos y detectar resistencias. Esta tendencia invierte la lógica del "interim manager remoto" popularizada en el periodo post-COVID.
-- **Decisor objetivo:** CEO, COO, CHRO que buscan resultados tangibles en plazos cortos
-- **Oportunidad SEO en España:** Tema diferenciador que pone en valor la propuesta del interim manager frente a consultores y asesores externos que trabajan en remoto.
-- **Ángulo recomendado:** "Por qué los mejores mandatos de interim management ocurren en presencia: liderazgo real en el terreno"
+- **Relevancia para el interim management:** El mercado alemán de interim management se estabiliza en torno a 2.700 millones de euros y 12.500 managers activos, con una tasa de ocupación que sube al 81% en 2026. La tendencia más destacada de la primavera es el retorno a la presencia física en la empresa cliente: el interim management de operaciones, por su naturaleza, requiere presencia en planta. Señal de que el mercado valida los perfiles de COO y directores de operaciones sobre los perfiles remotos.
+- **Decisor objetivo:** CEO y COO de empresas industriales y de distribución
+- **Oportunidad SEO en España:** "interim manager presencial industria", "director de operaciones interino industrial"
+- **Ángulo recomendado:** Reforzar el argumento del interim manager de operaciones como ejecutivo presente en la organización, con autoridad y visibilidad plena.
 
 ---
 
@@ -60,59 +55,50 @@
 
 ---
 
-**Fuente:** RRHHDIGITAL — "Interim Management en España: madurez pendiente y oportunidad estratégica"
-**Tema:** Estado actual del mercado de interim management en España vs. Europa
-**Idea clave:** España presenta una clara oportunidad de mercado; la brecha respecto a FR/UK/DE es el ángulo editorial más citado
-**Oportunidad para Manager in Motion:** Publicar contenido que posicione a Manager in Motion como el referente que explica ese gap y lo transforma en argumento comercial hacia decisores españoles
+**Fuente:** Robert Walters ES — "Solicita acceso al estudio de Interim Management 2026"
+- **Tema:** Tendencias salariales y de mercado del interim management en España 2026
+- **Idea clave:** El mercado español está en fase de maduración, con crecimiento sostenido y adopción creciente en pymes y empresas familiares.
+- **Oportunidad para Manager in Motion:** Publicar contenido más profundo que los estudios de salary survey, con foco en casos de uso concretos por función ejecutiva (COO, CFO, CHRO) y en el ROI real de la misión.
 
 ---
 
-**Fuente:** IIM (Institute of Interim Management) — IIM Interim Management Survey 2026
-**Tema:** Primera exploración del fractional interim management en la encuesta anual más relevante del sector en UK
-**Idea clave:** El fractional interim management pasa de tendencia marginal a área de análisis oficial del IIM; el mercado reconoce formalmente la modalidad
-**Oportunidad para Manager in Motion:** Ser la primera voz en español que explica el fractional interim management con rigor, diferenciándolo del interim management clásico y del consulting
+**Fuente:** EPUNTO Interim Management — "El Interim Management en 2026"
+- **Tema:** Panorama general del interim management en España para 2026
+- **Idea clave:** La transformación digital, la IA y los cambios organizativos son los principales motores de demanda. Se menciona el sector industrial, tecnología, automoción y sanidad como los más demandantes.
+- **Oportunidad para Manager in Motion:** Diferenciarse con contenido más específico por función ejecutiva y con profundidad operacional real (qué hace el interim manager semana a semana), frente al contenido genérico de los competidores.
 
 ---
 
-**Fuente:** DDIM — Marktstudie 2026
-**Tema:** El mercado alemán de interim management se estabiliza en nivel récord (2.700M€); tasa de utilización del 81%
-**Idea clave:** Alemania demuestra que el interim management maduro genera un mercado estable y robusto; España puede recorrer ese camino
-**Oportunidad para Manager in Motion:** Usar los datos alemanes como benchmark para proyectar el potencial del mercado español
+**Fuente:** GH Partners FR — "Le marché français du management de transition: chiffres clés 2025-2026"
+- **Tema:** Datos cuantitativos del mercado francés de management de transition
+- **Idea clave:** ETIs (empresas medianas) representan el 46% del mercado; la duración media de las misiones es de 7,5 meses (8,3 meses para misiones no puente); los perfiles de IA y ciberseguridad crecen con fuerza.
+- **Oportunidad para Manager in Motion:** Adaptar estos benchmarks franceses al contexto español como referencia de mercado anticipada: artículos que posicionen a España en la curva de madurez europea.
 
 ---
 
-**Fuente:** Robert Walters — Informe de Remuneración Interim Management Europa 2026
-**Tema:** Honorarios y perfiles de interim managers en Europa
-**Idea clave:** Los honorarios se mantienen estables porque el coste del interim manager se evalúa frente al coste del riesgo de una transformación fallida
-**Oportunidad para Manager in Motion:** Reencuadrar el precio del interim management como inversión de gestión del riesgo, no como gasto de personal
+**Fuente:** Introlution UK — "Unlocking Industrial Growth: How Interim Leadership Drives Transformation Across Europe and the UK"
+- **Tema:** Liderazgo interino en sectores industriales en Europa y perspectivas 2026
+- **Idea clave:** La demanda de líderes interim con experiencia multipaís en operaciones industriales crecerá entre un 40-45% a medida que continúe la consolidación industrial europea.
+- **Oportunidad para Manager in Motion:** Artículo sobre el interim manager de operaciones en empresas industriales: perfil, impacto y diferenciación frente a la consultoría.
 
 ---
 
-## 3. Preguntas Frecuentes
+## 3. Preguntas Frecuentes identificadas
 
-1. ¿Cuándo tiene sentido contratar un interim manager para recursos humanos en una empresa mediana?
-2. ¿Qué hace exactamente un CHRO interino que no puede hacer un responsable de RRHH interno?
-3. ¿Puede un interim manager liderar una integración de plantillas tras una adquisición?
-4. ¿Qué es el interim management a tiempo parcial (fractional) y para qué tipo de empresa es adecuado?
-5. ¿Cuál es la diferencia entre contratar un interim manager para una fusión y contratar una consultora de M&A?
-6. ¿Cómo se garantiza la transferencia de conocimiento cuando finaliza el mandato de un CHRO interino?
-7. ¿En qué etapa de una integración post-adquisición debe incorporarse el interim manager?
-8. ¿Qué indicadores miden el éxito de un mandato de interim management en recursos humanos?
+1. ¿Cuándo necesita una empresa un COO interino en lugar de reforzar al equipo interno existente?
+2. ¿Cuánto tiempo necesita un interim manager de operaciones para conocer el negocio antes de tomar decisiones?
+3. ¿Puede un interim manager de operaciones liderar una implementación de ERP sin experiencia previa en la plataforma específica?
+4. ¿Cómo se gestiona la relación entre el interim manager de operaciones y el director general cuando ambos tienen autoridad sobre equipos compartidos?
+5. ¿En qué sectores tiene mayor impacto un interim manager de operaciones?
+6. ¿Puede el interim manager de operaciones gestionar una crisis con proveedores o clientes clave durante la misión?
+7. ¿Cuánto cuesta un COO interino comparado con mantener el puesto vacante durante un proceso de selección?
+8. ¿Cómo decide la empresa si al final de la misión necesita un COO permanente o puede redistribuir las funciones internamente?
 
 ---
 
 ## 4. Tema Recomendado para Esta Semana
 
-**Tema:** El CHRO interino como respuesta ejecutiva a la transformación de RRHH en la empresa mediana española
+**COO Interino / Director de Operaciones Interino: el perfil ejecutivo que estabiliza la empresa cuando el tiempo no puede esperar.**
 
 **Justificación estratégica:**
-
-1. **Eje temático prioritario no explotado:** El eje "recursos humanos" es uno de los ejes temáticos prioritarios de Manager in Motion pero apenas aparece desarrollado en el blog con profundidad. Es un hueco editorial relevante.
-
-2. **Señal anticipada de mercados maduros:** Francia y Alemania documentan que la función de RRHH es una de las áreas donde más crecen los mandatos de interim management. España seguirá ese patrón en 12-18 meses.
-
-3. **Decisor claramente definido:** El CEO de una empresa mediana o empresa familiar que no tiene CHRO o lo tiene en un nivel no directivo es el decisor perfecto. Audiencia acotada y de alta intención comercial.
-
-4. **Diferenciación respecto a artículos previos:** Los artículos sobre sucesión, CFO e internacionalización ya están publicados. RRHH / CHRO es terreno nuevo.
-
-5. **Oportunidad SEO:** "CHRO interino España", "director recursos humanos interim", "interim manager recursos humanos empresa mediana" tienen baja competencia y alta relevancia transaccional.
+Este tema no ha sido abordado de forma directa en los artículos recientes de Manager in Motion. Los artículos de las últimas semanas han cubierto internacionalización (CHRO), recursos humanos (CHRO), y finanzas (CFO). El eje de dirección general / operaciones está subrepresentado y responde a una demanda real creciente en los tres mercados europeos de referencia (Francia, Reino Unido, Alemania). El search intent en España combina urgencia directiva (salida imprevista, vacante crítica) con interés en el modelo interim. El decisor objetivo —CEO, propietario, consejo— enfrenta este problema de forma recurrente en empresas industriales y de distribución medianas. La competencia en keywords de "COO interino" y "director de operaciones interim management" es moderada en España, con potencial de posicionamiento rápido.

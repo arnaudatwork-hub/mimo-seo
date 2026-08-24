@@ -114,3 +114,9 @@ Registrar aquí cada semana el escenario concreto usado en la FAQ, para no repet
 |---|---|---|---|---|
 | 2026-08-17 | Agroalimentario | Empresa familiar de segunda generación | Entrada en mercado extranjero (Alemania) sin perfil exportador | Internacionalización |
 | 2026-08-18 | Distribución (farmacéutico) | Empresa mediana adquirente (compra de competidor regional) | Integración post-adquisición: dos plantillas (120+80 personas), culturas distintas, plazo 6 meses | Recursos humanos / RRHH |
+| 2026-08-24 | Logística y distribución | Filial española de un grupo belga | Reubicación del director de operaciones en la matriz con seis semanas de preaviso, vísperas de campaña de alta demanda | Dirección general / operaciones |
+
+## 2026-08-24 — COO Interino: el ejecutivo de operaciones que estabiliza la empresa cuando el tiempo apremia
+- Una filial española de un grupo belga de logística y distribución debe afrontar el inicio de su campaña de mayor demanda del año cuando el director de operaciones es reubicado en la matriz con seis semanas de preaviso. ¿Cómo se articula un mandato de interim management en ese contexto?
+- ¿Cómo se estructura el reporting del interim manager de operaciones ante la propiedad o el consejo cuando no existe una cadena de mando clara?
+- Al final de la misión, ¿cómo decide la empresa si necesita incorporar un COO permanente o puede redistribuir las responsabilidades de la dirección de operaciones entre el equipo existente?
