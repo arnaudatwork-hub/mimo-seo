@@ -1,110 +1,117 @@
-# SEO Strategy Brief — 2026-08-24
+# SEO Strategy Brief — 2026-09-01
 
 ---
 
 ## Tema Seleccionado
 
-**COO Interino: el director de operaciones en interim management como respuesta ejecutiva inmediata.**
+**Interim management industrial: cómo liderar la modernización de una empresa manufacturera cuando el talento directivo interno no basta.**
 
 ---
 
 ## Justificación Estratégica
 
-El perfil de director de operaciones interino (COO interino) no ha sido abordado de forma específica en el blog de Manager in Motion. Las últimas semanas han cubierto CFO con IA (agosto 3), internacionalización (agosto 17) y CHRO (agosto 18). El eje de dirección general / operaciones está subrepresentado y responde a una demanda real y creciente en los mercados europeos más maduros.
+La transformación de las empresas industriales españolas —digitalización de planta, implantación de ERP/MES, nearshoring de cadena de suministro, transición energética— es uno de los ejes más activos del mercado europeo de interim management en 2026. En Francia, Alemania y el Reino Unido, los mandatos de interim manager en sector industrial lideran la demanda. En España, este ángulo específico tiene cobertura SEO prácticamente nula: no existe ningún artículo de autoridad en español que aborde el interim management desde la perspectiva del decisor industrial.
 
-La demanda de perfiles COO en interim management crece en Francia, Reino Unido y Alemania, con las empresas medianas (ETIs en Francia, equivalente español: empresas de 50-500 empleados) como primer prescriptor del mercado. En España, este segmento es el gran segmento de crecimiento. El search intent combina urgencia directiva con interés educacional sobre el modelo.
-
-La competencia en keywords de "COO interino" y "director de operaciones interim management" es moderada en España, con potencial de posicionamiento rápido. El artículo tiene capacidad directa de captar leads B2B de CEOs, propietarios y consejos de administración de empresas industriales y de distribución.
+El tema conecta directamente con la audiencia objetivo de Manager in Motion (CEOs, COOs, inversores PE, directores generales de empresas industriales medianas) y con el eje temático prioritario de dirección general e internacionalización. Además, se aleja de los artículos recientes del pipeline (CFO, CHRO, COO logístico) evitando canibalización.
 
 ---
 
 ## Audiencia Objetivo
 
-- CEOs y propietarios de empresas industriales y de distribución (50-500 empleados)
-- Directores generales de filiales españolas de grupos europeos con COO local
-- Gestores de fondos de private equity con participadas operacionales
-- Consejos de administración que afrontan vacante o riesgo en la dirección de operaciones
+- CEOs y directores generales de empresas manufactureras medianas (50–500 empleados)
+- COOs y directores de operaciones de filiales industriales españolas de grupos europeos
+- Inversores de private equity con participadas en el sector industrial
+- Directores de planta que reportan a consejos de administración con agenda de modernización
+- CHROs de empresas industriales ante vacantes directivas en posiciones clave de planta o supply chain
 
 ---
 
 ## Intención de Búsqueda
 
-**Informacional + transaccional.** El decisor quiere entender cuándo y cómo activar este perfil, y si existe un proveedor de confianza para hacerlo con rapidez.
+**Informacional-comercial.** El decisor que llega a este artículo está buscando entender si el interim management es una solución aplicable a su contexto industrial concreto. No busca una tarifa ni un formulario de contacto: busca validación conceptual y criterios de decisión. La conversión se produce cuando el artículo resuelve su duda de fondo: "¿Tiene sentido contratar a un interim manager para este proyecto, en este sector, con este plazo?"
 
 ---
 
 ## Keywords
 
-- **Keyword principal:** COO interino
-- **Keywords secundarias:** director de operaciones interino, interim manager operaciones, director operaciones interim management, interim management operaciones
+- **Keyword principal:** interim manager industrial
+- **Keywords secundarias:**
+  - interim management sector industrial
+  - interim manager manufactura España
+  - directivo interino empresa manufacturera
+  - interim management transformación industrial
 - **Keywords de cola larga:**
-  - cuándo contratar un COO interino
-  - qué hace un director de operaciones interim
-  - primeros 90 días COO interino
-  - interim management dirección de operaciones empresa mediana
-  - director de operaciones interim management empresa industrial
+  - cuándo contratar un interim manager para modernizar una fábrica
+  - interim manager para implantación de ERP industrial España
+  - interim management empresa industrial mediana España
+  - interim manager supply chain nearshoring
 
 ---
 
 ## Metadatos SEO
 
-- **Título SEO:** COO Interino: el director de operaciones que la empresa necesita cuando no puede esperar
-- **Meta descripción:** ¿Tu empresa necesita un director de operaciones de forma inmediata? Descubre cómo el interim management aporta liderazgo ejecutivo en operaciones en menos de dos semanas y qué impacto genera en los primeros 90 días.
-- **Slug URL:** coo-interino-director-operaciones-interim-management
-- **H1:** COO Interino: el ejecutivo de operaciones que estabiliza la empresa cuando el tiempo apremia
+- **Título SEO:** Interim Manager Industrial: Cuándo y Cómo Modernizar la Planta con Liderazgo Externo
+- **Meta descripción:** Descubre cuándo una empresa manufacturera necesita un interim manager industrial, qué perfil aporta valor real y cómo se articula una misión en entornos de transformación, ERP o nearshoring.
+- **Slug URL:** /interim-manager-industrial
+- **H1:** Interim Manager Industrial: el liderazgo ejecutivo que la transformación de planta no puede esperar
 
 ---
 
 ## Estructura del Artículo
 
-**Esquema H2 (máximo 3, sin H3):**
+### Esquema H2 (máximo 3, sin H3):
 
-1. Cuándo la dirección de operaciones no puede esperar
-2. Qué hace un interim manager de operaciones en sus primeros 90 días
-3. El perfil que convierte la urgencia operacional en ventaja competitiva
+1. **Por qué la transformación industrial necesita un perfil directivo distinto**
+   — La brecha entre la agenda de modernización (ERP, digitalización, nearshoring) y el talento directivo disponible internamente. Por qué el perfil del interim manager encaja donde no lo hace ni el equipo interno ni una consultora.
+
+2. **Las tres misiones más frecuentes del interim manager en empresa industrial**
+   — Implantación de ERP/MES y digitalización de planta. Rediseño de cadena de suministro y nearshoring. Reestructuración operativa y transición de dirección de planta. En cada caso: detonante, perfil requerido, primeros 100 días.
+
+3. **Cómo se estructura una misión de interim management en el sector industrial**
+   — Proceso de selección y onboarding. Gobernanza y reporting. Transferencia de conocimiento al equipo interno. Criterio de salida y métricas de éxito.
 
 ---
 
 ## Oportunidades FAQ
 
-- **Escenario concreto (obligatorio):** Filial española de un grupo belga de logística y distribución cuyo director de operaciones es reubicado en la matriz con seis semanas de preaviso, justo antes del inicio de la campaña de alta demanda. Sector: logística. Eje: dirección general / operaciones.
-- **Gobernanza y reporting:** ¿Cómo se estructura el reporting del interim manager de operaciones ante la propiedad o el consejo cuando no existe una cadena de mando clara?
-- **Decisión al cierre de misión:** ¿Cómo decide la empresa si al final de la misión necesita un COO permanente o puede redistribuir las funciones de la dirección de operaciones entre el equipo existente?
+- Escenario concreto: empresa industrial mediana con plan de implantación de ERP que pierde a su director de operaciones (o su perfil interno no tiene la seniority necesaria para liderar el proyecto).
+- Pregunta sobre cómo se mide el éxito de una misión de interim management en planta.
+- Pregunta sobre el encaje del interim manager con el equipo existente de fábrica (mandos intermedios, sindicatos, dirección técnica).
 
 ---
 
 ## Recomendaciones de Enlazado Interno
 
-- Artículo sobre el Interim CFO (perspectiva financiera complementaria al COO)
-- Artículo sobre reestructuración industrial (contexto operacional sectorial)
-- Página de servicios: Director de Operaciones / Sector Industrial (Manager in Motion)
+- Artículo sobre el COO interino (publicado 2026-08-24): ancla "dirección de operaciones interina"
+- Artículo sobre reestructuración industrial (publicado 2026-07-06): ancla "turnaround industrial"
+- Artículo sobre transformación empresarial (publicado 2026-07-13): ancla "transformación digital en empresa industrial"
+- Página de servicios de interim management de Manager in Motion
 
 ---
 
 ## Recomendaciones de Enlazado Externo
 
-- Robert Walters EU Interim Management Report 2026 (datos de mercado europeo)
-- IIM Interim Management Survey 2026 (UK, datos de demanda por perfil)
-- DDIM Marktstudie 2026 (Alemania, volumen de mercado y perspectivas de reestructuración)
+- DDIM Marktstudie 2026 (mercado alemán, fuente de autoridad sectorial)
+- IIM Interim Management Survey 2026 (fuente de referencia europea)
+- Dato macroeconómico sobre inversión industrial en España (INE, Ministerio de Industria)
 
 ---
 
 ## Recomendación de CTA
 
-**CTA directo con foco en diagnóstico:** "¿Tu empresa necesita un director de operaciones de forma inmediata? Contacta con Manager in Motion y recibe un primer diagnóstico en 24 horas."
+**CTA principal:** "¿Tu empresa industrial afronta un proyecto de transformación sin el perfil directivo que lo lidere? Habla con Manager in Motion: te presentamos el interim manager adecuado en menos de 72 horas."
+
+**Posición:** Al final del artículo, tras el cierre. También puede insertarse como CTA contextual al final de la sección H2 sobre las tres misiones más frecuentes.
 
 ---
 
 ## Instrucciones para el Redactor
 
-- **Eje temático:** Dirección general / operaciones
-- **Longitud máxima:** 1.000 palabras en el cuerpo del artículo (desde introducción hasta párrafo de cierre, sin FAQ, CTA ni metadatos)
-- **Estructura:** Máximo 3 H2, sin H3
-- **Tono:** Ejecutivo, práctico, con visión, sin tecnicismos innecesarios ni tono comercial exagerado
-- **Terminología obligatoria:** "interim manager" e "interim management" deben aparecer mínimo 3 veces cada uno en el cuerpo
-- **Terminología prohibida en el cuerpo:** directivo interino, gestión interina, management interino, manager interino
-- **Personas gramaticales:** Sin primera persona singular ("yo") ni plural ("nosotros/nuestro")
-- **Datos y cifras:** Solo datos verificados. Sin mencionar fuentes dentro del texto
-- **Manager in Motion:** Debe aparecer como experto creíble, no como vendedor. Solo en el CTA de forma explícita
-- **Pregunta central del artículo:** ¿Cuándo y cómo activa una empresa un COO interino, y qué impacto concreto genera en los primeros 90 días?
-- **Cierre:** Debe abrir la reflexión sobre el coste de NO activar el interim management, sin ser confrontacional ni atacar al lector
+1. **Tono:** Ejecutivo, directo, sin paternalismos. El lector es un decisor senior que ya conoce su problema; el artículo le ayuda a encuadrarlo y a tomar la decisión con criterios claros.
+2. **Terminología obligatoria:** "interim manager" e "interim management" son los únicos términos válidos. Mínimo 3 ocurrencias de cada uno en el cuerpo.
+3. **Sin estadísticas no verificadas.** Usar afirmaciones cualitativas bien argumentadas. Si se incluye algún dato, debe ser verificable (DDIM, IIM, INE, Eurostat, Big Four).
+4. **Sin mención de fuentes en el cuerpo.** Solo en la sección "Fuentes consultadas" al final, fuera del artículo.
+5. **Longitud máxima del cuerpo: 1.000 palabras.** Estructura con 3 H2, sin H3.
+6. **FAQ: máximo 3 preguntas.** Una debe ser un escenario de empresa industrial concreto. Prohibido el comparativo consultor vs. interim manager. Consultar faq_history.md para no repetir preguntas anteriores.
+7. **No usar primera persona** (ni singular ni plural). Tercera persona o construcciones impersonales.
+8. **No atacar ni cuestionar a la audiencia.** El decisor es el protagonista positivo.
