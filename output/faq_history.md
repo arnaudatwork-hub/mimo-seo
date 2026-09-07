@@ -116,6 +116,7 @@ Registrar aquí cada semana el escenario concreto usado en la FAQ, para no repet
 | 2026-08-18 | Distribución (farmacéutico) | Empresa mediana adquirente (compra de competidor regional) | Integración post-adquisición: dos plantillas (120+80 personas), culturas distintas, plazo 6 meses | Recursos humanos / RRHH |
 | 2026-08-24 | Logística y distribución | Filial española de un grupo belga | Reubicación del director de operaciones en la matriz con seis semanas de preaviso, vísperas de campaña de alta demanda | Dirección general / operaciones |
 | 2026-09-01 | Fabricación de componentes de automoción (tier 2) | Empresa familiar participada por private equity | Implantación de ERP exigida por el inversor; director de operaciones interno sin experiencia en proyectos de esta escala | Profesionalización de empresa familiar / transformación industrial |
+| 2026-09-07 | Salud ocupacional / servicios B2B | Empresa mediana (180 empleados) | Salida imprevista del CEO fundador por motivos de salud, dos meses antes del cierre del ejercicio y en plena negociación de una línea de crédito | Dirección general |
 
 ## 2026-08-24 — COO Interino: el ejecutivo de operaciones que estabiliza la empresa cuando el tiempo apremia
 - Una filial española de un grupo belga de logística y distribución debe afrontar el inicio de su campaña de mayor demanda del año cuando el director de operaciones es reubicado en la matriz con seis semanas de preaviso. ¿Cómo se articula un mandato de interim management en ese contexto?
@@ -126,3 +127,8 @@ Registrar aquí cada semana el escenario concreto usado en la FAQ, para no repet
 - Una empresa familiar de fabricación de componentes de automoción, participada por un fondo de private equity hace 18 meses, debe implantar un ERP en planta en el plazo fijado por el inversor. Su director de operaciones —de perfil técnico— nunca ha liderado un proyecto de esta envergadura. ¿Cómo se articula una misión de interim management en ese contexto?
 - ¿Cómo gestiona el interim manager industrial la relación con los mandos intermedios de planta que llevan años en la empresa y pueden percibir su llegada como una amenaza?
 - Al finalizar la misión, ¿cómo decide la empresa si necesita incorporar un perfil directivo permanente o puede redistribuir las responsabilidades entre el equipo existente?
+
+## 2026-09-07 — CEO Interino: cuándo el consejo necesita un director general de transición
+- Una empresa de servicios de salud ocupacional con 180 empleados pierde a su CEO fundador por motivos de salud a dos meses del cierre del ejercicio y en plena negociación de una línea de crédito con su banco. El consejo de administración —formado por tres socios— nunca ha gestionado este tipo de situación. ¿Cómo se articula una misión de CEO interino en ese contexto?
+- ¿Puede el CEO interino preparar la empresa para la entrada de un inversor o un proceso de venta durante su mandato?
+- ¿Cómo se estructura el reporting del CEO interino ante un consejo de administración que nunca ha supervisado a un directivo externo?

@@ -1,117 +1,118 @@
-# SEO Strategy Brief — 2026-09-01
+# SEO Strategy Brief — 2026-09-07
 
 ---
 
 ## Tema Seleccionado
 
-**Interim management industrial: cómo liderar la modernización de una empresa manufacturera cuando el talento directivo interno no basta.**
+**CEO interino: cuándo el consejo de administración necesita un director general de transición**
 
 ---
 
 ## Justificación Estratégica
 
-La transformación de las empresas industriales españolas —digitalización de planta, implantación de ERP/MES, nearshoring de cadena de suministro, transición energética— es uno de los ejes más activos del mercado europeo de interim management en 2026. En Francia, Alemania y el Reino Unido, los mandatos de interim manager en sector industrial lideran la demanda. En España, este ángulo específico tiene cobertura SEO prácticamente nula: no existe ningún artículo de autoridad en español que aborde el interim management desde la perspectiva del decisor industrial.
+El CEO interino es el perfil de mayor crecimiento de demanda en los mercados maduros: la demanda de CEO/presidente de transición creció un 80 % interanual en el Reino Unido en 2026 (IIM Survey). En España, el contenido sobre este perfil es prácticamente inexistente, mientras que los artículos sobre CFO interino, CHRO interino y COO interino ya existen en el mercado local. La brecha es clara y la intención de búsqueda de un decisor que evalúa esta solución (consejero, propietario familiar, inversor PE) es de alta conversión comercial para Manager in Motion.
 
-El tema conecta directamente con la audiencia objetivo de Manager in Motion (CEOs, COOs, inversores PE, directores generales de empresas industriales medianas) y con el eje temático prioritario de dirección general e internacionalización. Además, se aleja de los artículos recientes del pipeline (CFO, CHRO, COO logístico) evitando canibalización.
+El artículo se posiciona en el eje de **dirección general** y **profesionalización de empresa familiar**, los dos ejes de mayor impacto para la audiencia objetivo. La combinación de contextos de uso (sucesión, transformación, entrada de inversor, crisis de liderazgo) cubre un espectro amplio de situaciones en las que el CEO interino es la respuesta racional.
 
 ---
 
 ## Audiencia Objetivo
 
-- CEOs y directores generales de empresas manufactureras medianas (50–500 empleados)
-- COOs y directores de operaciones de filiales industriales españolas de grupos europeos
-- Inversores de private equity con participadas en el sector industrial
-- Directores de planta que reportan a consejos de administración con agenda de modernización
-- CHROs de empresas industriales ante vacantes directivas en posiciones clave de planta o supply chain
+- **Primaria:** Presidentes de consejo de administración y consejeros independientes; propietarios de empresas familiares medianas en proceso de sucesión o profesionalización; socios de fondos de private equity con participadas en España.
+- **Secundaria:** CHROs y directores de RRHH de grupos con filiales en España que deben gestionar una vacante ejecutiva crítica; CEOs en funciones que anticipan su salida y deben organizar su sucesión.
 
 ---
 
 ## Intención de Búsqueda
 
-**Informacional-comercial.** El decisor que llega a este artículo está buscando entender si el interim management es una solución aplicable a su contexto industrial concreto. No busca una tarifa ni un formulario de contacto: busca validación conceptual y criterios de decisión. La conversión se produce cuando el artículo resuelve su duda de fondo: "¿Tiene sentido contratar a un interim manager para este proyecto, en este sector, con este plazo?"
+- **Informacional/comercial:** El decisor busca comprender cuándo y cómo se utiliza un CEO interino antes de iniciar una búsqueda activa.
+- **Transaccional latente:** Una parte de los buscadores está evaluando activamente si el CEO interino es la solución adecuada frente a una búsqueda permanente acelerada.
+- **Validación de decisión:** Propietarios y consejeros que ya contemplan la opción buscan artículos que les ayuden a justificar internamente la decisión.
 
 ---
 
 ## Keywords
 
-- **Keyword principal:** interim manager industrial
+- **Keyword principal:** CEO interino
 - **Keywords secundarias:**
-  - interim management sector industrial
-  - interim manager manufactura España
-  - directivo interino empresa manufacturera
-  - interim management transformación industrial
+  - director general interino
+  - director general de transición
+  - interim CEO España
+  - CEO de transición empresa
 - **Keywords de cola larga:**
-  - cuándo contratar un interim manager para modernizar una fábrica
-  - interim manager para implantación de ERP industrial España
-  - interim management empresa industrial mediana España
-  - interim manager supply chain nearshoring
+  - cuándo contratar un CEO interino
+  - CEO interino empresa familiar
+  - director general interino empresa mediana
+  - interim management dirección general España
+  - CEO interino consejo de administración
+  - CEO interino private equity España
 
 ---
 
 ## Metadatos SEO
 
-- **Título SEO:** Interim Manager Industrial: Cuándo y Cómo Modernizar la Planta con Liderazgo Externo
-- **Meta descripción:** Descubre cuándo una empresa manufacturera necesita un interim manager industrial, qué perfil aporta valor real y cómo se articula una misión en entornos de transformación, ERP o nearshoring.
-- **Slug URL:** /interim-manager-industrial
-- **H1:** Interim Manager Industrial: el liderazgo ejecutivo que la transformación de planta no puede esperar
+- **Título SEO:** CEO Interino: cuándo el consejo necesita un director general de transición
+- **Meta descripción:** Descubre en qué situaciones el CEO interino es la respuesta más eficaz para el consejo de administración: sucesión, transformación, vacante urgente o entrada de inversor. Guía para directivos y propietarios.
+- **Slug URL:** /ceo-interino-director-general-transicion
+- **H1:** CEO Interino: cuándo el consejo necesita un director general de transición
 
 ---
 
 ## Estructura del Artículo
 
-### Esquema H2 (máximo 3, sin H3):
+**Esquema H2 (máximo 3, sin H3):**
 
-1. **Por qué la transformación industrial necesita un perfil directivo distinto**
-   — La brecha entre la agenda de modernización (ERP, digitalización, nearshoring) y el talento directivo disponible internamente. Por qué el perfil del interim manager encaja donde no lo hace ni el equipo interno ni una consultora.
+1. **Las cuatro situaciones en que el CEO interino es la decisión más racional**
+   Vacante urgente sin sucesor preparado; proceso de transformación estratégica que el equipo interno no puede liderar; entrada de inversor o proceso de venta que requiere liderazgo ejecutivo neutral; sucesión en empresa familiar cuando el relevo no está listo.
 
-2. **Las tres misiones más frecuentes del interim manager en empresa industrial**
-   — Implantación de ERP/MES y digitalización de planta. Rediseño de cadena de suministro y nearshoring. Reestructuración operativa y transición de dirección de planta. En cada caso: detonante, perfil requerido, primeros 100 días.
+2. **El perfil del CEO interino: qué lo diferencia de un CEO permanente y de un gestor de continuidad**
+   Experiencia en mandatos de alta complejidad; capacidad de diagnóstico rápido; autoridad ejecutiva plena desde el primer día; orientación a resultados con horizonte definido; transferencia de conocimiento estructurada a la salida.
 
-3. **Cómo se estructura una misión de interim management en el sector industrial**
-   — Proceso de selección y onboarding. Gobernanza y reporting. Transferencia de conocimiento al equipo interno. Criterio de salida y métricas de éxito.
+3. **Los primeros 90 días: cómo el CEO interino estabiliza, diagnostica y activa la organización**
+   Fase de escucha y diagnóstico (semanas 1–3); consolidación de la confianza del equipo y la propiedad (semanas 4–6); activación del plan de acción y primeras decisiones visibles (semanas 7–12).
 
 ---
 
 ## Oportunidades FAQ
 
-- Escenario concreto: empresa industrial mediana con plan de implantación de ERP que pierde a su director de operaciones (o su perfil interno no tiene la seniority necesaria para liderar el proyecto).
-- Pregunta sobre cómo se mide el éxito de una misión de interim management en planta.
-- Pregunta sobre el encaje del interim manager con el equipo existente de fábrica (mandos intermedios, sindicatos, dirección técnica).
+- Situación de empresa concreta (empresa mediana del sector salud/servicios B2B con vacante inesperada de CEO)
+- Diferencia entre CEO interino y CEO en período de prueba
+- Cómo se estructura el reporting del CEO interino ante el consejo
 
 ---
 
 ## Recomendaciones de Enlazado Interno
 
-- Artículo sobre el COO interino (publicado 2026-08-24): ancla "dirección de operaciones interina"
-- Artículo sobre reestructuración industrial (publicado 2026-07-06): ancla "turnaround industrial"
-- Artículo sobre transformación empresarial (publicado 2026-07-13): ancla "transformación digital en empresa industrial"
-- Página de servicios de interim management de Manager in Motion
+- Artículo sobre CFO interino (si existe en el blog)
+- Artículo sobre profesionalización de la empresa familiar
+- Artículo sobre interim management y private equity
+- Página de servicios de Manager in Motion: dirección general
 
 ---
 
 ## Recomendaciones de Enlazado Externo
 
-- DDIM Marktstudie 2026 (mercado alemán, fuente de autoridad sectorial)
-- IIM Interim Management Survey 2026 (fuente de referencia europea)
-- Dato macroeconómico sobre inversión industrial en España (INE, Ministerio de Industria)
+- IIM (Institute of Interim Management, iim.org.uk): referencia de datos de mercado
+- Asociación Interim Management España (interimspain.org): referencia sectorial española
+- No citar directamente en el cuerpo del artículo: solo en fuentes consultadas
 
 ---
 
 ## Recomendación de CTA
 
-**CTA principal:** "¿Tu empresa industrial afronta un proyecto de transformación sin el perfil directivo que lo lidere? Habla con Manager in Motion: te presentamos el interim manager adecuado en menos de 72 horas."
+**Título del CTA:** "¿Su empresa necesita un CEO de transición?"
 
-**Posición:** Al final del artículo, tras el cierre. También puede insertarse como CTA contextual al final de la sección H2 sobre las tres misiones más frecuentes.
+**Texto:** Si el consejo o la propiedad se enfrenta a una vacante ejecutiva crítica, un proceso de transformación que el equipo interno no puede liderar o una entrada de inversor que requiere liderazgo neutral, Manager in Motion identifica y moviliza el perfil adecuado en el menor tiempo posible. Contacte con nosotros para una primera conversación confidencial.
 
 ---
 
 ## Instrucciones para el Redactor
 
-1. **Tono:** Ejecutivo, directo, sin paternalismos. El lector es un decisor senior que ya conoce su problema; el artículo le ayuda a encuadrarlo y a tomar la decisión con criterios claros.
-2. **Terminología obligatoria:** "interim manager" e "interim management" son los únicos términos válidos. Mínimo 3 ocurrencias de cada uno en el cuerpo.
-3. **Sin estadísticas no verificadas.** Usar afirmaciones cualitativas bien argumentadas. Si se incluye algún dato, debe ser verificable (DDIM, IIM, INE, Eurostat, Big Four).
-4. **Sin mención de fuentes en el cuerpo.** Solo en la sección "Fuentes consultadas" al final, fuera del artículo.
-5. **Longitud máxima del cuerpo: 1.000 palabras.** Estructura con 3 H2, sin H3.
-6. **FAQ: máximo 3 preguntas.** Una debe ser un escenario de empresa industrial concreto. Prohibido el comparativo consultor vs. interim manager. Consultar faq_history.md para no repetir preguntas anteriores.
-7. **No usar primera persona** (ni singular ni plural). Tercera persona o construcciones impersonales.
-8. **No atacar ni cuestionar a la audiencia.** El decisor es el protagonista positivo.
+1. Redactar en tercera persona o con construcciones impersonales. Sin "yo" ni "nosotros".
+2. El lector (consejero, propietario, inversor) es el protagonista positivo, no el problema. El tono es constructivo y refuerza su capacidad de decisión.
+3. Usar "CEO interino" e "interim management" como únicos términos. Prohibido: "directivo interino", "gestión interina", "manager interino", "management interino".
+4. Mínimo 3 apariciones de "CEO interino" y 3 de "interim management" en el cuerpo.
+5. Sin estadísticas no verificadas. Si se mencionan datos de mercado (UK, DE), presentarlos como referencia cualitativa si no se puede verificar la cifra exacta.
+6. Longitud máxima del cuerpo: 1.000 palabras estrictas.
+7. Máximo 3 secciones H2, sin H3 ni sub-apartados.
+8. FAQ: máximo 3 preguntas, una de ellas debe partir de un escenario de empresa concreto. Prohibido comparación con consultora. Prohibido repetir preguntas del historial.

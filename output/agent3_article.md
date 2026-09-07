@@ -1,87 +1,81 @@
-# Interim Manager Industrial: el liderazgo ejecutivo que la transformación de planta no puede esperar
+# CEO Interino: cuándo el consejo necesita un director general de transición
 
-**Título SEO:** Interim Manager Industrial: Cuándo y Cómo Modernizar la Planta con Liderazgo Externo
-**Meta descripción:** Descubre cuándo una empresa manufacturera necesita un interim manager industrial, qué perfil aporta valor real y cómo se articula una misión en entornos de transformación, ERP o nearshoring.
-**URL slug:** /interim-manager-industrial
-
----
-
-Las empresas industriales españolas afrontan una de sus agendas de modernización más intensas en décadas: digitalización de planta, implantación de sistemas ERP, rediseño de cadenas de suministro, transición hacia procesos más eficientes y sostenibles. La presión llega de varios frentes a la vez —inversores, mercados, regulación, competencia europea— y el plazo que marca el entorno rara vez coincide con el ritmo al que el talento directivo interno puede responder.
-
-Cuando el proyecto está definido y los recursos económicos están disponibles, la pregunta que más directores generales y consejos de administración se hacen en voz alta es esta: ¿qué ocurre si el perfil directivo que debe liderarlo no existe dentro de la organización?
-
-La respuesta que el interim management ofrece en este contexto es concreta y verificable.
+**Título SEO:** CEO Interino: cuándo el consejo necesita un director general de transición
+**Meta descripción:** Descubre en qué situaciones el CEO interino es la respuesta más eficaz para el consejo de administración: sucesión, transformación, vacante urgente o entrada de inversor. Guía para directivos y propietarios.
+**URL slug:** /ceo-interino-director-general-transicion
 
 ---
 
-## Por qué la transformación industrial necesita un perfil directivo distinto
+Hay decisiones que el consejo de administración no puede aplazar. La vacante en la dirección general es una de ellas. Cuando el CEO sale —con preaviso o sin él— la organización no entra en pausa: los equipos esperan señales, los clientes observan y los inversores evalúan. La pregunta que el consejo debe responder rápido no es solo "¿a quién nombramos?" sino "¿qué necesitamos en este momento concreto?". En muchas situaciones, la respuesta más eficaz es un CEO interino.
 
-Liderar la implantación de un ERP en una planta industrial no es lo mismo que gestionar esa planta en condiciones de producción ordinaria. Rediseñar la cadena de suministro bajo presión de costes, o dirigir la reestructuración de un turno de producción mientras se mantiene el nivel de servicio al cliente, exige una combinación de experiencias que pocos directivos internos reúnen de forma simultánea.
-
-El equipo interno de una empresa manufacturera mediana suele tener dominio profundo del producto y del proceso, pero no siempre ha liderado proyectos de transformación a esta escala. Las consultoras externas aportan metodología, pero no asumen la responsabilidad ejecutiva ni están presentes en la planta el día a día. El interim manager industrial cubre ese espacio: ejecuta con autoridad de línea, responde ante el consejo o la dirección general, y aporta la experiencia acumulada en proyectos similares que el equipo interno no ha tenido oportunidad de vivir.
-
-La velocidad de incorporación —habitualmente inferior a cuatro semanas desde la decisión hasta el inicio efectivo de la misión— es un factor que diferencia al interim management de otras alternativas cuando el proyecto no puede esperar.
+El interim management aplicado a la dirección general es el eje de mayor crecimiento en los mercados europeos maduros. No es una solución de emergencia para tapar un hueco: es una decisión estratégica que permite a la empresa mantener el liderazgo ejecutivo con plena autoridad, avanzar en sus objetivos y preparar el terreno para el sucesor permanente —o para la operación corporativa que venga a continuación.
 
 ---
 
-## Las tres misiones más frecuentes del interim manager en empresa industrial
+## Las cuatro situaciones en que el CEO interino es la decisión más racional
 
-**Implantación de ERP y digitalización de planta.** Es la misión que mayor demanda está generando en el sector industrial europeo en 2026. El fracaso en proyectos de este tipo rara vez tiene origen tecnológico: casi siempre responde a una insuficiencia de liderazgo ejecutivo con capacidad de tomar decisiones de proceso bajo presión. Un interim manager con experiencia en implantaciones industriales asegura que el proyecto avanza con criterio, que los conflictos entre áreas se resuelven con rapidez y que la dirección de planta no queda atrapada entre el proveedor tecnológico y las necesidades reales de producción.
+El primer error es asumir que la única respuesta a la vacante en la dirección general es acelerar la búsqueda permanente. Un proceso de selección de CEO tarda entre cuatro y ocho meses. Durante ese período, la empresa necesita liderazgo ejecutivo real, no un comité de gestión improvisado.
 
-**Rediseño de cadena de suministro y nearshoring.** La estrategia de diversificación de proveedores y de acercamiento de la cadena de suministro a mercados europeos está generando proyectos de alta complejidad en muchas empresas industriales medianas españolas. El interim manager especializado en supply chain aporta criterio de selección, capacidad de negociación y experiencia en la gestión del riesgo operativo durante la transición.
+**La vacante urgente sin sucesor preparado** es la situación más frecuente. La salida del CEO —por enfermedad, desacuerdo con el accionista, oferta externa o cierre de ciclo— deja a la organización sin cabeza visible. Promover al número dos puede ser la solución correcta a largo plazo, pero no siempre es viable a corto: el candidato interno puede no estar preparado aún, puede generar fricción política entre las áreas o puede no tener el perfil adecuado para el momento específico que atraviesa la empresa.
 
-**Reestructuración operativa y transición de dirección de planta.** Cuando la empresa debe reducir costes de estructura sin comprometer la capacidad productiva, o cuando la dirección de planta cambia en un momento crítico, el interim management proporciona la continuidad operativa que el equipo no puede garantizar por sí solo. Los primeros 90 días de una misión de este tipo se orientan a estabilizar el proceso, identificar las palancas de mejora y construir la confianza con los mandos intermedios y el comité de dirección.
+**El proceso de transformación estratégica** que el equipo existente no puede liderar representa la segunda situación de alto valor. Una empresa que afronta una reestructuración profunda, un cambio de modelo de negocio o una integración post-adquisición puede necesitar un CEO interino precisamente porque la transformación requiere autoridad ejecutiva plena y distancia de los intereses internos. Un interim manager en la dirección general tiene el mandato claro, la experiencia en situaciones análogas y la capacidad de tomar decisiones difíciles sin hipotecar su carrera interna.
 
----
+**La entrada de un inversor o el proceso de preparación para la venta** generan una tercera situación donde el CEO interino aporta un valor singular. El inversor o el comprador potencial necesita un interlocutor ejecutivo con credibilidad, que domine la narrativa financiera y operativa de la empresa y que pueda gestionar el proceso sin las tensiones propias de un CEO que también negocia su propio contrato. El perfil de CEO interino ofrece esa neutralidad y esa experiencia en operaciones corporativas.
 
-## Cómo se estructura una misión de interim management en el sector industrial
-
-La incorporación de un interim manager en una empresa industrial sigue un proceso que reduce el riesgo de la transición. En la fase inicial —generalmente las primeras dos semanas— el foco está en el diagnóstico: comprensión del estado real del proyecto, identificación de los interlocutores clave y establecimiento de la línea de reporting con la dirección general o el consejo.
-
-El modelo de gobernanza condiciona de forma directa el éxito de la misión. El interim manager que reporta directamente al CEO o al consejo, con autoridad de línea sobre el equipo, genera resultados más consistentes que aquel que actúa en una posición ambigua entre la dirección y los mandos intermedios. Definir ese encaje antes de la incorporación es parte del diseño de la misión.
-
-La transferencia de conocimiento al equipo interno no es el último paso: es una actividad que empieza desde el primer día. El objetivo del interim management no es crear dependencia, sino dejar una organización más capaz al final del mandato. La duración media de una misión industrial oscila entre seis y dieciocho meses, en función de la complejidad del proyecto y de la capacidad interna para absorber el cambio.
+**La sucesión en la empresa familiar** es la cuarta situación, y una de las más delicadas. Cuando el fundador o el CEO familiar decide salir y el sucesor de la siguiente generación aún no está listo —o cuando la familia no ha resuelto quién lidera—, el CEO interino actúa como director general de transición generacional. Gestiona la empresa con autoridad plena, acompaña la profesionalización del sucesor y prepara la estructura organizativa para el relevo definitivo, sin la presión política que tendría cualquier miembro de la familia en ese rol.
 
 ---
 
-La transformación industrial no espera a que la estructura interna esté lista. Las empresas que están acelerando su modernización —con o sin presión externa de un inversor— están descubriendo que el interim management no es un recurso de emergencia, sino una palanca de ejecución disponible desde el primer momento en que se identifica la brecha entre el proyecto que debe hacerse y el talento directivo que puede liderarlo.
+## El perfil del CEO interino: qué lo diferencia de otras figuras de liderazgo transitorio
+
+Un CEO interino no es un gestor de continuidad que mantiene el statu quo hasta que llega el permanente. Tampoco es un consultor que recomienda sin ejecutar. El interim manager tiene autoridad ejecutiva plena desde el primer día —firma, toma decisiones, lidera el comité de dirección, representa a la empresa ante clientes, bancos e inversores— y un mandato con objetivos definidos y criterios de salida explícitos.
+
+Lo que distingue al CEO interino de otras figuras es la combinación de tres atributos que raramente se encuentran juntos en un perfil de contratación permanente: velocidad de diagnóstico, independencia de intereses y orientación a resultados con horizonte definido. Un CEO interino de experiencia ha liderado situaciones de alta complejidad en sectores distintos, lo que le permite identificar los problemas reales de la organización en semanas, no en meses. No tiene agenda política interna. Y sabe que su misión termina cuando los objetivos están alcanzados o cuando el sucesor está listo.
+
+El interim management en la dirección general también incluye una fase de transferencia estructurada. Al finalizar el mandato, el CEO interino no desaparece: trabaja con la empresa para documentar los procesos críticos, preparar al equipo de dirección y asegurar que el conocimiento acumulado durante la misión queda en la organización.
+
+---
+
+## Los primeros 90 días: cómo el CEO interino estabiliza, diagnostica y activa
+
+El valor de un CEO interino se demuestra en los primeros tres meses. La curva de aprendizaje que en una contratación permanente puede durar seis meses o un año se comprime en semanas.
+
+Las primeras semanas están dedicadas a la escucha estructurada: conversaciones individuales con los miembros del comité de dirección, revisión de los indicadores financieros y operativos clave, lectura de la cultura organizativa real —no la declarada— y mapeo de los aliados y los focos de resistencia. El interim manager no llega con un plan preconcebido: llega con una metodología de diagnóstico que le permite construir ese plan con los datos reales de la empresa.
+
+A partir de la cuarta semana, el foco se desplaza a consolidar la confianza del equipo y de la propiedad. El CEO interino comunica con claridad su mandato y sus prioridades, establece una cadencia de reporting con el consejo y gestiona la incertidumbre del equipo directivo con transparencia. En situaciones de vacante, el equipo teme lo que no sabe: el CEO interino neutraliza ese miedo con presencia y con claridad sobre el horizonte temporal.
+
+En la séptima a duodécima semana, el plan de acción entra en fase de activación. Las primeras decisiones visibles —reorganizaciones, acuerdos comerciales, ajustes de estructura, primeras palancas financieras— dan al equipo la señal de que la dirección está operativa y que la empresa avanza. El interim management en la dirección general no paraliza: moviliza.
 
 ---
 
 ## Preguntas Frecuentes
 
-**Una empresa familiar de fabricación de componentes de automoción, participada por un fondo de private equity hace 18 meses, debe implantar un ERP en planta en el plazo fijado por el inversor. Su director de operaciones —de perfil técnico— nunca ha liderado un proyecto de esta envergadura. ¿Cómo se articula una misión de interim management en ese contexto?**
+**Una empresa de servicios de salud ocupacional con 180 empleados pierde a su CEO fundador por motivos de salud a dos meses del cierre del ejercicio y en plena negociación de una línea de crédito con su banco. El consejo de administración —formado por tres socios— nunca ha gestionado este tipo de situación. ¿Cómo se articula una misión de CEO interino en ese contexto?**
 
-Se incorpora un interim manager con experiencia en implantaciones ERP en entornos de manufactura de componentes. El perfil requerido combina autoridad operativa —capacidad de tomar decisiones de proceso y resolver conflictos entre el equipo de planta y el integrador tecnológico— con interlocución fluida ante el consejo y los representantes del fondo. En los primeros 30 días, el foco es el diagnóstico del estado real del proyecto: alcance comprometido, recursos internos disponibles, riesgos de desviación de plazo y coste. En los 60 días siguientes, el interim manager toma la dirección efectiva del proyecto, establece el ritmo de avance y ajusta las expectativas del inversor con criterio técnico. El criterio de salida se define desde el inicio: entrega del sistema en producción y estabilización de los procesos clave, con el equipo interno formado y capaz de operar sin apoyo externo.
+El primer paso es definir el mandato con claridad antes de la incorporación: objetivos inmediatos (cierre del ejercicio, negociación bancaria, estabilización del equipo), horizonte temporal estimado (seis a nueve meses), estructura de reporting ante el consejo y criterios de salida. El CEO interino se incorpora en días —no semanas— y asume la representación ejecutiva plena desde el primer día, incluida la interlocución con el banco. En las primeras dos semanas realiza un diagnóstico de la situación financiera y operativa, establece la relación de confianza con los directivos internos y presenta al consejo un plan de prioridades para los primeros 90 días. En paralelo, puede acompañar la búsqueda del sucesor permanente o la preparación del relevo interno, actuando como puente entre el momento de crisis y la normalidad directiva.
 
----
+**¿Puede el CEO interino preparar la empresa para la entrada de un inversor o un proceso de venta durante su mandato?**
 
-**¿Cómo gestiona el interim manager industrial la relación con los mandos intermedios de planta que llevan años en la empresa y pueden percibir su llegada como una amenaza?**
+Sí, y es uno de los escenarios donde el CEO interino aporta mayor valor diferencial. A diferencia de un CEO permanente, no tiene incentivos propios ligados a la operación que puedan sesgar sus decisiones. Puede ordenar la información financiera y operativa para el proceso de due diligence, gestionar la narrativa ante los potenciales inversores o compradores, liderar las negociaciones de primer nivel y asegurar que la empresa llega al momento de la operación en las mejores condiciones posibles. El interim management en este contexto actúa como catalizador de valor, no como gestor de mantenimiento.
 
-La relación con los mandos intermedios es uno de los primeros focos de cualquier misión de interim management en planta. La incorporación de un perfil externo con autoridad ejecutiva puede generar incertidumbre en equipos consolidados. El abordaje habitual es directo: desde el primer día, el interim manager establece conversaciones individuales con los mandos clave, identifica sus capacidades y define con claridad el alcance de cada uno dentro del proyecto. El objetivo no es sustituir el conocimiento acumulado del equipo, sino amplificarlo con una dirección más clara y mayor capacidad de decisión. En la práctica, los mandos intermedios que más se benefician de este tipo de misión son quienes llevaban tiempo sin una dirección con suficiente seniority para escuchar sus propuestas y darles respaldo.
+**¿Cómo se estructura el reporting del CEO interino ante un consejo de administración que nunca ha supervisado a un directivo externo?**
 
----
-
-**Al finalizar la misión, ¿cómo decide la empresa si necesita incorporar un perfil directivo permanente o puede redistribuir las responsabilidades entre el equipo existente?**
-
-Esta decisión se toma con criterios que se establecen, idealmente, antes del inicio de la misión. Un interim manager riguroso incluye en el diseño del mandato una evaluación explícita de la capacidad interna: si existe un perfil con potencial para asumir las responsabilidades al término de la misión, parte del trabajo consiste en desarrollarlo y transferirle la metodología de dirección. Si no existe ese perfil, la evaluación se hace durante los primeros 60 días y la conclusión se traslada con tiempo suficiente al consejo para que la búsqueda de un sucesor permanente no quede al margen del plan. La decisión no depende del tiempo que lleve la misión, sino del estado de madurez de la organización al momento del cierre.
+La relación entre el CEO interino y el consejo se establece desde el inicio con un protocolo explícito: frecuencia de reuniones (quincenal o mensual según el momento), formato del informe ejecutivo (objetivos, avance, riesgos, próximos pasos), canales de comunicación para situaciones de urgencia y límites de autonomía decisional del CEO interino para decisiones que requieren aval del consejo. Esta estructura no es burocracia: es la base de confianza que permite al CEO interino actuar con velocidad y al consejo mantener la supervisión sin microgestionar. Para un consejo sin experiencia en supervisión ejecutiva externa, el interim manager senior aporta también el criterio para construir ese protocolo desde cero.
 
 ---
 
-## ¿Tu empresa industrial afronta un proyecto de transformación sin el perfil directivo que lo lidere?
+## ¿Su empresa necesita un CEO de transición?
 
-Habla con Manager in Motion: presentamos el interim manager adecuado en menos de 72 horas.
-
----
+Si el consejo o la propiedad se enfrenta a una vacante en la dirección general, a un proceso de transformación que el equipo interno no puede liderar, a la entrada de un inversor o a una sucesión familiar sin relevo preparado, Manager in Motion identifica y moviliza el perfil de CEO interino adecuado en el menor tiempo posible. La primera conversación es confidencial y sin compromiso.
 
 ---
-*FUERA DEL ARTÍCULO — Solo para uso editorial*
+
+*Fuera del artículo — solo para uso editorial*
 
 ## Fuentes consultadas
 
-- DDIM (Dachgesellschaft Deutsches Interim Management) — Marktstudie 2026: estado del mercado alemán de interim management, volumen, tarifas y drivers de demanda.
-- IIM (Institute of Interim Management, UK) — Interim Management Survey 2026: tendencias del mercado británico, utilización, sectores de mayor demanda, módulo sobre fractional interim management.
-- Introlution (UK) — "Unlocking Industrial Growth: How Interim Leadership Drives Transformation Across Europe and the UK and some outlook for 2026": demanda de liderazgo interino en sectores industriales europeos.
-- ConsultingHeads — "Interim Supply Chain Manager: Rapid Solutions for Resilient Supply Chains in 2026": tendencias en supply chain y nearshoring.
-- Robert Half / Robert Walters — estudios de remuneración y tendencias de interim management en España, Francia y Alemania 2026.
-- APTIE — "Transformación empresarial en 2026: el interim management acelera el cambio que las empresas necesitan": contexto del mercado español.
+- IIM (Institute of Interim Management) — IIM Interim Management Survey 2026. Datos de demanda de CEO/presidente interino (+80 % interanual en UK). iim.org.uk
+- Robert Half France — "Management de transition en 2026 : les 5 situations où le choix devient rationnel". roberthalf.com/fr
+- DDIM (Dachgesellschaft Deutsches Interim Management) — Marktstudie 2026. Datos de mercado alemán: volumen ~2.700 M€, tarifas medias 1.317 €/día. ddim.de
+- Asociación Interim Management España (Interim Spain) — Congreso 2026 y posicionamiento del sector. interimspain.org
+- Robert Walters Europe — EU Interim Management Report 2026. Tendencias y tarifas en España y Europa. robertwalters.es
