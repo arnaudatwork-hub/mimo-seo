@@ -1,81 +1,87 @@
-# CEO Interino: cuándo el consejo necesita un director general de transición
+# Director de Supply Chain Interino: cuándo la cadena de suministro no puede esperar
 
-**Título SEO:** CEO Interino: cuándo el consejo necesita un director general de transición
-**Meta descripción:** Descubre en qué situaciones el CEO interino es la respuesta más eficaz para el consejo de administración: sucesión, transformación, vacante urgente o entrada de inversor. Guía para directivos y propietarios.
-**URL slug:** /ceo-interino-director-general-transicion
-
----
-
-Hay decisiones que el consejo de administración no puede aplazar. La vacante en la dirección general es una de ellas. Cuando el CEO sale —con preaviso o sin él— la organización no entra en pausa: los equipos esperan señales, los clientes observan y los inversores evalúan. La pregunta que el consejo debe responder rápido no es solo "¿a quién nombramos?" sino "¿qué necesitamos en este momento concreto?". En muchas situaciones, la respuesta más eficaz es un CEO interino.
-
-El interim management aplicado a la dirección general es el eje de mayor crecimiento en los mercados europeos maduros. No es una solución de emergencia para tapar un hueco: es una decisión estratégica que permite a la empresa mantener el liderazgo ejecutivo con plena autoridad, avanzar en sus objetivos y preparar el terreno para el sucesor permanente —o para la operación corporativa que venga a continuación.
+**Título SEO:** Director de Supply Chain Interino: cuándo y cómo activarlo en tu empresa
+**Meta descripción:** Descubre en qué situaciones un interim manager de supply chain es la respuesta más eficaz: near-shoring, disrupción de proveedores, digitalización logística o integración post-adquisición. Guía para CEOs y COOs.
+**URL slug:** /director-supply-chain-interino
 
 ---
 
-## Las cuatro situaciones en que el CEO interino es la decisión más racional
-
-El primer error es asumir que la única respuesta a la vacante en la dirección general es acelerar la búsqueda permanente. Un proceso de selección de CEO tarda entre cuatro y ocho meses. Durante ese período, la empresa necesita liderazgo ejecutivo real, no un comité de gestión improvisado.
-
-**La vacante urgente sin sucesor preparado** es la situación más frecuente. La salida del CEO —por enfermedad, desacuerdo con el accionista, oferta externa o cierre de ciclo— deja a la organización sin cabeza visible. Promover al número dos puede ser la solución correcta a largo plazo, pero no siempre es viable a corto: el candidato interno puede no estar preparado aún, puede generar fricción política entre las áreas o puede no tener el perfil adecuado para el momento específico que atraviesa la empresa.
-
-**El proceso de transformación estratégica** que el equipo existente no puede liderar representa la segunda situación de alto valor. Una empresa que afronta una reestructuración profunda, un cambio de modelo de negocio o una integración post-adquisición puede necesitar un CEO interino precisamente porque la transformación requiere autoridad ejecutiva plena y distancia de los intereses internos. Un interim manager en la dirección general tiene el mandato claro, la experiencia en situaciones análogas y la capacidad de tomar decisiones difíciles sin hipotecar su carrera interna.
-
-**La entrada de un inversor o el proceso de preparación para la venta** generan una tercera situación donde el CEO interino aporta un valor singular. El inversor o el comprador potencial necesita un interlocutor ejecutivo con credibilidad, que domine la narrativa financiera y operativa de la empresa y que pueda gestionar el proceso sin las tensiones propias de un CEO que también negocia su propio contrato. El perfil de CEO interino ofrece esa neutralidad y esa experiencia en operaciones corporativas.
-
-**La sucesión en la empresa familiar** es la cuarta situación, y una de las más delicadas. Cuando el fundador o el CEO familiar decide salir y el sucesor de la siguiente generación aún no está listo —o cuando la familia no ha resuelto quién lidera—, el CEO interino actúa como director general de transición generacional. Gestiona la empresa con autoridad plena, acompaña la profesionalización del sucesor y prepara la estructura organizativa para el relevo definitivo, sin la presión política que tendría cualquier miembro de la familia en ese rol.
+La cadena de suministro dejó de ser una función de segundo plano. Las empresas que operaban con modelos de aprovisionamiento ajustados al límite comprobaron, de forma directa, que la eficiencia máxima y la resiliencia mínima son una combinación de riesgo alto. En 2026, los mercados europeos más maduros —Reino Unido, Alemania, Francia— registran un crecimiento notable en la demanda de directores de supply chain con capacidad de incorporación inmediata. En España, la demanda existe, pero el contenido que orienta al decisor sobre cuándo y cómo activar este perfil ejecutivo es prácticamente inexistente. Este artículo cubre ese espacio.
 
 ---
 
-## El perfil del CEO interino: qué lo diferencia de otras figuras de liderazgo transitorio
+## Las cuatro situaciones en que un interim manager de supply chain es la decisión más racional
 
-Un CEO interino no es un gestor de continuidad que mantiene el statu quo hasta que llega el permanente. Tampoco es un consultor que recomienda sin ejecutar. El interim manager tiene autoridad ejecutiva plena desde el primer día —firma, toma decisiones, lidera el comité de dirección, representa a la empresa ante clientes, bancos e inversores— y un mandato con objetivos definidos y criterios de salida explícitos.
+Las empresas medianas del sector industrial, manufacturero y de distribución se enfrentan a situaciones en las que la velocidad de respuesta ejecutiva importa más que el proceso de búsqueda del perfil definitivo.
 
-Lo que distingue al CEO interino de otras figuras es la combinación de tres atributos que raramente se encuentran juntos en un perfil de contratación permanente: velocidad de diagnóstico, independencia de intereses y orientación a resultados con horizonte definido. Un CEO interino de experiencia ha liderado situaciones de alta complejidad en sectores distintos, lo que le permite identificar los problemas reales de la organización en semanas, no en meses. No tiene agenda política interna. Y sabe que su misión termina cuando los objetivos están alcanzados o cuando el sucesor está listo.
+**Near-shoring y diversificación de proveedores.** La tendencia global hacia el acortamiento de cadenas de suministro —acercar la producción al mercado final— exige liderazgo ejecutivo con experiencia en selección, calificación y gestión de nuevos proveedores. Es un proyecto de alta complejidad con plazos definidos: el interim management encaja de forma natural en este contexto.
 
-El interim management en la dirección general también incluye una fase de transferencia estructurada. Al finalizar el mandato, el CEO interino no desaparece: trabaja con la empresa para documentar los procesos críticos, preparar al equipo de dirección y asegurar que el conocimiento acumulado durante la misión queda en la organización.
+**Disrupción operativa sin liderazgo disponible.** La salida imprevista de un director de compras o de supply chain en un momento crítico —un pico de demanda, una negociación contractual, una crisis logística— deja a la empresa sin el timón justo cuando más lo necesita. Un interim manager puede estar operativo en días, frente a los cuatro o seis meses que requiere una búsqueda permanente de este nivel de seniority.
+
+**Transformación digital de la cadena de valor.** La implantación de un ERP, la integración de herramientas de visibilidad de inventario o la automatización del aprovisionamiento requieren un perfil que combine autoridad ejecutiva con conocimiento operativo profundo. Encargarlo al equipo interno sin refuerzo externo eleva el riesgo de implementación y dilata los plazos.
+
+**Integración post-adquisición.** Cuando una empresa absorbe otra, la armonización de dos cadenas de suministro distintas —con proveedores, sistemas y culturas de gestión diferentes— es uno de los vectores de fractura más frecuentes. El interim management aporta el liderazgo neutral que facilita la convergencia sin comprometer ninguna de las dos estructuras existentes.
 
 ---
 
-## Los primeros 90 días: cómo el CEO interino estabiliza, diagnostica y activa
+## El perfil del Director de Supply Chain interino: qué aporta que el equipo interno no puede resolver solo
 
-El valor de un CEO interino se demuestra en los primeros tres meses. La curva de aprendizaje que en una contratación permanente puede durar seis meses o un año se comprime en semanas.
+El Director de Supply Chain interino no es un sustituto temporal de un directivo ausente. Es un ejecutivo senior con historial de mandatos en entornos de alta complejidad —múltiples sectores, distintos tamaños de empresa, diferentes fases del ciclo de suministro— que llega con la capacidad de diagnóstico y activación que solo proporciona haber resuelto el mismo tipo de problema varias veces.
 
-Las primeras semanas están dedicadas a la escucha estructurada: conversaciones individuales con los miembros del comité de dirección, revisión de los indicadores financieros y operativos clave, lectura de la cultura organizativa real —no la declarada— y mapeo de los aliados y los focos de resistencia. El interim manager no llega con un plan preconcebido: llega con una metodología de diagnóstico que le permite construir ese plan con los datos reales de la empresa.
+Su valor frente al equipo interno descansa en tres dimensiones. La visión transversal: integra procurement, logística, operaciones y tecnología como una cadena de valor única, no como departamentos estancos. La autoridad ejecutiva desde el primer día: no requiere aprendizaje organizativo para tomar decisiones. Y la orientación a resultados con horizonte definido: el interim management implica, por diseño, una misión con objetivos, plazos y criterios de éxito pactados desde el inicio.
 
-A partir de la cuarta semana, el foco se desplaza a consolidar la confianza del equipo y de la propiedad. El CEO interino comunica con claridad su mandato y sus prioridades, establece una cadencia de reporting con el consejo y gestiona la incertidumbre del equipo directivo con transparencia. En situaciones de vacante, el equipo teme lo que no sabe: el CEO interino neutraliza ese miedo con presencia y con claridad sobre el horizonte temporal.
+La disponibilidad es otro diferencial crítico. En los mercados de referencia europeos, un perfil de Director de Supply Chain interino puede incorporarse en menos de dos semanas desde el primer contacto. La brecha frente a una búsqueda permanente —que en este nivel de seniority puede extenderse cuatro o seis meses— es decisiva cuando la situación no admite espera.
 
-En la séptima a duodécima semana, el plan de acción entra en fase de activación. Las primeras decisiones visibles —reorganizaciones, acuerdos comerciales, ajustes de estructura, primeras palancas financieras— dan al equipo la señal de que la dirección está operativa y que la empresa avanza. El interim management en la dirección general no paraliza: moviliza.
+El tercer elemento diferencial es la transferencia de conocimiento estructurada. El interim manager no construye para sí mismo: construye para que la organización pueda seguir adelante sin él. Los procesos documentados, los proveedores calificados y las personas desarrolladas son el legado del mandato.
+
+---
+
+## Los primeros 90 días: diagnóstico, estabilización y transformación
+
+La misión de un Director de Supply Chain interino se articula en tres fases que, bien ejecutadas, permiten entregar resultados tangibles en un plazo de tres meses.
+
+Las primeras semanas se dedican al diagnóstico de la cadena: análisis de proveedores por criticidad y nivel de riesgo, revisión de flujos logísticos, diagnóstico de la tecnología disponible y detección de las brechas de proceso más urgentes. El objetivo no es elaborar un informe exhaustivo: es activar decisiones. La velocidad de diagnóstico es, en sí misma, un diferencial del perfil interino.
+
+A partir de la cuarta semana, el interim manager toma el control operativo de las relaciones con los proveedores más críticos, resuelve las urgencias bloqueadas y construye la confianza del equipo interno. La capacidad de generar resultados visibles en este periodo consolida su autoridad y credibilidad ante la dirección y, cuando corresponde, ante los accionistas o el consejo.
+
+Desde la séptima semana, el interim management entra en su fase de mayor valor estratégico: la activación de las iniciativas de transformación acordadas —digitalización, near-shoring, consolidación de proveedores— y la preparación estructurada de la salida. El criterio de éxito no es haber ejecutado las iniciativas: es haber dejado a la organización en condiciones de continuarlas de forma autónoma.
+
+---
+
+La cadena de suministro es uno de los vectores de mayor fragilidad y mayor potencial de ventaja competitiva de la empresa mediana. Cuando el liderazgo ejecutivo falta —por vacante, por insuficiencia de seniority interna o por la escala del proyecto en curso— el tiempo sin una respuesta eficaz tiene un coste directo sobre la operativa y la cuenta de resultados. El Director de Supply Chain interino existe para cerrar esa brecha, con la velocidad que la situación exige y la profundidad que el proyecto requiere.
 
 ---
 
 ## Preguntas Frecuentes
 
-**Una empresa de servicios de salud ocupacional con 180 empleados pierde a su CEO fundador por motivos de salud a dos meses del cierre del ejercicio y en plena negociación de una línea de crédito con su banco. El consejo de administración —formado por tres socios— nunca ha gestionado este tipo de situación. ¿Cómo se articula una misión de CEO interino en ese contexto?**
+**Una cadena de tiendas de moda española con 85 puntos de venta —empresa familiar de segunda generación con facturación de 70 M€— afronta la excedencia de tres meses de su director de compras al inicio del proceso de compras de la temporada otoño-invierno. La empresa tiene implantado un ERP desde hace dos años que el equipo no utiliza con plena eficiencia, y tiene previsto lanzar su canal de e-commerce en los próximos seis meses. ¿Cómo se articula una misión de interim management en ese contexto?**
 
-El primer paso es definir el mandato con claridad antes de la incorporación: objetivos inmediatos (cierre del ejercicio, negociación bancaria, estabilización del equipo), horizonte temporal estimado (seis a nueve meses), estructura de reporting ante el consejo y criterios de salida. El CEO interino se incorpora en días —no semanas— y asume la representación ejecutiva plena desde el primer día, incluida la interlocución con el banco. En las primeras dos semanas realiza un diagnóstico de la situación financiera y operativa, establece la relación de confianza con los directivos internos y presenta al consejo un plan de prioridades para los primeros 90 días. En paralelo, puede acompañar la búsqueda del sucesor permanente o la preparación del relevo interno, actuando como puente entre el momento de crisis y la normalidad directiva.
+El interim manager de supply chain asume dos roles simultáneos: cubre la dirección de compras operativa —negociaciones de temporada, control de pedidos, coordinación con proveedores clave— y lidera la optimización del ERP desde el lado de compras y logística. El perfil requerido combina experiencia en retail o moda con dominio de la herramienta ERP implantada y capacidad para estructurar un equipo de compras autónomo. Los primeros 100 días se distribuyen en tres bloques: diagnóstico y priorización de proveedores clave (semanas 1-2); cierre de la temporada otoño-invierno y arranque del plan de optimización del ERP (semanas 3-8); hoja de ruta para el canal e-commerce y preparación de la salida (semanas 9-12). El criterio de salida es la entrega de un equipo de compras autónomo y un manual de procesos actualizado.
 
-**¿Puede el CEO interino preparar la empresa para la entrada de un inversor o un proceso de venta durante su mandato?**
+**¿Cómo se define el mandato del Director de Supply Chain interino cuando la empresa no tiene documentados sus procesos de aprovisionamiento ni sabe con precisión qué quiere transformar?**
 
-Sí, y es uno de los escenarios donde el CEO interino aporta mayor valor diferencial. A diferencia de un CEO permanente, no tiene incentivos propios ligados a la operación que puedan sesgar sus decisiones. Puede ordenar la información financiera y operativa para el proceso de due diligence, gestionar la narrativa ante los potenciales inversores o compradores, liderar las negociaciones de primer nivel y asegurar que la empresa llega al momento de la operación en las mejores condiciones posibles. El interim management en este contexto actúa como catalizador de valor, no como gestor de mantenimiento.
+La ausencia de documentación de procesos no es un obstáculo: es el punto de partida más frecuente. El interim manager llega con metodología para el diagnóstico y es capaz de construir el mapa de la cadena —proveedores, flujos, cuellos de botella, brechas tecnológicas— en las primeras dos semanas. A partir de ese diagnóstico, propone a la dirección un plan de mandato con objetivos priorizados, plazos y recursos. La empresa no necesita saber exactamente qué quiere transformar: necesita saber qué problema quiere resolver. El resto lo estructura el interim manager.
 
-**¿Cómo se estructura el reporting del CEO interino ante un consejo de administración que nunca ha supervisado a un directivo externo?**
+**¿Puede el Director de Supply Chain interino gestionar simultáneamente la operativa diaria y liderar el proyecto de transformación de la cadena de suministro?**
 
-La relación entre el CEO interino y el consejo se establece desde el inicio con un protocolo explícito: frecuencia de reuniones (quincenal o mensual según el momento), formato del informe ejecutivo (objetivos, avance, riesgos, próximos pasos), canales de comunicación para situaciones de urgencia y límites de autonomía decisional del CEO interino para decisiones que requieren aval del consejo. Esta estructura no es burocracia: es la base de confianza que permite al CEO interino actuar con velocidad y al consejo mantener la supervisión sin microgestionar. Para un consejo sin experiencia en supervisión ejecutiva externa, el interim manager senior aporta también el criterio para construir ese protocolo desde cero.
-
----
-
-## ¿Su empresa necesita un CEO de transición?
-
-Si el consejo o la propiedad se enfrenta a una vacante en la dirección general, a un proceso de transformación que el equipo interno no puede liderar, a la entrada de un inversor o a una sucesión familiar sin relevo preparado, Manager in Motion identifica y moviliza el perfil de CEO interino adecuado en el menor tiempo posible. La primera conversación es confidencial y sin compromiso.
+Sí, siempre que la empresa y el interim manager acuerden desde el inicio la distribución de dedicación entre ambas dimensiones. En las primeras semanas, el foco operativo es inevitable: hay urgencias que no admiten demora. A partir de la cuarta o quinta semana, la operativa tiende a estabilizarse y el perfil interino puede dedicar una proporción creciente de su tiempo al proyecto de transformación. El riesgo de no planificar este equilibrio es que el interim manager quede absorbido por la operativa y el proyecto de fondo nunca avance. Por eso, definir desde el inicio qué se considera éxito del mandato —y si incluye tanto la estabilización operativa como el avance del proyecto de transformación— es parte esencial del acuerdo de mandato.
 
 ---
 
-*Fuera del artículo — solo para uso editorial*
+## ¿Su empresa necesita un Director de Supply Chain de transición?
+
+Si la cadena de suministro enfrenta una disrupción que el equipo interno no puede resolver a la velocidad necesaria —un proyecto de near-shoring, una integración post-adquisición, una transformación digital de operaciones o la salida inesperada de un directivo clave—, Manager in Motion identifica y moviliza el perfil adecuado en el menor tiempo posible. Contacte con nosotros para una primera conversación confidencial.
+
+---
+
+*FUERA DEL ARTÍCULO — Solo para uso editorial*
 
 ## Fuentes consultadas
 
-- IIM (Institute of Interim Management) — IIM Interim Management Survey 2026. Datos de demanda de CEO/presidente interino (+80 % interanual en UK). iim.org.uk
-- Robert Half France — "Management de transition en 2026 : les 5 situations où le choix devient rationnel". roberthalf.com/fr
-- DDIM (Dachgesellschaft Deutsches Interim Management) — Marktstudie 2026. Datos de mercado alemán: volumen ~2.700 M€, tarifas medias 1.317 €/día. ddim.de
-- Asociación Interim Management España (Interim Spain) — Congreso 2026 y posicionamiento del sector. interimspain.org
-- Robert Walters Europe — EU Interim Management Report 2026. Tendencias y tarifas en España y Europa. robertwalters.es
+- Heidrick & Struggles: "How interim talent is delivering transformation for UK businesses in 2026" (heidrick.com)
+- DDIM: "DDIM Marktstudie 2026: Interim Management behauptet sich in anspruchsvollem Marktumfeld" (ddim.de)
+- Introlution: "Unlocking Industrial Growth: How Interim Leadership Drives Transformation Across Europe and the UK" (introlution.co.uk)
+- IIM / Stanton House: "Interim Management Survey 2026: Challenges, Insights & What Comes Next" (stantonhouse.com)
+- RRHHDigital: "Interim management en España: madurez pendiente y oportunidad estratégica" (rrhhdigital.com)
+- APTIE: "Transformación empresarial en 2026: el interim management acelera el cambio que las empresas necesitan" (aptie.org)
+- GH Partners: "El mercado francés del management de transición: cifras clave, tendencias 2025-2026 y perspectivas" (ghpartners.fr)

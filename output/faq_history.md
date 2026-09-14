@@ -117,6 +117,7 @@ Registrar aquí cada semana el escenario concreto usado en la FAQ, para no repet
 | 2026-08-24 | Logística y distribución | Filial española de un grupo belga | Reubicación del director de operaciones en la matriz con seis semanas de preaviso, vísperas de campaña de alta demanda | Dirección general / operaciones |
 | 2026-09-01 | Fabricación de componentes de automoción (tier 2) | Empresa familiar participada por private equity | Implantación de ERP exigida por el inversor; director de operaciones interno sin experiencia en proyectos de esta escala | Profesionalización de empresa familiar / transformación industrial |
 | 2026-09-07 | Salud ocupacional / servicios B2B | Empresa mediana (180 empleados) | Salida imprevista del CEO fundador por motivos de salud, dos meses antes del cierre del ejercicio y en plena negociación de una línea de crédito | Dirección general |
+| 2026-09-14 | Retail / moda | Empresa familiar de segunda generación (85 puntos de venta, 70 M€) | Excedencia de 3 meses del director de compras al inicio del proceso de compras de temporada + ERP infrautilizado + lanzamiento de canal e-commerce | Supply chain / dirección de compras |
 
 ## 2026-08-24 — COO Interino: el ejecutivo de operaciones que estabiliza la empresa cuando el tiempo apremia
 - Una filial española de un grupo belga de logística y distribución debe afrontar el inicio de su campaña de mayor demanda del año cuando el director de operaciones es reubicado en la matriz con seis semanas de preaviso. ¿Cómo se articula un mandato de interim management en ese contexto?
@@ -132,3 +133,8 @@ Registrar aquí cada semana el escenario concreto usado en la FAQ, para no repet
 - Una empresa de servicios de salud ocupacional con 180 empleados pierde a su CEO fundador por motivos de salud a dos meses del cierre del ejercicio y en plena negociación de una línea de crédito con su banco. El consejo de administración —formado por tres socios— nunca ha gestionado este tipo de situación. ¿Cómo se articula una misión de CEO interino en ese contexto?
 - ¿Puede el CEO interino preparar la empresa para la entrada de un inversor o un proceso de venta durante su mandato?
 - ¿Cómo se estructura el reporting del CEO interino ante un consejo de administración que nunca ha supervisado a un directivo externo?
+
+## 2026-09-14 — Director de Supply Chain Interino: cuándo la cadena de suministro no puede esperar
+- Una cadena de tiendas de moda española con 85 puntos de venta —empresa familiar de segunda generación con facturación de 70 M€— afronta la excedencia de tres meses de su director de compras al inicio del proceso de compras de la temporada otoño-invierno. La empresa tiene implantado un ERP desde hace dos años que el equipo no utiliza con plena eficiencia, y tiene previsto lanzar su canal de e-commerce en los próximos seis meses. ¿Cómo se articula una misión de interim management en ese contexto?
+- ¿Cómo se define el mandato del Director de Supply Chain interino cuando la empresa no tiene documentados sus procesos de aprovisionamiento ni sabe con precisión qué quiere transformar?
+- ¿Puede el Director de Supply Chain interino gestionar simultáneamente la operativa diaria y liderar el proyecto de transformación de la cadena de suministro?
