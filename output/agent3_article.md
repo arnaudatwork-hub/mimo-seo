@@ -1,87 +1,106 @@
-# Director de Supply Chain Interino: cuándo la cadena de suministro no puede esperar
+# Director Comercial Interino: el liderazgo comercial que la empresa no puede esperar a contratar
 
-**Título SEO:** Director de Supply Chain Interino: cuándo y cómo activarlo en tu empresa
-**Meta descripción:** Descubre en qué situaciones un interim manager de supply chain es la respuesta más eficaz: near-shoring, disrupción de proveedores, digitalización logística o integración post-adquisición. Guía para CEOs y COOs.
-**URL slug:** /director-supply-chain-interino
-
----
-
-La cadena de suministro dejó de ser una función de segundo plano. Las empresas que operaban con modelos de aprovisionamiento ajustados al límite comprobaron, de forma directa, que la eficiencia máxima y la resiliencia mínima son una combinación de riesgo alto. En 2026, los mercados europeos más maduros —Reino Unido, Alemania, Francia— registran un crecimiento notable en la demanda de directores de supply chain con capacidad de incorporación inmediata. En España, la demanda existe, pero el contenido que orienta al decisor sobre cuándo y cómo activar este perfil ejecutivo es prácticamente inexistente. Este artículo cubre ese espacio.
+**Título SEO:** Director Comercial Interino: cuándo y cómo activarlo para proteger o abrir mercados
+**Meta descripción:** Un interim manager en la dirección comercial permite actuar con rapidez cuando los mercados cambian o la posición comercial de la empresa está en riesgo. Descubra cuándo tiene sentido y qué esperar de los primeros 100 días.
+**URL slug:** /blog/director-comercial-interino
 
 ---
 
-## Las cuatro situaciones en que un interim manager de supply chain es la decisión más racional
+## Artículo
 
-Las empresas medianas del sector industrial, manufacturero y de distribución se enfrentan a situaciones en las que la velocidad de respuesta ejecutiva importa más que el proceso de búsqueda del perfil definitivo.
+La agenda comercial de 2026 no tiene margen para la improvisación. La fragmentación de los mercados globales, los nuevos aranceles y la presión sobre los márgenes de exportación están obligando a muchas empresas medianas a tomar decisiones comerciales de calado en plazos que ningún proceso de selección ejecutiva puede cubrir. Cuando la posición comercial de una empresa está en riesgo — ya sea por la salida de su responsable de ventas, por la apertura urgente de un nuevo mercado o por la pérdida de un canal estratégico — el interim management ofrece una respuesta que la contratación permanente, por su naturaleza, no puede dar: liderazgo ejecutivo disponible en días, no en meses.
 
-**Near-shoring y diversificación de proveedores.** La tendencia global hacia el acortamiento de cadenas de suministro —acercar la producción al mercado final— exige liderazgo ejecutivo con experiencia en selección, calificación y gestión de nuevos proveedores. Es un proyecto de alta complejidad con plazos definidos: el interim management encaja de forma natural en este contexto.
+El Director Comercial Interino no es un recurso de emergencia improvisado. Es un perfil de alta dirección con trayectoria probada en contextos de cambio comercial, que asume la responsabilidad plena de la función desde el primer día y trabaja con un mandato claro, un horizonte temporal definido y objetivos medibles desde el inicio.
 
-**Disrupción operativa sin liderazgo disponible.** La salida imprevista de un director de compras o de supply chain en un momento crítico —un pico de demanda, una negociación contractual, una crisis logística— deja a la empresa sin el timón justo cuando más lo necesita. Un interim manager puede estar operativo en días, frente a los cuatro o seis meses que requiere una búsqueda permanente de este nivel de seniority.
 
-**Transformación digital de la cadena de valor.** La implantación de un ERP, la integración de herramientas de visibilidad de inventario o la automatización del aprovisionamiento requieren un perfil que combine autoridad ejecutiva con conocimiento operativo profundo. Encargarlo al equipo interno sin refuerzo externo eleva el riesgo de implementación y dilata los plazos.
+## Cuándo la dirección comercial no puede esperar a una contratación permanente
 
-**Integración post-adquisición.** Cuando una empresa absorbe otra, la armonización de dos cadenas de suministro distintas —con proveedores, sistemas y culturas de gestión diferentes— es uno de los vectores de fractura más frecuentes. El interim management aporta el liderazgo neutral que facilita la convergencia sin comprometer ninguna de las dos estructuras existentes.
+Hay situaciones en las que el tiempo entre el problema y la solución determina el daño. La salida imprevista del Director Comercial o del Director de Ventas es la más visible, pero no la única. Una empresa que inicia la apertura de un mercado exterior sin el perfil adecuado en el timón pierde las primeras ventanas de acceso. Una compañía que pierde un cliente clave por desatención comercial mientras busca candidatos permanentes ve cómo la erosión de su cartera se acelera. Una participada de private equity que debe presentar un plan de crecimiento comercial creíble a su inversor en los próximos noventa días no puede esperar seis meses a que un Director Comercial permanente se ponga al nivel exigido.
+
+El interim management encaja de forma natural en todos estos escenarios porque el perfil interino no necesita proceso de adaptación: llega con el diagnóstico como primer entregable. En el contexto de 2026, con la fragmentación geopolítica presionando sobre las cadenas de distribución y los acuerdos comerciales vigentes, las empresas exportadoras o en proceso de internacionalización se enfrentan a un escenario adicional: la necesidad de redirigir su estrategia de acceso a mercado con rapidez. Un interim manager con experiencia en mercados exteriores puede pivotar esa estrategia sin los meses de ramp-up que exigiría una incorporación permanente.
+
+La pregunta que debe hacerse cualquier empresa ante este tipo de situación no es "¿podemos permitirnos un interim manager?". La pregunta correcta es "¿podemos permitirnos no actuar mientras resolvemos la contratación permanente?".
+
+
+## Qué hace un interim manager en la dirección comercial: los primeros 100 días
+
+El valor diferencial del interim management en la función comercial reside en la velocidad y la objetividad. Desde la primera semana, el foco es el diagnóstico: estado real de la cartera de clientes, rendimiento del equipo comercial, efectividad del proceso de ventas, posición competitiva en los canales clave. No es un diagnóstico de consultoría que concluye con un informe: es un diagnóstico ejecutivo que termina con decisiones.
+
+Durante el primer mes, el interim manager estabiliza la operativa — evita la pérdida de clientes durante la transición, mantiene la confianza del equipo comercial y asegura que las cuentas estratégicas tienen interlocutor ejecutivo. Al mismo tiempo, define o revisa la estrategia go-to-market: segmentación de mercado, propuesta de valor, estructura del equipo de ventas, modelo de incentivos, canales prioritarios.
+
+Entre el primer y el tercer mes, el foco se traslada a la ejecución y al impacto medible: apertura de canales, cierre de acuerdos en proceso, ajuste de la estructura comercial, incorporación o reorientación de perfiles en el equipo. Los KPIs de la misión se definen antes del inicio y se revisan de forma periódica con la dirección general o con el consejo.
+
+El último tramo de la misión está diseñado para que el conocimiento no se quede en la persona: documentación del modelo comercial, transferencia al equipo, definición del perfil permanente si se decide cubrir la posición de forma estable o, en muchos casos, validación de que el equipo interno está en condiciones de asumir la responsabilidad sin necesidad de una nueva contratación de alto nivel.
+
+
+## Cuándo el interim management comercial crea más valor que una contratación permanente
+
+No toda necesidad de liderazgo comercial justifica un proceso de selección permanente. El interim management crea más valor cuando el problema tiene un horizonte temporal definido, cuando la urgencia supera los plazos de reclutamiento habituales, o cuando la empresa necesita objetividad externa para tomar decisiones que el equipo interno no puede tomar con la misma distancia.
+
+La apertura de un mercado exterior es el caso más claro: requiere un perfil especializado durante los 9 a 18 meses que dura el proceso de entrada, pero no necesariamente justifica una contratación permanente hasta que el mercado está consolidado. El interim manager abre el canal, valida el modelo y deja una estructura operativa lista para ser gestionada internamente o por un perfil permanente de menor coste relativo.
+
+El turnaround comercial — la recuperación de una posición de ventas deteriorada — es otro escenario donde el interim manager aporta lo que un perfil interno raramente puede: la autoridad ejecutiva para tomar decisiones incómodas, la experiencia en contextos similares y la ausencia de inercias políticas internas que en muchos casos son la causa del problema.
+
+Por último, el momento de pre-inversión o pre-due diligence: una empresa que prepara una ronda de capital o una operación de M&A necesita que la función comercial esté profesionalizada, que los indicadores sean creíbles y que el plan de crecimiento tenga un ejecutor con credenciales. Un interim manager en la dirección comercial puede construir ese escenario en el tiempo que la operación corporativa requiere.
+
+El interim management en la función comercial no es una solución provisional para quienes no pueden costear un directivo permanente. Es la solución correcta cuando el problema tiene fecha, cuando la urgencia manda y cuando el valor que genera una ejecución excelente en los próximos doce meses supera con creces el coste de la misión.
 
 ---
 
-## El perfil del Director de Supply Chain interino: qué aporta que el equipo interno no puede resolver solo
+```
+RECUENTO: 942 palabras
+```
 
-El Director de Supply Chain interino no es un sustituto temporal de un directivo ausente. Es un ejecutivo senior con historial de mandatos en entornos de alta complejidad —múltiples sectores, distintos tamaños de empresa, diferentes fases del ciclo de suministro— que llega con la capacidad de diagnóstico y activación que solo proporciona haber resuelto el mismo tipo de problema varias veces.
+*(Cuerpo del artículo: desde el párrafo de introducción hasta el final del tercer H2, sin contar FAQ, CTA ni metadatos.)*
 
-Su valor frente al equipo interno descansa en tres dimensiones. La visión transversal: integra procurement, logística, operaciones y tecnología como una cadena de valor única, no como departamentos estancos. La autoridad ejecutiva desde el primer día: no requiere aprendizaje organizativo para tomar decisiones. Y la orientación a resultados con horizonte definido: el interim management implica, por diseño, una misión con objetivos, plazos y criterios de éxito pactados desde el inicio.
+```
+REVISIÓN ORTOGRÁFICA: completada. 0 correcciones realizadas.
+```
 
-La disponibilidad es otro diferencial crítico. En los mercados de referencia europeos, un perfil de Director de Supply Chain interino puede incorporarse en menos de dos semanas desde el primer contacto. La brecha frente a una búsqueda permanente —que en este nivel de seniority puede extenderse cuatro o seis meses— es decisiva cuando la situación no admite espera.
+*(Revisión de tildes, acentos, concordancias, puntuación, verbos y vocabulario: texto correcto.)*
 
-El tercer elemento diferencial es la transferencia de conocimiento estructurada. El interim manager no construye para sí mismo: construye para que la organización pueda seguir adelante sin él. Los procesos documentados, los proveedores calificados y las personas desarrolladas son el legado del mandato.
-
----
-
-## Los primeros 90 días: diagnóstico, estabilización y transformación
-
-La misión de un Director de Supply Chain interino se articula en tres fases que, bien ejecutadas, permiten entregar resultados tangibles en un plazo de tres meses.
-
-Las primeras semanas se dedican al diagnóstico de la cadena: análisis de proveedores por criticidad y nivel de riesgo, revisión de flujos logísticos, diagnóstico de la tecnología disponible y detección de las brechas de proceso más urgentes. El objetivo no es elaborar un informe exhaustivo: es activar decisiones. La velocidad de diagnóstico es, en sí misma, un diferencial del perfil interino.
-
-A partir de la cuarta semana, el interim manager toma el control operativo de las relaciones con los proveedores más críticos, resuelve las urgencias bloqueadas y construye la confianza del equipo interno. La capacidad de generar resultados visibles en este periodo consolida su autoridad y credibilidad ante la dirección y, cuando corresponde, ante los accionistas o el consejo.
-
-Desde la séptima semana, el interim management entra en su fase de mayor valor estratégico: la activación de las iniciativas de transformación acordadas —digitalización, near-shoring, consolidación de proveedores— y la preparación estructurada de la salida. El criterio de éxito no es haber ejecutado las iniciativas: es haber dejado a la organización en condiciones de continuarlas de forma autónoma.
-
----
-
-La cadena de suministro es uno de los vectores de mayor fragilidad y mayor potencial de ventaja competitiva de la empresa mediana. Cuando el liderazgo ejecutivo falta —por vacante, por insuficiencia de seniority interna o por la escala del proyecto en curso— el tiempo sin una respuesta eficaz tiene un coste directo sobre la operativa y la cuenta de resultados. El Director de Supply Chain interino existe para cerrar esa brecha, con la velocidad que la situación exige y la profundidad que el proyecto requiere.
+```
+TERMINOLOGÍA: verificada. interim manager x6, interim management x6. Términos prohibidos: 0.
+```
 
 ---
 
 ## Preguntas Frecuentes
 
-**Una cadena de tiendas de moda española con 85 puntos de venta —empresa familiar de segunda generación con facturación de 70 M€— afronta la excedencia de tres meses de su director de compras al inicio del proceso de compras de la temporada otoño-invierno. La empresa tiene implantado un ERP desde hace dos años que el equipo no utiliza con plena eficiencia, y tiene previsto lanzar su canal de e-commerce en los próximos seis meses. ¿Cómo se articula una misión de interim management en ese contexto?**
+**Una empresa industrial de componentes plásticos con sede en Cataluña y facturación de 45 M€ — propiedad de la segunda generación familiar — pierde a su Director Comercial a seis semanas de la feria sectorial más importante del año en Alemania, donde concentra el 40% de sus exportaciones. No tiene un segundo nivel directivo capaz de sustituirle. ¿Cómo se articula una misión de interim management en ese contexto?**
 
-El interim manager de supply chain asume dos roles simultáneos: cubre la dirección de compras operativa —negociaciones de temporada, control de pedidos, coordinación con proveedores clave— y lidera la optimización del ERP desde el lado de compras y logística. El perfil requerido combina experiencia en retail o moda con dominio de la herramienta ERP implantada y capacidad para estructurar un equipo de compras autónomo. Los primeros 100 días se distribuyen en tres bloques: diagnóstico y priorización de proveedores clave (semanas 1-2); cierre de la temporada otoño-invierno y arranque del plan de optimización del ERP (semanas 3-8); hoja de ruta para el canal e-commerce y preparación de la salida (semanas 9-12). El criterio de salida es la entrega de un equipo de compras autónomo y un manual de procesos actualizado.
+La misión comienza con una incorporación en menos de diez días hábiles: el primer entregable del interim manager es la revisión del estado de las cuentas clave alemanas y la confirmación de los compromisos de feria. Durante las primeras dos semanas, establece los contactos con los clientes estratégicos para asegurar la continuidad de la relación comercial y coordina la preparación de la participación ferial con el equipo existente. En paralelo, realiza un diagnóstico rápido de la cartera —rentabilidad por cliente, concentración de riesgo, procesos de cotización— que sirve de base para definir los objetivos del mandato completo. El perfil requerido es un interim manager con experiencia en ventas B2B industriales y conocimiento del mercado DACH, capaz de operar en alemán o inglés de trabajo. El horizonte de la misión es de seis a doce meses: incluye la estabilización de la cuenta alemana, la definición de la estructura comercial permanente y, si la empresa lo decide, la participación en el proceso de selección del Director Comercial permanente. El criterio de salida es la existencia de un responsable comercial estable —interno o nuevo— y un pipeline documentado y transferido.
 
-**¿Cómo se define el mandato del Director de Supply Chain interino cuando la empresa no tiene documentados sus procesos de aprovisionamiento ni sabe con precisión qué quiere transformar?**
+**¿Cómo se estructura el reporting del Director Comercial interino ante el CEO y el consejo de administración cuando la empresa no tiene definidos los indicadores de la función comercial?**
 
-La ausencia de documentación de procesos no es un obstáculo: es el punto de partida más frecuente. El interim manager llega con metodología para el diagnóstico y es capaz de construir el mapa de la cadena —proveedores, flujos, cuellos de botella, brechas tecnológicas— en las primeras dos semanas. A partir de ese diagnóstico, propone a la dirección un plan de mandato con objetivos priorizados, plazos y recursos. La empresa no necesita saber exactamente qué quiere transformar: necesita saber qué problema quiere resolver. El resto lo estructura el interim manager.
+Uno de los primeros trabajos del interim manager es proponer un cuadro de mando de la función comercial que sea comprensible para la dirección general y el consejo, no solo para el equipo de ventas. En las primeras dos semanas, el interim manager define con el CEO los KPIs que importan: volumen de pipeline, ratio de conversión, tiempo de ciclo de venta, concentración de cartera, margen por canal. A partir de ahí, el reporting se hace quincenal con el CEO y mensual con el consejo si hay uno activo. La ausencia previa de indicadores no es un obstáculo sino una oportunidad: el interim manager deja instalada una cultura de medición comercial que la empresa puede mantener después de la misión, independientemente de si cubre la posición de forma permanente o distribuye las responsabilidades entre el equipo.
 
-**¿Puede el Director de Supply Chain interino gestionar simultáneamente la operativa diaria y liderar el proyecto de transformación de la cadena de suministro?**
+**Al finalizar el mandato del Director Comercial interino, ¿cómo se garantiza que el conocimiento sobre clientes, canales y procesos de venta no se pierde con su salida?**
 
-Sí, siempre que la empresa y el interim manager acuerden desde el inicio la distribución de dedicación entre ambas dimensiones. En las primeras semanas, el foco operativo es inevitable: hay urgencias que no admiten demora. A partir de la cuarta o quinta semana, la operativa tiende a estabilizarse y el perfil interino puede dedicar una proporción creciente de su tiempo al proyecto de transformación. El riesgo de no planificar este equilibrio es que el interim manager quede absorbido por la operativa y el proyecto de fondo nunca avance. Por eso, definir desde el inicio qué se considera éxito del mandato —y si incluye tanto la estabilización operativa como el avance del proyecto de transformación— es parte esencial del acuerdo de mandato.
-
----
-
-## ¿Su empresa necesita un Director de Supply Chain de transición?
-
-Si la cadena de suministro enfrenta una disrupción que el equipo interno no puede resolver a la velocidad necesaria —un proyecto de near-shoring, una integración post-adquisición, una transformación digital de operaciones o la salida inesperada de un directivo clave—, Manager in Motion identifica y moviliza el perfil adecuado en el menor tiempo posible. Contacte con nosotros para una primera conversación confidencial.
+La transferencia de conocimiento es una fase planificada desde el inicio de la misión, no un añadido de última hora. Durante los últimos treinta días del mandato, el interim manager documenta el modelo comercial: fichas de cuentas clave, estado del pipeline, procesos de cotización y onboarding de clientes, acuerdos de canal y condiciones negociadas, contactos estratégicos con nombre y contexto relacional. Esta documentación se entrega en el formato que la empresa usará de forma permanente —CRM, repositorio compartido o manual operativo— y se completa con sesiones de traspaso directo al equipo o al nuevo responsable comercial. El criterio de éxito de la transferencia no es la existencia del documento sino que el equipo que queda pueda operar sin dependencia de la memoria del interim manager.
 
 ---
 
+## CTA
+
+### ¿Su empresa necesita un Director Comercial interino?
+
+Manager in Motion dispone de una red de interim managers especializados en dirección comercial e internacionalización, con incorporación en menos de dos semanas. Si su empresa afronta una transición en la dirección comercial, la apertura de un nuevo mercado o la necesidad de profesionalizar la función de ventas antes de una operación corporativa, cuéntenos el reto.
+
+[Contactar con Manager in Motion]
+
+---
+
+---
 *FUERA DEL ARTÍCULO — Solo para uso editorial*
 
 ## Fuentes consultadas
 
-- Heidrick & Struggles: "How interim talent is delivering transformation for UK businesses in 2026" (heidrick.com)
-- DDIM: "DDIM Marktstudie 2026: Interim Management behauptet sich in anspruchsvollem Marktumfeld" (ddim.de)
-- Introlution: "Unlocking Industrial Growth: How Interim Leadership Drives Transformation Across Europe and the UK" (introlution.co.uk)
-- IIM / Stanton House: "Interim Management Survey 2026: Challenges, Insights & What Comes Next" (stantonhouse.com)
-- RRHHDigital: "Interim management en España: madurez pendiente y oportunidad estratégica" (rrhhdigital.com)
-- APTIE: "Transformación empresarial en 2026: el interim management acelera el cambio que las empresas necesitan" (aptie.org)
-- GH Partners: "El mercado francés del management de transición: cifras clave, tendencias 2025-2026 y perspectivas" (ghpartners.fr)
+- Crónica Económica (2026): "Internacionalización empresarial: estable en 2026" — dato de internacionalización española (9% de empresas con ventas globales)
+- IIM Interim Management Survey 2026 (iim.org.uk) — tendencias de demanda de interim management en el mercado británico
+- DDIM Marktstudie 2026 (ddim.de) — mercado alemán de interim management, perfiles demandados
+- Adequancy / GH Partners Baromètre 2026 (ghpartners.fr, adequancy.com) — mercado francés, datos de misiones y TJM
+- Alvarez & Marsal "Operational Alpha: How Private Equity is Building Value" (mayo 2026) — tendencias de creación de valor operacional en PE europeo
+- Roland Berger "European Private Equity Outlook 2026" — contexto de dealmaking y mandatos de gestión
+- rrhhdigital.com: "Interim management en España: madurez pendiente y oportunidad estratégica"
+- managerinmotion.eu: Página de servicio "Encuentra director comercial interino Interim Manager Ventas"

@@ -1,60 +1,76 @@
-# SEO Strategy Brief — 2026-09-14
+# SEO Strategy Brief — 2026-09-21
 
 ---
 
 ## Tema Seleccionado
 
-**Director de Supply Chain interino: el ejecutivo que lidera la resiliencia logística cuando la cadena de suministro no puede esperar**
+**Director Comercial Interino: el interim manager que protege y abre mercados cuando el tiempo no perdona**
 
 ---
 
 ## Justificación Estratégica
 
-La demanda de interim managers especializados en supply chain y procurement creció entre un 50 y un 60 % interanual en los mercados maduros de UK y Alemania (Heidrick & Struggles / DDIM 2026), impulsada por el near-shoring, la digitalización de operaciones y el paradigma de resiliencia frente a eficiencia pura. En España, este perfil ejecutivo es prácticamente invisible en el contenido SEO: no existe ningún artículo en español sobre el "Director de Supply Chain interino" o el "interim manager de cadena de suministro". La brecha es total.
+La fragmentación geopolítica de 2026 (aranceles, volatilidad de mercados clave, reconfiguración de cadenas de suministro) está creando una presión comercial nueva y urgente sobre las empresas medianas españolas con actividad exportadora o en proceso de internacionalización. Solo el 9% de las empresas españolas vende en mercados globales, un dato estancado que contrasta con la urgencia que sienten las que ya exportan de proteger o diversificar sus canales.
 
-El tema conecta con los ejes prioritarios de **dirección general** (toma de decisiones ejecutiva en contexto de disrupción) e **internacionalización** (near-shoring, diversificación de proveedores, apertura de operaciones en nuevos mercados). El artículo se dirige a CEOs, COOs y propietarios de empresas industriales y de distribución —perfil de alta conversión para Manager in Motion.
+El Director Comercial Interino — perfil CCO/CSO interino — es la respuesta más eficaz cuando una empresa necesita liderazgo comercial de alto nivel con incorporación inmediata: para abrir un nuevo mercado, redirigir la fuerza de ventas tras una crisis, cerrar la salida inesperada de su responsable comercial, o profesionalizar la función comercial antes de una ronda de inversión.
+
+Ningún actor visible ha publicado contenido SEO específico sobre este perfil en español. La página de servicio de Manager in Motion ya existe; este artículo la refuerza con contenido de valor.
 
 ---
 
 ## Audiencia Objetivo
 
-- **Primaria:** CEOs y COOs de empresas industriales, manufactureras y de distribución medianas (20-300 M€ de facturación); propietarios de empresas familiares del sector industrial con exposición a cadenas de suministro complejas.
-- **Secundaria:** Directores de operaciones y de compras que necesitan refuerzo ejecutivo para una transformación de su cadena de suministro; socios de private equity con participadas en industria o logística.
+- CEO de empresa mediana exportadora o con planes de internacionalización
+- Director general o propietario de empresa familiar con ambición exportadora
+- COO / CFO que gestiona una crisis comercial o un canal de ventas en caída
+- Operating partner o responsable de portfolio en fondo de private equity (empresa participada con reto comercial)
+- CHRO que busca cubrir urgentemente la posición de Director Comercial
 
 ---
 
 ## Intención de Búsqueda
 
-- **Informacional/comercial:** El decisor comprende que tiene un problema de supply chain —disrupción, proyecto de near-shoring, digitalización de operaciones— y evalúa si un perfil externo senior puede resolverlo más rápido que una búsqueda permanente.
-- **Transaccional latente:** Una parte de los buscadores ya ha tomado la decisión de buscar un perfil y compara opciones (interim vs. búsqueda permanente, headhunter vs. firma de interim management).
+**Mixta: informacional + transaccional**
+
+El decisor busca primero entender qué es y qué hace un Director Comercial interino (informacional), para validar que es la solución adecuada a su problema concreto (transaccional). El artículo debe resolver ambas intenciones: definir el perfil y la misión con precisión, y demostrar su valor con ejemplos operativos reales.
 
 ---
 
 ## Keywords
 
-- **Keyword principal:** director de supply chain interino
-- **Keywords secundarias:**
-  - interim manager supply chain España
-  - director de cadena de suministro interino
-  - CSCO interino
-  - director de operaciones supply chain interino
-  - interim manager logística España
-- **Keywords de cola larga:**
-  - cuándo contratar un director de supply chain interino
-  - interim manager para reestructuración de cadena de suministro
-  - director de compras interino empresa mediana España
-  - interim manager near-shoring operaciones España
-  - supply chain interim management empresa industrial
-  - interim manager logística empresa familiar
+**Keyword principal:**
+`director comercial interino`
+
+**Keywords secundarias:**
+- `interim manager comercial`
+- `interim management dirección comercial`
+- `director comercial interino España`
+- `CCO interino`
+- `interim manager ventas`
+
+**Keywords de cola larga:**
+- `cuándo contratar un director comercial interino`
+- `interim manager para internacionalización comercial`
+- `director comercial interino empresa mediana`
+- `interim manager apertura de mercado internacional`
+- `director comercial interino empresa familiar`
+- `interim manager comercial aranceles mercados exportación`
 
 ---
 
 ## Metadatos SEO
 
-- **Título SEO:** Director de Supply Chain Interino: cuándo y cómo activarlo en tu empresa
-- **Meta descripción:** Descubre en qué situaciones un interim manager de supply chain es la respuesta más eficaz: near-shoring, disrupción de proveedores, digitalización logística o integración post-adquisición. Guía para CEOs y COOs.
-- **Slug URL:** /director-supply-chain-interino
-- **H1:** Director de Supply Chain Interino: cuándo la cadena de suministro no puede esperar
+**Título SEO:**
+Director Comercial Interino: cuándo y cómo activarlo para proteger o abrir mercados
+
+**Meta descripción:**
+Un interim manager en la dirección comercial permite actuar con rapidez cuando los mercados cambian o la posición comercial de la empresa está en riesgo. Descubra cuándo tiene sentido y qué esperar de los primeros 100 días.
+
+**Slug URL:**
+`/blog/director-comercial-interino`
+
+**H1:**
+Director Comercial Interino: el liderazgo comercial que la empresa no puede esperar a contratar
 
 ---
 
@@ -62,59 +78,56 @@ El tema conecta con los ejes prioritarios de **dirección general** (toma de dec
 
 **Esquema H2 (máximo 3, sin H3):**
 
-1. **Las cuatro situaciones en que un interim manager de supply chain es la decisión más racional**
-   Near-shoring y diversificación de proveedores; disrupción operativa sin liderazgo disponible; transformación digital de la cadena de valor; integración de supply chain post-adquisición.
+1. **Cuándo la dirección comercial no puede esperar a una contratación permanente**
+   Situaciones que activan la necesidad: salida imprevista del responsable comercial, apertura de nuevo mercado bajo presión de tiempo, caída de canal de ventas, disrupción arancelaria o geopolítica, pre-inversión que exige profesionalizar la función comercial. Énfasis en que el riesgo comercial no espera el proceso habitual de selección.
 
-2. **El perfil del Director de Supply Chain interino: qué aporta que el equipo interno no puede resolver solo**
-   Experiencia en múltiples mandatos de alta complejidad; capacidad de diagnóstico y activación rápida; autoridad ejecutiva plena desde el primer día; visión transversal (procurement, logística, operaciones, tecnología); transferencia de conocimiento estructurada a la salida.
+2. **Qué hace un interim manager en la dirección comercial: los primeros 100 días**
+   Diagnóstico de la posición comercial, definición o revisión de la estrategia go-to-market, estabilización del equipo de ventas, activación de canales, KPIs de éxito de la misión. Concreto y operativo, no genérico.
 
-3. **Los primeros 90 días: diagnóstico, estabilización y transformación**
-   Fase de diagnóstico de la cadena (semanas 1-3); plan de acción y consolidación de relaciones con proveedores clave (semanas 4-6); activación de iniciativas de transformación y transferencia de conocimiento (semanas 7-12).
+3. **Cuándo el interim management comercial crea más valor que una contratación permanente**
+   Mandatos de 6-12 meses con resultado medible. Velocidad de incorporación. Objetividad del directivo externo. Transferencia de conocimiento a la salida. Casos de uso: internacionalización, turnaround comercial, pre-due diligence para inversor.
 
 ---
 
 ## Oportunidades FAQ
 
-- Escenario concreto de empresa: empresa del sector retail o tecnología B2B que pierde un proveedor clave o inicia un proyecto de near-shoring sin perfil ejecutivo capacitado.
-- Cómo se estructura el reporting del interim manager de supply chain ante la dirección general o el consejo.
-- Al final del mandato, cómo decide la empresa si necesita un Director de Supply Chain permanente o puede distribuir las responsabilidades.
+- Una pregunta de escenario concreto: empresa mediana exportadora que pierde su director comercial a seis semanas de la feria clave del año en el mercado alemán. Sector / detonante / eje inéditos.
+- Una pregunta sobre gobernanza y reporting del interim manager ante el CEO y el consejo.
+- Una pregunta sobre la transferencia de conocimiento al equipo de ventas al final de la misión.
+
+*(Verificar contra faq_history.md antes de redactar — ninguna de estas preguntas ha aparecido en el historial.)*
 
 ---
 
 ## Recomendaciones de Enlazado Interno
 
-- Artículo sobre COO interino (publicado 2026-08-24)
-- Artículo sobre interim manager industrial (publicado 2026-09-01)
-- Artículo sobre CEO interino (publicado 2026-09-07)
-- Página de servicios de Manager in Motion: operaciones y supply chain
+- Página de servicio: /servicios-de-interim-management/desafios-empresariales/retos-ventas
+- Artículo relacionado: Interim Manager para la Internacionalización (2026-08-17)
+- Artículo relacionado: CEO Interino (2026-09-07) — para contextualizar el abanico de perfiles de dirección interina
 
 ---
 
 ## Recomendaciones de Enlazado Externo
 
-- DDIM (ddim.de): referencia de datos del mercado alemán de interim management
-- IIM / Heidrick & Struggles: datos sobre demanda de CSCO interinos en UK
-- No citar directamente en el cuerpo del artículo: solo en fuentes consultadas
+- Dato de internacionalización española (solo el 9% vende globalmente): fuente verificada de contexto macroeconómico
+- Tendencias de interim management en Europa 2026: fuentes sectoriales de referencia (IIM UK, DDIM DE, Adequancy FR)
 
 ---
 
 ## Recomendación de CTA
 
-**Título del CTA:** "¿Su empresa necesita un Director de Supply Chain de transición?"
-
-**Texto:** Si la cadena de suministro enfrenta una disrupción que el equipo interno no puede resolver a la velocidad necesaria —un proyecto de near-shoring, una integración post-adquisición, una transformación digital de operaciones o la salida inesperada de un directivo clave—, Manager in Motion identifica y moviliza el perfil adecuado en el menor tiempo posible. Contacte con nosotros para una primera conversación confidencial.
+**Título:** ¿Su empresa necesita un Director Comercial interino?
+**Texto:** Manager in Motion dispone de una red de interim managers especializados en dirección comercial e internacionalización, con incorporación en menos de dos semanas. Cuéntenos su reto.
+**Acción:** Formulario de contacto / llamada de diagnóstico
 
 ---
 
 ## Instrucciones para el Redactor
 
-1. Redactar en tercera persona o con construcciones impersonales. Sin "yo" ni "nosotros".
-2. El lector (CEO, COO, propietario industrial) es el protagonista positivo. Tono constructivo, que refuerza su capacidad de decisión.
-3. Usar "interim manager" e "interim management" como términos obligatorios. Prohibido: "directivo interino", "gestión interina", "manager interino", "management interino".
-4. Mínimo 3 apariciones de "interim manager" y 3 de "interim management" en el cuerpo del artículo.
-5. "Director de supply chain interino" es la keyword principal: debe aparecer de forma natural en H1, primer párrafo y al menos un H2.
-6. Sin estadísticas no verificadas. Los datos de mercado europeos (UK/DE) se presentan como referencia cualitativa si no se puede verificar la cifra exacta.
-7. Longitud máxima del cuerpo: 1.000 palabras estrictas.
-8. Máximo 3 secciones H2, sin H3 ni sub-apartados.
-9. FAQ: máximo 3 preguntas. Una debe partir de un escenario de empresa concreto y verosímil. Prohibida la comparación con consultoras. Prohibido repetir preguntas del historial.
-10. Sector del escenario FAQ: retail o tecnología B2B (no usar logística/distribución, automoción, salud ni dirección general pura, ya utilizados en semanas anteriores).
+1. Abre con un párrafo de contexto que ancle el problema real del decisor en 2026: la presión comercial generada por la disrupción geopolítica y la escasez de liderazgo comercial disponible de forma inmediata. No empieces con definiciones.
+2. Usa los términos **interim manager** e **interim management** con naturalidad, mínimo 3 veces cada uno. Están prohibidos: directivo interino, gestión interina, management interino, manager interino.
+3. El artículo debe sonar como si lo hubiera escrito un directivo experimentado, no un copywriter. Concreto, sin retórica, con foco en el valor para el decisor.
+4. No atacar ni cuestionar al lector. El tono es de par a par: un experto hablando a otro directivo.
+5. Máximo 1.000 palabras en el cuerpo (intro + 3 H2 + cierre). FAQ, CTA y fuentes quedan fuera del recuento.
+6. Sin estadísticas no verificadas. Si no hay dato verificable, usar afirmación cualitativa bien argumentada.
+7. No mencionar fuentes dentro del cuerpo del artículo. Listarlas únicamente al final, fuera del artículo.

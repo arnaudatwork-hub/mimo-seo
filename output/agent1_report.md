@@ -1,4 +1,4 @@
-# Informe Semanal de Inteligencia de Mercado — 2026-09-14
+# Informe Semanal de Inteligencia de Mercado — 2026-09-21
 
 ---
 
@@ -6,48 +6,53 @@
 
 ---
 
-**Tendencia 1: Demanda de interim managers para cadena de suministro — crecimiento del 50-60 % interanual**
-- País de origen: UK
-- Relevancia para el interim management: La transformación del paradigma "just-in-time" hacia "just-in-case" dispara la demanda de directores de supply chain interinos. Las empresas aceleran el near-shoring, diversifican proveedores e implantan tecnologías de visibilidad avanzada. La demanda de Chief Supply Chain Officers y especialistas en procurement se ha incrementado entre un 50 y un 60 % interanual en el mercado británico (Heidrick & Struggles / IIM 2026).
-- Decisor objetivo: COO, CEO, director de operaciones, consejo de administración de empresas industriales, de fabricación y de distribución.
-- Oportunidad SEO en España: No existe contenido específico en español sobre el "Director de Supply Chain interino". El gap es total: el término "interim manager supply chain España" arroja resultados prácticamente nulos.
-- Ángulo recomendado: "El interim manager de supply chain: el ejecutivo que lidera la resiliencia logística cuando la empresa no puede esperar."
+**Tendencia 1**
+Tendencia: La fragmentación geopolítica y los aranceles de 2026 reabren la demanda de dirección comercial interina en empresas exportadoras
+País de origen: ES / UK / FR
+Relevancia para el interim management: Solo el 9% de las empresas españolas vende en mercados globales, un dato estático desde 2024 y dos puntos por debajo de los niveles prepandemia. El entorno arancelario y la fragmentación geoeconómica de 2026 obligan a las empresas exportadoras a adaptar su estrategia comercial de forma urgente. Un interim manager con experiencia comercial internacional puede pivotar la estrategia de acceso a mercado sin los meses de ramp-up de una contratación permanente.
+Decisor objetivo: CEO / COO de empresa mediana exportadora, director de expansión internacional, familia propietaria con ambición exportadora
+Oportunidad SEO en España: Keyword muy poco competida: "director comercial interino", "interim manager comercial internacionalización". Búsqueda creciente pero oferta de contenido escasa.
+Ángulo recomendado: El interim manager como primera respuesta ante la disrupción comercial global: cuándo activar un Director Comercial interino para defender o reabrir mercados.
 
 ---
 
-**Tendencia 2: Interim management como palanca de transformación estratégica en el Mittelstand alemán (señal anticipada para la mediana empresa española)**
-- País de origen: DE
-- Relevancia para el interim management: La DDIM Marktstudie 2026 confirma que el mercado alemán (volumen estimado: 2.700 M€) se desplaza del mandato de crisis puro hacia la transformación: digitalización, implantación de IA y reorientación del modelo de negocio. La tasa de utilización crece del 79 % (2025) al 81 % (2026). Los mandatos duran en promedio más de 7 meses.
-- Decisor objetivo: Propietarios de empresas familiares medianas, CEOs de filiales de grupos europeos en España, directores de transformación.
-- Oportunidad SEO en España: El equivalente español del Mittelstand —la empresa familiar mediana de entre 20 y 200 M€— sigue utilizando el interim management de forma reactiva. Contenido que posicione el interim management como herramienta proactiva de transformación (no solo de crisis) tiene alto potencial de diferenciación.
-- Ángulo recomendado: Artículo sobre el uso estratégico (no reactivo) del interim manager en la mediana empresa española.
+**Tendencia 2**
+Tendencia: En el mercado francés, el 10% de las misiones de management de transition concluyen con la contratación permanente del directivo, consolidando el modelo como vía de pre-selección ejecutiva
+País de origen: FR
+Relevancia para el interim management: Este dato del baromètre 2026 señala que el interim management ya no se percibe únicamente como solución de emergencia sino como herramienta de identificación y validación de talento directivo. Aplicado al mercado español, es un argumento de venta diferencial poco explorado.
+Decisor objetivo: CHRO, CEO que buscan cubrir posición permanente con riesgo reducido
+Oportunidad SEO en España: Contenido casi inexistente en español sobre el interim management como herramienta de pre-selección ejecutiva.
+Ángulo recomendado: "El interim manager como prueba de fuego antes de contratar": cómo algunas empresas utilizan el mandato interino para validar el encaje cultural y técnico de un directivo antes de la oferta permanente.
 
 ---
 
-**Tendencia 3: Integración de IA en operaciones industriales — crecimiento del 45-50 % en demanda de CTO/CDO interinos**
-- País de origen: UK / DE
-- Relevancia para el interim management: La integración de IA y automatización en operaciones industriales (fabricación, control de calidad, mantenimiento predictivo) genera una oleada de demanda de CTO y Digital Transformation Directors interinos. En Alemania, la DDIM señala que la competencia digital ya no es opcional para un interim manager: la capacidad de implementar IA en procesos reales es requisito de selección.
-- Decisor objetivo: COO, CEO, CTO de empresas industriales medianas en proceso de modernización.
-- Oportunidad SEO en España: Artículo sobre el interim manager de tecnología/IA en industria (distinto del CDO en transformación digital genérica, ya publicado en 2026-06-08).
-- Ángulo recomendado: El interim manager como acelerador de la integración de IA en planta industrial.
+**Tendencia 3**
+Tendencia: En el mercado británico, los mandatos de interim digital e IT han crecido un 58% desde 2023, y el 89% de los interim managers aplican IA en sus misiones de forma activa
+País de origen: UK
+Relevancia para el interim management: La señal anticipada del mercado UK apunta a que el interim management se está convirtiendo en el canal preferente para incorporar capacidades de IA a la empresa sin contratación permanente. La duración media de los contratos subió de 4,7 a 7,2 meses, lo que indica mandatos más complejos y estratégicos.
+Decisor objetivo: CEO, CTO, COO de empresa mediana en proceso de digitalización
+Oportunidad SEO en España: El ángulo de la IA operativa (no IA como tecnología sino como herramienta de diagnóstico y aceleración que usa el propio interim manager) está poco trabajado en español.
+Ángulo recomendado: Cómo el interim manager usa la IA para comprimir el tiempo entre su incorporación y el primer impacto medible.
 
 ---
 
-**Tendencia 4: Liderazgo ESG/sostenibilidad interino — proyección de crecimiento del 60-75 % en UK**
-- País de origen: UK
-- Relevancia para el interim management: La entrada en vigor del mecanismo de ajuste en frontera de carbono de la UE y los compromisos net-zero disparan la demanda de Chief Sustainability Officers (CSO) interinos en Europa. Las empresas necesitan liderazgo ejecutivo especializado que no siempre existe internamente.
-- Decisor objetivo: Consejo de administración, CEO, inversores PE con criterios ESG en sus participadas.
-- Oportunidad SEO en España: Prácticamente ningún contenido en español sobre el "Director de Sostenibilidad interino" o "CSO interino". La regulación europea empuja la demanda pero el contenido informativo en español para decisores es escaso.
-- Ángulo recomendado: "Cómo el interim manager de sostenibilidad ayuda a la empresa mediana a responder a los requisitos ESG sin contratar un perfil permanente de alto coste."
+**Tendencia 4**
+Tendencia: El mercado alemán reorienta la demanda desde el "Automotive-Manager" hacia el "Transformation-Manager con experiencia industrial" — el perfil industrial genérico pierde valor
+País de origen: DE
+Relevancia para el interim management: La DDIM Marktstudie 2026 señala que el descenso de mandatos en automoción es sintomático de un cambio estructural: las empresas industriales no buscan ya el experto sectorial puro sino el directivo capaz de liderar la transformación operativa y digital en cualquier entorno industrial. Este patrón se replicará en la industria española en 12-18 meses.
+Decisor objetivo: CEO / COO de empresa industrial mediana, fondo de PE con participadas industriales
+Oportunidad SEO en España: Artículo anticipatorio sobre el nuevo perfil del interim manager industrial en España, posicionando a Manager in Motion como referente de tendencia.
+Ángulo recomendado: Del especialista sectorial al arquitecto de la transformación: el nuevo perfil del interim manager industrial.
 
 ---
 
-**Tendencia 5: Maduración pendiente del mercado español — oportunidad de posicionamiento diferencial**
-- País de origen: ES
-- Relevancia para el interim management: El artículo de RRHHDigital "Interim management en España: madurez pendiente y oportunidad estratégica" (2026) confirma que España sigue percibiendo el interim management como solución excepcional y reactiva, mientras en UK, FR, DE y NL forma parte natural de la arquitectura directiva. La brecha de madurez del mercado español es la principal oportunidad de contenido educativo con alto valor para decisores.
-- Decisor objetivo: CEOs, CHROs, propietarios de empresas familiares medianas, consejeros independientes.
-- Oportunidad SEO en España: Artículos que posicionen el interim management como herramienta proactiva y estratégica, no como último recurso, tienen demanda creciente y baja competencia de contenido.
-- Ángulo recomendado: Posicionamiento del interim manager en un sector o función específica aún no cubierta (supply chain, sostenibilidad, retail, tecnología B2B).
+**Tendencia 5**
+Tendencia: Los fondos de private equity europeos aceleran sus planes de creación de valor operacional ante la volatilidad geopolítica y los tiempos de salida extendidos
+País de origen: UK / DE / FR
+Relevancia para el interim management: Alvarez & Marsal y Roland Berger documentan en 2026 que los fondos de PE están priorizando la creación de valor operacional frente a la ingeniería financiera, dado que la recuperación del deal-flow se ha postergado. Los interim managers son el recurso operacional de referencia para ejecutar estos planes en las participadas.
+Decisor objetivo: Operating partners de fondos PE, CFO/COO de empresas participadas, inversores de mid-market europeo
+Oportunidad SEO en España: Contenido muy escaso en español sobre el interim management en el ciclo de creación de valor de PE, más allá del artículo de turnaround genérico.
+Ángulo recomendado: El interim manager como operador de valor en el portfolio de private equity: más allá del turnaround.
 
 ---
 
@@ -55,68 +60,65 @@
 
 ---
 
-**Fuente 1: APTIE (aptie.org)**
-- Tema: "COO interino en 2026: el directivo de operaciones que permite actuar cuando el tiempo apremia"
-- Idea clave: APTIE publica contenido de posicionamiento centrado en perfiles ejecutivos específicos con urgencia operativa. El tono es práctico y orientado al decisor en modo de crisis.
-- Oportunidad para Manager in Motion: Manager in Motion puede diferenciarse cubriendo los perfiles aún no publicados por APTIE: Director de Supply Chain interino, CSO interino, interim manager para internacionalización inbound (grupos extranjeros con filiales en España).
+Fuente: APTIE (aptie.org)
+Tema: Transformación empresarial en 2026 y el interim management
+Idea clave: El interim management se posiciona como acelerador del cambio, pero el contenido es genérico y carece de casos concretos de sector o perfil funcional.
+Oportunidad para Manager in Motion: Publicar contenido con casos concretos por función y sector (no genérico), con datos verificados de mercado.
 
 ---
 
-**Fuente 2: RRHHDigital**
-- Tema: "Interim management en España: madurez pendiente y oportunidad estratégica"
-- Idea clave: El artículo aborda el gap de madurez del mercado español sin entrar en aplicaciones sectoriales concretas.
-- Oportunidad para Manager in Motion: Producir contenido sectorial y funcional específico que el artículo genérico de RRHHDigital no cubre. El decisor que lee el artículo de madurez necesita contenido de aplicación práctica como siguiente paso.
+Fuente: rrhhdigital.com
+Tema: Interim management en España — madurez pendiente y oportunidad estratégica
+Idea clave: El artículo señala que España sigue percibiendo el interim como solución excepcional y reactiva. Sin embargo, no desarrolla el argumento de la dirección comercial ni el eje de internacionalización.
+Oportunidad para Manager in Motion: Artículo que aborde específicamente cuándo activar un Director Comercial interino ante contextos de disrupción de mercado — ángulo no cubierto por competidores.
 
 ---
 
-**Fuente 3: Heidrick & Struggles (heidrick.com)**
-- Tema: "How interim talent is delivering transformation for UK businesses in 2026"
-- Idea clave: El 25 % de todas las solicitudes de líderes interinos en UK se vincula directamente a iniciativas de transformación. La demanda de PMO y funciones de transformación creció un 37 % interanual.
-- Oportunidad para Manager in Motion: Artículo en español sobre el interim manager como director de transformación operativa (supply chain, logística, operaciones) con datos de mercado europeos como referencia.
+Fuente: epunto.es
+Tema: El Interim Management en 2026
+Idea clave: Artículo panorámico sobre el mercado, sin especialización funcional ni datos propios. Cita tendencias genéricas de digitalización e IA.
+Oportunidad para Manager in Motion: Profundidad de análisis por perfil funcional (CDO, CMO, CCO interino) con ejemplos de misión concretos.
 
 ---
 
-**Fuente 4: DDIM (ddim.de)**
-- Tema: "DDIM Marktstudie 2026: Interim Management behauptet sich in anspruchsvollem Marktumfeld"
-- Idea clave: Mercado alemán estable con crecimiento en transformación e IA. TJM medio: 1.317 €/día. Tendencia hacia mandatos part-time (2-4 días/semana) en Mittelstand.
-- Oportunidad para Manager in Motion: La tendencia part-time del mercado alemán anticipa un posible desarrollo del mercado español. Contenido que explique las modalidades de mandato (tiempo completo vs. part-time vs. fraccionado) puede captar búsquedas de decisores que exploran formatos no convencionales.
+Fuente: capital-riesgo.es
+Tema: El papel del interim manager en la digitalización de una empresa
+Idea clave: Cubre el rol digital pero desde el ángulo tecnológico puro. No aborda la dirección comercial ni la internacionalización.
+Oportunidad para Manager in Motion: El ángulo de "cómo el interim manager comercial navega la disrupción geopolítica y los aranceles para abrir o defender mercados" está completamente libre.
 
 ---
 
-**Fuente 5: Instrolution (introlution.co.uk)**
-- Tema: "Unlocking Industrial Growth: How Interim Leadership Drives Transformation Across Europe and the UK"
-- Idea clave: El liderazgo interino industrial en Europa está impulsado por three vectores: near-shoring, digitalización de operaciones, y transición energética. La disponibilidad de un perfil senior en 72 horas es el factor diferenciador frente al reclutamiento permanente.
-- Oportunidad para Manager in Motion: Artículo sobre el interim manager industrial en el contexto del near-shoring español (empresas europeas que trasladan producción a España) o de la diversificación de cadena de suministro.
+Fuente: managerinmotion.eu (propio)
+Tema: Encuentra director comercial interino Interim Manager Ventas
+Idea clave: La página de servicio existe pero no hay artículo de contenido SEO profundo sobre el Director Comercial Interino ni sobre el eje internacionalización + disrupción comercial.
+Oportunidad para Manager in Motion: Artículo que soporte SEO a esa página de servicio con contenido de valor.
 
 ---
 
-## 3. Preguntas Frecuentes
+## 3. Preguntas Frecuentes Detectadas
 
-1. ¿Puede un interim manager liderar la reestructuración de la cadena de suministro de una empresa mediana española en proceso de near-shoring?
-2. ¿Cuándo necesita una empresa un Director de Supply Chain interino en lugar de ampliar el equipo interno?
-3. ¿Qué perfil ejecutivo lidera la integración de IA en las operaciones de una empresa industrial mediana?
-4. ¿Cuánto tiempo tarda una empresa en disponer de un interim manager de supply chain operativo desde el primer contacto?
-5. ¿Puede un interim manager de sostenibilidad ayudar a una empresa mediana a cumplir los requisitos ESG exigidos por sus clientes o inversores?
-6. ¿Qué diferencia hay entre un director de operaciones interino y un director de supply chain interino?
-7. ¿En qué sectores es más alta la demanda de interim managers en España en 2026?
-8. ¿Puede una empresa del sector retail español contratar un interim manager para acelerar su transformación omnicanal?
-9. ¿Cuánto cuesta contratar un Director de Supply Chain interino en España?
-10. ¿Qué indicadores concretos permiten evaluar el éxito de una misión de interim management en operaciones de supply chain?
+1. ¿Qué hace exactamente un Director Comercial interino y en qué se diferencia de un director de ventas permanente?
+2. ¿Cuándo necesita una empresa un interim manager para la función comercial?
+3. ¿Puede un Director Comercial interino abrir un nuevo mercado internacional desde cero?
+4. ¿Cuánto tiempo tarda en incorporarse un interim manager para la dirección comercial?
+5. ¿Es viable contratar un Director Comercial interino en una empresa familiar o de tamaño mediano?
+6. ¿Qué perfil tiene un interim manager con experiencia en internacionalización?
+7. ¿Cómo gestiona el interim manager comercial la relación con el equipo de ventas existente?
+8. ¿Qué impacto tienen los aranceles y la fragmentación geopolítica de 2026 en la estrategia comercial de las pymes exportadoras?
+9. ¿Cuáles son los primeros 100 días de un Director Comercial interino en una empresa en proceso de internacionalización?
+10. ¿Cómo se mide el éxito de un mandato de interim management en la dirección comercial?
 
 ---
 
 ## 4. Tema Recomendado para Esta Semana
 
-**Director de Supply Chain interino: el ejecutivo que lidera la resiliencia logística y la transformación operativa**
+**Tema prioritario:** El Director Comercial Interino ante la disrupción de mercados: cómo el interim management protege y abre canales comerciales en un entorno geopolítico inestable
 
 **Justificación estratégica:**
 
-1. **Gap de contenido total en español:** No existe prácticamente ningún artículo en español sobre el "interim manager de supply chain" o el "Director de Supply Chain interino". El término "CSCO interino" no aparece en ningún resultado. La oportunidad SEO es de captura de terreno virgen.
-
-2. **Señal anticipada fuerte desde UK y DE:** La demanda de CSCO y especialistas en procurement interinos creció entre un 50 y un 60 % interanual en UK. En Alemania, la transformación de la cadena de suministro es el segundo vector de crecimiento del interim management, tras la digitalización.
-
-3. **Contexto macroeconómico relevante para España:** Las tendencias de near-shoring, la diversificación de proveedores post-pandemia y la digitalización de operaciones son vectores activos en la industria española en 2026. El decisor relevante (CEO, COO, director industrial) tiene alta intención de búsqueda.
-
-4. **Diferenciación clara del artículo previo sobre COO interino:** El Director de Supply Chain interino tiene un perfil, una misión y un contexto de demanda específicos. El COO interino cubre toda la dirección de operaciones; el CSCO interino se focaliza en cadena de suministro, procurement, logística y relaciones con proveedores.
-
-5. **Audiencia de alta conversión:** Empresas industriales medianas, manufactureras, distribuidoras y de retail en España que afrontan disrupciones de suministro, proyectos de near-shoring o digitalización de su cadena de valor. Perfil decisor: CEO, COO, consejo de administración.
+- **Señal de mercado verificada:** Solo el 9% de las empresas españolas vende globalmente, dato estancado desde 2024. Los aranceles de 2026 y la fragmentación geoeconómica generan una presión comercial urgente y real sobre las empresas medianas exportadoras o con ambición exportadora.
+- **Ángulo no explotado por competidores:** Ningún actor visible en España ha publicado contenido específico sobre el Director Comercial Interino ni sobre la combinación internacionalización + interim management desde el ángulo de la disrupción comercial de 2026.
+- **Enlace natural a tendencias europeas:** El mercado UK y FR señalan que la demanda de perfiles de transformación comercial y digital es la que más crece. España seguirá ese patrón.
+- **Demanda latente de los decisores objetivo:** CEOs de empresas medianas, directores de internacionalización, familias propietarias con proyectos de entrada en nuevos mercados o defensa de mercados existentes.
+- **Alineación con ejes de Manager in Motion:** Internacionalización + dirección general + empresa familiar — tres ejes prioritarios en un solo artículo.
+- **Diferenciación de lo publicado:** No se ha publicado ningún artículo sobre el perfil del Director Comercial o CCO interino. El historial de FAQ tampoco registra preguntas sobre esta función.
