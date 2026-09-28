@@ -1,4 +1,4 @@
-# Informe Semanal de Inteligencia de Mercado — 2026-09-21
+# Informe Semanal de Inteligencia de Mercado — 2026-09-28
 
 ---
 
@@ -7,52 +7,52 @@
 ---
 
 **Tendencia 1**
-Tendencia: La fragmentación geopolítica y los aranceles de 2026 reabren la demanda de dirección comercial interina en empresas exportadoras
-País de origen: ES / UK / FR
-Relevancia para el interim management: Solo el 9% de las empresas españolas vende en mercados globales, un dato estático desde 2024 y dos puntos por debajo de los niveles prepandemia. El entorno arancelario y la fragmentación geoeconómica de 2026 obligan a las empresas exportadoras a adaptar su estrategia comercial de forma urgente. Un interim manager con experiencia comercial internacional puede pivotar la estrategia de acceso a mercado sin los meses de ramp-up de una contratación permanente.
-Decisor objetivo: CEO / COO de empresa mediana exportadora, director de expansión internacional, familia propietaria con ambición exportadora
-Oportunidad SEO en España: Keyword muy poco competida: "director comercial interino", "interim manager comercial internacionalización". Búsqueda creciente pero oferta de contenido escasa.
-Ángulo recomendado: El interim manager como primera respuesta ante la disrupción comercial global: cuándo activar un Director Comercial interino para defender o reabrir mercados.
+Tendencia: Consolidación del interim management como herramienta de transformación estratégica (no solo cobertura de vacante)
+País de origen: FR
+Relevancia para el interim management: El mercado francés reporta un ajuste de -15% en volumen en 2025, pero la duración media de las misiones sube a 7,5 meses (8,3 meses en proyectos de transformación), lo que indica un desplazamiento hacia encargos más complejos y de mayor valor. El uso deja de ser reactivo para convertirse en deliberado.
+Decisor objetivo: CEO, CHRO, consejo de administración
+Oportunidad SEO en España: El mercado español está 3-5 años por detrás del francés en madurez; este argumento de "uso estratégico vs. urgencia" es diferenciador frente a la percepción de que el interim management es solo un parche temporal.
+Ángulo recomendado: Artículo de posicionamiento sobre cuándo el interim management es una decisión de management activa y no una respuesta a la urgencia.
 
 ---
 
 **Tendencia 2**
-Tendencia: En el mercado francés, el 10% de las misiones de management de transition concluyen con la contratación permanente del directivo, consolidando el modelo como vía de pre-selección ejecutiva
-País de origen: FR
-Relevancia para el interim management: Este dato del baromètre 2026 señala que el interim management ya no se percibe únicamente como solución de emergencia sino como herramienta de identificación y validación de talento directivo. Aplicado al mercado español, es un argumento de venta diferencial poco explorado.
-Decisor objetivo: CHRO, CEO que buscan cubrir posición permanente con riesgo reducido
-Oportunidad SEO en España: Contenido casi inexistente en español sobre el interim management como herramienta de pre-selección ejecutiva.
-Ángulo recomendado: "El interim manager como prueba de fuego antes de contratar": cómo algunas empresas utilizan el mandato interino para validar el encaje cultural y técnico de un directivo antes de la oferta permanente.
+Tendencia: Explosión de la demanda de CEOs y presidentes interinos (+80% interanual en UK)
+País de origen: UK
+Relevancia para el interim management: La demanda de perfiles C-suite en UK creció un 80% año sobre año, impulsada por volatilidad económica, jubilaciones ejecutivas y exigencias de transformación acelerada. Los mandatos se extienden a 7,2 meses de media (vs. 4,7 en 2023).
+Decisor objetivo: Consejo de administración, inversores PE, socios accionistas
+Oportunidad SEO en España: El mismo ciclo comienza a manifestarse en España con el auge de la figura del CEO interino y la profesionalización de empresas familiares con relevo generacional pendiente.
+Ángulo recomendado: Liderazgo de la alta dirección en contextos de incertidumbre; diferencia entre CEO permanente, CEO interino y director general de transición.
 
 ---
 
 **Tendencia 3**
-Tendencia: En el mercado británico, los mandatos de interim digital e IT han crecido un 58% desde 2023, y el 89% de los interim managers aplican IA en sus misiones de forma activa
-País de origen: UK
-Relevancia para el interim management: La señal anticipada del mercado UK apunta a que el interim management se está convirtiendo en el canal preferente para incorporar capacidades de IA a la empresa sin contratación permanente. La duración media de los contratos subió de 4,7 a 7,2 meses, lo que indica mandatos más complejos y estratégicos.
-Decisor objetivo: CEO, CTO, COO de empresa mediana en proceso de digitalización
-Oportunidad SEO en España: El ángulo de la IA operativa (no IA como tecnología sino como herramienta de diagnóstico y aceleración que usa el propio interim manager) está poco trabajado en español.
-Ángulo recomendado: Cómo el interim manager usa la IA para comprimir el tiempo entre su incorporación y el primer impacto medible.
+Tendencia: Interim management a tiempo parcial (fractional) como respuesta a la presión presupuestaria
+País de origen: DE
+Relevancia para el interim management: El mercado alemán (2,7 B€ en 2026, referente europeo) registra un crecimiento sostenido de mandatos a 2-4 días semanales. Las empresas con presupuesto limitado acceden así a perfiles directivos senior sin el coste de una dedicación completa.
+Decisor objetivo: CEO, CFO de empresa mediana, director general de pyme en crecimiento
+Oportunidad SEO en España: El interim management parcial casi no existe como concepto en el mercado español; es un ángulo completamente libre de competencia editorial.
+Ángulo recomendado: Qué es el interim management fraccionado, en qué situaciones aplica y cómo estructurar el mandato.
 
 ---
 
 **Tendencia 4**
-Tendencia: El mercado alemán reorienta la demanda desde el "Automotive-Manager" hacia el "Transformation-Manager con experiencia industrial" — el perfil industrial genérico pierde valor
-País de origen: DE
-Relevancia para el interim management: La DDIM Marktstudie 2026 señala que el descenso de mandatos en automoción es sintomático de un cambio estructural: las empresas industriales no buscan ya el experto sectorial puro sino el directivo capaz de liderar la transformación operativa y digital en cualquier entorno industrial. Este patrón se replicará en la industria española en 12-18 meses.
-Decisor objetivo: CEO / COO de empresa industrial mediana, fondo de PE con participadas industriales
-Oportunidad SEO en España: Artículo anticipatorio sobre el nuevo perfil del interim manager industrial en España, posicionando a Manager in Motion como referente de tendencia.
-Ángulo recomendado: Del especialista sectorial al arquitecto de la transformación: el nuevo perfil del interim manager industrial.
+Tendencia: Demanda de CFO interino duplicada en España en 2026; profesionalización financiera de la empresa familiar
+País de origen: ES
+Relevancia para el interim management: El 12% de los nuevos CFOs globales son interinos en el Q1 2026 (frente al 6% en 2025). En España, la empresa familiar y la empresa mediana industrial son los grandes demandantes: necesitan pasar de una gestión contable a un control de gestión profesional.
+Decisor objetivo: CEO/propietario de empresa familiar, consejo de administración, inversor PE que entra en empresa familiar
+Oportunidad SEO en España: Muy pocas fuentes abordan la transformación financiera interna (de contabilidad a control de gestión) con un interim CFO. Nicho editorial con alta intención de búsqueda comercial.
+Ángulo recomendado: El interim CFO como constructor del sistema de control de gestión en la empresa mediana o familiar que ha superado la etapa de gestión artesanal de las finanzas.
 
 ---
 
 **Tendencia 5**
-Tendencia: Los fondos de private equity europeos aceleran sus planes de creación de valor operacional ante la volatilidad geopolítica y los tiempos de salida extendidos
-País de origen: UK / DE / FR
-Relevancia para el interim management: Alvarez & Marsal y Roland Berger documentan en 2026 que los fondos de PE están priorizando la creación de valor operacional frente a la ingeniería financiera, dado que la recuperación del deal-flow se ha postergado. Los interim managers son el recurso operacional de referencia para ejecutar estos planes en las participadas.
-Decisor objetivo: Operating partners de fondos PE, CFO/COO de empresas participadas, inversores de mid-market europeo
-Oportunidad SEO en España: Contenido muy escaso en español sobre el interim management en el ciclo de creación de valor de PE, más allá del artículo de turnaround genérico.
-Ángulo recomendado: El interim manager como operador de valor en el portfolio de private equity: más allá del turnaround.
+Tendencia: Interim management en empresas portfolio de private equity: ejecución de planes de valor con liderazgo externo
+País de origen: UK / DE
+Relevancia para el interim management: El 30% de las empresas portfolio de PE requieren liderazgo externo en algún momento del ciclo. Los mandatos de interim CFO, COO y CTO en entornos PE registran incrementos del 30-40% en velocidad de ejecución de iniciativas estratégicas respecto a equipos internos solos.
+Decisor objetivo: Partner de fondo PE, operating partner, dirección de la participada
+Oportunidad SEO en España: El ecosistema PE en España es muy activo (Iberdrola Capital, Nazca, ProA, Portobello, Suma Capital) y las participadas tienen necesidades directivas no cubiertas. Nicho con poco contenido SEO específico en español.
+Ángulo recomendado: Interim management como palanca de creación de valor en la empresa participada por PE: qué roles, en qué momentos del ciclo, y cómo se articula la misión.
 
 ---
 
@@ -60,65 +60,51 @@ Oportunidad SEO en España: Contenido muy escaso en español sobre el interim ma
 
 ---
 
-Fuente: APTIE (aptie.org)
-Tema: Transformación empresarial en 2026 y el interim management
-Idea clave: El interim management se posiciona como acelerador del cambio, pero el contenido es genérico y carece de casos concretos de sector o perfil funcional.
-Oportunidad para Manager in Motion: Publicar contenido con casos concretos por función y sector (no genérico), con datos verificados de mercado.
+Fuente: Robert Walters España (robertwalters.es)
+Tema: Guías de remuneración y tendencias de interim management 2026
+Idea clave: Posicionan el interim management como herramienta de talento flexible, con foco en salarios y perfiles. No abordan el ángulo de construcción de capacidades financieras.
+Oportunidad para Manager in Motion: Contenido más específico sobre situaciones operativas concretas (empresa familiar sin control de gestión, CFO que construye desde cero) que va más allá de la guía de tarifas.
+
+Fuente: RRHHDIGITAL (rrhhdigital.com)
+Tema: Madurez pendiente del mercado español de interim management
+Idea clave: El mercado español todavía no alcanza las cifras de FR/UK/DE, pero la tendencia es inequívocamente al alza, especialmente en pymes y empresas familiares.
+Oportunidad para Manager in Motion: Artículos que educan al mercado y convierten la brecha de madurez en una oportunidad de posicionamiento como referente del sector en España.
+
+Fuente: EPUNTO Interim Management (epunto.es)
+Tema: El interim management en 2026 y roles de CFO interino
+Idea clave: Cobertura de roles financieros interinos con foco en descripción de la figura. Sin profundidad estratégica sobre la transformación financiera de la empresa mediana.
+Oportunidad para Manager in Motion: Desarrollar el ángulo de profesionalización financiera (de empresa artesanal a empresa con control de gestión) como caso de uso específico y diferenciado.
+
+Fuente: Manager in Motion (managerinmotion.eu)
+Tema: Aumento de demanda de interim management en España y CFO interim
+Idea clave: La propia firma tiene contenido sobre CFO interino; es necesario un ángulo diferente para no competir con el contenido propio.
+Oportunidad para Manager in Motion: Abordar la transformación financiera interna (no solo "quién es el CFO interino" sino "qué construye") como nuevo contenido complementario al existente.
 
 ---
 
-Fuente: rrhhdigital.com
-Tema: Interim management en España — madurez pendiente y oportunidad estratégica
-Idea clave: El artículo señala que España sigue percibiendo el interim como solución excepcional y reactiva. Sin embargo, no desarrolla el argumento de la dirección comercial ni el eje de internacionalización.
-Oportunidad para Manager in Motion: Artículo que aborde específicamente cuándo activar un Director Comercial interino ante contextos de disrupción de mercado — ángulo no cubierto por competidores.
+## 3. Preguntas Frecuentes
 
----
-
-Fuente: epunto.es
-Tema: El Interim Management en 2026
-Idea clave: Artículo panorámico sobre el mercado, sin especialización funcional ni datos propios. Cita tendencias genéricas de digitalización e IA.
-Oportunidad para Manager in Motion: Profundidad de análisis por perfil funcional (CDO, CMO, CCO interino) con ejemplos de misión concretos.
-
----
-
-Fuente: capital-riesgo.es
-Tema: El papel del interim manager en la digitalización de una empresa
-Idea clave: Cubre el rol digital pero desde el ángulo tecnológico puro. No aborda la dirección comercial ni la internacionalización.
-Oportunidad para Manager in Motion: El ángulo de "cómo el interim manager comercial navega la disrupción geopolítica y los aranceles para abrir o defender mercados" está completamente libre.
-
----
-
-Fuente: managerinmotion.eu (propio)
-Tema: Encuentra director comercial interino Interim Manager Ventas
-Idea clave: La página de servicio existe pero no hay artículo de contenido SEO profundo sobre el Director Comercial Interino ni sobre el eje internacionalización + disrupción comercial.
-Oportunidad para Manager in Motion: Artículo que soporte SEO a esa página de servicio con contenido de valor.
-
----
-
-## 3. Preguntas Frecuentes Detectadas
-
-1. ¿Qué hace exactamente un Director Comercial interino y en qué se diferencia de un director de ventas permanente?
-2. ¿Cuándo necesita una empresa un interim manager para la función comercial?
-3. ¿Puede un Director Comercial interino abrir un nuevo mercado internacional desde cero?
-4. ¿Cuánto tiempo tarda en incorporarse un interim manager para la dirección comercial?
-5. ¿Es viable contratar un Director Comercial interino en una empresa familiar o de tamaño mediano?
-6. ¿Qué perfil tiene un interim manager con experiencia en internacionalización?
-7. ¿Cómo gestiona el interim manager comercial la relación con el equipo de ventas existente?
-8. ¿Qué impacto tienen los aranceles y la fragmentación geopolítica de 2026 en la estrategia comercial de las pymes exportadoras?
-9. ¿Cuáles son los primeros 100 días de un Director Comercial interino en una empresa en proceso de internacionalización?
-10. ¿Cómo se mide el éxito de un mandato de interim management en la dirección comercial?
+1. ¿Qué diferencia hay entre un CFO interino que cubre una vacante y uno que transforma la función financiera?
+2. ¿Cuándo necesita una empresa familiar contratar un CFO interino para profesionalizar sus finanzas?
+3. ¿Puede un interim manager de finanzas implantar un sistema de control de gestión desde cero?
+4. ¿Cuánto tiempo lleva construir una función financiera profesional con un CFO interino?
+5. ¿Qué ocurre cuando finaliza el mandato: la empresa necesita un CFO permanente o puede operar con el equipo formado?
+6. ¿Cuándo es el momento adecuado para incorporar un CFO interino en una empresa familiar en crecimiento?
+7. ¿Puede el CFO interino trabajar simultáneamente la operativa diaria y el proyecto de transformación financiera?
+8. ¿Cómo mide el consejo o el propietario el éxito de un mandato de CFO interino de transformación financiera?
+9. ¿Qué perfil de CFO interino es adecuado para una empresa familiar que nunca ha tenido un director financiero formal?
+10. ¿Es viable el interim management financiero para una empresa que factura entre 10 y 50 millones de euros?
 
 ---
 
 ## 4. Tema Recomendado para Esta Semana
 
-**Tema prioritario:** El Director Comercial Interino ante la disrupción de mercados: cómo el interim management protege y abre canales comerciales en un entorno geopolítico inestable
+**Tema: El interim manager que transforma la dirección financiera de la empresa familiar: de la contabilidad al control de gestión**
 
-**Justificación estratégica:**
+Justificación estratégica:
 
-- **Señal de mercado verificada:** Solo el 9% de las empresas españolas vende globalmente, dato estancado desde 2024. Los aranceles de 2026 y la fragmentación geoeconómica generan una presión comercial urgente y real sobre las empresas medianas exportadoras o con ambición exportadora.
-- **Ángulo no explotado por competidores:** Ningún actor visible en España ha publicado contenido específico sobre el Director Comercial Interino ni sobre la combinación internacionalización + interim management desde el ángulo de la disrupción comercial de 2026.
-- **Enlace natural a tendencias europeas:** El mercado UK y FR señalan que la demanda de perfiles de transformación comercial y digital es la que más crece. España seguirá ese patrón.
-- **Demanda latente de los decisores objetivo:** CEOs de empresas medianas, directores de internacionalización, familias propietarias con proyectos de entrada en nuevos mercados o defensa de mercados existentes.
-- **Alineación con ejes de Manager in Motion:** Internacionalización + dirección general + empresa familiar — tres ejes prioritarios en un solo artículo.
-- **Diferenciación de lo publicado:** No se ha publicado ningún artículo sobre el perfil del Director Comercial o CCO interino. El historial de FAQ tampoco registra preguntas sobre esta función.
+La demanda de CFO interinos se ha duplicado en España en 2026. Sin embargo, el contenido disponible en el mercado (incluido el propio de Manager in Motion) aborda mayoritariamente la figura del CFO interino como gestor de crisis o sustituto temporal. Existe un nicho editorial completamente libre: el CFO interino como constructor de una función financiera profesional en la empresa mediana o familiar que ha crecido rápidamente pero sigue gestionando sus finanzas de forma artesanal.
+
+Este artículo se dirige a un segmento muy específico: propietarios y CEOs de empresas familiares con facturación entre 15 y 80 millones de euros que no tienen un director financiero formal, o que tienen un responsable contable que no puede liderar la transformación financiera que el crecimiento de la empresa exige. Es un perfil con alta intención de búsqueda B2B, decisores reales, y una situación de negocio muy concreta.
+
+El eje temático combina "profesionalización de empresas familiares" y "finanzas", dos de los ejes prioritarios de Manager in Motion, con un ángulo de transformación que conecta con la tendencia europea más relevante de 2026.

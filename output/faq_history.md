@@ -119,6 +119,7 @@ Registrar aquí cada semana el escenario concreto usado en la FAQ, para no repet
 | 2026-09-07 | Salud ocupacional / servicios B2B | Empresa mediana (180 empleados) | Salida imprevista del CEO fundador por motivos de salud, dos meses antes del cierre del ejercicio y en plena negociación de una línea de crédito | Dirección general |
 | 2026-09-14 | Retail / moda | Empresa familiar de segunda generación (85 puntos de venta, 70 M€) | Excedencia de 3 meses del director de compras al inicio del proceso de compras de temporada + ERP infrautilizado + lanzamiento de canal e-commerce | Supply chain / dirección de compras |
 | 2026-09-21 | Industrial (componentes plásticos) | Empresa familiar de segunda generación (45 M€, exportadora) | Salida imprevista del Director Comercial a seis semanas de la feria sectorial clave en Alemania (40% de exportaciones) | Dirección comercial / internacionalización |
+| 2026-09-28 | Construcción (obra civil, edificación, rehabilitación) | Empresa familiar de tercera generación (52 M€) | Banco exige plan financiero a tres años + forecasting trimestral + memoria de gestión para renovar póliza de crédito | Finanzas / profesionalización empresa familiar |
 
 ## 2026-08-24 — COO Interino: el ejecutivo de operaciones que estabiliza la empresa cuando el tiempo apremia
 - Una filial española de un grupo belga de logística y distribución debe afrontar el inicio de su campaña de mayor demanda del año cuando el director de operaciones es reubicado en la matriz con seis semanas de preaviso. ¿Cómo se articula un mandato de interim management en ese contexto?
@@ -144,3 +145,8 @@ Registrar aquí cada semana el escenario concreto usado en la FAQ, para no repet
 - Una empresa industrial de componentes plásticos con sede en Cataluña y facturación de 45 M€ —propiedad de la segunda generación familiar— pierde a su Director Comercial a seis semanas de la feria sectorial más importante del año en Alemania, donde concentra el 40% de sus exportaciones. ¿Cómo se articula una misión de interim management en ese contexto?
 - ¿Cómo se estructura el reporting del Director Comercial interino ante el CEO y el consejo de administración cuando la empresa no tiene definidos los indicadores de la función comercial?
 - Al finalizar el mandato del Director Comercial interino, ¿cómo se garantiza que el conocimiento sobre clientes, canales y procesos de venta no se pierde con su salida?
+
+## 2026-09-28 — CFO Interino en la Empresa Familiar: Construir la Función Financiera con Interim Management
+- ¿Puede el CFO interino trabajar junto al responsable contable existente sin desplazarlo de su función?
+- Una empresa constructora familiar de tercera generación con sede en Burgos factura 52 millones en tres líneas de negocio —obra civil, edificación residencial y rehabilitación—, tiene un controller y dos administrativos, y nunca ha tenido un director financiero formal. El banco principal le exige, en la revisión de su póliza de crédito, un plan financiero a tres años, un modelo de forecasting trimestral y una memoria de gestión. La propiedad tiene cuatro meses para responder. ¿Cómo se articula un mandato de CFO interino en ese contexto?
+- ¿Cómo supervisa la propiedad el trabajo del CFO interino cuando nunca antes ha gestionado a un directivo financiero externo?

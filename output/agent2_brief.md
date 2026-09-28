@@ -1,133 +1,120 @@
-# SEO Strategy Brief — 2026-09-21
+# SEO Strategy Brief — 2026-09-28
 
 ---
 
 ## Tema Seleccionado
 
-**Director Comercial Interino: el interim manager que protege y abre mercados cuando el tiempo no perdona**
+**Interim management financiero en la empresa familiar: cuando la empresa crece más rápido que su función financiera**
 
 ---
 
 ## Justificación Estratégica
 
-La fragmentación geopolítica de 2026 (aranceles, volatilidad de mercados clave, reconfiguración de cadenas de suministro) está creando una presión comercial nueva y urgente sobre las empresas medianas españolas con actividad exportadora o en proceso de internacionalización. Solo el 9% de las empresas españolas vende en mercados globales, un dato estancado que contrasta con la urgencia que sienten las que ya exportan de proteger o diversificar sus canales.
+La demanda de CFO interinos en España se ha duplicado en 2026. El segmento con mayor brecha de servicio y menor cobertura editorial es la empresa familiar de tamaño medio (15-80 M€ de facturación) que ha alcanzado una escala de complejidad financiera que su equipo actual no puede gestionar — pero cuya propiedad no está preparada para justificar la contratación de un CFO permanente a tiempo completo.
 
-El Director Comercial Interino — perfil CCO/CSO interino — es la respuesta más eficaz cuando una empresa necesita liderazgo comercial de alto nivel con incorporación inmediata: para abrir un nuevo mercado, redirigir la fuerza de ventas tras una crisis, cerrar la salida inesperada de su responsable comercial, o profesionalizar la función comercial antes de una ronda de inversión.
+Estas empresas no buscan "un sustituto". Buscan a alguien que construya la función financiera: implante el control de gestión, defina los KPIs de dirección, estructure el reporting para el consejo o para los bancos, y forme al equipo existente. Es una misión de transformación, no de cobertura.
 
-Ningún actor visible ha publicado contenido SEO específico sobre este perfil en español. La página de servicio de Manager in Motion ya existe; este artículo la refuerza con contenido de valor.
+El artículo conecta dos ejes prioritarios de Manager in Motion (profesionalización de empresas familiares + finanzas) con la tendencia más fuerte del mercado europeo en 2026. La intención de búsqueda es comercial-informacional (el decisor está evaluando opciones, no solo aprendiendo) y la competencia editorial en este nicho específico es casi inexistente.
 
 ---
 
 ## Audiencia Objetivo
 
-- CEO de empresa mediana exportadora o con planes de internacionalización
-- Director general o propietario de empresa familiar con ambición exportadora
-- COO / CFO que gestiona una crisis comercial o un canal de ventas en caída
-- Operating partner o responsable de portfolio en fondo de private equity (empresa participada con reto comercial)
-- CHRO que busca cubrir urgentemente la posición de Director Comercial
+- CEO o propietario de empresa familiar (segunda o tercera generación) con facturación entre 15 y 80 M€
+- Director general de empresa mediana que reporta a un consejo o a la propiedad familiar
+- CFO o controller que necesita reforzar su equipo con liderazgo sénior externo
+- Operating partner o partner de fondo de PE ante una participada sin función financiera sólida
 
 ---
 
 ## Intención de Búsqueda
 
-**Mixta: informacional + transaccional**
-
-El decisor busca primero entender qué es y qué hace un Director Comercial interino (informacional), para validar que es la solución adecuada a su problema concreto (transaccional). El artículo debe resolver ambas intenciones: definir el perfil y la misión con precisión, y demostrar su valor con ejemplos operativos reales.
+**Informacional-comercial**: El decisor sabe que tiene un problema financiero estructural (sin forecasting, sin control de gestión, sin reporting ejecutivo) pero no sabe si la solución es un CFO permanente, un consultor o un interim manager. El artículo debe resolver esa duda y posicionar el interim management como la opción más inteligente para la fase actual de la empresa.
 
 ---
 
 ## Keywords
 
-**Keyword principal:**
-`director comercial interino`
+**Keyword principal:** CFO interino empresa familiar
 
 **Keywords secundarias:**
-- `interim manager comercial`
-- `interim management dirección comercial`
-- `director comercial interino España`
-- `CCO interino`
-- `interim manager ventas`
+- director financiero interino empresa familiar
+- interim manager financiero pyme
+- control de gestión empresa mediana
+- profesionalización financiera empresa familiar
+- contratar CFO externo empresa familiar España
 
 **Keywords de cola larga:**
-- `cuándo contratar un director comercial interino`
-- `interim manager para internacionalización comercial`
-- `director comercial interino empresa mediana`
-- `interim manager apertura de mercado internacional`
-- `director comercial interino empresa familiar`
-- `interim manager comercial aranceles mercados exportación`
+- cuándo necesita una empresa familiar un director financiero interino
+- cómo implantar control de gestión en empresa familiar con interim manager
+- CFO interino para empresa familiar sin dirección financiera
+- diferencia entre controller y director financiero interino en empresa familiar
+- interim management financiero empresa familiar España 2026
 
 ---
 
 ## Metadatos SEO
 
-**Título SEO:**
-Director Comercial Interino: cuándo y cómo activarlo para proteger o abrir mercados
+**Título SEO:** CFO Interino para la Empresa Familiar: Cómo Construir la Función Financiera con Interim Management
 
-**Meta descripción:**
-Un interim manager en la dirección comercial permite actuar con rapidez cuando los mercados cambian o la posición comercial de la empresa está en riesgo. Descubra cuándo tiene sentido y qué esperar de los primeros 100 días.
+**Meta descripción:** Cuando la empresa familiar crece pero sus finanzas siguen gestionándose de forma artesanal, un CFO interino puede transformar la función financiera en 6-9 meses. Descubre cómo se articula la misión.
 
-**Slug URL:**
-`/blog/director-comercial-interino`
+**Slug URL:** /cfo-interino-empresa-familiar-control-gestion-interim-management
 
-**H1:**
-Director Comercial Interino: el liderazgo comercial que la empresa no puede esperar a contratar
+**H1:** CFO Interino en la Empresa Familiar: Construir la Función Financiera con Interim Management
 
 ---
 
 ## Estructura del Artículo
 
-**Esquema H2 (máximo 3, sin H3):**
+**H2 1:** La brecha financiera que frena el crecimiento: cuando la contabilidad ya no es suficiente
 
-1. **Cuándo la dirección comercial no puede esperar a una contratación permanente**
-   Situaciones que activan la necesidad: salida imprevista del responsable comercial, apertura de nuevo mercado bajo presión de tiempo, caída de canal de ventas, disrupción arancelaria o geopolítica, pre-inversión que exige profesionalizar la función comercial. Énfasis en que el riesgo comercial no espera el proceso habitual de selección.
+**H2 2:** Qué construye un CFO interino en una empresa familiar: del diagnóstico al control de gestión operativo
 
-2. **Qué hace un interim manager en la dirección comercial: los primeros 100 días**
-   Diagnóstico de la posición comercial, definición o revisión de la estrategia go-to-market, estabilización del equipo de ventas, activación de canales, KPIs de éxito de la misión. Concreto y operativo, no genérico.
-
-3. **Cuándo el interim management comercial crea más valor que una contratación permanente**
-   Mandatos de 6-12 meses con resultado medible. Velocidad de incorporación. Objetividad del directivo externo. Transferencia de conocimiento a la salida. Casos de uso: internacionalización, turnaround comercial, pre-due diligence para inversor.
+**H2 3:** Cómo se articula la misión: fases, entregables y criterio de salida
 
 ---
 
 ## Oportunidades FAQ
 
-- Una pregunta de escenario concreto: empresa mediana exportadora que pierde su director comercial a seis semanas de la feria clave del año en el mercado alemán. Sector / detonante / eje inéditos.
-- Una pregunta sobre gobernanza y reporting del interim manager ante el CEO y el consejo.
-- Una pregunta sobre la transferencia de conocimiento al equipo de ventas al final de la misión.
-
-*(Verificar contra faq_history.md antes de redactar — ninguna de estas preguntas ha aparecido en el historial.)*
+- ¿En qué momento debe una empresa familiar incorporar un CFO interino para profesionalizar sus finanzas?
+- ¿Puede el CFO interino trabajar junto al responsable contable existente sin generar conflicto?
+- [Escenario de proyecto]: Una empresa constructora familiar con 55 M€ de facturación, tres líneas de negocio y un equipo financiero formado por un controller y dos administrativos que nunca ha tenido un director financiero formal recibe la visita de un banco que le exige un plan financiero a tres años y un modelo de reporting trimestral para renovar su línea de crédito. ¿Cómo se articula un mandato de CFO interino en ese contexto?
 
 ---
 
 ## Recomendaciones de Enlazado Interno
 
-- Página de servicio: /servicios-de-interim-management/desafios-empresariales/retos-ventas
-- Artículo relacionado: Interim Manager para la Internacionalización (2026-08-17)
-- Artículo relacionado: CEO Interino (2026-09-07) — para contextualizar el abanico de perfiles de dirección interina
+- Artículo sobre CEO interino (misma audiencia: empresa familiar en momento de decisión crítica)
+- Artículo sobre interim manager para empresa familiar (sucesión / relevo generacional)
+- Página de servicios de interim management financiero de Manager in Motion
+- Artículo sobre interim CFO con IA (complementario, sobre el perfil más avanzado)
 
 ---
 
 ## Recomendaciones de Enlazado Externo
 
-- Dato de internacionalización española (solo el 9% vende globalmente): fuente verificada de contexto macroeconómico
-- Tendencias de interim management en Europa 2026: fuentes sectoriales de referencia (IIM UK, DDIM DE, Adequancy FR)
+- Asociación Interim Management España (interimspain.org) — referencia sectorial de autoridad
+- Informe de mercado DDIM 2026 o Robert Walters — dato de contexto europeo
+- INE o Banco de España — dato sobre estructura empresarial española (porcentaje de pymes familiares)
 
 ---
 
 ## Recomendación de CTA
 
-**Título:** ¿Su empresa necesita un Director Comercial interino?
-**Texto:** Manager in Motion dispone de una red de interim managers especializados en dirección comercial e internacionalización, con incorporación en menos de dos semanas. Cuéntenos su reto.
-**Acción:** Formulario de contacto / llamada de diagnóstico
+**Título CTA:** ¿La empresa necesita construir una función financiera sólida en 6-9 meses?
+
+**Texto CTA:** Manager in Motion despliega CFOs interinos con experiencia en empresas familiares y medianas industriales. La primera conversación es sin compromiso y permite valorar si el perfil y el encaje son los adecuados para la situación concreta.
 
 ---
 
 ## Instrucciones para el Redactor
 
-1. Abre con un párrafo de contexto que ancle el problema real del decisor en 2026: la presión comercial generada por la disrupción geopolítica y la escasez de liderazgo comercial disponible de forma inmediata. No empieces con definiciones.
-2. Usa los términos **interim manager** e **interim management** con naturalidad, mínimo 3 veces cada uno. Están prohibidos: directivo interino, gestión interina, management interino, manager interino.
-3. El artículo debe sonar como si lo hubiera escrito un directivo experimentado, no un copywriter. Concreto, sin retórica, con foco en el valor para el decisor.
-4. No atacar ni cuestionar al lector. El tono es de par a par: un experto hablando a otro directivo.
-5. Máximo 1.000 palabras en el cuerpo (intro + 3 H2 + cierre). FAQ, CTA y fuentes quedan fuera del recuento.
-6. Sin estadísticas no verificadas. Si no hay dato verificable, usar afirmación cualitativa bien argumentada.
-7. No mencionar fuentes dentro del cuerpo del artículo. Listarlas únicamente al final, fuera del artículo.
+1. El artículo debe abordar la situación desde el punto de vista del decisor (propietario o CEO), no desde el punto de vista del CFO interino. El lector es el protagonista que reconoce el problema y evalúa la solución.
+2. No repetir el frame de "sustitución temporal de un directivo que se fue". Este artículo es sobre una empresa que nunca ha tenido un CFO formal y necesita construir la función desde cero.
+3. Integrar ejemplos operativos concretos: qué significa tener control de gestión vs. solo contabilidad, qué entregables genera el CFO interino, cómo cambia el reporting del consejo.
+4. El tono debe transmitir urgencia sin catastrofismo: el problema existe hoy, la empresa ha llegado a un punto de inflexión financiero, y la solución existe y es accesible.
+5. No incluir cifras de tarifas ni comparaciones de coste entre interino y permanente: ese artículo ya existe. Focalizarse en el qué y el cómo de la misión.
+6. Integrar de forma natural "interim management" e "interim manager" mínimo 3 veces cada uno en el cuerpo del artículo.
+7. No usar primera persona (ni "nosotros" ni "yo"). Tercera persona o construcciones impersonales.
+8. Máximo 1.000 palabras en el cuerpo (H1 + intro + 3 H2 + cierre), sin contar FAQ, CTA ni metadatos.
