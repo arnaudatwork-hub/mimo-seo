@@ -120,6 +120,7 @@ Registrar aquí cada semana el escenario concreto usado en la FAQ, para no repet
 | 2026-09-14 | Retail / moda | Empresa familiar de segunda generación (85 puntos de venta, 70 M€) | Excedencia de 3 meses del director de compras al inicio del proceso de compras de temporada + ERP infrautilizado + lanzamiento de canal e-commerce | Supply chain / dirección de compras |
 | 2026-09-21 | Industrial (componentes plásticos) | Empresa familiar de segunda generación (45 M€, exportadora) | Salida imprevista del Director Comercial a seis semanas de la feria sectorial clave en Alemania (40% de exportaciones) | Dirección comercial / internacionalización |
 | 2026-09-28 | Construcción (obra civil, edificación, rehabilitación) | Empresa familiar de tercera generación (52 M€) | Banco exige plan financiero a tres años + forecasting trimestral + memoria de gestión para renovar póliza de crédito | Finanzas / profesionalización empresa familiar |
+| 2026-10-05 | Energías renovables (solar fotovoltaica) | Scale-up española, participada por fondo de infraestructuras europeo | Presión del inversor para separar el rol fundador CEO de la dirección operativa antes de nueva ronda de financiación | Dirección general / profesionalización |
 
 ## 2026-08-24 — COO Interino: el ejecutivo de operaciones que estabiliza la empresa cuando el tiempo apremia
 - Una filial española de un grupo belga de logística y distribución debe afrontar el inicio de su campaña de mayor demanda del año cuando el director de operaciones es reubicado en la matriz con seis semanas de preaviso. ¿Cómo se articula un mandato de interim management en ese contexto?
@@ -150,3 +151,9 @@ Registrar aquí cada semana el escenario concreto usado en la FAQ, para no repet
 - ¿Puede el CFO interino trabajar junto al responsable contable existente sin desplazarlo de su función?
 - Una empresa constructora familiar de tercera generación con sede en Burgos factura 52 millones en tres líneas de negocio —obra civil, edificación residencial y rehabilitación—, tiene un controller y dos administrativos, y nunca ha tenido un director financiero formal. El banco principal le exige, en la revisión de su póliza de crédito, un plan financiero a tres años, un modelo de forecasting trimestral y una memoria de gestión. La propiedad tiene cuatro meses para responder. ¿Cómo se articula un mandato de CFO interino en ese contexto?
 - ¿Cómo supervisa la propiedad el trabajo del CFO interino cuando nunca antes ha gestionado a un directivo financiero externo?
+
+## 2026-10-05 — Interim Manager en el Sector Energético: el liderazgo ejecutivo que la transición no puede esperar
+- Una scale-up española de energía solar fotovoltaica con 180 empleados, participada por un fondo de infraestructuras europeo, afronta la presión del inversor para separar el rol del CEO fundador de la dirección operativa antes de completar una nueva ronda de financiación. El equipo directivo existente no tiene experiencia en estructuras de gobernanza con reporting institucional. ¿Cómo se articularía un mandato de interim management en ese contexto?
+- ¿Qué evalúa y qué decide un interim manager en sus primeros 30 días en una empresa energética?
+- ¿Puede un interim manager liderar la expansión de una empresa energética española hacia mercados europeos cuando aún no existe equipo local en destino?
+

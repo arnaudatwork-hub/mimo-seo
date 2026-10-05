@@ -1,120 +1,150 @@
-# SEO Strategy Brief — 2026-09-28
+# SEO Strategy Brief — 2026-10-05
 
 ---
 
 ## Tema Seleccionado
 
-**Interim management financiero en la empresa familiar: cuando la empresa crece más rápido que su función financiera**
+**El Interim Manager en el Sector Energético: liderazgo ejecutivo para la transición que no puede esperar**
 
 ---
 
 ## Justificación Estratégica
 
-La demanda de CFO interinos en España se ha duplicado en 2026. El segmento con mayor brecha de servicio y menor cobertura editorial es la empresa familiar de tamaño medio (15-80 M€ de facturación) que ha alcanzado una escala de complejidad financiera que su equipo actual no puede gestionar — pero cuya propiedad no está preparada para justificar la contratación de un CFO permanente a tiempo completo.
+El sector energético es en 2026 el terreno de mayor oportunidad SEO no explotado para Manager in Motion en España. Tres razones lo sustentan:
 
-Estas empresas no buscan "un sustituto". Buscan a alguien que construya la función financiera: implante el control de gestión, defina los KPIs de dirección, estructure el reporting para el consejo o para los bancos, y forme al equipo existente. Es una misión de transformación, no de cobertura.
+1. **Demanda real verificada** — Las scale-ups de renovables en España han crecido de forma acelerada sin construir estructuras directivas. La entrada de inversores institucionales (IED récord: €36.800 M en 2024) está forzando procesos de profesionalización urgente en los que el interim management es la respuesta más eficaz.
 
-El artículo conecta dos ejes prioritarios de Manager in Motion (profesionalización de empresas familiares + finanzas) con la tendencia más fuerte del mercado europeo en 2026. La intención de búsqueda es comercial-informacional (el decisor está evaluando opciones, no solo aprendiendo) y la competencia editorial en este nicho específico es casi inexistente.
+2. **Hueco competitivo en SEO** — Ningún competidor relevante tiene contenido optimizado sobre "interim manager sector energético" en español. La combinación de intención de búsqueda creciente (ligada al PNREC, al Green Deal europeo y a la transición energética) con competencia nula ofrece posibilidad de primera página a corto plazo.
+
+3. **Diferenciación de la línea editorial** — Los nueve artículos anteriores se han enfocado en sectores maduros (construcción, retail, industrial, finanzas). El sector energético abre una nueva categoría temática sin solapamiento con el contenido publicado, refuerza el posicionamiento de MiMo como referente sectorial y amplía la audiencia a un perfil de decisor de alta relevancia (CEO de scale-up, partner de fondo de PE con cartera energética, director de transformación en industrial con plan de transición energética).
 
 ---
 
 ## Audiencia Objetivo
 
-- CEO o propietario de empresa familiar (segunda o tercera generación) con facturación entre 15 y 80 M€
-- Director general de empresa mediana que reporta a un consejo o a la propiedad familiar
-- CFO o controller que necesita reforzar su equipo con liderazgo sénior externo
-- Operating partner o partner de fondo de PE ante una participada sin función financiera sólida
+**Primaria:**
+- CEO y propietario de empresa de energías renovables (solar, eólica, almacenamiento, O&M) con facturación entre 10 y 150 M€
+- Partner o responsable de portfolio en fondo de PE o de infraestructuras con participadas en el sector energético
+- Director general de empresa industrial con plan de transición energética en curso
+
+**Secundaria:**
+- CFO o COO de empresa energética en proceso de profesionalización post-inversión
+- Responsable de RRHH de empresa energética que busca talento directivo externo de forma urgente
 
 ---
 
 ## Intención de Búsqueda
 
-**Informacional-comercial**: El decisor sabe que tiene un problema financiero estructural (sin forecasting, sin control de gestión, sin reporting ejecutivo) pero no sabe si la solución es un CFO permanente, un consultor o un interim manager. El artículo debe resolver esa duda y posicionar el interim management como la opción más inteligente para la fase actual de la empresa.
+- **Informacional con intención de decisión**: el lector ya sabe qué es un interim manager y está evaluando si aplica a su situación en el sector energético
+- **Navegacional sectorial**: el decisor busca activamente quién tiene experiencia en dirección interina en energía, no solo en general
+- **Transaccional latente**: el artículo debe generar una consulta directa o una descarga de información de contacto en MiMo
 
 ---
 
 ## Keywords
 
-**Keyword principal:** CFO interino empresa familiar
+**Keyword principal:** interim manager sector energético
 
 **Keywords secundarias:**
-- director financiero interino empresa familiar
-- interim manager financiero pyme
-- control de gestión empresa mediana
-- profesionalización financiera empresa familiar
-- contratar CFO externo empresa familiar España
+- directivo interino energías renovables
+- interim management empresa energética España
+- liderazgo ejecutivo temporal energía
+- interim manager renovables
 
 **Keywords de cola larga:**
-- cuándo necesita una empresa familiar un director financiero interino
-- cómo implantar control de gestión en empresa familiar con interim manager
-- CFO interino para empresa familiar sin dirección financiera
-- diferencia entre controller y director financiero interino en empresa familiar
-- interim management financiero empresa familiar España 2026
+- cómo contratar un interim manager para una empresa de energía solar
+- interim manager para escalar empresa de renovables
+- directivo interino para empresa energética participada por fondo
+- interim management profesionalización empresa energética
+- qué hace un interim manager en el sector de la energía
 
 ---
 
 ## Metadatos SEO
 
-**Título SEO:** CFO Interino para la Empresa Familiar: Cómo Construir la Función Financiera con Interim Management
+**Título SEO:** Interim Manager en el Sector Energético: liderazgo ejecutivo para la transición
 
-**Meta descripción:** Cuando la empresa familiar crece pero sus finanzas siguen gestionándose de forma artesanal, un CFO interino puede transformar la función financiera en 6-9 meses. Descubre cómo se articula la misión.
+**Meta descripción:** El sector energético crece más rápido que su talento directivo. Descubre cuándo y cómo el interim management resuelve los vacíos de liderazgo en empresas de renovables, en procesos de profesionalización y en expansión internacional.
 
-**Slug URL:** /cfo-interino-empresa-familiar-control-gestion-interim-management
+**Slug URL:** /interim-manager-sector-energetico
 
-**H1:** CFO Interino en la Empresa Familiar: Construir la Función Financiera con Interim Management
+**H1:** Interim Manager en el Sector Energético: el liderazgo ejecutivo que la transición no puede esperar
 
 ---
 
 ## Estructura del Artículo
 
-**H2 1:** La brecha financiera que frena el crecimiento: cuando la contabilidad ya no es suficiente
+Esquema H2 (máximo 3, sin H3):
 
-**H2 2:** Qué construye un CFO interino en una empresa familiar: del diagnóstico al control de gestión operativo
+1. **Un sector con vocación de crecimiento y déficit directivo estructural**
+   - La paradoja de las scale-ups energéticas: crecimiento acelerado, estructura directiva insuficiente
+   - El rol del inversor institucional como detonante de profesionalización
+   - La señal europea: qué está pasando en los mercados más maduros (UK, DE)
 
-**H2 3:** Cómo se articula la misión: fases, entregables y criterio de salida
+2. **Las tres situaciones que activan una misión de interim management en energía**
+   - Entrada de un inversor (fondo de infraestructuras, PE, industriales internacionales)
+   - Cartera de proyectos en expansión que desborda la estructura operativa existente
+   - Internacionalización: apertura de nuevos mercados europeos o latinoamericanos
+
+3. **Cómo se articula una misión de interim management en el sector energético**
+   - Primeros 30 días: diagnóstico sin intervención precipitada
+   - Meses 2-6: construcción de procesos, reporting y mapa de talento
+   - Cierre del mandato: transferencia de conocimiento y criterio de salida
 
 ---
 
 ## Oportunidades FAQ
 
-- ¿En qué momento debe una empresa familiar incorporar un CFO interino para profesionalizar sus finanzas?
-- ¿Puede el CFO interino trabajar junto al responsable contable existente sin generar conflicto?
-- [Escenario de proyecto]: Una empresa constructora familiar con 55 M€ de facturación, tres líneas de negocio y un equipo financiero formado por un controller y dos administrativos que nunca ha tenido un director financiero formal recibe la visita de un banco que le exige un plan financiero a tres años y un modelo de reporting trimestral para renovar su línea de crédito. ¿Cómo se articula un mandato de CFO interino en ese contexto?
+- **Escenario de proyecto** (obligatorio): Scale-up de energía solar fotovoltaica (180 empleados, PE-backed) que debe separar el rol del CEO fundador de la dirección operativa antes de una nueva ronda. ¿Cómo se articula la misión?
+- ¿Qué evalúa y qué decide un interim manager en sus primeros 30 días en una empresa energética?
+- ¿Puede un interim manager liderar la expansión de una empresa energética española hacia nuevos mercados europeos cuando aún no existe equipo local en destino?
 
 ---
 
 ## Recomendaciones de Enlazado Interno
 
-- Artículo sobre CEO interino (misma audiencia: empresa familiar en momento de decisión crítica)
-- Artículo sobre interim manager para empresa familiar (sucesión / relevo generacional)
-- Página de servicios de interim management financiero de Manager in Motion
-- Artículo sobre interim CFO con IA (complementario, sobre el perfil más avanzado)
+- Artículo sobre COO Interino (agosto 2026) — enlazar desde la sección sobre expansión operativa
+- Artículo sobre Internacionalización con Interim Manager (agosto 2026) — enlazar desde la sección sobre nuevos mercados
+- Página de servicios de Manager in Motion — enlazar desde la introducción y el CTA
 
 ---
 
 ## Recomendaciones de Enlazado Externo
 
-- Asociación Interim Management España (interimspain.org) — referencia sectorial de autoridad
-- Informe de mercado DDIM 2026 o Robert Walters — dato de contexto europeo
-- INE o Banco de España — dato sobre estructura empresarial española (porcentaje de pymes familiares)
+- IDAE (Instituto para la Diversificación y Ahorro de la Energía) — contexto regulatorio energético España
+- Red Eléctrica de España / CNMC — datos de capacidad instalada y tendencias del sector
+- Informe DDIM o IIM 2026 sobre tendencias de interim management europeo — como fuente de autoridad
 
 ---
 
 ## Recomendación de CTA
 
-**Título CTA:** ¿La empresa necesita construir una función financiera sólida en 6-9 meses?
+**CTA principal:** "¿Su empresa energética está en un momento de cambio? Hable con Manager in Motion y analice qué perfil de interim manager encaja con su situación."
 
-**Texto CTA:** Manager in Motion despliega CFOs interinos con experiencia en empresas familiares y medianas industriales. La primera conversación es sin compromiso y permite valorar si el perfil y el encaje son los adecuados para la situación concreta.
+**Formato:** botón o formulario de contacto directo con opción de llamada o mensaje — sin fricción, sin formulario largo.
+
+**Posición:** al final del artículo, antes de las FAQ, y como llamada dentro del segundo H2 (más sutil, en formato de frase de enlace).
 
 ---
 
 ## Instrucciones para el Redactor
 
-1. El artículo debe abordar la situación desde el punto de vista del decisor (propietario o CEO), no desde el punto de vista del CFO interino. El lector es el protagonista que reconoce el problema y evalúa la solución.
-2. No repetir el frame de "sustitución temporal de un directivo que se fue". Este artículo es sobre una empresa que nunca ha tenido un CFO formal y necesita construir la función desde cero.
-3. Integrar ejemplos operativos concretos: qué significa tener control de gestión vs. solo contabilidad, qué entregables genera el CFO interino, cómo cambia el reporting del consejo.
-4. El tono debe transmitir urgencia sin catastrofismo: el problema existe hoy, la empresa ha llegado a un punto de inflexión financiero, y la solución existe y es accesible.
-5. No incluir cifras de tarifas ni comparaciones de coste entre interino y permanente: ese artículo ya existe. Focalizarse en el qué y el cómo de la misión.
-6. Integrar de forma natural "interim management" e "interim manager" mínimo 3 veces cada uno en el cuerpo del artículo.
-7. No usar primera persona (ni "nosotros" ni "yo"). Tercera persona o construcciones impersonales.
-8. Máximo 1.000 palabras en el cuerpo (H1 + intro + 3 H2 + cierre), sin contar FAQ, CTA ni metadatos.
+1. **Tono**: ejecutivo, analítico, con ejemplos concretos del sector energético. No genérico. El lector es el CEO o el partner del fondo, no el candidato a interim manager.
+
+2. **Terminología obligatoria**: "interim manager" e "interim management" son los únicos términos válidos. Mínimo 3 apariciones de cada uno en el cuerpo del artículo.
+
+3. **Sin términos prohibidos**: directivo interino, gestión interina, management interino, manager interino — prohibidos en el cuerpo del artículo.
+
+4. **Sin estadísticas no verificadas**: si se menciona crecimiento del sector o capacidad instalada, usar solo datos públicos de IDAE, Red Eléctrica o Eurostat. Preferir afirmaciones cualitativas si no hay fuente verificable.
+
+5. **Longitud máxima del cuerpo**: 1.000 palabras (introducción hasta párrafo de cierre, sin contar FAQ, CTA y metadatos). Límite estricto.
+
+6. **Máximo 3 secciones H2** en el cuerpo. Sin H3. Sin sub-apartados.
+
+7. **No primera persona** ("yo", "nosotros", "nuestro"). Tercera persona o construcciones impersonales.
+
+8. **No atacar ni cuestionar a la audiencia**. El lector es el protagonista positivo.
+
+9. **Manager in Motion** debe aparecer como referencia experta, no como vendedor. Posicionamiento sutil al final.
+
+10. **FAQ**: máximo 3 preguntas, orientadas a lo operativo y decisional. Leer faq_history.md antes de redactar para evitar repeticiones.
