@@ -157,3 +157,9 @@ Registrar aquí cada semana el escenario concreto usado en la FAQ, para no repet
 - ¿Qué evalúa y qué decide un interim manager en sus primeros 30 días en una empresa energética?
 - ¿Puede un interim manager liderar la expansión de una empresa energética española hacia mercados europeos cuando aún no existe equipo local en destino?
 
+
+## 2026-10-12 — CIO Interino: el liderazgo tecnológico que la empresa mediana no puede improvisar
+- Un grupo alimentario con sede en Navarra, con 120 millones de facturación y tres filiales regionales, pierde a su único responsable IT corporativo cuando lleva seis meses en curso una migración al cloud. El proyecto debe completarse en cuatro meses para cumplir compromisos con el proveedor y no hay nadie en el equipo interno con autoridad suficiente para liderarlo. ¿Cómo se articularía un mandato de CIO interino en ese contexto?
+- ¿Cómo se garantiza que el conocimiento del CIO interino no desaparece con su salida?
+- ¿Puede el CIO interino comprometer presupuesto y tomar decisiones de inversión tecnológica de forma autónoma?
+| 2026-10-12 | Alimentación y bebidas (grupo alimentario) | Grupo familiar primera generación (120 M€, sin PE) | Renuncia responsable IT corporativo con migración al cloud en curso (seis meses iniciada, cuatro meses para terminar) | Transformación digital / CIO |

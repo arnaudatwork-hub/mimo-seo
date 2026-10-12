@@ -1,4 +1,4 @@
-# Informe Semanal de Inteligencia de Mercado — 2026-10-05
+# Informe Semanal de Inteligencia de Mercado — 2026-10-12
 
 ---
 
@@ -7,52 +7,52 @@
 ---
 
 **Tendencia 1**
-**Tendencia:** Fractalización del interim management: el ejecutivo fraccionado como nueva modalidad en PMEs y scale-ups
-**País de origen:** UK (señal primaria) / FR (confirmación)
-**Relevancia para el interim management:** El modelo de interim management "full-time" está evolucionando hacia fórmulas parciales o fractional, donde el directivo dedica 2-3 días semanales durante un período definido. En el Reino Unido, el 55% de los interim managers declaran haber trabajado en formato fraccionado en los últimos 12 meses, frente al 46% en junio de 2025. El número de ejecutivos que se definen como "fractional" en LinkedIn UK ha pasado de 2.000 en 2022 a más de 140.000 en 2026.
-**Decisor objetivo:** CEO y propietario de empresa mediana (20-100 M€) que necesita capacidad directiva senior pero no puede justificar un C-suite completo a tiempo completo.
-**Oportunidad SEO en España:** Término "interim manager parcial" o "directivo interino fraccionado" con volumen incipiente y competencia baja. La audiencia que busca "director de estrategia externo" o "asesor ejecutivo temporal" podría ser capturada con este ángulo.
-**Ángulo recomendado:** "El modelo fraccionado llega al mercado español: cómo la empresa mediana accede a talento directivo de alto nivel sin una contratación permanente."
+**Tendencia:** Consolidación del DSI/CIO de transición como categoría autónoma en el mercado europeo
+**País de origen:** FR
+**Relevancia para el interim management:** Francia cuenta ya con una comunidad especializada (Infortive) dedicada exclusivamente a los DSI (directores de sistemas de información) de transición, lo que valida que la función ha alcanzado masa crítica en el mercado galo. Los perfiles de DSI de transición activos en plataformas como Malt muestran mandatos en grandes grupos (VINCI, Oney Bank) con duraciones de 6 a 12 meses. En España, este segmento está prácticamente sin articular.
+**Decisor objetivo:** CEO, COO y Consejo de administración de empresa mediana en proceso de transformación tecnológica
+**Oportunidad SEO en España:** "CIO interino", "director IT interino", "director de sistemas de información interino", "responsable IT interino"
+**Ángulo recomendado:** La empresa mediana española que afronta una transformación tecnológica necesita un CIO interino con autoridad ejecutiva real, no un consultor IT ni un jefe de proyecto técnico. Posicionar esa diferencia es el eje diferencial.
 
 ---
 
 **Tendencia 2**
-**Tendencia:** Punto de inflexión en el mercado europeo: las empresas pasan de aplazar decisiones a actuar
-**País de origen:** UK (Russam Frontline 17, septiembre 2026)
-**Relevancia para el interim management:** Tras 18 meses de parálisis decisional en muchas organizaciones, el mercado europeo de interim management entra en un punto de inflexión confirmado. El 63% de los interim managers en el Reino Unido se muestran positivos sobre la captación de nuevas misiones, el porcentaje más alto en casi tres años. Las empresas están comenzando a afrontar activamente las prioridades de transformación, las brechas de liderazgo y los proyectos críticos que habían estado postergando.
-**Decisor objetivo:** CEO y consejo de administración de empresas en proceso de transformación, inversores de private equity con carteras que han aplazado decisiones operativas.
-**Oportunidad SEO en España:** El contexto de "recuperación de la toma de decisiones" es un ángulo editorial con baja competencia en español. Términos como "cuándo contratar un directivo interino" o "señales de que tu empresa necesita un interim manager" tienen intención de búsqueda alta y poco contenido de calidad en español.
-**Ángulo recomendado:** "Las señales que indican que tu empresa necesita un interim manager ahora, no dentro de seis meses."
+**Tendencia:** La demanda de interim managers de C-suite en el Reino Unido creció un 151% desde 2021 y los roles financieros lideran el mercado en 2026
+**País de origen:** UK
+**Relevancia para el interim management:** Según el informe de Russam de febrero 2026, el área de finanzas acapara el 26% de los mandatos, seguida de roles de dirección y liderazgo. El crecimiento de la demanda de C-suite (CEO, CFO, COO, CIO) confirma que el mercado madura hacia un uso estratégico del interim management, dejando atrás el uso puramente reactivo. Los roles fractional representan ya el 22% de los mandatos.
+**Decisor objetivo:** CEO, CFO, inversores de private equity
+**Oportunidad SEO en España:** "interim manager C-suite España", "director ejecutivo interino"
+**Ángulo recomendado:** Anticipar para el mercado español la tendencia del uso proactivo y estratégico del interim management en el C-suite, que en UK ya es mainstream.
 
 ---
 
 **Tendencia 3**
-**Tendencia:** El interim management se convierte en herramienta prioritaria para sectores en transición estructural
-**País de origen:** DE (primaria) / ES (emergente)
-**Relevancia para el interim management:** En Alemania, el 31,2% de los mandatos de interim management corresponden a change management y el 13,8% a crisis management. El foco ha cambiado: de la expansión y el crecimiento, a la eficiencia, los procesos robustos y la digitalización, impulsados por presión de costes e incertidumbre económica. En España, el sector industrial sufre tres meses consecutivos de caída de producción y el sector del automóvil está en transición estructural, no cíclica. El sector energético experimenta lo contrario: crecimiento acelerado sin estructura directiva suficiente.
-**Decisor objetivo:** CEO y propietario de empresa industrial o energética en proceso de transformación, fondos de PE con participadas en sectores en transición.
-**Oportunidad SEO en España:** "Interim manager sector energético", "directivo interino renovables", "interim management transición energética" — competencia prácticamente nula, intención de búsqueda creciente ligada al PNREC y al Green Deal europeo.
-**Ángulo recomendado:** "El interim manager en el sector energético: el ejecutivo que lidera la transición cuando no hay tiempo que perder."
+**Tendencia:** El change management supera la sustitución de vacantes como principal motivo de contratación de interim managers en Alemania
+**País de origen:** DE
+**Relevancia para el interim management:** Según datos del AIMP 2026, el 31,2% de los mandatos en Alemania corresponden a proyectos de change management (transformación organizativa, implantación de nuevos modelos operativos), frente al 13,8% de crisis y el 13,5% de sustitución temporal. Este perfil de demanda indica que el mercado alemán ha madurado hacia un uso planificado y proactivo del interim management. El Mittelstand (empresas medianas) es el principal cliente.
+**Decisor objetivo:** CEO, CHRO, Comité de dirección de empresa mediana
+**Oportunidad SEO en España:** "interim manager transformación organizativa", "interim manager cambio empresa"
+**Ángulo recomendado:** En España, la contratación reactiva (vacante urgente, crisis) sigue dominando. El uso del interim manager para liderar transformaciones planificadas es un diferencial de posicionamiento.
 
 ---
 
 **Tendencia 4**
-**Tendencia:** PMEs y ETIs aceleran la adopción del management de transition como herramienta de pilotaje, no de emergencia
-**País de origen:** FR (Robert Half, barómetro France Transition 2026)
-**Relevancia para el interim management:** El 37% de los empleadores franceses declaran recurrir a recursos en modo proyecto en 2026, frente al 20% hace dos años. La duración media de una misión ha subido a 10,8 meses. Las misiones de transformación y gestión del cambio han crecido un 7% respecto al año anterior. Lo más relevante: el management de transition ya no es un instrumento de emergencia, sino una herramienta de pilotaje estratégico para empresas medianas.
-**Decisor objetivo:** CEO y propietario de empresa familiar o mediana (10-200 M€) que busca acelerar una transformación sin contratar un perfil permanente de incierta duración.
-**Oportunidad SEO en España:** "Interim management sin crisis", "cuándo contratar un directivo interino", "interim manager para transformación empresarial" — el ángulo de "uso proactivo vs uso reactivo" está infraexplotado en español.
-**Ángulo recomendado:** "Interim management sin emergencia: por qué las empresas medianas lo están usando como palanca de transformación, no solo de crisis."
+**Tendencia:** España crece por encima de la media europea pero con ERE en sectores tecnológicos, generando demanda de liderazgo interino para gestionar la transición
+**País de origen:** ES
+**Relevancia para el interim management:** Según datos recogidos por CE Interim, España creció un 2,8% en 2025 frente al 1,5% de la media de la eurozona. Sin embargo, se están produciendo ERE simultáneos en telecomunicaciones, consultoría tecnológica y economía de plataformas. Esta paradoja —crecimiento macro con contracción sectorial en TI— crea una demanda directa de directivos interinos capaces de liderar tanto la reestructuración como la continuidad operativa de departamentos tecnológicos.
+**Decisor objetivo:** CEO, CHRO, CFO de empresas en sectores tecnológicos en transición
+**Oportunidad SEO en España:** "interim manager sector tecnología", "CIO interino reestructuración TI", "dirección IT interina"
+**Ángulo recomendado:** Las empresas que reducen su plantilla IT necesitan con más urgencia, no menos, un CIO interino que garantice la continuidad del negocio y preserve el conocimiento crítico.
 
 ---
 
 **Tendencia 5**
-**Tendencia:** Inversión extranjera directa récord en España genera demanda urgente de liderazgo ejecutivo de arranque rápido
-**País de origen:** ES
-**Relevancia para el interim management:** España atrajo €36.800 millones de inversión extranjera directa en 2024, con Reino Unido y Estados Unidos como principales fuentes. Cada nueva filial o adquisición crea una brecha de liderazgo que una búsqueda permanente no puede cubrir a tiempo. CE Interim (competidor) cita explícitamente la demanda de CFOs y COOs para filiales de inversores extranjeros como uno de sus principales focos de captación. El interim management es el instrumento natural para estos proyectos: velocidad de incorporación, conocimiento del mercado local, perfil senior.
-**Decisor objetivo:** Responsable de inversión en fondos extranjeros con cartera española, CEO de multinacional que abre o adquiere una operación en España.
-**Oportunidad SEO en España:** "Interim manager para filial española", "directivo interino para nueva empresa en España", "liderazgo ejecutivo temporal para inversores extranjeros" — volumen creciente, competencia muy baja.
-**Ángulo recomendado:** "Cuando el grupo compra en España: el interim manager como primer ejecutivo de una nueva filial."
+**Tendencia:** El mercado de interim management francés se vuelve más selectivo: crece la demanda de perfiles especializados con impacto medible
+**País de origen:** FR
+**Relevancia para el interim management:** El Barómetro 2026 de Management de Transition (Florence Cohen) indica que el 62% de los managers de transición perciben que el acceso a misiones se ha deteriorado en los últimos 12 meses. Al mismo tiempo, Robert Half constata que el 37% de los empleadores declaran recurrir a recursos en modo proyecto frente al 20% de dos años antes. El mercado crece en volumen pero es más exigente: los perfiles generalistas pierden terreno frente a los especializados.
+**Decisor objetivo:** CEO, Director de RRHH de empresa mediana o grande
+**Oportunidad SEO en España:** "interim manager especializado", "perfil interim manager tecnología"
+**Ángulo recomendado:** La especialización del interim manager (CIO, CFO, COO de sector concreto) como criterio de selección y garantía de rapidez de impacto.
 
 ---
 
@@ -60,61 +60,56 @@
 
 ---
 
-**Fuente:** Robert Half España/Francia — "Management de transition en 2026: les 5 situations ou le choix devient rationnel"
-**Tema:** Los cinco escenarios en los que recurrir al management de transition es la opción racional
-**Idea clave:** El management de transition se usa ya como herramienta de pilotaje estratégico, no solo de emergencia. Las situaciones más frecuentes incluyen: vacante de dirección imprevista, transformación con plazo definido, proyecto sin perfil interno adecuado, crisis operativa, y entrada de un nuevo inversor.
-**Oportunidad para Manager in Motion:** Crear contenido equivalente en español con un enfoque más específico para la empresa española (familiar, mediana, con PE) y posicionarlo como guía de referencia para decisores.
+**Fuente:** Plateya (plateya.fr)
+**Tema:** Guía de los mejores gabinetes de management de transición Francia 2026
+**Idea clave:** La especialización del manager y el impacto medible se convierten en criterios diferenciales en un mercado más selectivo. Los gabinetes generalistas pierden terreno.
+**Oportunidad para Manager in Motion:** Desarrollar contenido de profundidad sobre perfiles especializados de interim management (CIO, CMO) que en España no tienen aún artículos de referencia.
+
+**Fuente:** Russam Insights (russam.co.uk)
+**Tema:** Market Outlook Interim Management UK, febrero y septiembre 2026
+**Idea clave:** Recuperación de la demanda en UK, roles C-suite con fuerte crecimiento, finanzas y tecnología lideran, fraccionamiento emergente. El 63% de interim managers se siente positivo o neutral sobre las perspectivas de nuevos mandatos.
+**Oportunidad para Manager in Motion:** Anticipar este ciclo para el mercado español con contenido que adelante la demanda de perfiles C-suite en interim management.
+
+**Fuente:** OMS&Co Iberia (democrata.es)
+**Tema:** 95 mandatos en Iberia, proyección de más de 4 millones de facturación en 2026
+**Idea clave:** La demanda de ejecución rápida (semanas, no meses) es el principal argumento comercial en el mercado español de interim management.
+**Oportunidad para Manager in Motion:** Diferenciar en calidad del perfil y rigor del proceso de matching, más allá de la velocidad de despliegue.
+
+**Fuente:** CE Interim (ceinterim.com)
+**Tema:** Interim management en España: casos de uso y contexto de mercado
+**Idea clave:** Los casos de uso recurrentes son sucesión en empresa familiar, ERE, vacante imprevista y expansión internacional. El CIO interino no aparece articulado como categoría específica en el mercado español.
+**Oportunidad para Manager in Motion:** Ser el primer referente en contenido SEO sobre CIO interino en España, una categoría sin competencia editorial directa.
+
+**Fuente:** Infortive / Solutions Numériques (solutions-numeriques.com)
+**Tema:** Primera comunidad de DSI de transición en Francia
+**Idea clave:** Francia tiene ya un ecosistema específico para directores IT interinos. En España no existe equivalente.
+**Oportunidad para Manager in Motion:** Replicar este posicionamiento de especialidad en el mercado español con contenido de autoridad.
 
 ---
 
-**Fuente:** Russam Interim (UK) — "Frontline 17: Turning point for Interim Management" (septiembre 2026)
-**Tema:** El mercado de interim management en el Reino Unido entra en un punto de inflexión positivo tras meses de parálisis decisional
-**Idea clave:** 63% de los interim managers ven el mercado con optimismo. La demanda se activa después de un período de espera. Crecen los perfiles comerciales (Sales Leaders, Commercial MDs) y los de transformación (AI strategists, C-suite CEOs para organizaciones benéficas).
-**Oportunidad para Manager in Motion:** Publicar un análisis del mercado español con perspectiva europea que posicione a MiMo como referente de tendencias, no solo de servicios. El "turning point" europeo es una señal relevante para CEOs españoles que han aplazado decisiones.
+## 3. Preguntas Frecuentes Identificadas
 
----
-
-**Fuente:** CE Interim (competidor directo) — web corporativa
-**Tema:** Interim management para filiales de inversores extranjeros en España
-**Idea clave:** CE Interim se posiciona explícitamente para inversores extranjeros que entran en España y necesitan liderazgo ejecutivo rápido (72 horas). El argumento central: velocidad + conocimiento del mercado local.
-**Oportunidad para Manager in Motion:** Diferenciarse de este posicionamiento enfatizando la profundidad sectorial, la transferencia de conocimiento al equipo permanente y el acompañamiento durante todo el mandato, no solo la rapidez de incorporación.
-
----
-
-**Fuente:** DDIM / AIMP (Alemania/Europa) — estudio de mercado 2026
-**Tema:** El perfil del interim manager en Europa en 2026: especialización, impacto rápido, construcción de confianza
-**Idea clave:** El mercado alemán (2.700 M€) funciona principalmente para medianas empresas (74% de mandatos en empresas de 250-10.000 empleados). El criterio diferencial no es la marca del proveedor: es la capacidad de generar confianza rápidamente en entornos complejos.
-**Oportunidad para Manager in Motion:** Adaptar este argumento para el mercado español destacando la capacidad de los interim managers de MiMo para integrarse en equipos sin estructura de PE ni experiencia previa con directivos externos.
-
----
-
-## 3. Preguntas Frecuentes
-
-1. ¿Qué perfil tiene un interim manager con experiencia en el sector energético?
-2. ¿Cuándo es el momento adecuado para incorporar un interim manager en una empresa de renovables en crecimiento?
-3. ¿Puede un interim manager liderar la entrada de una empresa energética española en un mercado europeo?
-4. ¿Cómo trabaja un interim manager junto a un CEO fundador sin crear conflicto de roles?
-5. ¿Qué es el modelo de interim management fraccionado y para qué tipo de empresa es adecuado?
-6. ¿Qué señales indican que una empresa mediana necesita un directivo interino ahora mismo?
-7. ¿Puede un interim manager gestionar relaciones con inversores institucionales durante su mandato?
-8. ¿Cuál es el perfil más demandado de interim manager en España en 2026?
-9. ¿Cómo se adapta un interim manager a una empresa que nunca ha tenido dirección externa?
-10. ¿Qué diferencia hay entre un interim manager de sector y un generalista de alta dirección?
+1. ¿Qué es un CIO interino y en qué se diferencia de un CTO interino?
+2. ¿Cuándo necesita una empresa mediana un CIO interino?
+3. ¿Qué hace un CIO interino en sus primeros 90 días?
+4. ¿Puede un CIO interino liderar la implantación de un ERP mientras gestiona el departamento IT?
+5. ¿Cuánto cuesta un CIO interino en España?
+6. ¿Es viable el modelo de CIO fraccionado para una empresa de menos de 100 millones de facturación?
+7. ¿Qué ocurre al finalizar el mandato del CIO interino?
+8. ¿Cómo se estructura el reporting del CIO interino ante el CEO y el Comité de Dirección?
+9. ¿Puede el CIO interino gestionar equipos IT con larga trayectoria en la empresa sin generar resistencia?
+10. ¿El CIO interino puede liderar simultáneamente la operativa diaria y un proyecto de transformación tecnológica?
 
 ---
 
 ## 4. Tema Recomendado para Esta Semana
 
-**Tema:** El interim manager en el sector energético: liderazgo ejecutivo para la transición que no puede esperar
+**CIO Interino: el liderazgo tecnológico que la empresa mediana no puede improvisar**
 
 **Justificación estratégica:**
 
-El sector energético en España concentra en 2026 tres señales simultáneas que lo convierten en el terreno más fértil para el interim management y para el contenido SEO de Manager in Motion:
+El CIO interino es la categoría de mayor crecimiento en Francia (DSI de transición, comunidad Infortive) y en el Reino Unido (demanda C-suite tech creciente), pero está prácticamente sin articular en el mercado SEO español. No existe ningún artículo de referencia en español sobre este perfil específico, lo que supone una ventana de posicionamiento orgánico con competencia editorial mínima.
 
-1. **Crecimiento acelerado sin estructura directiva** — Las scale-ups de renovables han pasado de 10 a 250 empleados en cinco años sin construir una estructura de C-suite. La entrada de inversores institucionales está forzando esa profesionalización de forma urgente.
+El contexto español de octubre 2026 refuerza la oportunidad: los ERE en telecomunicaciones y consultoría tecnológica generan una demanda concreta y creciente de directivos interinos capaces de garantizar la continuidad del negocio tecnológico. Al mismo tiempo, las empresas medianas que están en pleno proceso de transformación digital —migración al cloud, implantación de ERP, integración de sistemas post-adquisición— se enfrentan a una escasez de perfiles con autoridad ejecutiva real para liderar esos proyectos.
 
-2. **Inversión extranjera récord** — España atrae €36.800 M de IED, gran parte en infraestructuras energéticas. Cada nueva filial o participada necesita directivos de arranque rápido.
-
-3. **Hueco competitivo SEO** — Ningún competidor relevante tiene contenido de calidad sobre "interim manager sector energético" en español. La combinación de búsqueda creciente (ligada al PNREC, al Green Deal, a la transición energética) y competencia nula ofrece una oportunidad de posicionamiento de primera página a corto plazo.
-
-El artículo se enmarca en los ejes de **dirección general** e **internacionalización**, con una audiencia primaria de CEOs y propietarios de empresas energéticas en crecimiento, fondos de PE con participadas en el sector, y directores de transformación en empresas industriales que deben adaptar su modelo energético.
+El tema encaja en los ejes prioritarios de Manager in Motion: dirección general, transformación y profesionalización. Completa, además, la suite de artículos de perfiles C-suite publicados (CFO, CEO, COO, CHRO, Director Comercial, Director Supply Chain), reforzando la autoridad temática del dominio en el segmento de liderazgo ejecutivo interino.

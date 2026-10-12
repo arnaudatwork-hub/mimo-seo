@@ -1,150 +1,145 @@
-# SEO Strategy Brief — 2026-10-05
+# SEO Strategy Brief — 2026-10-12
 
 ---
 
 ## Tema Seleccionado
 
-**El Interim Manager en el Sector Energético: liderazgo ejecutivo para la transición que no puede esperar**
+**CIO Interino: el liderazgo tecnológico que la empresa mediana no puede improvisar**
 
 ---
 
 ## Justificación Estratégica
 
-El sector energético es en 2026 el terreno de mayor oportunidad SEO no explotado para Manager in Motion en España. Tres razones lo sustentan:
+El CIO interino (director de sistemas de información en régimen temporal) es la categoría de mayor crecimiento en el mercado europeo de interim management —consolidada en Francia con comunidades especializadas como Infortive y en alza en el Reino Unido según el Market Outlook de Russam 2026— pero prácticamente sin presencia editorial en español. La búsqueda de "CIO interino" o "director IT interino" no devuelve ningún artículo de fondo en español de ningún competidor directo de Manager in Motion.
 
-1. **Demanda real verificada** — Las scale-ups de renovables en España han crecido de forma acelerada sin construir estructuras directivas. La entrada de inversores institucionales (IED récord: €36.800 M en 2024) está forzando procesos de profesionalización urgente en los que el interim management es la respuesta más eficaz.
+El contexto económico español refuerza la oportunidad: los ERE en telecomunicaciones, consultoría tecnológica y plataformas digitales, combinados con la aceleración de proyectos de transformación digital (migraciones al cloud, implantaciones de ERP, integración de sistemas post-adquisición), generan una demanda concreta de perfiles ejecutivos capaces de liderar la función IT con autoridad real, no solo como gestores técnicos.
 
-2. **Hueco competitivo en SEO** — Ningún competidor relevante tiene contenido optimizado sobre "interim manager sector energético" en español. La combinación de intención de búsqueda creciente (ligada al PNREC, al Green Deal europeo y a la transición energética) con competencia nula ofrece posibilidad de primera página a corto plazo.
-
-3. **Diferenciación de la línea editorial** — Los nueve artículos anteriores se han enfocado en sectores maduros (construcción, retail, industrial, finanzas). El sector energético abre una nueva categoría temática sin solapamiento con el contenido publicado, refuerza el posicionamiento de MiMo como referente sectorial y amplía la audiencia a un perfil de decisor de alta relevancia (CEO de scale-up, partner de fondo de PE con cartera energética, director de transformación en industrial con plan de transición energética).
+El tema encaja directamente en los ejes temáticos prioritarios de Manager in Motion: dirección general y transformación empresarial. Completa la suite de artículos de perfiles C-suite (CFO, CEO, COO, CHRO, Director Comercial, Director Supply Chain), consolidando la autoridad orgánica del dominio.
 
 ---
 
 ## Audiencia Objetivo
 
-**Primaria:**
-- CEO y propietario de empresa de energías renovables (solar, eólica, almacenamiento, O&M) con facturación entre 10 y 150 M€
-- Partner o responsable de portfolio en fondo de PE o de infraestructuras con participadas en el sector energético
-- Director general de empresa industrial con plan de transición energética en curso
-
-**Secundaria:**
-- CFO o COO de empresa energética en proceso de profesionalización post-inversión
-- Responsable de RRHH de empresa energética que busca talento directivo externo de forma urgente
+- CEOs y COOs de empresas medianas (30-300 M€ de facturación) que afrontan una transformación tecnológica o una vacante en la dirección IT
+- CFOs que deben asegurar la continuidad de proyectos tecnológicos críticos (ERP, cloud, integraciones) con presupuesto controlado
+- Directivos y propietarios de empresas familiares en proceso de profesionalización de su función IT
+- Directores de RRHH y headhunters que necesitan cubrir una vacante de CIO con urgencia y sin tiempo para un proceso permanente
 
 ---
 
 ## Intención de Búsqueda
 
-- **Informacional con intención de decisión**: el lector ya sabe qué es un interim manager y está evaluando si aplica a su situación en el sector energético
-- **Navegacional sectorial**: el decisor busca activamente quién tiene experiencia en dirección interina en energía, no solo en general
-- **Transaccional latente**: el artículo debe generar una consulta directa o una descarga de información de contacto en MiMo
+**Mixta: informacional + transaccional**
+
+El decisor que llega a este artículo está en una de estas dos situaciones:
+1. Acaba de perder a su responsable IT y busca entender qué es el interim management aplicado a la función tecnológica antes de tomar una decisión
+2. Ya conoce el concepto y quiere entender el proceso, el perfil y los primeros pasos para activar un CIO interino
+
+El artículo debe resolver ambas necesidades: explicar el concepto con precisión y ofrecer criterios prácticos para decidir y actuar.
 
 ---
 
 ## Keywords
 
-**Keyword principal:** interim manager sector energético
+**Keyword principal:**
+`CIO interino`
 
 **Keywords secundarias:**
-- directivo interino energías renovables
-- interim management empresa energética España
-- liderazgo ejecutivo temporal energía
-- interim manager renovables
+- `director IT interino`
+- `director de sistemas de información interino`
+- `interim management tecnología`
+- `responsable IT interino`
+- `directivo tecnológico interino`
 
 **Keywords de cola larga:**
-- cómo contratar un interim manager para una empresa de energía solar
-- interim manager para escalar empresa de renovables
-- directivo interino para empresa energética participada por fondo
-- interim management profesionalización empresa energética
-- qué hace un interim manager en el sector de la energía
+- `cuándo contratar un CIO interino`
+- `CIO interino empresa mediana España`
+- `qué hace un CIO interino`
+- `interim manager tecnología empresa mediana`
+- `cómo cubrir vacante CIO urgente`
+- `interim CIO España`
 
 ---
 
 ## Metadatos SEO
 
-**Título SEO:** Interim Manager en el Sector Energético: liderazgo ejecutivo para la transición
+**Título SEO:**
+CIO Interino: el liderazgo tecnológico que la empresa mediana no puede improvisar
 
-**Meta descripción:** El sector energético crece más rápido que su talento directivo. Descubre cuándo y cómo el interim management resuelve los vacíos de liderazgo en empresas de renovables, en procesos de profesionalización y en expansión internacional.
+**Meta descripción:**
+El CIO interino asume la dirección tecnológica cuando la empresa no puede esperar a una búsqueda permanente. Qué resuelve, cómo se activa y qué esperar de los primeros 90 días.
 
-**Slug URL:** /interim-manager-sector-energetico
+**Slug URL:**
+`/cio-interino-liderazgo-tecnologico-empresa-mediana`
 
-**H1:** Interim Manager en el Sector Energético: el liderazgo ejecutivo que la transición no puede esperar
+**H1:**
+CIO Interino: el liderazgo tecnológico que la empresa mediana no puede improvisar
 
 ---
 
 ## Estructura del Artículo
 
-Esquema H2 (máximo 3, sin H3):
+**Introducción** (~100 palabras): situar la tensión real — la función CIO nunca ha sido más estratégica para el negocio, pero pocas empresas medianas tienen estructura para cubrirla con una búsqueda de 5-6 meses. El interim management resuelve esa tensión.
 
-1. **Un sector con vocación de crecimiento y déficit directivo estructural**
-   - La paradoja de las scale-ups energéticas: crecimiento acelerado, estructura directiva insuficiente
-   - El rol del inversor institucional como detonante de profesionalización
-   - La señal europea: qué está pasando en los mercados más maduros (UK, DE)
+**H2.1: Los momentos en los que la empresa mediana necesita un CIO interino** (~300 palabras)
+Tres detonantes concretos:
+- Vacante imprevista con proyectos críticos en marcha (ERP, migración cloud, integraciones post-adquisición)
+- Reestructuración del departamento IT (ERE, reorganización, cambio de modelo de externalización)
+- Profesionalización de la función tecnológica en una empresa que nunca ha tenido un CIO de verdad
 
-2. **Las tres situaciones que activan una misión de interim management en energía**
-   - Entrada de un inversor (fondo de infraestructuras, PE, industriales internacionales)
-   - Cartera de proyectos en expansión que desborda la estructura operativa existente
-   - Internacionalización: apertura de nuevos mercados europeos o latinoamericanos
+**H2.2: Qué hace un CIO interino que un jefe de proyecto técnico no puede hacer** (~300 palabras)
+La diferencia no es técnica, es ejecutiva: autoridad para decidir sobre proveedores, presupuesto, estructura del equipo y prioridades. Cómo se traduce eso en los primeros 90 días (diagnóstico, mapa de riesgos, plan de acción con hitos).
 
-3. **Cómo se articula una misión de interim management en el sector energético**
-   - Primeros 30 días: diagnóstico sin intervención precipitada
-   - Meses 2-6: construcción de procesos, reporting y mapa de talento
-   - Cierre del mandato: transferencia de conocimiento y criterio de salida
+**H2.3: Cómo se estructura el mandato para que genere valor sin crear dependencia** (~280 palabras)
+Duración típica (6-12 meses), modelo de reporting (directo al CEO o COO), criterios de éxito definidos al inicio, transferencia de conocimiento al equipo interno o al nuevo CIO permanente como entregable obligatorio.
+
+**Párrafo de cierre** (~100 palabras)
 
 ---
 
 ## Oportunidades FAQ
 
-- **Escenario de proyecto** (obligatorio): Scale-up de energía solar fotovoltaica (180 empleados, PE-backed) que debe separar el rol del CEO fundador de la dirección operativa antes de una nueva ronda. ¿Cómo se articula la misión?
-- ¿Qué evalúa y qué decide un interim manager en sus primeros 30 días en una empresa energética?
-- ¿Puede un interim manager liderar la expansión de una empresa energética española hacia nuevos mercados europeos cuando aún no existe equipo local en destino?
+Priorizar preguntas operacionales y de decisión específicas, no genéricas:
+- Escenario de empresa concreta con vacante IT en momento crítico
+- Qué garantías tiene la empresa de que el conocimiento no se pierde al finalizar la misión
+- Autonomía de decisión del CIO interino: ¿puede comprometer presupuesto?
 
 ---
 
 ## Recomendaciones de Enlazado Interno
 
-- Artículo sobre COO Interino (agosto 2026) — enlazar desde la sección sobre expansión operativa
-- Artículo sobre Internacionalización con Interim Manager (agosto 2026) — enlazar desde la sección sobre nuevos mercados
-- Página de servicios de Manager in Motion — enlazar desde la introducción y el CTA
+- Artículo COO interino (agosto 2026): enlazar en el párrafo sobre continuidad operativa
+- Artículo CEO interino (septiembre 2026): enlazar en la sección de reporting ante el consejo
+- Artículo Director Supply Chain interino (septiembre 2026): enlazar como ejemplo de perfil C-suite complementario
 
 ---
 
 ## Recomendaciones de Enlazado Externo
 
-- IDAE (Instituto para la Diversificación y Ahorro de la Energía) — contexto regulatorio energético España
-- Red Eléctrica de España / CNMC — datos de capacidad instalada y tendencias del sector
-- Informe DDIM o IIM 2026 sobre tendencias de interim management europeo — como fuente de autoridad
+- Infortive (Francia): comunidad de DSI de transición como referencia de madurez del mercado europeo
+- Russam Insights (UK): estadísticas de demanda C-suite interim UK 2026
 
 ---
 
 ## Recomendación de CTA
 
-**CTA principal:** "¿Su empresa energética está en un momento de cambio? Hable con Manager in Motion y analice qué perfil de interim manager encaja con su situación."
+**Titular del CTA:** ¿Necesita cubrir una vacante de CIO con urgencia?
 
-**Formato:** botón o formulario de contacto directo con opción de llamada o mensaje — sin fricción, sin formulario largo.
+**Cuerpo:** Manager in Motion trabaja con perfiles de director IT interino de alto nivel, disponibles en un plazo de dos a cuatro semanas. Si tiene un proyecto tecnológico crítico que no puede pararse, hablemos.
 
-**Posición:** al final del artículo, antes de las FAQ, y como llamada dentro del segundo H2 (más sutil, en formato de frase de enlace).
+**Botón / acción:** Solicitar una primera conversación
 
 ---
 
 ## Instrucciones para el Redactor
 
-1. **Tono**: ejecutivo, analítico, con ejemplos concretos del sector energético. No genérico. El lector es el CEO o el partner del fondo, no el candidato a interim manager.
-
-2. **Terminología obligatoria**: "interim manager" e "interim management" son los únicos términos válidos. Mínimo 3 apariciones de cada uno en el cuerpo del artículo.
-
-3. **Sin términos prohibidos**: directivo interino, gestión interina, management interino, manager interino — prohibidos en el cuerpo del artículo.
-
-4. **Sin estadísticas no verificadas**: si se menciona crecimiento del sector o capacidad instalada, usar solo datos públicos de IDAE, Red Eléctrica o Eurostat. Preferir afirmaciones cualitativas si no hay fuente verificable.
-
-5. **Longitud máxima del cuerpo**: 1.000 palabras (introducción hasta párrafo de cierre, sin contar FAQ, CTA y metadatos). Límite estricto.
-
-6. **Máximo 3 secciones H2** en el cuerpo. Sin H3. Sin sub-apartados.
-
-7. **No primera persona** ("yo", "nosotros", "nuestro"). Tercera persona o construcciones impersonales.
-
-8. **No atacar ni cuestionar a la audiencia**. El lector es el protagonista positivo.
-
-9. **Manager in Motion** debe aparecer como referencia experta, no como vendedor. Posicionamiento sutil al final.
-
-10. **FAQ**: máximo 3 preguntas, orientadas a lo operativo y decisional. Leer faq_history.md antes de redactar para evitar repeticiones.
+1. Tono ejecutivo, conciso, sin jerga tecnológica innecesaria. El lector es un CEO o COO, no un CIO.
+2. Evitar comparaciones con consultores IT o empresas de outsourcing (patrón prohibido de la FAQ).
+3. No usar cifras de mercado que no puedan verificarse. Preferir afirmaciones cualitativas bien argumentadas.
+4. Integrar "interim manager" e "interim management" mínimo 3 veces cada uno, de forma natural.
+5. No usar en ningún caso: "directivo interino", "gestión interina", "management interino", "manager interino".
+6. Máximo 1.000 palabras en el cuerpo (introducción a párrafo de cierre, sin contar FAQ, CTA ni metadatos).
+7. Máximo 3 secciones H2. Ningún H3.
+8. Redactar en tercera persona o con construcciones impersonales. Nunca en primera persona (ni "yo" ni "nosotros").
+9. No atacar ni cuestionar a la audiencia. Tono constructivo, el lector es el protagonista positivo.
+10. Leer output/faq_history.md antes de redactar la FAQ. No repetir ninguna pregunta del historial.
