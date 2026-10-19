@@ -1,84 +1,80 @@
-# CIO Interino: el liderazgo tecnológico que la empresa mediana no puede improvisar
+# Artículo SEO — 2026-10-19
 
-**Título SEO:** CIO Interino: el liderazgo tecnológico que la empresa mediana no puede improvisar
-**Meta descripción:** El CIO interino asume la dirección tecnológica cuando la empresa no puede esperar a una búsqueda permanente. Qué resuelve, cómo se activa y qué esperar de los primeros 90 días.
-**URL slug:** /cio-interino-liderazgo-tecnologico-empresa-mediana
+**Título SEO:** Fractional Interim Management: el directivo senior a tiempo parcial que la empresa mediana puede activar hoy
+**Meta descripción:** El fractional interim management permite incorporar liderazgo directivo senior sin coste fijo. Descubre cuándo es la mejor opción frente al interim management clásico y cómo se estructura una misión.
+**URL slug:** /fractional-interim-management-directivo-tiempo-parcial
 
 ---
 
-## Artículo
+# Fractional Interim Management: liderazgo directivo senior sin dedicación exclusiva
 
-La función del CIO —director de sistemas de información— ocupa hoy un lugar estratégico que hace una década era impensable en la empresa mediana. Cada proyecto de transformación digital, cada migración al cloud, cada integración post-adquisición depende de alguien que combine visión tecnológica con autoridad ejecutiva para ejecutarla. El problema es que cuando esa persona falta o hay que sustituirla, la búsqueda permanente puede tardar entre cuatro y seis meses. En ese intervalo, el negocio no espera. El interim management cubre exactamente ese hueco: un CIO interino con experiencia contrastada, activo en dos a cuatro semanas.
+La necesidad de liderazgo directivo no siempre coincide con la capacidad de soportar un directivo a jornada completa. Para muchas empresas medianas, esa brecha entre lo que se necesita y lo que se puede costear de forma permanente lleva años resolviéndose con compromisos insatisfactorios: ascender a alguien que no está preparado, delegar en una consultoría sin autoridad de ejecución, o aplazar una decisión que el mercado no espera. El fractional interim management ofrece una tercera vía: liderazgo directivo senior con dedicación parcial, orientado a resultados y con un plazo definido.
 
-## Los momentos en los que la empresa mediana necesita un CIO interino
+## Qué es el fractional interim management y por qué está creciendo en Europa
 
-No todos los contextos que generan la necesidad de un CIO interino son urgencias. El interim management aplica con igual efectividad en tres situaciones distintas.
+El fractional interim management es un modelo de misión en el que un interim manager senior dedica una fracción de su tiempo —habitualmente entre uno y tres días por semana— a dirigir una función o liderar un proyecto concreto en la empresa cliente. No es un consultor que recomienda: es un directivo que decide, ejecuta y responde.
 
-La más reconocible es la vacante imprevista con proyectos críticos en marcha. Cuando el responsable IT de una empresa sale de forma repentina —dimisión, enfermedad, conflicto— y hay una migración al cloud en curso, un ERP a mitad de implantación o una integración de sistemas pendiente de completar, la empresa no puede permitirse seis meses de búsqueda. Un CIO interino entra en dos a cuatro semanas, evalúa el estado real del proyecto, estabiliza la situación y decide si el plan existente es viable o necesita ser reconstituido. No hay tiempo de aprendizaje: el perfil ha gestionado situaciones similares en empresas del mismo tipo y sector.
+Este modelo lleva años consolidado en el mercado anglosajón, pero su institucionalización formal en Europa es reciente. En 2026, el Institute of Interim Management del Reino Unido incluyó por primera vez el fractional interim management como categoría específica en su encuesta anual, señal de que el mercado ha dejado de tratarlo como excepción para reconocerlo como un estándar emergente. En Francia, los datos apuntan en la misma dirección: el uso de directivos en modo proyecto ha crecido de forma sostenida entre las empresas que ya trabajan con interim management.
 
-El segundo contexto es la reestructuración del departamento IT. Cuando una empresa externaliza parte de su función tecnológica, integra equipos de filiales distintas o reduce la estructura interna, necesita a alguien con autoridad para tomar esas decisiones y ejecutarlas. Un jefe de proyecto técnico o un consultor no tienen esa autoridad. Un interim manager en la función IT, sí.
+La razón es estructural. El tejido empresarial europeo está formado mayoritariamente por empresas medianas que no tienen en su estructura el presupuesto ni la carga de trabajo sostenida para justificar un directivo C-suite a tiempo completo, pero sí afrontan retos que requieren exactamente ese nivel de experiencia: abrir un mercado internacional, preparar la entrada de un inversor, implantar un sistema de gestión, restructurar una función o diseñar la sucesión. El fractional resuelve esa ecuación.
 
-El tercer escenario, y probablemente el más infravalorado, es la profesionalización de la función IT en empresas que nunca han tenido un CIO real. Muchas han crecido con un responsable de sistemas de perfil técnico que resuelve incidencias pero no define estrategia. Cuando llega el momento de implantar un ERP corporativo, establecer una política de ciberseguridad o negociar contratos con proveedores tecnológicos, la empresa necesita una dirección de otro nivel. El interim management permite probar ese modelo sin el riesgo de una contratación permanente que puede no encajar.
+## Cuándo el fractional es la opción más inteligente (y cuándo no lo es)
 
-## Qué hace un CIO interino que un jefe de proyecto técnico no puede hacer
+El fractional interim management encaja en un perfil de situación bastante preciso. Las empresas que más se benefician son aquellas que enfrentan un reto acotado en el tiempo y en su alcance funcional, donde la autoridad directiva es necesaria pero la dedicación exclusiva no está justificada por el volumen de trabajo ni por el presupuesto disponible.
 
-La diferencia entre un CIO interino y un perfil técnico elevado no es de conocimientos: es de autoridad y perspectiva ejecutiva.
+Los contextos más habituales en los que este modelo añade valor son la apertura de una función directiva que no existía antes, la cobertura de una posición durante un proceso de búsqueda de candidato permanente, la dirección de un proyecto de transformación con un equipo interno que ya cuenta con operadores sólidos pero necesita liderazgo y orientación estratégica, o la preparación de la empresa para un hito concreto —una auditoría, una ronda de financiación, una certificación— que requiere un nivel de experiencia del que no se dispone internamente.
 
-Un CIO interino actúa con plena capacidad desde el primer día. Puede revisar contratos con proveedores que no cumplen sus compromisos. Puede restructurar el equipo IT si la situación lo justifica. Puede comprometer presupuesto dentro del umbral delegado, priorizar proyectos y rechazar peticiones que no tienen justificación de negocio clara. Esa autoridad, formal y reconocida por toda la organización, es lo que permite actuar con la velocidad que la situación exige.
+Donde el fractional no es la solución adecuada es igualmente claro. Cuando la urgencia es extrema y la situación de crisis exige presencia diaria y capacidad de reacción inmediata, el modelo de interim manager a dedicación completa es insustituible. Lo mismo ocurre cuando el reto implica una transformación cultural profunda que requiere visibilidad y liderazgo constante dentro de la organización, o cuando la función directiva a cubrir concentra un volumen de trabajo y un nivel de complejidad que no admiten gestión parcial.
 
-En los primeros 30 días, el trabajo tiene más de diagnóstico que de ejecución. El objetivo es construir el mapa real: proyectos en marcha y su estado efectivo, contratos vigentes y su coste real, capacidades del equipo interno y dependencias críticas ante la salida del anterior responsable. Ese diagnóstico produce un mapa de riesgos y un plan de prioridades con hitos concretos, que se presenta al CEO o al comité de dirección antes de que acabe el primer mes.
+La elección entre un interim manager a tiempo completo y un fractional executive no es una cuestión de presupuesto únicamente. Es una cuestión de escala del reto, velocidad requerida y disponibilidad de equipo interno para absorber la diferencia de dedicación.
 
-A partir del día 30, se ejecuta. Los proyectos críticos avanzan o se reconducen. Los proveedores que no cumplen se renegocian o se reemplazan. El equipo interno recibe dirección clara. El reporting tecnológico al consejo se vuelve regular y comprensible para quien no tiene perfil IT, lo que mejora de forma directa la calidad de las decisiones de inversión.
+## Cómo se estructura una misión de fractional interim management
 
-Lo que un interim manager aporta en ese proceso no es únicamente experiencia técnica: es la capacidad de tomar decisiones que afectan al negocio con criterio ejecutivo, sin necesidad de validación en cada paso.
+La arquitectura de una misión fractional comparte los principios del interim management clásico —mandato definido, objetivos concretos, transferencia de conocimiento planificada desde el inicio— con una diferencia operativa esencial: la dedicación parcial exige una disciplina de foco y de reporting superior a la que se exige en un mandato de jornada completa.
 
-## Cómo se estructura el mandato para que genere valor sin crear dependencia
+Una misión fractional se estructura habitualmente en torno a uno o dos días de presencia semanal en la empresa, con disponibilidad adicional por canales digitales para decisiones urgentes. El primer mes se dedica al diagnóstico del equipo, los procesos y las prioridades, y a la definición del plan de los primeros noventa días con indicadores concretos. A partir del segundo mes, el interim manager opera en modo de ejecución con revisiones periódicas —generalmente quincenales o mensuales— con el CEO o el consejo.
 
-Un mandato de CIO interino bien diseñado tiene un principio, un desarrollo y un final planificado desde el primer día. La dependencia —el riesgo de que la empresa no pueda funcionar sin el perfil interino una vez que la misión termina— es síntoma de un mandato mal estructurado, no una consecuencia inevitable del modelo.
+El mecanismo de reporting es crítico: un fractional que no reporta con regularidad y precisión genera incertidumbre en la organización. Los formatos más eficaces son los cuadros de mando simplificados con tres a cinco indicadores clave, los informes de avance breves y las sesiones de alineación con el equipo directivo. La transferencia de conocimiento al finalizar la misión sigue la misma lógica que en el interim management convencional: documentación de procesos, formación del sucesor interno y acompañamiento en la fase de salida.
 
-La duración habitual oscila entre seis y doce meses. La horquilla inferior aplica cuando el objetivo es estabilizar una situación y gestionar la transición hasta la incorporación de un perfil permanente. La horquilla superior es adecuada cuando el mandato incluye la ejecución completa de un proyecto de transformación: implantación de ERP, migración al cloud, reorganización del departamento IT.
+El interim management en su modalidad fractional no diluye la responsabilidad ejecutiva: el directivo es responsable de los resultados dentro del alcance definido, y esa responsabilidad no se prorratean por los días trabajados.
 
-El modelo de reporting más habitual sitúa al CIO interino en línea directa con el CEO o el COO. En empresas con consejo de administración activo, el reporting tecnológico pasa a ser un punto regular del orden del día, lo que obliga a la dirección a hablar de tecnología en términos de negocio y no de incidencias técnicas, un cambio que tiene más valor estructural del que parece a corto plazo.
+---
 
-Los criterios de éxito se definen al inicio de la misión, no a la salida. Proyectos completados en plazo y presupuesto, nivel de madurez del equipo IT interno al terminar el mandato, métricas de estabilidad operativa acordadas con el CEO. Esa claridad permite evaluar la misión sin ambigüedad y decidir el siguiente paso con datos: incorporar un CIO permanente, externalizar parte de la función o establecer un modelo de dirección IT más liviano y sostenible para la etapa siguiente.
-
-La transferencia de conocimiento al equipo interno o al sucesor permanente no es un entregable opcional: está formalizado desde el contrato de inicio del mandato.
-
-La función IT ha dejado de ser un área de soporte para convertirse en un vector de competitividad. Para la empresa mediana, una vacante en la dirección tecnológica —por breve que sea— tiene un coste que se acumula rápido: proyectos bloqueados, contratos renovados sin supervisión, equipos sin dirección clara. El interim management ofrece una respuesta ejecutiva: un interim manager que entra en semanas, actúa con autoridad real y prepara su propia salida desde el primer día.
+**RECUENTO: 836 palabras**
 
 ---
 
 ## Preguntas Frecuentes
 
-**Un grupo alimentario con sede en Navarra, con 120 millones de facturación y tres filiales regionales, pierde a su único responsable IT corporativo cuando lleva seis meses en curso una migración al cloud. El proyecto debe completarse en cuatro meses para cumplir compromisos con el proveedor y no hay nadie en el equipo interno con autoridad suficiente para liderarlo. ¿Cómo se articularía un mandato de CIO interino en ese contexto?**
+**¿Cómo se garantiza que un fractional executive tenga autoridad real dentro de la organización si solo está presente dos días a la semana?**
 
-El CIO interino se incorpora con un mandato inicial de entre cuatro y seis meses con dos objetivos paralelos: finalizar la migración al cloud en el plazo comprometido con el proveedor y realizar un diagnóstico de la estructura IT de las tres filiales para definir el modelo de gobernanza tecnológica del grupo. En la primera semana, audita el estado real del proyecto con el equipo técnico y el proveedor, identifica los riesgos más urgentes y determina qué decisiones pueden tomarse de inmediato y cuáles requieren revisión. El reporting se establece en línea directa con el CEO desde el primer día. Al finalizar el mandato, el entregable incluye la migración completada, la documentación de todos los sistemas integrados y una recomendación sobre la estructura IT más adecuada para la siguiente etapa del grupo: CIO permanente, modelo de dirección compartida o externalización parcial.
+La autoridad no la genera la presencia física continua, sino la claridad del mandato. Antes de que el fractional executive se incorpore, la dirección comunica internamente su rol, su alcance de decisión y su posición en el organigrama. Esa comunicación formal —y el respaldo visible del CEO o del consejo— es lo que establece la autoridad. Un interim manager con un mandato bien definido tiene más capacidad de decisión en dos días semanales que un directivo interno cuyas responsabilidades son ambiguas a tiempo completo.
 
-**¿Cómo se garantiza que el conocimiento del CIO interino no desaparece con su salida?**
+**Una empresa de servicios tecnológicos B2B con 45 empleados y 8 millones de facturación lleva dos años creciendo a doble dígito. La directora general fundadora quiere incorporar un director comercial para estructurar el equipo de ventas, pero el presupuesto no justifica aún un salario de directivo senior a tiempo completo. ¿Cómo se articularía un mandato de fractional interim management en ese contexto?**
 
-La transferencia de conocimiento es un entregable formal del mandato, no una promesa de intención. Se define al inicio con tres componentes concretos: documentación actualizada de todos los proyectos activos y su estado, formalización de los contratos y las relaciones con proveedores clave, y plan de desarrollo del equipo IT interno con roles y responsabilidades claramente asignados. En misiones de más de seis meses, el CIO interino suele participar activamente en la selección o el onboarding del perfil permanente, asegurando una transferencia directa. El objetivo del mandato es que la función IT funcione mejor sin el interino que con él: eso es lo que distingue el interim management de una solución provisional.
+El encaje es preciso: la empresa necesita experiencia directiva comercial, no un operativo de ventas. Un interim manager con perfil de Director Comercial senior puede dedicar dos días semanales durante seis a nueve meses a diseñar la estructura del equipo, definir los procesos de captación y fidelización, implantar las métricas clave y formar al responsable comercial interno que asumirá la función en cuanto la empresa alcance el nivel de facturación que justifique la contratación permanente. El plan de los primeros noventa días incluye el diagnóstico del funnel actual, la priorización de cuentas y canales, y la definición del perfil del primer comercial a contratar. El criterio de salida es claro: el equipo comercial opera de forma autónoma con procesos documentados y un responsable interno ya en funciones.
 
-**¿Puede el CIO interino comprometer presupuesto y tomar decisiones de inversión tecnológica de forma autónoma?**
+**Al finalizar una misión de fractional interim management, ¿cómo decide la empresa si necesita pasar a un modelo de dedicación completa o puede asumir la función con el equipo existente?**
 
-Sí, siempre que el mandato lo defina así desde el inicio, y esa es una de las condiciones que distingue un mandato eficaz de uno que no lo es. El CIO interino opera con presupuesto delegado dentro de un umbral acordado con el CEO —suficiente para gestionar contratos de mantenimiento, renovaciones y decisiones operativas del día a día— y un proceso ágil de aprobación para inversiones por encima de ese umbral. Sin esa autonomía, el interim manager pasa a operar como perfil asesor, no ejecutivo, y el valor del modelo se reduce de forma significativa. La claridad en los límites de autoridad al inicio del mandato es uno de los factores más determinantes del retorno de la misión.
+La respuesta depende de tres factores: el volumen de trabajo sostenido que la función exige, la madurez del equipo interno para operar sin liderazgo externo, y los próximos hitos estratégicos de la empresa. En la mayoría de las misiones bien ejecutadas, la fase de salida del fractional coincide con una de tres situaciones: la función queda internalizada en un perfil que ya existía y ha sido desarrollado durante la misión, la empresa ha alcanzado el nivel de actividad que justifica una incorporación permanente, o el reto original queda resuelto y la función puede seguir sin un directivo dedicado. El interim manager, al igual que en el modelo clásico, diseña su propia salida desde el primer día.
 
 ---
 
 ## CTA
 
-### ¿Necesita cubrir una vacante de CIO con urgencia?
+**¿Interim manager a tiempo completo o fractional executive?**
 
-Manager in Motion trabaja con perfiles de director IT interino de alto nivel, disponibles en un plazo de dos a cuatro semanas. Si hay un proyecto tecnológico crítico que no puede pararse mientras se encuentra al perfil definitivo, la primera conversación no tiene coste ni compromiso.
+No siempre es evidente cuál es el modelo más adecuado para cada situación. Manager in Motion ayuda a los equipos directivos y propietarios de empresas medianas a identificar el perfil y el modelo de misión que mejor se ajusta al reto concreto, al momento de la empresa y al presupuesto disponible. La primera conversación no compromete a nada.
 
 ---
 
 ## Fuentes consultadas
 
-*(Solo para uso editorial — no incluir en el artículo publicado)*
+*(Sección editorial — fuera del artículo publicado)*
 
-- Russam Insights: Interim Management Market Outlook, febrero y septiembre 2026. russam.co.uk
-- CE Interim: Interim management in Spain. ceinterim.com
-- Solutions Numériques: Infortive, comunidad de DSI de transición en Francia. solutions-numeriques.com
-- Plateya: Mejores gabinetes de management de transición Francia 2026. plateya.fr
-- OMS&Co Iberia / Democrata.es: 95 mandatos en Iberia, proyección de facturación 2026
-- Barómetro Management de Transition 2026 (Florence Cohen): acceso a misiones y duración media
+- Institute of Interim Management (IIM), *Annual Survey 2026*, iim.org.uk — institucionalización del fractional interim management como categoría
+- Russam, *Frontline 17: Turning point for Interim Management — September 2026*, russam.co.uk — datos de confianza del mercado UK
+- Robert Half / Stanton House, *IIM Interim Management Survey 2026*, stanton-house.com — challenges e insights del mercado
+- Nigel Wright, *Freelancing and Interim Market Trends 2026* — mercado DACH y perfil de demanda
+- Plateya, *Devenir manager de transition en 2026*, plateya.fr — contexto francés, adopción del modo proyecto
+- OMS&Co, comunicado de resultados Iberia 2026, bolsamania.com — volumen de mandatos en España

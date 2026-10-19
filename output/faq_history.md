@@ -163,3 +163,9 @@ Registrar aquí cada semana el escenario concreto usado en la FAQ, para no repet
 - ¿Cómo se garantiza que el conocimiento del CIO interino no desaparece con su salida?
 - ¿Puede el CIO interino comprometer presupuesto y tomar decisiones de inversión tecnológica de forma autónoma?
 | 2026-10-12 | Alimentación y bebidas (grupo alimentario) | Grupo familiar primera generación (120 M€, sin PE) | Renuncia responsable IT corporativo con migración al cloud en curso (seis meses iniciada, cuatro meses para terminar) | Transformación digital / CIO |
+| 2026-10-19 | Servicios tecnológicos B2B | Empresa fundadora en crecimiento (8 M€, 45 empleados) | Crecimiento a doble dígito sostenido; fundadora necesita liderazgo comercial senior sin presupuesto para directivo a tiempo completo | Dirección comercial / fractional interim management |
+
+## 2026-10-19 — Fractional Interim Management: liderazgo directivo senior sin dedicación exclusiva
+- ¿Cómo se garantiza que un fractional executive tenga autoridad real dentro de la organización si solo está presente dos días a la semana?
+- Una empresa de servicios tecnológicos B2B con 45 empleados y 8 millones de facturación lleva dos años creciendo a doble dígito. La directora general fundadora quiere incorporar un director comercial para estructurar el equipo de ventas, pero el presupuesto no justifica aún un salario de directivo senior a tiempo completo. ¿Cómo se articularía un mandato de fractional interim management en ese contexto?
+- Al finalizar una misión de fractional interim management, ¿cómo decide la empresa si necesita pasar a un modelo de dedicación completa o puede asumir la función con el equipo existente?
