@@ -121,6 +121,9 @@ Registrar aquí cada semana el escenario concreto usado en la FAQ, para no repet
 | 2026-09-21 | Industrial (componentes plásticos) | Empresa familiar de segunda generación (45 M€, exportadora) | Salida imprevista del Director Comercial a seis semanas de la feria sectorial clave en Alemania (40% de exportaciones) | Dirección comercial / internacionalización |
 | 2026-09-28 | Construcción (obra civil, edificación, rehabilitación) | Empresa familiar de tercera generación (52 M€) | Banco exige plan financiero a tres años + forecasting trimestral + memoria de gestión para renovar póliza de crédito | Finanzas / profesionalización empresa familiar |
 | 2026-10-05 | Energías renovables (solar fotovoltaica) | Scale-up española, participada por fondo de infraestructuras europeo | Presión del inversor para separar el rol fundador CEO de la dirección operativa antes de nueva ronda de financiación | Dirección general / profesionalización |
+| 2026-10-12 | Alimentación y bebidas (grupo alimentario) | Grupo familiar primera generación (120 M€, sin PE) | Renuncia responsable IT corporativo con migración al cloud en curso (seis meses iniciada, cuatro meses para terminar) | Transformación digital / CIO |
+| 2026-10-19 | Servicios tecnológicos B2B | Empresa fundadora en crecimiento (8 M€, 45 empleados) | Crecimiento a doble dígito sostenido; fundadora necesita liderazgo comercial senior sin presupuesto para directivo a tiempo completo | Dirección comercial / fractional interim management |
+| 2026-10-26 | Turismo y hostelería | Empresa familiar mediana (propietaria-directora, sin equipo de M&A) | Post-adquisición: 8 hoteles boutique comprados, ninguna experiencia interna en PMI | Dirección general / PMI |
 
 ## 2026-08-24 — COO Interino: el ejecutivo de operaciones que estabiliza la empresa cuando el tiempo apremia
 - Una filial española de un grupo belga de logística y distribución debe afrontar el inicio de su campaña de mayor demanda del año cuando el director de operaciones es reubicado en la matriz con seis semanas de preaviso. ¿Cómo se articula un mandato de interim management en ese contexto?
@@ -157,15 +160,17 @@ Registrar aquí cada semana el escenario concreto usado en la FAQ, para no repet
 - ¿Qué evalúa y qué decide un interim manager en sus primeros 30 días en una empresa energética?
 - ¿Puede un interim manager liderar la expansión de una empresa energética española hacia mercados europeos cuando aún no existe equipo local en destino?
 
-
 ## 2026-10-12 — CIO Interino: el liderazgo tecnológico que la empresa mediana no puede improvisar
 - Un grupo alimentario con sede en Navarra, con 120 millones de facturación y tres filiales regionales, pierde a su único responsable IT corporativo cuando lleva seis meses en curso una migración al cloud. El proyecto debe completarse en cuatro meses para cumplir compromisos con el proveedor y no hay nadie en el equipo interno con autoridad suficiente para liderarlo. ¿Cómo se articularía un mandato de CIO interino en ese contexto?
 - ¿Cómo se garantiza que el conocimiento del CIO interino no desaparece con su salida?
 - ¿Puede el CIO interino comprometer presupuesto y tomar decisiones de inversión tecnológica de forma autónoma?
-| 2026-10-12 | Alimentación y bebidas (grupo alimentario) | Grupo familiar primera generación (120 M€, sin PE) | Renuncia responsable IT corporativo con migración al cloud en curso (seis meses iniciada, cuatro meses para terminar) | Transformación digital / CIO |
-| 2026-10-19 | Servicios tecnológicos B2B | Empresa fundadora en crecimiento (8 M€, 45 empleados) | Crecimiento a doble dígito sostenido; fundadora necesita liderazgo comercial senior sin presupuesto para directivo a tiempo completo | Dirección comercial / fractional interim management |
 
 ## 2026-10-19 — Fractional Interim Management: liderazgo directivo senior sin dedicación exclusiva
 - ¿Cómo se garantiza que un fractional executive tenga autoridad real dentro de la organización si solo está presente dos días a la semana?
 - Una empresa de servicios tecnológicos B2B con 45 empleados y 8 millones de facturación lleva dos años creciendo a doble dígito. La directora general fundadora quiere incorporar un director comercial para estructurar el equipo de ventas, pero el presupuesto no justifica aún un salario de directivo senior a tiempo completo. ¿Cómo se articularía un mandato de fractional interim management en ese contexto?
 - Al finalizar una misión de fractional interim management, ¿cómo decide la empresa si necesita pasar a un modelo de dedicación completa o puede asumir la función con el equipo existente?
+
+## 2026-10-26 — Interim Manager para Integraciones Post-Adquisición: el Ejecutivo que Hace Funcionar la PMI
+- Una cadena hotelera española de tamaño medio acaba de adquirir ocho hoteles boutique en la costa mediterránea. La propietaria-directora general ha gestionado siempre el negocio sin equipo de M&A ni experiencia previa en integraciones. El equipo directivo de los hoteles adquiridos conoce sus propiedades al detalle pero nunca ha operado bajo una estructura corporativa. ¿Cómo se articularía un mandato de interim management en ese contexto?
+- ¿Cómo se alinean las expectativas entre una empresa y el interim manager al inicio de una misión de PMI para que ambas partes compartan el mismo criterio de éxito?
+- ¿Cómo gestiona el interim manager la autoridad sobre el equipo directivo de la empresa adquirida cuando ese equipo no eligió trabajar con él y puede percibir su llegada como una amenaza a su posición?

@@ -1,72 +1,63 @@
-# SEO Strategy Brief — 2026-10-19
+# SEO Strategy Brief — 2026-10-26
 
 ---
 
 ## Tema Seleccionado
 
-**Fractional Interim Management: cuándo la empresa mediana necesita un directivo senior a tiempo parcial**
+**Interim Manager para integraciones post-adquisición: el ejecutivo que hace funcionar la PMI**
 
 ---
 
 ## Justificación Estratégica
 
-El fractional interim management es el cambio estructural más relevante en el mercado europeo de dirección interina en 2026. El IIM lo incorpora por primera vez como categoría en su encuesta anual; en Francia, el 37% de los empleadores ya trabaja con directivos en modo proyecto. En España, el término es prácticamente inexistente en castellano: no hay artículos de calidad, no hay competidores que lo hayan trabajado, y la intención de búsqueda latente es alta porque muchas empresas medianas contratan este tipo de perfil sin saber que tiene un nombre.
+Las adquisiciones generan un momento de máxima necesidad de liderazgo ejecutivo externo: dos organizaciones deben convertirse en una, bajo presión de tiempo, con información incompleta y múltiples grupos de interés con agendas distintas. Este es exactamente el tipo de misión para la que el interim management ofrece la respuesta más directa.
 
-El artículo permite a Manager in Motion posicionarse como primer referente en español de este modelo emergente, generando autoridad y tráfico de descubrimiento. Es especialmente potente para captar leads de empresas medianas y familiares que no justifican un directivo a jornada completa pero sí necesitan liderazgo senior para proyectos concretos: apertura de mercado, implantación de ERP, restructuración de una función, preparación para una ronda de financiación.
+Los mercados europeos —especialmente Francia y el Reino Unido— muestran en octubre de 2026 una aceleración de la demanda de interim managers para misiones de PMI, impulsada por la actividad de fondos de private equity y por empresas en proceso de consolidación. España sigue estos mercados con un desfase de 6 a 12 meses.
+
+El tema no ha sido cubierto en el repositorio de Manager in Motion como artículo principal. El artículo de CHRO (agosto 2026) abordó la integración únicamente desde la perspectiva de recursos humanos. Este artículo aborda la PMI desde la perspectiva del liderazgo ejecutivo general: gobernanza, procesos, sistemas, comunicación y retención de talento.
+
+Eje temático: **Dirección general / PMI (post-merger integration)**
 
 ---
 
 ## Audiencia Objetivo
 
-- Propietarios y CEOs de empresas medianas (10-200 M€) que buscan flexibilidad directiva sin coste fijo
-- CFOs y CHROs de empresas en crecimiento con vacíos de liderazgo en funciones específicas
-- Gestores de fondos de PE con participadas que necesitan profesionalización directiva parcial
-- Directivos y propietarios de empresas familiares en fase de transición o crecimiento
+- CEOs de empresas que acaban de completar una adquisición (o están a punto de hacerlo)
+- Fondos de private equity con participadas en proceso de integración
+- CFOs de empresas adquirentes con mandato de crear valor post-adquisición
+- Consejos de administración de empresas familiares que han comprado un competidor o una línea de negocio
+- COOs con responsabilidad de integrar operaciones de dos empresas
 
 ---
 
 ## Intención de Búsqueda
 
-- Informacional / de descubrimiento: el lector no conoce el concepto y lo encuentra al buscar alternativas al directivo permanente
-- Comercial: decisores que evalúan opciones de liderazgo flexible para un proyecto concreto
-- Comparativa: quieren entender la diferencia entre contratar un directivo a tiempo parcial, un interim manager clásico o una consultoría
+Informacional-transaccional. El decisor busca entender qué es una misión de interim management en una PMI (informacional) pero está en un momento de necesidad real o inminente (transaccional). La búsqueda se produce después de cerrar o estar muy próximos a cerrar una adquisición, o después de constatar que la integración no está progresando como se esperaba.
 
 ---
 
 ## Keywords
 
-**Keyword principal:**
-`fractional interim management`
-
-**Keywords secundarias:**
-- `directivo a tiempo parcial`
-- `interim manager a tiempo parcial`
-- `dirección fraccionada`
-- `fractional executive España`
-- `fractional manager empresa mediana`
-
-**Keywords de cola larga:**
-- `cuándo contratar un directivo a tiempo parcial en lugar de un interim manager`
-- `fractional interim management para empresa familiar`
-- `diferencia entre fractional management e interim management`
-- `directivo senior a tiempo parcial sin contrato indefinido`
-- `cuándo necesita una empresa un fractional executive`
+- **Keyword principal:** interim manager integración post-adquisición
+- **Keywords secundarias:**
+  - interim management PMI España
+  - ejecutivo interino fusión adquisición
+  - interim manager para integrar empresas
+  - directivo interino post-merger integration
+- **Keywords de cola larga:**
+  - cómo contratar un interim manager para liderar una PMI en España
+  - interim manager para integración de dos empresas tras una adquisición
+  - cuándo necesito un interim manager en una post-merger integration
+  - interim management en procesos de integración empresarial España
 
 ---
 
 ## Metadatos SEO
 
-**Título SEO:**
-Fractional Interim Management: el directivo senior a tiempo parcial que la empresa mediana puede activar hoy
-
-**Meta descripción:**
-El fractional interim management permite incorporar liderazgo directivo senior sin coste fijo. Descubre cuándo es la mejor opción frente al interim management clásico y cómo se estructura una misión.
-
-**Slug URL:**
-`/fractional-interim-management-directivo-tiempo-parcial`
-
-**H1:**
-Fractional Interim Management: liderazgo directivo senior sin dedicación exclusiva
+- **Título SEO:** Interim Manager para Integraciones Post-Adquisición: Liderazgo PMI en España
+- **Meta descripción:** Descubre cómo un interim manager lidera la integración post-adquisición con autoridad ejecutiva desde el primer día. Fases críticas, perfil del ejecutivo y cómo estructurar el mandato.
+- **Slug URL:** /interim-manager-integracion-post-adquisicion-pmi
+- **H1:** Interim Manager para Integraciones Post-Adquisición: el Ejecutivo que Hace Funcionar la PMI
 
 ---
 
@@ -74,54 +65,51 @@ Fractional Interim Management: liderazgo directivo senior sin dedicación exclus
 
 **Esquema H2 (máximo 3, sin H3):**
 
-1. **Qué es el fractional interim management y por qué está creciendo en Europa**
-   Definición del concepto, diferencia con el modelo clásico de misión, por qué emerge ahora (datos UK/FR) y qué tipos de empresa lo están usando.
+1. **Los tres momentos críticos de la PMI donde el interim management es decisivo**
+   Cubrir: los primeros 90 días (gobernanza, comunicación, estabilización), la unificación de sistemas y procesos, la retención del talento clave de la empresa adquirida.
 
-2. **Cuándo el fractional es la opción más inteligente (y cuándo no lo es)**
-   Criterios para elegir entre fractional e interim clásico: magnitud del reto, urgencia, presupuesto, duración del proyecto, disponibilidad del directivo. Casos donde NO funciona.
+2. **El perfil del interim manager de PMI: experiencia en integraciones frente a conocimiento sectorial**
+   Cubrir: por qué el track record en PMI pesa más que el sector, las competencias clave (gestión de stakeholders, velocidad de incorporación, independencia de criterio), qué no es este perfil.
 
-3. **Cómo se estructura una misión de fractional interim management**
-   Días por semana, duración típica, mecanismo de reporting, transferencia de conocimiento, cómo se garantiza el impacto con dedicación parcial.
+3. **Cómo estructurar el mandato: alcance, plazos y criterio de salida**
+   Cubrir: cómo definir el alcance de la misión, duración típica en misiones de PMI europeas, cómo acordar el criterio de salida para transferir el liderazgo al equipo permanente.
 
 ---
 
 ## Oportunidades FAQ
 
-- Pregunta comparativa modelo fractional vs. interim clásico (no la consultor vs interim que está prohibida)
-- Pregunta con escenario de empresa concreto (sector distinto a los tres últimos: alimentación, energía renovable, construcción)
-- Pregunta sobre gobernanza o reporting con dedicación parcial
+- Escenario concreto: cadena hotelera mediana que acaba de adquirir hoteles boutique, sin experiencia en PMI
+- Cómo se alinean expectativas entre empresa e interim manager al inicio de la misión (criterio de éxito)
+- Cómo gestiona el interim manager la relación de autoridad con el equipo directivo de la empresa adquirida
 
 ---
 
 ## Recomendaciones de Enlazado Interno
 
-- Artículo sobre CEO Interino (post 2026-09-07)
-- Artículo sobre CFO Interino en la empresa familiar (post 2026-09-28)
-- Artículo sobre Interim Manager para la internacionalización (post 2026-08-17)
+- Artículo sobre CEO interino (septiembre 2026): la gobernanza en situaciones de transición
+- Artículo sobre CHRO interino (agosto 2026): la integración desde la perspectiva de personas
+- Artículo sobre CFO interino (junio 2026): la función financiera en procesos de transformación
 
 ---
 
 ## Recomendaciones de Enlazado Externo
 
-- Informe IIM Annual Survey 2026 (iim.org.uk)
-- Russam Frontline September 2026 (russam.co.uk)
+- Instituto de la Empresa Familiar (IEF): datos sobre M&A en empresas familiares españolas
+- Asociación Española de Capital, Crecimiento e Inversión (ASCRI): actividad de private equity en España
 
 ---
 
 ## Recomendación de CTA
 
-**Tipo:** Consulta de diagnóstico
-**Ángulo:** "¿No estás seguro de si necesitas un interim manager a tiempo completo o un fractional executive? Cuéntanos tu situación y te ayudamos a elegir el modelo más adecuado."
-**Acción esperada:** Solicitar consulta inicial con Manager in Motion.
+CTA de captación de leads cualificados. El decisor que lee este artículo está en un momento de necesidad real o próxima. El CTA debe ser concreto y de baja fricción: "Cuéntenos el estado de su integración. Identificamos el perfil de interim manager adecuado en 48 horas."
 
 ---
 
 ## Instrucciones para el Redactor
 
-1. Usa "fractional interim management" y "fractional executive" como términos en inglés que ya se usan como préstamo en el contexto directivo hispanohablante, exactamente igual que "interim manager" o "interim management". No los traduzcas.
-2. Integra "interim manager" mínimo 3 veces e "interim management" mínimo 3 veces, de forma natural.
-3. Evita presentar el fractional como "inferior" al modelo clásico — es simplemente más adecuado en determinados contextos.
-4. No construyas el artículo como un ataque al modelo de consultoría ni al directivo permanente. El lector es el protagonista positivo.
-5. Sé preciso con los datos: solo incluye cifras verificadas de las fuentes señaladas (IIM, Russam, Robert Half). Si no hay dato verificado, usa afirmación cualitativa.
-6. Tono ejecutivo: el lector es propietario o directivo de empresa mediana, no un académico ni un HR junior.
-7. Longitud máxima del cuerpo: 1.000 palabras estrictas.
+- Tono ejecutivo, sin condescendencia con el lector. El CEO que lee este artículo sabe lo que es una adquisición: no es necesario explicarle el ABC del M&A.
+- No usar la palabra "consultor" en ninguna comparación explícita con el interim manager. El artículo debe hablar del valor del interim management, no de lo que no es.
+- Usar los términos "interim manager" e "interim management" con naturalidad. Mínimo 3 veces cada uno en el cuerpo.
+- No incluir estadísticas no verificadas. El artículo puede funcionar perfectamente con argumentación cualitativa de calidad.
+- Máximo 1.000 palabras en el cuerpo del artículo (introducción a párrafo de cierre, sin FAQ, CTA ni metadatos).
+- Máximo 3 secciones H2. Sin H3 ni sub-apartados.
