@@ -174,3 +174,10 @@ Registrar aquí cada semana el escenario concreto usado en la FAQ, para no repet
 - Una cadena hotelera española de tamaño medio acaba de adquirir ocho hoteles boutique en la costa mediterránea. La propietaria-directora general ha gestionado siempre el negocio sin equipo de M&A ni experiencia previa en integraciones. El equipo directivo de los hoteles adquiridos conoce sus propiedades al detalle pero nunca ha operado bajo una estructura corporativa. ¿Cómo se articularía un mandato de interim management en ese contexto?
 - ¿Cómo se alinean las expectativas entre una empresa y el interim manager al inicio de una misión de PMI para que ambas partes compartan el mismo criterio de éxito?
 - ¿Cómo gestiona el interim manager la autoridad sobre el equipo directivo de la empresa adquirida cuando ese equipo no eligió trabajar con él y puede percibir su llegada como una amenaza a su posición?
+
+## 2026-11-02 — CMO Interino: el Director de Marketing que tu empresa necesita ahora
+- Una empresa de cuidado personal e higiene —empresa familiar de primera generación con 45 millones de facturación y distribución en farmacia y parafarmacia— pierde a su directora de marketing ocho semanas antes del lanzamiento de su primera línea premium, con la campaña de publicidad comprometida y los primeros pedidos de distribuidores franceses ya en curso. ¿Cómo se articula un mandato de CMO interino en ese contexto?
+- ¿Cómo se establece desde el primer día la autoridad del CMO interino sobre el equipo de marketing y las agencias externas cuando ninguno de los interlocutores lo conoce?
+- La empresa tiene una agencia de publicidad con la que lleva cinco años trabajando y que gestionaba la relación directamente con el CMO saliente. ¿Cómo gestiona el CMO interino esa relación sin generar fricción ni duplicar la toma de decisiones?
+
+| 2026-11-02 | Cuidado personal e higiene (cosmética/farmacia) | Empresa familiar primera generación (45 M€, canal farmacia/parafarmacia) | Salida imprevista directora de marketing 8 semanas antes de lanzamiento línea premium + distribuidores franceses comprometidos | Dirección de marketing / internacionalización |
