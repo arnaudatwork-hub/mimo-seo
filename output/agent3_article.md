@@ -1,72 +1,84 @@
-# CMO Interino: cuándo y cómo contratar a tu Director de Marketing | Manager in Motion
+# Interim Management en el Cuarto Trimestre: las Decisiones que No Pueden Esperar a Enero
 
-**Meta descripción:** Un CMO interino puede liderar tu estrategia de marketing en semanas, no meses. Descubre cuándo necesitas uno, qué puede entregar en 90 días y qué lo diferencia de una agencia o consultor externo.
-
-**URL slug:** /cmo-interino-director-marketing-interim
+**Título SEO:** Interim Management en el Cuarto Trimestre: Decisiones Directivas que No Pueden Esperar a Enero
+**Meta descripción:** El Q4 concentra la mayor demanda de directivos de transición en España. Descubre cuándo activar un mandato de interim management, qué puede lograrse en 60-90 días y cómo se articula el traspaso al directivo permanente.
+**URL slug:** interim-management-cuarto-trimestre-decisiones-directivas
 
 ---
 
-## CMO Interino: el Director de Marketing que tu empresa necesita ahora
+Octubre llega y muchas empresas descubren, a veces sin previo aviso, que afrontan una vacante directiva en el peor momento del calendario anual. El cierre del ejercicio se acerca. El banco o el fondo de capital espera un plan creíble sobre la mesa en enero. La auditoría está pendiente. El presupuesto del próximo año no se ha aprobado. Y el equipo directivo aguarda una dirección que nadie está dando.
 
-Cuando la dirección de marketing queda vacante —o cuando la empresa decide que ha llegado el momento de construirla en serio—, la primera reacción suele ser abrir un proceso de selección permanente. Ese proceso dura, en el mejor de los casos, tres meses. En los peores, seis. Mientras tanto, los proyectos en marcha se paralizan, el equipo pierde referencia y las decisiones que no se toman tienen un coste que nadie calcula. El interim management ofrece una alternativa: incorporar un director de marketing con trayectoria C-suite en días, no meses, con mandato ejecutivo real y orientación a resultados desde el primer momento.
+En el mercado europeo del interim management, el cuarto trimestre es el período de mayor demanda. No es casualidad. Las decisiones que se posponen durante el verano se vuelven ineludibles en el tramo final del año, y el margen se estrecha con cada semana que pasa.
 
-## Tres situaciones en las que esperar a la contratación permanente sale caro
+---
 
-La primera es el relevo imprevisto. Un CMO que abandona la empresa con poco preaviso deja al descubierto decisiones de presupuesto en curso, campañas activas, contratos con agencias y proyectos digitales a medio desarrollar. La empresa no puede esperar meses a que llegue un sucesor permanente: hay lanzamientos con fechas fijas, negociaciones con distribuidores y compromisos ya asumidos frente a clientes.
+## Por qué el cuarto trimestre concentra la mayor demanda de interim management
 
-La segunda es el salto de escala. Muchas empresas medianas —y en especial las familiares que llevan décadas creciendo de forma orgánica— han llegado a un punto en que la función de marketing ya no puede seguir sin un liderazgo directivo formal. El fundador gestionaba la marca y el equipo ejecutaba. Cuando la empresa decide profesionalizar esa función o lanzar un nuevo canal de distribución, necesita a alguien que ya haya hecho ese recorrido: que sepa construir la función, configurar el equipo definitivo y dejar los procesos instalados antes de marcharse.
+Tres patrones se repiten en empresas de todos los tamaños.
 
-La tercera es la transformación del canal comercial. Empresas con distribución física consolidada que quieren abrir el e-commerce, reorientar el gasto publicitario hacia canales digitales o integrar datos de cliente en la toma de decisiones necesitan un perfil que combine criterio estratégico y capacidad de ejecución. Un interim manager con experiencia en marketing digital puede liderar esa transformación en un plazo acotado, con entregables claros, y dejar el conocimiento transferido al equipo interno antes de concluir la misión.
+El primero es la salida imprevista de un directivo sénior en otoño. La marcha de un CFO, un CEO o un COO a finales de septiembre o durante octubre deja a la empresa con un problema agudo: una función sin liderazgo en pleno cierre, con revisiones de rendimiento, presentaciones al consejo y compromisos con terceros que no admiten demora. Esperar a enero para iniciar la búsqueda permanente significa tres meses de vacío estratégico.
 
-En los tres casos, el interim management permite actuar sin esperar. El coste de la parálisis —oportunidades perdidas, equipo sin referencia, proyectos bloqueados— supera con frecuencia el coste de la misión.
+El segundo es la presión de banco o inversor antes de fin de año. Los bancos que renuevan líneas de crédito en diciembre o enero exigen documentación — un plan, una proyección financiera, una memoria de gestión — que alguien debe producir con autoridad y rigor técnico. Un fondo de capital riesgo que hace su revisión anual de cartera espera que los hitos operativos se hayan cumplido y que el plan para el próximo ejercicio esté respaldado por el equipo directivo. Esta presión recae sobre quien ocupa el asiento ejecutivo en noviembre, y cuando ese asiento está vacío, el problema se vuelve crítico.
 
-## Qué puede entregar un CMO interino en los primeros 90 días
+El tercer patrón son los plazos de transformación que no pueden deslizarse. Una implantación de ERP, una integración de unidades de negocio, la entrada en un nuevo mercado, una reestructuración de gobernanza: muchos de estos proyectos se diseñaron con diciembre o enero como fecha objetivo. Sin liderazgo ejecutivo en la cúspide, los equipos intermedios se paralizan, las decisiones se acumulan y los costes y riesgos se multiplican.
 
-La diferencia del interim manager de marketing respecto a un consultor externo es que tiene autoridad interna: toma decisiones, gestiona presupuesto y responde por los resultados desde el primer día. No elabora un informe para que lo ejecute otro; lo ejecuta directamente.
+Los tres patrones comparten una característica: la decisión de actuar no puede esperar. El interim management, en ese contexto, es la herramienta más rápida disponible.
 
-En los primeros treinta días, el CMO interino realiza una auditoría operativa: presupuesto comprometido, canales activos, contratos vigentes con agencias, métricas en uso y estado del equipo. El resultado es un mapa de prioridades que distingue lo urgente de lo estratégico.
+---
 
-Entre el día treinta y el día sesenta, el interim manager activa las palancas de impacto más inmediato: los proyectos con retorno más rápido, las decisiones que estaban bloqueadas por falta de autoridad y las correcciones en campañas activas que no estaban rindiendo al nivel esperado.
+## Qué puede resolver un interim manager en 60 a 90 días
 
-En el tramo final del mandato, el CMO interino construye la función para que sea autónoma. Documenta los procesos clave, define los indicadores de seguimiento, acompaña al equipo en la transición y, cuando la empresa lo ha decidido, participa en el proceso de selección del sucesor permanente.
+La primera pregunta de cualquier CEO o director de RRHH al evaluar un mandato en Q4 es siempre la misma: ¿qué se puede conseguir realmente en ese plazo?
 
-Este recorrido —diagnóstico rápido, ejecución, transferencia— es el estándar del interim management bien gestionado en la función de marketing. No deja un hueco: deja una función más robusta que la que encontró.
+La respuesta depende del mandato, pero varios objetivos son alcanzables dentro de esta ventana.
 
-## Cómo se mide el éxito y qué ocurre al final del mandato
+Cerrar el ejercicio con rigor directivo. Un interim manager con experiencia en finanzas o dirección general puede asumir el cierre del ejercicio: revisar dotaciones, documentar resultados, preparar los informes financieros y de gestión para auditores, consejo y prestamistas. No es trabajo marginal: protege la credibilidad de la empresa ante quienes más importan de cara a enero.
 
-El mandato de un CMO interino comienza con un acuerdo de objetivos. No es un documento formal de condiciones: es una conversación entre el CEO y el interim manager sobre qué debe estar resuelto al finalizar la misión, en qué plazo y con qué indicadores.
+Elaborar el plan estratégico para el año siguiente. Muchos consejos e inversores exigen un plan aprobado antes del inicio del nuevo ejercicio. Un interim manager con el perfil adecuado puede liderar ese proceso — facilitando sesiones de trabajo con el equipo directivo, sintetizando el diagnóstico y presentando propuestas y prioridades — en un plazo de seis a ocho semanas.
 
-Los KPIs varían según el contexto. En un relevo urgente, el éxito significa que los proyectos en curso lleguen a su destino sin pérdida de calidad ni de plazo. En una transformación de canal, el indicador puede ser la tasa de conversión del e-commerce en el tercer mes o el número de distribuidores activados en un nuevo mercado. En la profesionalización de la función, el criterio es que el equipo sea autónomo y los procesos estén documentados antes de que llegue el sucesor permanente.
+Estabilizar el equipo directivo. Cuando un directivo sénior se marcha de forma súbita, la incertidumbre se propaga con rapidez. Los mandos intermedios pierden orientación. Los mejores profesionales empiezan a evaluar sus opciones. Un interim manager que llega con autoridad y objetivos claros puede contener ese movimiento en las primeras semanas, antes de que derive en pérdida de talento.
 
-El final del mandato no es una fecha arbitraria: es el momento en que los objetivos acordados se han cumplido o en que la empresa está en condiciones de asumir la función con sus propios recursos. A veces la misión se extiende porque los proyectos activos así lo justifican. En ocasiones, la empresa decide incorporar al interim manager de forma permanente. El criterio de decisión es siempre el mismo: el interés de la empresa, no la conveniencia del directivo.
+Preparar la transición para el directivo permanente. Esta es quizá la función más infravalorada del interim management en Q4. Un directivo de transición que documenta procesos, decisiones organizativas, relaciones clave con grupos de interés y el estado de los proyectos en curso deja al futuro directivo permanente en posición de ser productivo desde el primer día, en lugar de necesitar tres meses para comprender el contexto.
 
-El interim management en la función de marketing no es una solución de emergencia: es una herramienta de aceleración para empresas que saben lo que quieren conseguir y necesitan a alguien que ya lo haya hecho.
+---
+
+## Cómo se activa y estructura un mandato de interim management en Q4
+
+La pregunta más frecuente al evaluar este tipo de mandato es sobre el tiempo: ¿con qué rapidez puede estar alguien operativo?
+
+En la práctica, una activación bien estructurada de interim management puede incorporar a un ejecutivo cualificado en un plazo de entre diez días y tres semanas desde el primer contacto. Esa diferencia de velocidad respecto a cualquier proceso de selección permanente es, en el tramo final del año, decisiva.
+
+El mandato de Q4 sigue una lógica diferente a una misión estándar. Tres elementos deben definirse con precisión desde el principio.
+
+Los entregables concretos del mandato, no solo las funciones. En un mandato de 90 días no hay tiempo para una aclimatación gradual. El interim manager y la empresa deben acordar desde la primera semana qué tiene que estar completado antes del final de la misión.
+
+Un calendario realista y comprometido. Si la empresa necesita el cierre del ejercicio gestionado, el plan para el año siguiente presentado y una transición ordenada antes del 31 de diciembre, esos hitos deben estar reflejados en el mandato con fechas concretas.
+
+Los criterios de salida y de traspaso. El signo más claro de un mandato de Q4 bien diseñado es que tanto la empresa como el interim manager saben desde el principio qué aspecto tiene un final exitoso. Esto evita la extensión del mandato sin propósito y garantiza que la transición al directivo permanente sucede en el plazo previsto.
+
+Para una empresa con una vacante directiva identificada en Q4, la decisión más valiosa es la más rápida. Quienes activan el mandato en octubre o en la primera quincena de noviembre llegan a enero con su agenda ejecutiva bajo control. Quienes lo posponen llegan al consejo o al banco con una brecha de liderazgo difícil de explicar.
 
 ---
 
 ## Preguntas Frecuentes
 
-**Una empresa de cuidado personal e higiene —empresa familiar de primera generación con 45 millones de facturación y distribución en farmacia y parafarmacia— pierde a su directora de marketing ocho semanas antes del lanzamiento de su primera línea premium, con la campaña de publicidad comprometida y los primeros pedidos de distribuidores franceses ya en curso. ¿Cómo se articula un mandato de CMO interino en ese contexto?**
+**La filial española de un grupo asegurador europeo pierde a su director general a diez semanas del cierre del ejercicio. La matriz exige el plan de negocio para el año siguiente antes del 20 de enero, hay una auditoría interna en curso y el equipo directivo local nunca ha gestionado un cierre sin un CEO. ¿Cómo se articula un mandato de interim management en ese contexto?**
 
-La primera semana del interim manager es de diagnóstico rápido: estado real de la campaña, fechas comprometidas con agencias, material creativo pendiente de aprobación y compromisos concretos con los distribuidores franceses. Con ese mapa sobre la mesa, el CMO interino prioriza: qué puede ejecutarse tal como está, qué necesita decisión inmediata y qué puede reorientarse sin comprometer el lanzamiento. El objetivo de los primeros treinta días no es rediseñar la estrategia; es garantizar que el lanzamiento llega en plazo y en condiciones. A partir del mes dos, con el lanzamiento en curso, el interim manager puede asumir la visión de medio plazo: posicionamiento de la línea premium, feedback del canal francés y decisiones sobre la continuidad de la distribución internacional.
+El perfil requerido es un interim manager con experiencia en dirección general de filiales de grupos multinacionales, con capacidad de leer el contexto institucional rápido y de reportar con rigor a una matriz exigente. Los primeros diez días se destinan a asumir el cierre de la auditoría interna en curso y a establecer la interlocución con la matriz y el consejo local. Las semanas siguientes se centran en dos entregables paralelos: el cierre del ejercicio con la documentación que el auditor externo y el banco necesitan, y la facilitación del proceso para el plan de negocio que la matriz espera en enero. El criterio de salida es la incorporación del directivo permanente, con un período de solapamiento de diez días para el traspaso. En ese plazo acotado, el interim manager no lidera transformaciones estructurales: su misión es que la empresa llegue al nuevo ejercicio con continuidad directiva, credibilidad institucional y un plan aprobado.
 
----
+**¿Qué objetivos son realistas para un interim manager que se incorpora en octubre con un mandato de 90 días?**
 
-**¿Cómo se establece desde el primer día la autoridad del CMO interino sobre el equipo de marketing y las agencias externas cuando ninguno de los interlocutores lo conoce?**
+Son alcanzables: cierre del ejercicio con documentación para auditoría, consejo e inversores; elaboración o facilitación del plan estratégico para el año siguiente; estabilización del equipo directivo y retención del talento clave; y traspaso documentado al directivo permanente. No son alcanzables en ese plazo: una transformación organizativa de calado, el lanzamiento de nuevas líneas de negocio que requieren inversión y alineamiento institucional, o la reconstrucción completa del equipo directivo. La precisión en la definición del mandato es lo que convierte esos 90 días en una palanca de alto valor, o en una fuente de frustración para ambas partes.
 
-La autoridad no se negocia: la fija la empresa. La comunicación interna del CEO al equipo y a las agencias —presentando al CMO interino como la dirección de marketing en funciones con plena capacidad de decisión— es el paso previo que no puede omitirse. A partir de ahí, el interim manager construye credibilidad operativa en las primeras semanas: demostrando que conoce el negocio, que toma decisiones con criterio y que no genera burocracia adicional. Las agencias con las que lleva años trabajando la empresa valoran la continuidad; el CMO interino les ofrece exactamente eso: un interlocutor que decide, no que pide permiso.
+**¿Cómo se gestiona el traspaso entre el interim manager de Q4 y el directivo permanente que se incorpora en enero para que no se pierda lo construido durante el mandato?**
 
----
-
-**La empresa tiene una agencia de publicidad con la que lleva cinco años trabajando y que gestionaba la relación directamente con el CMO saliente. ¿Cómo gestiona el CMO interino esa relación sin generar fricción ni duplicar la toma de decisiones?**
-
-La primera reunión con la agencia es clave. El CMO interino llega sin agenda de cambio: llega a entender qué hay en marcha, cuáles son los compromisos activos y qué información necesita para tomar decisiones con conocimiento de causa. La agencia percibe a un directivo que respeta el trabajo previo y que no va a reemplazarla; lo que busca es alinearse con ella para que los proyectos en curso lleguen a buen puerto. La regla es sencilla: una sola voz de cliente frente a la agencia, que es la del CMO interino. Si el equipo interno tiene contacto directo con la agencia en paralelo, el primer paso del interim manager es redirigir esos flujos de comunicación para evitar instrucciones contradictorias.
+El traspaso eficaz requiere tres elementos. Primero, documentación sistemática a lo largo del mandato: decisiones tomadas con su contexto, estado de los proyectos en curso, mapa de relaciones con grupos de interés clave y diagnóstico del equipo directivo. Segundo, un período de solapamiento de entre una y dos semanas en el que el interim manager acompaña al directivo permanente en sus primeras reuniones y sesiones de trabajo. Tercero, disponibilidad puntual del interim manager durante el primer mes del directivo permanente para resolver dudas concretas. Este modelo de traspaso convierte los 90 días de interim management en un activo que el directivo permanente puede aprovechar desde el día uno, en lugar de tener que reiniciar el diagnóstico desde cero.
 
 ---
 
-## ¿Necesita un CMO interino para su empresa?
+## ¿Tiene una vacante directiva en Q4?
 
-Manager in Motion conecta a empresas con directivos de marketing de alto nivel disponibles en días, no meses. Si la empresa afronta un relevo imprevisto, un lanzamiento con fecha fija o una transformación del canal comercial, el primer paso es una conversación sin compromiso.
+Manager in Motion puede incorporar el perfil adecuado en menos de dos semanas. Contacte ahora para una primera conversación sin compromiso.
 
 ---
 
@@ -74,13 +86,8 @@ Manager in Motion conecta a empresas con directivos de marketing de alto nivel d
 
 ## Fuentes consultadas
 
-- France Transition / RH Solutions: Barómetro del Management de Transición H1 2026. rh-solutions.com (julio 2026)
-- Morgan Philips: Baromètre du Management de Transition 2026. insights.morganphilips.com
-- Institute of Interim Management (IIM, UK): Interim Management Survey 2026, 17ª edición. iim.org.uk (junio 2026)
-- Russam Interim: Frontline 17 — Turning point for Interim Management (septiembre 2026). russam.co.uk
-- Heidrick & Struggles: "How interim talent is delivering transformation for UK businesses in 2026". heidrick.com
-- DDIM: Marktstudie 2026 — Interim Management behauptet sich in anspruchsvollem Marktumfeld. ddim.de (febrero 2026)
-- EPUNTO: "El Interim Management en 2026". epunto.es
-- Servitalent: "Interim Management in Spain: Report and trends 2026". blog.servitalent.com
-- INIMA: INIMA Report 2026 (referenciado en fuentes secundarias del sector)
-- Asociación AIME (Asociación Española de Interim Management): interimspain.org
+- Robert Half Francia: "Management de transition en 2026: les 5 situations ou le choix devient rationnel" — referencia sobre la evolución del management de transition en Francia
+- Russam GMS (UK): "Frontline 17: Turning point for Interim Management" (septiembre 2026) — datos de recuperación del mercado de interim management en Reino Unido
+- Wieselhuber & Partner: "Barómetro de Reestructuración y Saneamiento 2026" — 77% de expertos prevé aumento de casos de restructuración en Alemania y Austria
+- OMS&Co: "OMS&Co supera los 95 mandatos en Iberia y prevé facturar más de cuatro millones en 2026" (Bolsamanía, 2026) — datos de crecimiento del mercado en España
+- Heidrick & Struggles: "How interim talent is delivering transformation for UK businesses in 2026" — tendencias de demanda en mercados europeos

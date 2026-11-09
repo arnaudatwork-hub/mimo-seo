@@ -1,72 +1,62 @@
-# SEO Strategy Brief — 2026-11-02
+# SEO Strategy Brief — 2026-11-09
 
 ---
 
 ## Tema Seleccionado
 
-**CMO Interino: el Director de Marketing que la empresa no puede esperar a contratar**
+**Interim management en el cuarto trimestre: activar un mandato ejecutivo antes del cierre del ejercicio**
 
 ---
 
 ## Justificación Estratégica
 
-El repositorio de Manager in Motion cubre en profundidad las funciones C-suite de CFO, COO, CIO, CEO, CHRO, CDO, CTO y Director Comercial, pero no ha abordado en ningún momento el Director de Marketing interino. El espacio SEO para este término en español está prácticamente vacío, lo que representa una ventana de posicionamiento inmediato con competencia mínima.
+El cuarto trimestre es el momento de mayor presión institucional para las empresas: renovación de crédito bancario, revisión de fondos de private equity, aprobación del plan estratégico para el año siguiente y resolución de vacantes directivas antes de enero. Tres mercados europeos de referencia (Alemania, Reino Unido y Francia) registran en 2026 un aumento notable de la demanda de directivos de transición vinculada a situaciones de restructuración, presión financiera y procesos de transformación con fecha límite. En España, los proveedores de interim management confirman que la demanda de perfiles de dirección general, finanzas y operaciones se concentra en momentos de máxima urgencia ejecutiva.
 
-Las señales de mercado de esta semana refuerzan la oportunidad: el Reino Unido reporta que los roles digitales/IT/datos crecieron un 58% desde 2023 en demanda de interim; España sitúa tecnología y digitalización como la función más demandada en 2026 según EPUNTO. El CMO interino está exactamente en esa intersección.
+Este artículo cubre un eje temático no abordado en el repositorio: el timing de la decisión. Los artículos anteriores se han centrado en el perfil del directivo interino (CFO, CEO, COO, CMO) o en el contexto sectorial (industrial, energía, turismo). Este artículo se enfoca en la ventana temporal como detonante y en cómo aprovecharla, lo que lo convierte en un activo de captura de demanda cualificada con alta intención de compra.
 
-El decisor es preciso: CEO o fundador de una empresa de 15 a 150 M€ que afronta un relevo de CMO, el lanzamiento de un canal digital, una reorientación de marca o una apertura a nuevos mercados. Alta intención de compra, recorrido de decisión corto. El tono debe ser ejecutivo y práctico: el lector ya sabe lo que necesita; el artículo le confirma que el interim management es el camino correcto y que Manager in Motion es el proveedor idóneo.
+El artículo se posiciona en el eje de **dirección general y finanzas**, con conexión directa con los ejes de **profesionalización de empresas familiares** y **private equity**.
 
 ---
 
 ## Audiencia Objetivo
 
-- **Primaria:** CEOs y fundadores de empresas de 15 a 150 M€ (manufactura, alimentación, retail, salud, servicios B2B, tecnología) que buscan cubrir una vacante de dirección de marketing o acelerar una transformación comercial.
-- **Secundaria:** CHROs y directores generales de empresas familiares que profesionalizan su función de marketing por primera vez.
-- **Terciaria:** Directores de Operaciones e inversores de private equity que necesitan reactivar el motor comercial de una empresa participada antes de una desinversión.
+- CEO y propietario de empresa familiar mediana (50-500 empleados) que se acerca al cierre del ejercicio con una vacante directiva sin cubrir o con un directivo que no está a la altura del momento
+- CFO o director financiero que necesita apoyo ejecutivo para preparar la documentación que banco o inversor exigirá en enero
+- CHRO o directora de RRHH que gestiona la salida de un directivo senior en Q4 y necesita una solución de transición rápida
+- Director de private equity con una empresa en cartera bajo presión de rendimiento al cierre del año
 
 ---
 
 ## Intención de Búsqueda
 
-- **Transaccional / comercial:** "CMO interino España", "director de marketing interino", "contratar director de marketing interim".
-- **Informacional avanzada:** "cuándo contratar un CMO interino", "qué hace un director de marketing interino", "CMO interino empresa mediana".
-- **Comparativa:** "CMO interino vs agencia de marketing", "director de marketing temporal o permanente".
+**Decisional-informacional:** el lector ya sabe que tiene un problema directivo en Q4 y está evaluando si el interim management es la solución adecuada para resolverlo en un plazo acotado. Busca entender qué puede conseguir, en cuánto tiempo y cómo se activa.
 
 ---
 
 ## Keywords
 
-**Keyword principal:**
-`CMO interino`
+**Keyword principal:** interim management cuarto trimestre
 
 **Keywords secundarias:**
-- `director de marketing interino`
-- `interim manager marketing España`
-- `director de marketing temporal`
-- `CMO interim management`
+- directivo interino cierre ejercicio
+- interim manager fin de año España
+- contratar interim manager urgente
+- vacante directiva temporal Q4
 
 **Keywords de cola larga:**
-- `cuándo contratar un CMO interino`
-- `director de marketing interino empresa familiar`
-- `CMO interino vs agencia de marketing`
-- `contratar director de marketing interino España`
-- `interim management función marketing empresa mediana`
+- cuándo activar un interim manager antes del cierre del ejercicio
+- qué puede hacer un interim manager en dos meses
+- directivo interino para preparar plan estratégico 2027
+- interim management empresa familiar cierre fiscal
 
 ---
 
 ## Metadatos SEO
 
-**Título SEO:**
-`CMO Interino: cuándo y cómo contratar a tu Director de Marketing | Manager in Motion`
-
-**Meta descripción:**
-`Un CMO interino puede liderar tu estrategia de marketing en semanas, no meses. Descubre cuándo necesitas uno, qué puede entregar en 90 días y qué lo diferencia de una agencia o consultor externo.`
-
-**Slug URL:**
-`/cmo-interino-director-marketing-interim`
-
-**H1:**
-`CMO Interino: el Director de Marketing que tu empresa necesita ahora`
+**Título SEO:** Interim Management en el Cuarto Trimestre: Decisiones Directivas que No Pueden Esperar a Enero
+**Meta descripción:** El Q4 concentra la mayor demanda de directivos de transición en España. Descubre cuándo activar un mandato de interim management, qué puede lograrse en 60-90 días y cómo se articula el traspaso al directivo permanente.
+**Slug URL:** interim-management-cuarto-trimestre-decisiones-directivas
+**H1:** Interim Management en el Cuarto Trimestre: las Decisiones que No Pueden Esperar a Enero
 
 ---
 
@@ -74,65 +64,50 @@ El decisor es preciso: CEO o fundador de una empresa de 15 a 150 M€ que afront
 
 **Esquema H2 (máximo 3, sin H3):**
 
-1. **Tres situaciones en las que esperar a la contratación permanente sale caro**
-   — Relevo imprevisto, lanzamiento de canal digital, reorientación de marca o apertura de mercado. El coste de la parálisis vs. el coste del interim.
+1. **Por qué el cuarto trimestre es la ventana crítica del interim management** — Los tres detonantes que concentran la demanda de directivos de transición en Q4: vacantes directivas con impacto en el cierre, exigencias de banco o inversor para renovar compromisos, y la necesidad de tener en marcha el plan de 2027 antes de enero.
 
-2. **Qué puede entregar un CMO interino en los primeros 90 días**
-   — Diagnóstico comercial, prioridades ejecutadas, equipo alineado, métricas instaladas. Diferencia con el consultor (que diagnostica pero no ejecuta) y con la agencia (que ejecuta pero sin autoridad interna).
+2. **Qué puede conseguir un interim manager en 60 a 90 días** — Objetivos alcanzables en un mandato acotado de Q4: cierre del ejercicio, elaboración del plan financiero o estratégico, estabilización del equipo directivo y preparación del relevo permanente.
 
-3. **Cómo se mide el éxito y qué ocurre al final del mandato**
-   — KPIs acordados al inicio del mandato, transferencia de conocimiento al equipo y al sucesor permanente, decisión sobre el modelo de salida.
+3. **Cómo se activa y cómo se cierra un mandato de interim management en Q4** — Proceso de incorporación (plazo real, perfil requerido, estructura contractual), gobernanza durante el mandato y criterios de salida antes de fin de año.
 
 ---
 
 ## Oportunidades FAQ
 
-1. Una empresa de alimentación con distribución nacional acaba de perder a su director de marketing a tres meses del lanzamiento de una nueva línea de producto y con la campaña de publicidad ya contratada. ¿Cómo se articula un mandato de CMO interino en ese contexto?
-2. ¿En qué se diferencia un CMO interino de un consultor de marketing estratégico cuando la empresa necesita resultados en menos de seis meses?
-3. ¿Puede un CMO interino redefinir el posicionamiento de marca de una empresa familiar sin conocer el sector en profundidad?
+- Una pregunta de escenario de empresa concreta: una empresa del sector sanitario o farmacéutico con presión bancaria en Q4
+- Una pregunta operativa: qué puede cerrar un interim manager en 60-90 días
+- Una pregunta de gobernanza: cómo se gestiona el traspaso entre el interim manager y el directivo permanente
 
 ---
 
 ## Recomendaciones de Enlazado Interno
 
-- Artículo sobre Director Comercial interino (`/director-comercial-interino`)
-- Artículo sobre CHRO interino (`/chro-interino-director-recursos-humanos`)
-- Artículo sobre fractional interim management (`/fractional-interim-management`)
-- Página de servicios generales de interim management de Manager in Motion
+- Artículo sobre CFO interino en la empresa familiar (2026-09-28): enlazar desde la sección sobre exigencias bancarias
+- Artículo sobre CEO interino (2026-09-07): enlazar desde la sección sobre vacantes directivas de dirección general
+- Artículo sobre fractional interim management (2026-10-19): enlazar desde la sección sobre el modelo Q4 de dedicación parcial
 
 ---
 
 ## Recomendaciones de Enlazado Externo
 
-- Asociación AIME (Asociación Española de Interim Management): interimspain.org
-- EPUNTO: referencia de mercado español 2026
-- IIM (Institute of Interim Management, UK): iim.org.uk — dato de crecimiento en roles digitales
+- Barómetro de reestructuración Wieselhuber 2026 (referencia de autoridad sobre demanda de turnaround)
+- Informe Russam UK sobre mercado de interim management (referencia sobre recuperación del mercado europeo)
 
 ---
 
 ## Recomendación de CTA
 
-**CTA principal:**
-"¿Necesitas un CMO interino para tu empresa? Manager in Motion conecta a tu organización con directivos de marketing de alto nivel disponibles en días, no meses. Consulta sin compromiso."
-
-**Formato:** Botón + formulario de contacto corto (empresa, sector, urgencia).
+**Título del CTA:** ¿Tiene una vacante directiva en Q4?
+**Texto:** Manager in Motion puede incorporar el perfil adecuado en menos de dos semanas. Contacte ahora para una primera conversación sin compromiso.
 
 ---
 
 ## Instrucciones para el Redactor
 
-1. **Tono ejecutivo y práctico.** El lector es un CEO o fundador que ya tiene el problema encima de la mesa. No le expliques qué es el interim management: llega directamente al dilema que tiene.
-
-2. **El CMO interino no es un sustituto de emergencia; es un acelerador.** El ángulo debe ser proactivo: empresas que no esperan a la urgencia para incorporar un CMO interino salen adelante más rápido.
-
-3. **Diferenciación sin atacar.** La diferencia con la agencia de marketing y con el consultor debe ser factual y constructiva, nunca despectiva.
-
-4. **Terminología obligatoria:** usar "interim manager" e "interim management" mínimo 3 veces cada uno. Prohibido: "directivo interino", "gestión interina", "management interino", "manager interino".
-
-5. **Cifras:** no incluir ningún dato cuantitativo que no esté verificado. El artículo debe funcionar con afirmaciones cualitativas bien argumentadas si no hay cifras verificables.
-
-6. **Longitud máxima del cuerpo:** 1.000 palabras estrictas (introducción + 3 H2 + cierre).
-
-7. **FAQ:** 3 preguntas, siguiendo todas las reglas del sistema (ver prompt Agente 3). Una de las preguntas debe partir de un escenario de empresa concreto y verosímil (sector: alimentación y distribución / detonante: salida imprevista del CMO + lanzamiento de producto inminente). Verificar que no repite el historial de faq_history.md.
-
-8. **No primera persona.** Ni singular ni plural. Construir con impersonal o tercera persona.
+- El artículo debe sonar como un consejo ejecutivo que da un profesional con experiencia, no como un anuncio.
+- No usar la primera persona ("yo", "nosotros", "nuestro").
+- Estructurar el artículo en torno a situaciones concretas que el lector puede reconocer: "si su empresa se encuentra en una de estas situaciones en octubre o noviembre..."
+- Integrar "interim management" e "interim manager" de forma natural, mínimo 3 veces cada uno.
+- El artículo debe poder leerse en menos de 4 minutos: claridad, párrafos cortos, lenguaje ejecutivo.
+- Ningún dato cuantitativo que no pueda verificarse. Preferir afirmaciones cualitativas bien argumentadas.
+- El cierre debe proyectar hacia la acción: el lector debe saber exactamente qué paso dar si se identifica con alguna de las situaciones descritas.

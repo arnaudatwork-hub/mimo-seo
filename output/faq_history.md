@@ -181,3 +181,10 @@ Registrar aquí cada semana el escenario concreto usado en la FAQ, para no repet
 - La empresa tiene una agencia de publicidad con la que lleva cinco años trabajando y que gestionaba la relación directamente con el CMO saliente. ¿Cómo gestiona el CMO interino esa relación sin generar fricción ni duplicar la toma de decisiones?
 
 | 2026-11-02 | Cuidado personal e higiene (cosmética/farmacia) | Empresa familiar primera generación (45 M€, canal farmacia/parafarmacia) | Salida imprevista directora de marketing 8 semanas antes de lanzamiento línea premium + distribuidores franceses comprometidos | Dirección de marketing / internacionalización |
+
+## 2026-11-09 — Interim Management en el Cuarto Trimestre: las Decisiones que No Pueden Esperar a Enero
+- La filial española de un grupo asegurador europeo pierde a su director general a diez semanas del cierre del ejercicio. La matriz exige el plan de negocio para el año siguiente antes del 20 de enero, hay una auditoría interna en curso y el equipo directivo local nunca ha gestionado un cierre sin un CEO. ¿Cómo se articula un mandato de interim management en ese contexto?
+- ¿Qué objetivos son realistas para un interim manager que se incorpora en octubre con un mandato de 90 días?
+- ¿Cómo se gestiona el traspaso entre el interim manager de Q4 y el directivo permanente que se incorpora en enero para que no se pierda lo construido durante el mandato?
+
+| 2026-11-09 | Seguros (filial española de grupo asegurador europeo) | Filial española de grupo multinacional europeo | Salida del director general a 10 semanas del cierre del ejercicio + auditoría interna en curso + plan de negocio exigido por la matriz antes del 20 de enero | Dirección general / Q4 / cierre de ejercicio |
