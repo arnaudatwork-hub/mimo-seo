@@ -188,3 +188,10 @@ Registrar aquí cada semana el escenario concreto usado en la FAQ, para no repet
 - ¿Cómo se gestiona el traspaso entre el interim manager de Q4 y el directivo permanente que se incorpora en enero para que no se pierda lo construido durante el mandato?
 
 | 2026-11-09 | Seguros (filial española de grupo asegurador europeo) | Filial española de grupo multinacional europeo | Salida del director general a 10 semanas del cierre del ejercicio + auditoría interna en curso + plan de negocio exigido por la matriz antes del 20 de enero | Dirección general / Q4 / cierre de ejercicio |
+
+## 2026-11-16 — CHRO Interino en la Empresa Familiar: el Liderazgo de Personas que Transforma sin Esperar
+- Una empresa familiar de servicios de ingeniería industrial con sede en el País Vasco, con 160 empleados y la función de RRHH gestionada desde administración, recibe una oferta de entrada de un fondo de private equity que exige, como condición previa a la due diligence, una estructura formal de recursos humanos con políticas documentadas y un organigrama directivo funcional. La empresa tiene cuatro meses. ¿Cómo se articula un mandato de CHRO interino en ese contexto?
+- ¿Cómo gestiona el CHRO interino la autoridad sobre decisiones de personal cuando el propietario-fundador ha tomado esas decisiones en solitario durante veinte años?
+- ¿Puede el CHRO interino tomar decisiones de desvinculación o liderar reestructuraciones del equipo directivo, o esas decisiones quedan reservadas a la propiedad familiar?
+
+| 2026-11-16 | Servicios de ingeniería industrial | Empresa familiar mediana (160 empleados, sin estructura formal de RRHH) | Oferta de entrada de fondo PE que exige estructura formal de RRHH antes de due diligence | RRHH / profesionalización empresa familiar |

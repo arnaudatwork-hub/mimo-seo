@@ -1,113 +1,88 @@
-# SEO Strategy Brief — 2026-11-09
-
----
+# SEO Strategy Brief — 2026-11-16
 
 ## Tema Seleccionado
-
-**Interim management en el cuarto trimestre: activar un mandato ejecutivo antes del cierre del ejercicio**
-
----
+**CHRO Interino en la Empresa Familiar: el liderazgo de personas que transforma la organización sin esperar**
 
 ## Justificación Estratégica
+La profesionalización de la función de RRHH es uno de los retos más frecuentes y menos atendidos en la empresa familiar española de tamaño mediano. Empresas de entre 50 y 200 empleados que han crecido de forma orgánica gestionan los recursos humanos desde administración: un responsable sin rango directivo, sin herramientas de gestión estratégica del talento y sin visión sobre la organización futura. Este modelo funciona hasta que la empresa supera ciertos umbrales de complejidad: una transición generacional, la entrada de un inversor, la apertura de una filial o simplemente el momento en que el talento clave empieza a marcharse porque no hay una propuesta de valor clara para los profesionales senior.
 
-El cuarto trimestre es el momento de mayor presión institucional para las empresas: renovación de crédito bancario, revisión de fondos de private equity, aprobación del plan estratégico para el año siguiente y resolución de vacantes directivas antes de enero. Tres mercados europeos de referencia (Alemania, Reino Unido y Francia) registran en 2026 un aumento notable de la demanda de directivos de transición vinculada a situaciones de restructuración, presión financiera y procesos de transformación con fecha límite. En España, los proveedores de interim management confirman que la demanda de perfiles de dirección general, finanzas y operaciones se concentra en momentos de máxima urgencia ejecutiva.
+Un CHRO interino cubre exactamente ese hueco: aporta visión estratégica, construye los procesos y la gobernanza de RRHH que la empresa necesita para el siguiente nivel, y lo hace en un mandato de seis a doce meses, sin el coste ni el riesgo de una contratación permanente de alto nivel. El tema combina dos ejes temáticos prioritarios (RRHH y profesionalización de empresas familiares) y tiene baja competencia en SEO español con demanda creciente. El artículo del 2026-08-18 (CHRO interino en PMI post-adquisición en distribución farmacéutica) abordó un escenario de crisis diferente; este artículo cubre la profesionalización proactiva, que es la situación de inicio más frecuente.
 
-Este artículo cubre un eje temático no abordado en el repositorio: el timing de la decisión. Los artículos anteriores se han centrado en el perfil del directivo interino (CFO, CEO, COO, CMO) o en el contexto sectorial (industrial, energía, turismo). Este artículo se enfoca en la ventana temporal como detonante y en cómo aprovecharla, lo que lo convierte en un activo de captura de demanda cualificada con alta intención de compra.
-
-El artículo se posiciona en el eje de **dirección general y finanzas**, con conexión directa con los ejes de **profesionalización de empresas familiares** y **private equity**.
-
----
+Señal anticipada del mercado europeo: el 75% de las misiones en España son ya part-time o fractional (Servitalent 2026), lo que apunta a que el perfil de CHRO interino encaja cada vez mejor con la realidad operativa y presupuestaria de la empresa familiar mediana.
 
 ## Audiencia Objetivo
-
-- CEO y propietario de empresa familiar mediana (50-500 empleados) que se acerca al cierre del ejercicio con una vacante directiva sin cubrir o con un directivo que no está a la altura del momento
-- CFO o director financiero que necesita apoyo ejecutivo para preparar la documentación que banco o inversor exigirá en enero
-- CHRO o directora de RRHH que gestiona la salida de un directivo senior en Q4 y necesita una solución de transición rápida
-- Director de private equity con una empresa en cartera bajo presión de rendimiento al cierre del año
-
----
+- CEOs, directores generales y propietarios de empresas familiares medianas (20-200 M€ de facturación, 50-300 empleados)
+- Directores de administración y finanzas que gestionan de facto los RRHH sin un perfil directivo de personas
+- Inversores de PE y family offices con participadas en proceso de profesionalización
+- Consejeros independientes y asesores de empresa familiar
 
 ## Intención de Búsqueda
-
-**Decisional-informacional:** el lector ya sabe que tiene un problema directivo en Q4 y está evaluando si el interim management es la solución adecuada para resolverlo en un plazo acotado. Busca entender qué puede conseguir, en cuánto tiempo y cómo se activa.
-
----
+Informacional + comercial: el decisor que busca entender cuándo y cómo usar un CHRO interino en su empresa familiar. No está en modo de compra inmediata, pero está considerando la opción tras experimentar un problema concreto: fuga de talento directivo, dificultad para atraer perfiles senior, exigencia de un inversor, o preparación de una transición generacional.
 
 ## Keywords
 
-**Keyword principal:** interim management cuarto trimestre
+**Keyword principal:** director de RRHH interino empresa familiar
 
 **Keywords secundarias:**
-- directivo interino cierre ejercicio
-- interim manager fin de año España
-- contratar interim manager urgente
-- vacante directiva temporal Q4
+- CHRO interino empresa familiar
+- directivo interino recursos humanos
+- interim manager RRHH España
+- profesionalización recursos humanos empresa familiar
+- director de personas interino pyme
 
 **Keywords de cola larga:**
-- cuándo activar un interim manager antes del cierre del ejercicio
-- qué puede hacer un interim manager en dos meses
-- directivo interino para preparar plan estratégico 2027
-- interim management empresa familiar cierre fiscal
-
----
+- cómo profesionalizar la función de RRHH en una empresa familiar
+- cuándo necesito un director de personas interino en mi empresa
+- CHRO interino para empresa familiar en crecimiento España
+- interim management recursos humanos pyme España 2026
+- qué hace un CHRO interino en una empresa familiar mediana
 
 ## Metadatos SEO
 
-**Título SEO:** Interim Management en el Cuarto Trimestre: Decisiones Directivas que No Pueden Esperar a Enero
-**Meta descripción:** El Q4 concentra la mayor demanda de directivos de transición en España. Descubre cuándo activar un mandato de interim management, qué puede lograrse en 60-90 días y cómo se articula el traspaso al directivo permanente.
-**Slug URL:** interim-management-cuarto-trimestre-decisiones-directivas
-**H1:** Interim Management en el Cuarto Trimestre: las Decisiones que No Pueden Esperar a Enero
+**Título SEO:** CHRO Interino en la Empresa Familiar: el Directivo de RRHH que Transforma sin Contratar
 
----
+**Meta descripción:** Descubre cuándo y cómo un CHRO interino puede profesionalizar la función de recursos humanos en una empresa familiar mediana en España. Mandatos desde 6 meses, resultados desde el primer mes.
 
-## Estructura del Artículo
+**Slug URL:** /chro-interino-empresa-familiar
 
-**Esquema H2 (máximo 3, sin H3):**
+**H1:** CHRO Interino en la Empresa Familiar: el Liderazgo de Personas que Transforma sin Esperar
 
-1. **Por qué el cuarto trimestre es la ventana crítica del interim management** — Los tres detonantes que concentran la demanda de directivos de transición en Q4: vacantes directivas con impacto en el cierre, exigencias de banco o inversor para renovar compromisos, y la necesidad de tener en marcha el plan de 2027 antes de enero.
+## Estructura del Artículo — Esquema H2 (máximo 3, sin H3)
 
-2. **Qué puede conseguir un interim manager en 60 a 90 días** — Objetivos alcanzables en un mandato acotado de Q4: cierre del ejercicio, elaboración del plan financiero o estratégico, estabilización del equipo directivo y preparación del relevo permanente.
+**H2.1:** Cuando la función de RRHH informal se convierte en un freno al crecimiento de la empresa familiar
 
-3. **Cómo se activa y cómo se cierra un mandato de interim management en Q4** — Proceso de incorporación (plazo real, perfil requerido, estructura contractual), gobernanza durante el mandato y criterios de salida antes de fin de año.
+**H2.2:** Qué puede conseguir un CHRO interino en la empresa familiar en seis meses
 
----
+**H2.3:** Cómo se diseña un mandato de CHRO interino orientado a resultados
 
-## Oportunidades FAQ
+## Oportunidades FAQ (3 preguntas)
 
-- Una pregunta de escenario de empresa concreta: una empresa del sector sanitario o farmacéutico con presión bancaria en Q4
-- Una pregunta operativa: qué puede cerrar un interim manager en 60-90 días
-- Una pregunta de gobernanza: cómo se gestiona el traspaso entre el interim manager y el directivo permanente
+1. **Escenario concreto:** Una empresa familiar de servicios de ingeniería industrial con 160 empleados, gestión de RRHH desde administración, recibe una oferta de entrada de un fondo de private equity que exige, como condición previa a la due diligence, una estructura formal de recursos humanos con políticas documentadas. La empresa tiene cuatro meses. ¿Cómo se articula un mandato de CHRO interino en ese contexto?
 
----
+2. **Decisional/gobernanza:** ¿Cómo gestiona el CHRO interino la autoridad sobre decisiones de personal cuando el propietario-fundador ha tomado esas decisiones en solitario durante veinte años?
+
+3. **Operacional/límites del mandato:** ¿Puede el CHRO interino tomar decisiones de desvinculación o liderar reestructuraciones del equipo directivo, o esas decisiones quedan reservadas a la propiedad familiar?
 
 ## Recomendaciones de Enlazado Interno
-
-- Artículo sobre CFO interino en la empresa familiar (2026-09-28): enlazar desde la sección sobre exigencias bancarias
-- Artículo sobre CEO interino (2026-09-07): enlazar desde la sección sobre vacantes directivas de dirección general
-- Artículo sobre fractional interim management (2026-10-19): enlazar desde la sección sobre el modelo Q4 de dedicación parcial
-
----
+- Artículo sobre interim management en empresa familiar (sucesión/transición generacional)
+- Artículo sobre CFO interino en empresa familiar (Sep 28)
+- Artículo sobre interim management general / perfil del interim manager
 
 ## Recomendaciones de Enlazado Externo
-
-- Barómetro de reestructuración Wieselhuber 2026 (referencia de autoridad sobre demanda de turnaround)
-- Informe Russam UK sobre mercado de interim management (referencia sobre recuperación del mercado europeo)
-
----
+- Instituto de la Empresa Familiar: datos sobre tasa de éxito en relevo generacional
+- AIME (Asociación Interim Management España): VII Congreso Nacional 2026
 
 ## Recomendación de CTA
-
-**Título del CTA:** ¿Tiene una vacante directiva en Q4?
-**Texto:** Manager in Motion puede incorporar el perfil adecuado en menos de dos semanas. Contacte ahora para una primera conversación sin compromiso.
-
----
+"¿La función de personas en tu empresa está lista para el siguiente nivel? Hablamos sin compromiso." → Formulario de contacto de Manager in Motion.
 
 ## Instrucciones para el Redactor
 
-- El artículo debe sonar como un consejo ejecutivo que da un profesional con experiencia, no como un anuncio.
-- No usar la primera persona ("yo", "nosotros", "nuestro").
-- Estructurar el artículo en torno a situaciones concretas que el lector puede reconocer: "si su empresa se encuentra en una de estas situaciones en octubre o noviembre..."
-- Integrar "interim management" e "interim manager" de forma natural, mínimo 3 veces cada uno.
-- El artículo debe poder leerse en menos de 4 minutos: claridad, párrafos cortos, lenguaje ejecutivo.
-- Ningún dato cuantitativo que no pueda verificarse. Preferir afirmaciones cualitativas bien argumentadas.
-- El cierre debe proyectar hacia la acción: el lector debe saber exactamente qué paso dar si se identifica con alguna de las situaciones descritas.
+- Tono ejecutivo, práctico y cercano al dueño-director. No al académico ni al consultor.
+- El lector es un empresario que ha construido su empresa durante veinte años. No le expliques qué es un interim manager como si no lo conociera; ayúdale a identificar el momento en que lo necesita.
+- Focaliza en situaciones concretas reconocibles: cuando el único que hace las nóminas es el jefe de administración, cuando el mejor perfil senior rechaza la oferta porque no hay política de retribución variable, cuando el inversor pide el organigrama de RRHH y no existe.
+- Usa los términos interim manager e interim management de forma natural, integrada en el texto. Mínimo 3 veces cada uno.
+- Sin comparativos con consultores. Sin "¿cuánto cuesta?". Sin "¿cuánto dura?".
+- Máximo 1.000 palabras de cuerpo (introducción hasta párrafo de cierre, excluyendo FAQ, CTA y metadatos). Máximo 3 H2. Sin H3.
+- FAQ: 3 preguntas, ninguna repetida del historial. Al menos una sobre un escenario concreto de empresa.
+- No usar primera persona singular ("yo") ni plural ("nosotros", "nuestro/a"). Redactar en tercera persona o con construcciones impersonales.
+- No atacar ni cuestionar a la audiencia. El tono es constructivo.

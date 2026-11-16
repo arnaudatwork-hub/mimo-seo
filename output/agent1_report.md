@@ -1,117 +1,110 @@
-# Informe Semanal de Inteligencia de Mercado — 2026-11-09
-
----
+# Informe Semanal de Inteligencia de Mercado — 2026-11-16
 
 ## 1. Top 5 Tendencias
 
----
+**Tendencia 1: El mercado francés toca fondo y pivota hacia misiones de mayor valor**
 
-**Tendencia:** Reestructuración y turnaround como principal motor de demanda de interim management en Europa
-**País de origen:** DE / UK / FR
-**Relevancia para el interim management:** El 77% de los expertos alemanes encuestados prevé un aumento de los casos de reestructuración y turnaround en Alemania y Austria en el segundo semestre de 2026 (barómetro Wieselhuber). En el Reino Unido, el nivel de reestructuración corporativa se sitúa en su punto más alto en cuatro años. En Francia, Robert Half señala que la creación de valor y el retorno financiero son los principales impulsores del sector en 2026. Esta confluencia de señales en los tres grandes mercados europeos anticipa un incremento de la demanda de directivos de transición especializados en situaciones complejas.
-**Decisor objetivo:** CEO, CFO, consejos de administración, fondos de private equity, comités de acreedores
-**Oportunidad SEO en España:** "turnaround ejecutivo España", "directivo interino reestructuración", "interim manager empresa en dificultad"
-**Ángulo recomendado:** El interim manager como primera respuesta ejecutiva antes de que la situación de la empresa se agrave, con foco en los primeros 90 días de un mandato de turnaround.
-
----
-
-**Tendencia:** El cuarto trimestre concentra la mayor demanda estacional de directivos de transición
-**País de origen:** FR / UK / ES
-**Relevancia para el interim management:** Los datos de OMS&Co en Iberia confirman que el primer semestre de 2026 registró un cambio en el tipo de talento buscado hacia perfiles de dirección general, finanzas y operaciones, con especial énfasis en la capacidad de ejecución rápida. Esta presión se intensifica en Q4, cuando las empresas afrontan el cierre del ejercicio, la renovación de líneas de crédito, las revisiones de fondos de PE y la planificación estratégica de 2027. En el mercado francés, el 37% de los empleadores recurre a recursos en modo proyecto (frente al 20% de dos años antes), y la demanda se concentra en los momentos de mayor presión institucional del año.
-**Decisor objetivo:** CFO, CEO, propietarios de empresas familiares, directores de RRHH, inversores
-**Oportunidad SEO en España:** "interim manager noviembre diciembre", "directivo interino cierre ejercicio", "interim management Q4", "cuándo contratar interim manager"
-**Ángulo recomendado:** Por qué el cuarto trimestre es la ventana crítica para activar un mandato de interim management y cómo se articulan esos proyectos en un plazo acotado.
+- Tendencia: Ajuste a la baja del volumen de misiones de relevo ejecutivo (-16,8% en S1 2026 según France Transition), pero crecimiento del 6% en misiones de transformación, gestión de crisis y conducción de proyectos (TJM medio de 1.494 €). El mercado se hace más selectivo.
+- País de origen: FR
+- Relevancia para el interim management: Las empresas ya no contratan interinos solo para cubrir una vacante; exigen un perfil con capacidad de transformar. El modelo del "directivo de relleno" pierde cuota frente al "ejecutivo de impacto."
+- Decisor objetivo: CEOs y consejos de administración que ya han usado el interim management y buscan ahora misiones de mayor retorno.
+- Oportunidad SEO en España: Artículos orientados a "resultados" e "impacto medible" del interim management, en lugar de artículos sobre "rellenar una vacante."
+- Ángulo recomendado: El interim manager como catalizador de cambio, no como sustituto temporal.
 
 ---
 
-**Tendencia:** Ultra-especialización del interim manager: perfiles con expertise técnico en IA, ciberseguridad y sostenibilidad
-**País de origen:** FR / ES / UK
-**Relevancia para el interim management:** En Francia, el mercado de management de transition observa una evolución hacia intervenciones ultra-especializadas en ámbitos como la ciberseguridad, las finanzas sostenibles y la transformación digital. En España, Wyser Interim Management publicó en 2026 posiciones de Interim Manager de Implementación IA para liderar procesos de automatización y mejora de procesos. La demanda de directivos interinos que combinan liderazgo ejecutivo con expertise técnico profundo en IA crece en los mercados más maduros.
-**Decisor objetivo:** CTO, CDO, CEO de empresas en transformación digital acelerada
-**Oportunidad SEO en España:** "CTO interino IA España 2026", "director tecnología interino inteligencia artificial", "interim manager implementación IA"
-**Ángulo recomendado:** El nuevo perfil de interim manager especializado en IA: qué hace diferente a un directivo de transición que lidera la implementación de inteligencia artificial.
+**Tendencia 2: La función de compras y operaciones sube posiciones en Reino Unido**
+
+- Tendencia: El procurement/supply chain pasó del puesto 11 al 7 en el ranking de disciplinas de interim management más demandadas (IIM Survey 2026). Los interims se contratan cada vez más para mejorar forecasting, reporting y eficiencia operativa.
+- País de origen: UK
+- Relevancia para el interim management: Las funciones operativas y de aprovisionamiento son ya un vector de demanda consolidado. Los clientes "compran resultados, no vacantes" (Russam Interim).
+- Decisor objetivo: CFOs, COOs y CEOs de empresas manufactureras e industriales.
+- Oportunidad SEO en España: "Director de compras interino", "interim manager procurement España", "director de aprovisionamiento interino."
+- Ángulo recomendado: El CPO interino como palanca de protección de márgenes en un contexto de presión sobre costes de materias primas.
 
 ---
 
-**Tendencia:** El mercado de interim management alemán bajo presión: crisis del automóvil y ola de reestructuraciones
-**País de origen:** DE
-**Relevancia para el interim management:** El mercado alemán de interim management mueve en torno a 2.700 millones de euros con una tarifa media diaria de 1.317 €. El sector de la automoción protagoniza la crisis más severa: el 74% de los directivos encuestados por United Interim detecta problemas en las estructuras de dirección del sector, y dos tercios consideran que los vehículos alemanes son demasiado caros en comparación con la competencia internacional. Esta situación afecta directamente a los proveedores españoles de componentes, que exportan a OEMs alemanes y deben adaptarse a una demanda menguante.
-**Decisor objetivo:** CEO y COO de empresas industriales del sector de automoción, tier 1 y tier 2
-**Oportunidad SEO en España:** "interim management automoción España", "directivo interino fabricante componentes", "turnaround director planta automoción"
-**Ángulo recomendado:** Cómo la crisis del automóvil alemán está generando mandatos de interim management en las plantas de proveedores españoles: reestructuración, diversificación de clientes y transformación de la producción.
+**Tendencia 3: Alemania señala el crecimiento del interim management en IA, ESG y digitalización**
+
+- Tendencia: La DDIM Marktstudie 2026 registra una caída de los mandatos en automoción (11,6% → 7,9%) compensada por un crecimiento desproporcionado en inteligencia artificial, gestión ESG y transformación digital. El mercado alemán (€2,7 bn, ~12.500 interims activos) anticipa tendencias que llegan a España con 12-18 meses de retraso.
+- País de origen: DE
+- Relevancia para el interim management: La demanda de perfiles interinos se amplía más allá del relevo ejecutivo hacia la especialización funcional en áreas emergentes.
+- Decisor objetivo: CEOs de empresas medianas con retos de sostenibilidad, cumplimiento ESG o transformación digital.
+- Oportunidad SEO en España: "Director de sostenibilidad interino", "interim manager ESG España", "CSRD interim management."
+- Ángulo recomendado: El interim manager de ESG/sostenibilidad para empresas españolas que deben cumplir con la CSRD.
 
 ---
 
-**Tendencia:** Crecimiento del modelo fractional e interim-to-permanent en el mercado anglosajón y expansión a España
-**País de origen:** UK / ES
-**Relevancia para el interim management:** Russam (UK) detecta una innovación creciente en modelos de interim-to-permanent y soluciones de talento fractional, especialmente entre las pymes. En España, la publicación de posiciones de interim parcial y la cobertura en medios de gestión indican que el modelo fractional está ganando terreno como alternativa a la contratación directiva a jornada completa. OMS&Co señala una demanda creciente de perfiles que pueden "actuar en semanas, no en meses", lo que acerca los mandatos cortos y los modelos de alta disponibilidad.
-**Decisor objetivo:** Fundadores de empresas en crecimiento, propietarios de pymes con necesidades directivas puntuales
-**Oportunidad SEO en España:** "directivo interino tiempo parcial España", "interim manager modalidad fractional", "director fractional empresa mediana"
-**Ángulo recomendado:** Cuándo la empresa no necesita un directivo a tiempo completo: el modelo fractional como evolución natural del interim management para la empresa mediana española.
+**Tendencia 4: El mercado español madura hacia misiones parciales y perfiles AI-native**
+
+- Tendencia: Según Servitalent (Informe España 2026), el 75% de las misiones en España se ejecutan ya en modalidad part-time o fractional. La industria manufacturera concentra el 43% de las intervenciones. Manager in Motion detecta una demanda emergente de perfiles que combinan experiencia directiva sénior con dominio práctico de la IA.
+- País de origen: ES
+- Relevancia para el interim management: El mercado español ha superado la etapa de adopción temprana. Las pymes y empresas familiares son el nuevo segmento de crecimiento, especialmente en modalidades de dedicación parcial.
+- Decisor objetivo: CEOs y propietarios de empresas familiares en crecimiento (20-200 M€, 50-300 empleados).
+- Oportunidad SEO en España: "Interim manager part-time empresa familiar", "CHRO interino empresa familiar", "directivo interino profesionalización RRHH."
+- Ángulo recomendado: El CHRO interino en la profesionalización de los recursos humanos en la empresa familiar española.
+
+---
+
+**Tendencia 5: La profesionalización de las empresas familiares como eje de demanda sostenida**
+
+- Tendencia: Solo el 29,3% de las empresas familiares españolas ha completado un relevo generacional con éxito (Instituto de la Empresa Familiar). Las empresas con más de 100 empleados que siguen gestionando los RRHH desde administración forman un segmento de alta demanda latente con baja penetración del interim management.
+- País de origen: ES (con validación académica de la Comillas University y la Universitat de València, 2026)
+- Relevancia para el interim management: El interim management puede actuar como acelerador de profesionalización antes de la entrada de un inversor, de una transición generacional o de la apertura de nuevos mercados.
+- Decisor objetivo: Propietarios-directores de empresas familiares de segunda y tercera generación (50-200 empleados, 20-200 M€).
+- Oportunidad SEO en España: "director de recursos humanos interino empresa familiar", "CHRO interino pyme familiar", "profesionalización recursos humanos empresa familiar."
+- Ángulo recomendado: El CHRO interino como primera piedra de la profesionalización en la empresa familiar en crecimiento hacia el siguiente nivel.
 
 ---
 
 ## 2. Contenido de Competidores / Sector Observado
 
----
+**Fuente 1:**
+- Fuente: France Transition / Morgan Philips (Barómetro S1 2026, 1.000+ managers encuestados)
+- Tema: Ajuste del mercado francés y pivot hacia misiones de transformación
+- Idea clave: S1 2026 marcará probablemente el punto bajo del ciclo, con recuperación esperada en H2. Las misiones de transformación y crisis crecen mientras las de relevo ejecutivo caen.
+- Oportunidad para Manager in Motion: Anticiparse al repunte comunicando el valor transformacional del interim management, posicionándose como especialista en mandatos de impacto.
 
-**Fuente:** Robert Half Francia – "Management de transition en 2026: les 5 situations ou le choix devient rationnel"
-**Tema:** Las cinco situaciones en las que el management de transition deja de ser un recurso de emergencia para convertirse en una decisión racional de gestión
-**Idea clave:** El management de transition ya no se percibe solo como respuesta a una crisis, sino como una herramienta de planificación estratégica que las empresas con mayor madurez directiva activan de forma proactiva.
-**Oportunidad para Manager in Motion:** Publicar en España un contenido equivalente con ejemplos locales, posicionando el interim management como decisión racional (no de emergencia) para CEOs y CHROs españoles.
+**Fuente 2:**
+- Fuente: IIM (Institute of Interim Management) UK Survey 2026, Stanton House, Russam Interim
+- Tema: Recuperación del mercado interim británico, días facturados al alza (148 días/año), tarifas diarias privadas >£1.000 por primera vez
+- Idea clave: El 55% de los interims británicos siente el mercado positivo o neutro. Los clientes "compran lo que un interim puede conseguir, no la vacante que ocupa" (Russam).
+- Oportunidad para Manager in Motion: Posicionar España como mercado en expansión con el mismo cambio de mentalidad que ya se ve en UK.
 
----
+**Fuente 3:**
+- Fuente: DDIM Marktstudie 2026 (Alemania)
+- Tema: Estabilidad del mercado alemán con crecimiento en IA y ESG; tasa de utilización 79% → 81%
+- Idea clave: Crece la demanda de interims con especialización en áreas emergentes (IA, ESG, digital), mientras los mandatos en automoción caen.
+- Oportunidad para Manager in Motion: Cubrir los perfiles de interim en ESG y profesionalización digital antes de que los competidores españoles lo hagan masivamente.
 
-**Fuente:** Russam (UK) – "Frontline 17: Turning point for Interim Management" (septiembre 2026) y "Interim Management Market Outlook – February 2026"
-**Tema:** El mercado de interim management en Reino Unido se encuentra en su punto más fuerte desde mayo de 2023, con la demanda recuperándose en transformación, finanzas y administración pública.
-**Idea clave:** El 55% de los directivos interinos encuestados se muestra positivo o neutral sobre el estado del mercado, y la demanda de modelos blended (fractional, interim-to-permanent) crece entre las pymes.
-**Oportunidad para Manager in Motion:** Anticipar en el mercado español la misma evolución hacia modelos flexibles; posicionarse como referente de la adaptación del interim management a las necesidades de la empresa mediana.
-
----
-
-**Fuente:** Wieselhuber – Barómetro de Reestructuración y Saneamiento 2026 (Alemania)
-**Tema:** El 77% de los expertos prevé un aumento de los casos de reestructuración y turnaround en el mercado DACH en el segundo semestre de 2026.
-**Idea clave:** La reestructuración es el mandato más demandado a los interim managers en un contexto de presión financiera, tipos de interés elevados y crisis sectorial en automoción.
-**Oportunidad para Manager in Motion:** Publicar contenido que posicione a Manager in Motion como experto en mandatos de turnaround y transición ejecutiva para empresas españolas bajo presión financiera o sectorial.
-
----
-
-**Fuente:** OMS&Co (España) – "OMS&Co supera los 95 mandatos en Iberia y prevé facturar más de cuatro millones en 2026"
-**Tema:** El crecimiento del mercado de interim management en Iberia alcanza el 50% en 2026, con especial demanda de perfiles de dirección general, finanzas y operaciones.
-**Idea clave:** La demanda española se orienta hacia perfiles de alto nivel con capacidad de ejecución rápida, y el mercado empieza a funcionar con plazos de semanas, no de meses.
-**Oportunidad para Manager in Motion:** Aprovechar el crecimiento de mercado para publicar contenido orientado a la decisión de contratación (cuándo, cómo, qué perfil) que capte a la audiencia en la fase de evaluación.
-
----
-
-**Fuente:** Heidrick & Struggles (UK) – "How interim talent is delivering transformation for UK businesses in 2026"
-**Tema:** La demanda de directivos interinos en el sector de consumo en el Reino Unido ha crecido un 310% desde 2020.
-**Idea clave:** El interim management ya no es una figura ligada al turnaround industrial: sectores como el consumo, la distribución y el retail se han convertido en clientes habituales de este modelo.
-**Oportunidad para Manager in Motion:** Desarrollar contenido vertical para el sector de consumo, distribución y retail en España, donde la figura del directivo interino es menos conocida que en el sector industrial.
+**Fuente 4:**
+- Fuente: Servitalent, EPUNTO, AIME (España 2026); AIME celebró su VII Congreso Nacional el 12 de mayo de 2026
+- Tema: Madurez del mercado español, 75% misiones part-time, crecimiento en biotech/telecom y en empresas familiares
+- Idea clave: El interim management en España ya no es solo para grandes crisis; se consolida como herramienta de gestión estratégica en pymes y empresas familiares medianas.
+- Oportunidad para Manager in Motion: Contenido específico para el decisor de empresa familiar que nunca ha usado el interim management pero gestiona una empresa en transición.
 
 ---
 
 ## 3. Preguntas Frecuentes
 
-1. ¿Cuándo es el momento óptimo para activar un mandato de interim management, antes del cierre del ejercicio o al principio del año?
-2. ¿Qué puede conseguir un interim manager en un plazo de dos a tres meses antes del 31 de diciembre?
-3. ¿Puede un directivo interino preparar la memoria de gestión y el plan estratégico 2027 que el banco o el inversor van a exigir en enero?
-4. ¿Cómo se gestiona el traspaso entre el interim manager y el directivo permanente que se incorpora en enero?
-5. ¿Qué perfiles de directivos interinos concentran la mayor demanda en el cuarto trimestre?
-6. ¿Es viable incorporar un interim manager de dirección general o financiero en menos de dos semanas?
-7. ¿Cómo afecta la crisis del sector del automóvil alemán a la demanda de interim management en los proveedores españoles de componentes?
-8. ¿El modelo fractional tiene encaje en una empresa española que necesita cobertura ejecutiva solo durante el cierre del ejercicio?
-9. ¿Qué criterios de éxito se establecen para un mandato de interim management activado en el cuarto trimestre?
+1. ¿Cuándo necesita una empresa familiar contratar un CHRO interino?
+2. ¿Puede un CHRO interino construir la función de RRHH desde cero en una empresa que solo tiene un responsable de administración?
+3. ¿Qué métricas concretas puede mejorar un director de RRHH interino en seis meses en una empresa familiar?
+4. ¿Cómo gestiona el CHRO interino la relación con el propietario-fundador que ha tomado las decisiones de personal en solitario durante años?
+5. ¿Puede el CHRO interino tomar decisiones de desvinculación o queda reservado a la propiedad?
+6. ¿Qué ocurre con la función de RRHH al finalizar el mandato del CHRO interino?
+7. ¿Puede el CHRO interino preparar a la empresa para la due diligence de un inversor?
+8. ¿Qué perfil tiene un CHRO interino adecuado para una empresa familiar de tamaño mediano?
 
 ---
 
 ## 4. Tema Recomendado para Esta Semana
 
-**Tema:** Interim management en el cuarto trimestre: las claves para activar un mandato antes del cierre del ejercicio
+**CHRO Interino en la Empresa Familiar: el liderazgo de personas que transforma la organización sin esperar**
 
 **Justificación estratégica:**
-
-La confluencia de señales del mercado europeo (77% de expertos alemanes esperan más reestructuraciones, mercado UK en máximos de cuatro años, France focalizando en value creation y turnaround) coincide exactamente con el momento del año en que las empresas españolas afrontan sus decisiones ejecutivas más críticas: cierre del ejercicio fiscal, renovación de líneas de crédito, presentación de planes a fondos de private equity y definición de la estructura directiva para 2027.
-
-Este artículo tiene la ventaja de combinar relevancia estacional con evergreen, ya que el cuarto trimestre se repetirá cada año y el artículo seguirá posicionándose. La intención de búsqueda es claramente decisional: quienes buscan "cuándo contratar interim manager" o "directivo interino cierre ejercicio" están en la fase final de evaluación o ya han tomado la decisión de incorporar uno.
-
-Además, es un tema no cubierto en los artículos anteriores del repositorio y se diferencia de los artículos anteriores sobre CFO interino o CEO interino porque el eje no es el perfil del directivo sino el momento de la decisión, lo que lo convierte en un artículo de captura de demanda existente muy cualificada.
+- Solo el 29,3% de las empresas familiares españolas ha completado una transición generacional con éxito. La función de RRHH es uno de los eslabones más frágiles de esta cadena, especialmente en empresas de 50 a 200 empleados que han crecido de forma orgánica.
+- El mercado español muestra que el 75% de las misiones son ya part-time/fractional, y que las empresas familiares son uno de los segmentos de mayor crecimiento (Servitalent, EPUNTO 2026).
+- No existe un artículo en el histórico de Manager in Motion que combine específicamente CHRO interino + profesionalización de empresa familiar. El artículo del 2026-08-18 sobre CHRO interino abordaba la integración post-adquisición en distribución farmacéutica, un escenario de crisis diferente.
+- Alto potencial SEO con baja competencia directa: "director de RRHH interino empresa familiar", "CHRO interino pyme familiar", "profesionalización recursos humanos empresa familiar."
+- Alineación simultánea con dos ejes temáticos prioritarios de Manager in Motion: **RRHH** y **profesionalización de empresas familiares.**
