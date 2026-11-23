@@ -195,3 +195,10 @@ Registrar aquí cada semana el escenario concreto usado en la FAQ, para no repet
 - ¿Puede el CHRO interino tomar decisiones de desvinculación o liderar reestructuraciones del equipo directivo, o esas decisiones quedan reservadas a la propiedad familiar?
 
 | 2026-11-16 | Servicios de ingeniería industrial | Empresa familiar mediana (160 empleados, sin estructura formal de RRHH) | Oferta de entrada de fondo PE que exige estructura formal de RRHH antes de due diligence | RRHH / profesionalización empresa familiar |
+
+## 2026-11-23 — Interim Manager Industrial: el Ejecutivo que Acelera la Transformación de Planta
+- Una empresa familiar de segunda generación fabricante de equipos de refrigeración industrial, con sede en Zaragoza y facturación de 75 millones de euros, recibe la exigencia de su principal cliente alemán —responsable del 35% de sus ventas— de obtener la certificación de madurez de Industria 4.0 en un plazo de nueve meses como condición de continuidad del contrato. La empresa no tiene dirección de operaciones formalmente definida y su equipo técnico nunca ha liderado un proyecto de esta envergadura. ¿Cómo se articularía una misión de interim management en ese contexto?
+- ¿Cómo evalúa la propiedad o el consejo si una misión de transformación industrial con un interim manager ha tenido éxito cuando los objetivos son simultáneamente operativos y tecnológicos?
+- ¿Puede un interim manager liderar la transformación operativa de una planta mientras gestiona en paralelo el proceso de búsqueda del director permanente que ocupará su posición al final del mandato?
+
+| 2026-11-23 | Fabricación de equipos de refrigeración industrial | Empresa familiar segunda generación (75 M€) | Exigencia de cliente alemán de certificación Industria 4.0 en 9 meses como condición de continuidad del contrato | Transformación industrial / dirección de operaciones |

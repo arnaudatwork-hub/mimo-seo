@@ -1,88 +1,141 @@
-# SEO Strategy Brief — 2026-11-16
+# SEO Strategy Brief — 2026-11-23
+
+---
 
 ## Tema Seleccionado
-**CHRO Interino en la Empresa Familiar: el liderazgo de personas que transforma la organización sin esperar**
+
+**Interim Manager Industrial: el Ejecutivo que Acelera la Transformación de Planta**
+
+---
 
 ## Justificación Estratégica
-La profesionalización de la función de RRHH es uno de los retos más frecuentes y menos atendidos en la empresa familiar española de tamaño mediano. Empresas de entre 50 y 200 empleados que han crecido de forma orgánica gestionan los recursos humanos desde administración: un responsable sin rango directivo, sin herramientas de gestión estratégica del talento y sin visión sobre la organización futura. Este modelo funciona hasta que la empresa supera ciertos umbrales de complejidad: una transición generacional, la entrada de un inversor, la apertura de una filial o simplemente el momento en que el talento clave empieza a marcharse porque no hay una propuesta de valor clara para los profesionales senior.
 
-Un CHRO interino cubre exactamente ese hueco: aporta visión estratégica, construye los procesos y la gobernanza de RRHH que la empresa necesita para el siguiente nivel, y lo hace en un mandato de seis a doce meses, sin el coste ni el riesgo de una contratación permanente de alto nivel. El tema combina dos ejes temáticos prioritarios (RRHH y profesionalización de empresas familiares) y tiene baja competencia en SEO español con demanda creciente. El artículo del 2026-08-18 (CHRO interino en PMI post-adquisición en distribución farmacéutica) abordó un escenario de crisis diferente; este artículo cubre la profesionalización proactiva, que es la situación de inicio más frecuente.
+Convergencia de señales en los cuatro mercados europeos monitorizados:
 
-Señal anticipada del mercado europeo: el 75% de las misiones en España son ya part-time o fractional (Servitalent 2026), lo que apunta a que el perfil de CHRO interino encaja cada vez mejor con la realidad operativa y presupuestaria de la empresa familiar mediana.
+- **Francia:** La industria representa el 52,6% de las misiones de management de transition en el primer semestre de 2026, frente al 45,6% del año anterior. Las misiones de transformación y conducción de proyectos crecen con TJM un 6% superior al resto.
+- **Reino Unido:** Las solicitudes de interim management en funciones de transformación y PMO crecen un 37% interanual. Las solicitudes de interim CEO en el sector industrial aumentan un 80% interanual (Heidrick & Struggles).
+- **Alemania:** El mercado se estabiliza en máximos históricos con un 81% de ocupación proyectada, impulsado por la digitalización industrial y la escasez de talento directivo técnico.
+- **España:** Mercado en plena madurez, con demanda creciente de perfiles que combinan seniority operativo y competencia en IA. La manufactura española enfrenta presión de transformación sin precedentes.
+
+Ninguno de los artículos publicados hasta la fecha ha abordado de forma específica y completa el perfil del interim manager en entornos de transformación industrial (Industria 4.0, automatización, IA en planta). Se trata de un hueco real de contenido con alta intención de búsqueda B2B.
+
+---
 
 ## Audiencia Objetivo
-- CEOs, directores generales y propietarios de empresas familiares medianas (20-200 M€ de facturación, 50-300 empleados)
-- Directores de administración y finanzas que gestionan de facto los RRHH sin un perfil directivo de personas
-- Inversores de PE y family offices con participadas en proceso de profesionalización
-- Consejeros independientes y asesores de empresa familiar
+
+- CEOs y propietarios de empresas industriales medianas (30-150 M€ de facturación)
+- COOs y directores de operaciones que buscan refuerzo ejecutivo para proyectos de transformación
+- Consejos de administración de empresas familiares industriales que deben modernizar la planta
+- Directores generales de filiales industriales con mandatos de transformación desde la matriz
+- Inversores de private equity con participadas industriales en proceso de optimización operativa
+
+---
 
 ## Intención de Búsqueda
-Informacional + comercial: el decisor que busca entender cuándo y cómo usar un CHRO interino en su empresa familiar. No está en modo de compra inmediata, pero está considerando la opción tras experimentar un problema concreto: fuga de talento directivo, dificultad para atraer perfiles senior, exigencia de un inversor, o preparación de una transición generacional.
+
+Intención mixta: **informacional** (¿qué es y cómo funciona un interim manager industrial?) + **transaccional latente** (¿cuándo y cómo contrato uno?). El decisor que llega a este artículo está en fase de evaluación activa, no de investigación académica. El artículo debe responder con rapidez las preguntas de viabilidad y proceso, y derivar hacia contacto.
+
+---
 
 ## Keywords
 
-**Keyword principal:** director de RRHH interino empresa familiar
+**Keyword principal:**
+- interim manager industrial
 
 **Keywords secundarias:**
-- CHRO interino empresa familiar
-- directivo interino recursos humanos
-- interim manager RRHH España
-- profesionalización recursos humanos empresa familiar
-- director de personas interino pyme
+- director de operaciones interino
+- interim management transformación industrial
+- interim management manufactura España
+- interim manager transformación de planta
 
 **Keywords de cola larga:**
-- cómo profesionalizar la función de RRHH en una empresa familiar
-- cuándo necesito un director de personas interino en mi empresa
-- CHRO interino para empresa familiar en crecimiento España
-- interim management recursos humanos pyme España 2026
-- qué hace un CHRO interino en una empresa familiar mediana
+- cuando contratar un interim manager para transformación de planta
+- interim manager industria 4.0 España
+- cómo acelerar transformación industrial con un directivo senior interino
+- interim manager para implantar automatización en planta
+- interim management empresa familiar industrial España
+
+---
 
 ## Metadatos SEO
 
-**Título SEO:** CHRO Interino en la Empresa Familiar: el Directivo de RRHH que Transforma sin Contratar
+**Título SEO:**
+Interim Manager Industrial: el Ejecutivo que Acelera la Transformación de Planta
 
-**Meta descripción:** Descubre cuándo y cómo un CHRO interino puede profesionalizar la función de recursos humanos en una empresa familiar mediana en España. Mandatos desde 6 meses, resultados desde el primer mes.
+**Meta descripción:**
+Descubre cuándo y cómo contratar un interim manager industrial para liderar la transformación de planta en España. Perfil requerido, fases del mandato y resultados esperados.
 
-**Slug URL:** /chro-interino-empresa-familiar
+**Slug URL:**
+/interim-manager-industrial-transformacion-planta
 
-**H1:** CHRO Interino en la Empresa Familiar: el Liderazgo de Personas que Transforma sin Esperar
+**H1:**
+Interim Manager Industrial: el Ejecutivo que Acelera la Transformación de Planta
 
-## Estructura del Artículo — Esquema H2 (máximo 3, sin H3)
+---
 
-**H2.1:** Cuando la función de RRHH informal se convierte en un freno al crecimiento de la empresa familiar
+## Estructura del Artículo
 
-**H2.2:** Qué puede conseguir un CHRO interino en la empresa familiar en seis meses
+**Esquema H2 (máximo 3, sin H3):**
 
-**H2.3:** Cómo se diseña un mandato de CHRO interino orientado a resultados
+1. **Por qué la transformación industrial no puede esperar a la contratación permanente**
+   - Urgencia vs. plazos de selección ejecutiva
+   - Señales del mercado europeo (Francia, UK) como anticipación de la demanda española
+   - Velocidad de incorporación del interim manager en España
 
-## Oportunidades FAQ (3 preguntas)
+2. **El perfil del interim manager industrial en 2026: más allá de la experiencia de planta**
+   - Las tres dimensiones del perfil: experiencia operativa, gestión del cambio, competencia tecnológica
+   - Por qué este perfil es difícil de encontrar en contratación permanente a corto plazo
+   - El interim management como acceso inmediato a seniority industrial
 
-1. **Escenario concreto:** Una empresa familiar de servicios de ingeniería industrial con 160 empleados, gestión de RRHH desde administración, recibe una oferta de entrada de un fondo de private equity que exige, como condición previa a la due diligence, una estructura formal de recursos humanos con políticas documentadas. La empresa tiene cuatro meses. ¿Cómo se articula un mandato de CHRO interino en ese contexto?
+3. **Las fases de una misión de transformación industrial con un interim manager**
+   - Fase 1 (días 1-30): diagnóstico y alineación con la propiedad
+   - Fase 2 (meses 2-12): ejecución con autoridad delegada
+   - Fase 3: transferencia, documentación y continuidad
 
-2. **Decisional/gobernanza:** ¿Cómo gestiona el CHRO interino la autoridad sobre decisiones de personal cuando el propietario-fundador ha tomado esas decisiones en solitario durante veinte años?
+---
 
-3. **Operacional/límites del mandato:** ¿Puede el CHRO interino tomar decisiones de desvinculación o liderar reestructuraciones del equipo directivo, o esas decisiones quedan reservadas a la propiedad familiar?
+## Oportunidades FAQ
+
+- Escenario concreto de empresa industrial (fabricante de equipos, cliente extranjero exige certificación, 9 meses de plazo)
+- Pregunta sobre cómo la propiedad o el consejo mide el éxito cuando los objetivos son simultáneamente operativos y tecnológicos
+- Pregunta sobre la posibilidad de que el interim manager lidere en paralelo la búsqueda del director permanente
+
+---
 
 ## Recomendaciones de Enlazado Interno
-- Artículo sobre interim management en empresa familiar (sucesión/transición generacional)
-- Artículo sobre CFO interino en empresa familiar (Sep 28)
-- Artículo sobre interim management general / perfil del interim manager
+
+- Artículo sobre COO Interino (agosto 2026)
+- Artículo sobre Interim Manager Industrial / reestructuración (julio 2026)
+- Artículo sobre Interim Manager en private equity (mayo 2026)
+- Página de servicios de interim management de Manager in Motion
+
+---
 
 ## Recomendaciones de Enlazado Externo
-- Instituto de la Empresa Familiar: datos sobre tasa de éxito en relevo generacional
-- AIME (Asociación Interim Management España): VII Congreso Nacional 2026
+
+- Barómetro France Transition 1er semestre 2026 (si disponible en versión pública)
+- DDIM Marktstudie 2026
+- Estudio de Heidrick & Struggles sobre interim leadership en industrials (UK)
+
+---
 
 ## Recomendación de CTA
-"¿La función de personas en tu empresa está lista para el siguiente nivel? Hablamos sin compromiso." → Formulario de contacto de Manager in Motion.
+
+**CTA principal:**
+"¿La planta necesita transformarse y el tiempo no espera? Manager in Motion selecciona interim managers industriales con experiencia probada en entornos de manufactura española. Contacta hoy para una conversación inicial sin compromiso."
+
+**Ubicación:** Al final del artículo, después del párrafo de cierre y antes de la FAQ.
+
+---
 
 ## Instrucciones para el Redactor
 
-- Tono ejecutivo, práctico y cercano al dueño-director. No al académico ni al consultor.
-- El lector es un empresario que ha construido su empresa durante veinte años. No le expliques qué es un interim manager como si no lo conociera; ayúdale a identificar el momento en que lo necesita.
-- Focaliza en situaciones concretas reconocibles: cuando el único que hace las nóminas es el jefe de administración, cuando el mejor perfil senior rechaza la oferta porque no hay política de retribución variable, cuando el inversor pide el organigrama de RRHH y no existe.
-- Usa los términos interim manager e interim management de forma natural, integrada en el texto. Mínimo 3 veces cada uno.
-- Sin comparativos con consultores. Sin "¿cuánto cuesta?". Sin "¿cuánto dura?".
-- Máximo 1.000 palabras de cuerpo (introducción hasta párrafo de cierre, excluyendo FAQ, CTA y metadatos). Máximo 3 H2. Sin H3.
-- FAQ: 3 preguntas, ninguna repetida del historial. Al menos una sobre un escenario concreto de empresa.
-- No usar primera persona singular ("yo") ni plural ("nosotros", "nuestro/a"). Redactar en tercera persona o con construcciones impersonales.
-- No atacar ni cuestionar a la audiencia. El tono es constructivo.
+- Tono ejecutivo, práctico, sin condescendencia. El lector ya sabe qué es el interim management; lo que busca es criterios de decisión.
+- No explicar qué es el interim management de forma elemental: ir directamente al valor específico en contexto industrial.
+- Usar datos de mercado europeos (Francia, UK, Alemania) solo de forma referencial y cualitativa para validar la tendencia; no citar fuentes ni porcentajes específicos en el cuerpo del artículo.
+- Los términos "interim manager" e "interim management" son los únicos válidos. Mínimo 3 apariciones cada uno.
+- No usar primera persona singular ni plural.
+- No atacar ni cuestionar al lector. Tono constructivo, el decisor es el protagonista.
+- Manager in Motion debe aparecer como experto creíble, no como vendedor agresivo.
+- Longitud máxima del cuerpo del artículo: 1.000 palabras estrictas.
+- Máximo 3 secciones H2. Sin H3 ni sub-apartados.
